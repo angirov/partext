@@ -66,6 +66,28 @@
       margin-top: 0.5rem;
       padding: 0.5rem 1rem;
       cursor: pointer;
+      border-radius: 4px;
+      border: none;
+      color: white;
+      font-weight: 500;
+    }
+
+    /* Blue buttons */
+    #addPairBtn,
+    #downloadHtmlBtn {
+      background-color: #007bff;
+    }
+    #addPairBtn:hover,
+    #downloadHtmlBtn:hover {
+      background-color: #0056b3;
+    }
+
+    /* Red button */
+    #downloadJsonBtn {
+      background-color: #dc3545;
+    }
+    #downloadJsonBtn:hover {
+      background-color: #b02a37;
     }
 
     #message {
@@ -239,7 +261,6 @@
         const original = origEl.value.trim();
         const translation = transEl.value.trim();
 
-        // skip completely empty pairs
         if (!original && !translation) continue;
 
         data.push({ original, translation });
@@ -249,7 +270,6 @@
 
     // Generate a simple static HTML document string from the pairs
     function buildStaticHtml(data) {
-      // simple escaping for HTML
       const esc = (str) =>
         String(str)
           .replace(/&/g, "&amp;")
