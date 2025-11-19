@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Parallel Text Collector</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    h1 {
+      margin-bottom: 0.5rem;
+    }
+
+    .top-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .pair {
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 0.75rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .pair-header {
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    .pair-fields {
+      display: flex;
+      gap: 1rem;
+      align-items: flex-start;
+    }
+
+    .field {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    label {
+      font-size: 0.85rem;
+      margin-bottom: 0.25rem;
+    }
+
+    textarea {
+      width: 100%;
+      box-sizing: border-box;
+      min-height: 60px;
+      margin-bottom: 0.25rem;
+      font-family: sans-serif;
+      resize: vertical;
+    }
+
+    button {
+      margin-top: 0.5rem;
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+    }
+
+    #message {
+      margin-top: 0.75rem;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 600px) {
+      .pair-fields {
+        flex-direction: column;
+      }
+    }
+
+    .download-row {
+      margin-top: 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+    }
+
+    .download-row > div {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+
+    .download-row input {
+      padding: 0.2rem 0.4rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="top-bar">
+    <h1>Parallel Text (Original + Translation)</h1>
+    <button id="addPairBtn" type="button">+ Add sentence</button>
+  </div>
+
+  <div id="pairsContainer">
+    <!-- initial 5 pairs -->
+    <div class="pair">
+      <div class="pair-header">Sentence 1</div>
+      <div class="pair-fields">
+        <div class="field">
+          <label for="original-1">Original</label>
+          <textarea id="original-1"></textarea>
+        </div>
+        <div class="field">
+          <label for="translation-1">Translation</label>
+          <textarea id="translation-1"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="pair">
+      <div class="pair-header">Sentence 2</div>
+      <div class="pair-fields">
+        <div class="field">
+          <label for="original-2">Original</label>
+          <textarea id="original-2"></textarea>
+        </div>
+        <div class="field">
+          <label for="translation-2">Translation</label>
+          <textarea id="translation-2"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="pair">
+      <div class="pair-header">Sentence 3</div>
+      <div class="pair-fields">
+        <div class="field">
+          <label for="original-3">Original</label>
+          <textarea id="original-3"></textarea>
+        </div>
+        <div class="field">
+          <label for="translation-3">Translation</label>
+          <textarea id="translation-3"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="pair">
+      <div class="pair-header">Sentence 4</div>
+      <div class="pair-fields">
+        <div class="field">
+          <label for="original-4">Original</label>
+          <textarea id="original-4"></textarea>
+        </div>
+        <div class="field">
+          <label for="translation-4">Translation</label>
+          <textarea id="translation-4"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="pair">
+      <div class="pair-header">Sentence 5</div>
+      <div class="pair-fields">
+        <div class="field">
+          <label for="original-5">Original</label>
+          <textarea id="original-5"></textarea>
+        </div>
+        <div class="field">
+          <label for="translation-5">Translation</label>
+          <textarea id="translation-5"></textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="download-row">
+    <div>
+      <label for="filenameJson">JSON file name:</label>
+      <input id="filenameJson" type="text" value="parallel-texts.json" />
+      <button id="downloadJsonBtn" type="button">Download JSON</button>
+    </div>
+
+    <div>
+      <label for="filenameHtml">HTML file name:</label>
+      <input id="filenameHtml" type="text" value="parallel-texts.html" />
+      <button id="downloadHtmlBtn" type="button">Download HTML</button>
+    </div>
+  </div>
+
+  <div id="message"></div>
+
+  <script>
+    // start with 5 predefined pairs
+    let pairCount = 5;
+
+    const pairsContainer = document.getElementById("pairsContainer");
+    const addPairBtn = document.getElementById("addPairBtn");
+    const downloadJsonBtn = document.getElementById("downloadJsonBtn");
+    const downloadHtmlBtn = document.getElementById("downloadHtmlBtn");
+    const messageEl = document.getElementById("message");
+
+    function createPairElement(index) {
+      const pairDiv = document.createElement("div");
+      pairDiv.className = "pair";
+      pairDiv.innerHTML = `
+        <div class="pair-header">Sentence ${index}</div>
+        <div class="pair-fields">
+          <div class="field">
+            <label for="original-${index}">Original</label>
+            <textarea id="original-${index}"></textarea>
+          </div>
+          <div class="field">
+            <label for="translation-${index}">Translation</label>
+            <textarea id="translation-${index}"></textarea>
+          </div>
+        </div>
+      `;
+      return pairDiv;
+    }
+
+    addPairBtn.addEventListener("click", () => {
+      pairCount += 1;
+      const newPair = createPairElement(pairCount);
+      pairsContainer.appendChild(newPair);
+    });
+
+    // Collect all non-empty pairs into an array
+    function collectPairs() {
+      const data = [];
+      for (let i = 1; i <= pairCount; i++) {
+        const origEl = document.getElementById(`original-${i}`);
+        const transEl = document.getElementById(`translation-${i}`);
+        if (!origEl || !transEl) continue;
+
+        const original = origEl.value.trim();
+        const translation = transEl.value.trim();
+
+        // skip completely empty pairs
+        if (!original && !translation) continue;
+
+        data.push({ original, translation });
+      }
+      return data;
+    }
+
+    // Generate a simple static HTML document string from the pairs
+    function buildStaticHtml(data) {
+      // simple escaping for HTML
+      const esc = (str) =>
+        String(str)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;");
+
+      const rows = data
+        .map(
+          (item, index) => `
+        <tr>
+          <td>${index + 1}</td>
+          <td>${esc(item.original)}</td>
+          <td>${esc(item.translation)}</td>
+        </tr>`
+        )
+        .join("");
+
+      return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Parallel Texts</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    h1 {
+      margin-bottom: 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 0.5rem;
+      vertical-align: top;
+    }
+    th {
+      background: #f5f5f5;
+    }
+    tbody tr:nth-child(odd) {
+      background: #fafafa;
+    }
+  </style>
+</head>
+<body>
+  <h1>Parallel Texts</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Original</th>
+        <th>Translation</th>
+      </tr>
+    </thead>
+    <tbody>
+      ${rows}
+    </tbody>
+  </table>
+</body>
+</html>`;
+    }
+
+    // Download JSON
+    downloadJsonBtn.addEventListener("click", () => {
+      const data = collectPairs();
+      const jsonStr = JSON.stringify(data, null, 2);
+      const blob = new Blob([jsonStr], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+
+      const filenameInput = document.getElementById("filenameJson").value.trim();
+      const filename = filenameInput || "parallel-texts.json";
+
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+
+      URL.revokeObjectURL(url);
+
+      messageEl.textContent = `Downloaded JSON with ${data.length} pair(s) to ${filename}.`;
+    });
+
+    // Download static HTML
+    downloadHtmlBtn.addEventListener("click", () => {
+      const data = collectPairs();
+      const htmlStr = buildStaticHtml(data);
+      const blob = new Blob([htmlStr], { type: "text/html" });
+      const url = URL.createObjectURL(blob);
+
+      const filenameInput = document.getElementById("filenameHtml").value.trim();
+      const filename = filenameInput || "parallel-texts.html";
+
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+
+      URL.revokeObjectURL(url);
+
+      messageEl.textContent = `Downloaded HTML with ${data.length} pair(s) to ${filename}.`;
+    });
+  </script>
+</body>
+</html>
