@@ -2,430 +2,548 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Parallel Text Collector</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-
-    h1 {
-      margin-bottom: 0.5rem;
-    }
-
-    .top-bar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 1rem;
-      gap: 1rem;
-      flex-wrap: wrap;
-    }
-
-    .pair {
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      padding: 0.75rem;
-      margin-bottom: 0.75rem;
-    }
-
-    .pair-header-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 0.5rem;
-      gap: 0.5rem;
-    }
-
-    .pair-header {
-      font-weight: bold;
-    }
-
-    .pair-fields {
-      display: flex;
-      gap: 1rem;
-      align-items: flex-start;
-    }
-
-    .field {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-    }
-
-    label {
-      font-size: 0.85rem;
-      margin-bottom: 0.25rem;
-    }
-
-    textarea {
-      width: 100%;
-      box-sizing: border-box;
-      min-height: 60px;
-      margin-bottom: 0.25rem;
-      font-family: sans-serif;
-      resize: vertical;
-    }
-
-    button {
-      margin-top: 0.5rem;
-      padding: 0.5rem 1rem;
-      cursor: pointer;
-      border-radius: 4px;
-      border: none;
-      color: white;
-      font-weight: 500;
-    }
-
-    /* Blue buttons */
-    #addPairBtn,
-    #downloadHtmlBtn {
-      background-color: #007bff;
-    }
-    #addPairBtn:hover,
-    #downloadHtmlBtn:hover {
-      background-color: #0056b3;
-    }
-
-    /* Red button */
-    #downloadJsonBtn {
-      background-color: #dc3545;
-    }
-    #downloadJsonBtn:hover {
-      background-color: #b02a37;
-    }
-
-    /* Small grey bin button inside each pair */
-    .remove-pair-btn {
-      margin-top: 0;
-      padding: 0.25rem 0.5rem;
-      font-size: 0.9rem;
-      background-color: #6c757d;
-    }
-    .remove-pair-btn:hover {
-      background-color: #495057;
-    }
-
-    #message {
-      margin-top: 0.75rem;
-      font-size: 0.9rem;
-    }
-
-    @media (max-width: 600px) {
-      .pair-fields {
-        flex-direction: column;
-      }
-    }
-
-    .download-row {
-      margin-top: 1rem;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-      align-items: center;
-    }
-
-    .download-row > div {
-      display: flex;
-      flex-direction: column;
-      gap: 0.25rem;
-    }
-
-    .download-row input {
-      padding: 0.2rem 0.4rem;
-    }
-  </style>
+  <title>Parallel Text Editor</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="top-bar">
-    <h1>Parallel Text (Original + Translation)</h1>
-    <button id="addPairBtn" type="button">+ Add sentence</button>
-  </div>
-
-  <div id="pairsContainer">
-    <!-- initial 5 pairs -->
-    <div class="pair">
-      <div class="pair-header-row">
-        <div class="pair-header">Sentence 1</div>
-        <button type="button" class="remove-pair-btn">🗑</button>
-      </div>
-      <div class="pair-fields">
-        <div class="field">
-          <label for="original-1">Original</label>
-          <textarea id="original-1"></textarea>
-        </div>
-        <div class="field">
-          <label for="translation-1">Translation</label>
-          <textarea id="translation-1"></textarea>
+  <div class="page">
+    <div class="top-bar">
+      <div class="top-left">
+        <h1>Parallel Text Editor</h1>
+        <div class="top-left-row">
+          <label>Section title:
+            <input id="sectionTitleInput" type="text" placeholder="e.g. vimsika_15-22" />
+          </label>
+          <label class="inline-label">Add language:</label>
+          <div class="inline-input">
+            <input id="langCodeInput" type="text" placeholder="e.g. eng, rus, tib, chn" />
+            <button id="addLangBtn" type="button" aria-label="Add language">+</button>
+          </div>
+          <button id="toggleAllBtn" type="button" class="toggle-all-btn">Collapse all</button>
         </div>
       </div>
-    </div>
-
-    <div class="pair">
-      <div class="pair-header-row">
-        <div class="pair-header">Sentence 2</div>
-        <button type="button" class="remove-pair-btn">🗑</button>
-      </div>
-      <div class="pair-fields">
-        <div class="field">
-          <label for="original-2">Original</label>
-          <textarea id="original-2"></textarea>
+      <div class="top-right">
+        <div class="inline-buttons">
+          <span>Add sentences:</span>
+          <button id="add5Btn" type="button">+5</button>
+          <button id="add10Btn" type="button">+10</button>
+          <button id="add50Btn" type="button">+50</button>
         </div>
-        <div class="field">
-          <label for="translation-2">Translation</label>
-          <textarea id="translation-2"></textarea>
+        <div class="inline-buttons">
+          <input id="uploadJsonInput" type="file" accept="application/json" aria-label="Upload JSON" />
+          <button id="uploadJsonBtn" type="button">Load JSON</button>
         </div>
       </div>
     </div>
 
-    <div class="pair">
-      <div class="pair-header-row">
-        <div class="pair-header">Sentence 3</div>
-        <button type="button" class="remove-pair-btn">🗑</button>
-      </div>
-      <div class="pair-fields">
-        <div class="field">
-          <label for="original-3">Original</label>
-          <textarea id="original-3"></textarea>
-        </div>
-        <div class="field">
-          <label for="translation-3">Translation</label>
-          <textarea id="translation-3"></textarea>
-        </div>
-      </div>
+    <div class="message-overlay" id="message">
+      <span class="message-icon">⚠️</span>
+      <span id="messageText"></span>
+      <button type="button" id="messageClose" aria-label="Close message">✕</button>
     </div>
+    <div id="pairsContainer" class="pairs"></div>
 
-    <div class="pair">
-      <div class="pair-header-row">
-        <div class="pair-header">Sentence 4</div>
-        <button type="button" class="remove-pair-btn">🗑</button>
-      </div>
-      <div class="pair-fields">
-        <div class="field">
-          <label for="original-4">Original</label>
-          <textarea id="original-4"></textarea>
-        </div>
-        <div class="field">
-          <label for="translation-4">Translation</label>
-          <textarea id="translation-4"></textarea>
-        </div>
-      </div>
-    </div>
-
-    <div class="pair">
-      <div class="pair-header-row">
-        <div class="pair-header">Sentence 5</div>
-        <button type="button" class="remove-pair-btn">🗑</button>
-      </div>
-      <div class="pair-fields">
-        <div class="field">
-          <label for="original-5">Original</label>
-          <textarea id="original-5"></textarea>
-        </div>
-        <div class="field">
-          <label for="translation-5">Translation</label>
-          <textarea id="translation-5"></textarea>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="download-row">
-    <div>
-      <label for="filenameJson">JSON file name:</label>
-      <input id="filenameJson" type="text" value="parallel-texts.json" />
+    <div class="download-row">
+      <label>JSON file name:
+        <input id="filenameJson" type="text" value="parallel-texts.json" />
+      </label>
       <button id="downloadJsonBtn" type="button">Download JSON</button>
-    </div>
 
-    <div>
-      <label for="filenameHtml">HTML file name:</label>
-      <input id="filenameHtml" type="text" value="parallel-texts.html" />
+      <label>HTML file name:
+        <input id="filenameHtml" type="text" value="parallel.html" />
+      </label>
+      <label class="inline-label"><input type="checkbox" id="inlineCssToggle" checked> Inline CSS</label>
       <button id="downloadHtmlBtn" type="button">Download HTML</button>
     </div>
+
   </div>
 
-  <div id="message"></div>
-
   <script>
-    // start with 5 predefined pairs
-    let pairCount = 5;
-
+    let pairCount = 0;
+    const languages = [];
     const pairsContainer = document.getElementById("pairsContainer");
-    const addPairBtn = document.getElementById("addPairBtn");
+    const add5Btn = document.getElementById("add5Btn");
+    const add10Btn = document.getElementById("add10Btn");
+    const add50Btn = document.getElementById("add50Btn");
+    const toggleAllBtn = document.getElementById("toggleAllBtn");
+    const addLangBtn = document.getElementById("addLangBtn");
+    const uploadJsonBtn = document.getElementById("uploadJsonBtn");
+    const uploadJsonInput = document.getElementById("uploadJsonInput");
     const downloadJsonBtn = document.getElementById("downloadJsonBtn");
     const downloadHtmlBtn = document.getElementById("downloadHtmlBtn");
+    const inlineCssToggle = document.getElementById("inlineCssToggle");
     const messageEl = document.getElementById("message");
+    const messageText = document.getElementById("messageText");
+    const messageClose = document.getElementById("messageClose");
+    const sectionTitleInput = document.getElementById("sectionTitleInput");
+    const langCodeInput = document.getElementById("langCodeInput");
+
+    function autoResize(textarea) {
+      textarea.style.height = "auto";
+      textarea.style.height = `${textarea.scrollHeight}px`;
+    }
 
     function createPairElement(index) {
       const pairDiv = document.createElement("div");
       pairDiv.className = "pair";
+      pairDiv.dataset.index = index;
       pairDiv.innerHTML = `
         <div class="pair-header-row">
-          <div class="pair-header">Sentence ${index}</div>
-          <button type="button" class="remove-pair-btn">🗑</button>
-        </div>
-        <div class="pair-fields">
-          <div class="field">
-            <label for="original-${index}">Original</label>
-            <textarea id="original-${index}"></textarea>
+          <div class="pair-header">
+            <button type="button" class="pair-toggle" aria-label="Toggle sentence">▼</button>
+            <span class="pair-title">
+              <span class="pair-index">[${index}]</span>
+              <span class="pair-preview" id="preview-${index}"></span>
+            </span>
+            <label class="root-inline"><input type="checkbox" id="root-${index}"> Root text</label>
           </div>
-          <div class="field">
-            <label for="translation-${index}">Translation</label>
-            <textarea id="translation-${index}"></textarea>
+          <div class="pair-actions">
+            <button type="button" class="insert-before-btn" aria-label="Add sentence before">▲+</button>
+            <button type="button" class="insert-after-btn" aria-label="Add sentence after">▼+</button>
+            <button type="button" class="remove-pair-btn" aria-label="Remove sentence">✕</button>
+          </div>
+        </div>
+        <div class="pair-body">
+          <div class="pair-fields">
+            <div class="field">
+              <label for="original-${index}">Original</label>
+              <textarea id="original-${index}"></textarea>
+            </div>
           </div>
         </div>
       `;
       return pairDiv;
     }
 
-    addPairBtn.addEventListener("click", () => {
-      pairCount += 1;
-      const newPair = createPairElement(pairCount);
+    function addLanguageToPair(pair, lang, slug, index) {
+      const pairFields = pair.querySelector(".pair-fields");
+      const field = document.createElement("div");
+      field.className = "field";
+      field.innerHTML = `
+          <label for="translation-${slug}-${index}">Translation (${lang.toUpperCase()})</label>
+          <textarea id="translation-${slug}-${index}"></textarea>
+        `;
+      pairFields.appendChild(field);
+      const ta = field.querySelector("textarea");
+      autoResize(ta);
+      ta.addEventListener("input", () => autoResize(ta));
+    }
+
+    function addLanguagesToPair(pair, index) {
+      languages.forEach(({ lang, slug }) => addLanguageToPair(pair, lang, slug, index));
+    }
+
+    function setPairCollapsed(pair, collapsed) {
+      const body = pair.querySelector(".pair-body");
+      const toggle = pair.querySelector(".pair-toggle");
+      const root = pair.querySelector(".root-inline");
+      const preview = pair.querySelector(".pair-preview");
+      if (preview) {
+        const idx = pair.dataset.index || "";
+        const orig = pair.querySelector(`#original-${idx}`);
+        const text = orig ? orig.value.trim().split(/\s+/).slice(0, 6).join(" ") : "";
+        preview.textContent = collapsed ? ` ${text}${text ? "…" : ""}` : "";
+        preview.classList.toggle("rooted", root?.querySelector("input")?.checked && collapsed);
+      }
+      if (body) body.style.display = collapsed ? "none" : "block";
+      if (root) root.style.display = collapsed ? "none" : "inline-flex";
+      if (toggle) toggle.textContent = collapsed ? "►" : "▼";
+      pair.dataset.collapsed = collapsed ? "true" : "false";
+    }
+
+    function addPair() {
+      const newIndex = pairCount + 1;
+      const newPair = createPairElement(newIndex);
       pairsContainer.appendChild(newPair);
+      attachTextareas(newPair);
+      addLanguagesToPair(newPair, newIndex);
+      setPairCollapsed(newPair, false);
+      pairCount = newIndex;
+    }
+
+    function addMultiple(count) {
+      for (let i = 0; i < count; i++) {
+        addPair();
+      }
+    }
+
+    function toggleAllPairs(collapse) {
+      document.querySelectorAll(".pair").forEach((pair) => {
+        setPairCollapsed(pair, collapse);
+      });
+      toggleAllBtn.textContent = collapse ? "Expand all" : "Collapse all";
+    }
+
+    add5Btn.addEventListener("click", () => addMultiple(5));
+    add10Btn.addEventListener("click", () => addMultiple(10));
+    add50Btn.addEventListener("click", () => addMultiple(50));
+    toggleAllBtn.addEventListener("click", () => {
+      const anyExpanded = Array.from(document.querySelectorAll(".pair")).some(
+        (pair) => pair.dataset.collapsed !== "true"
+      );
+      toggleAllPairs(anyExpanded);
     });
 
-    // Use event delegation for remove buttons (works for existing + new pairs)
-    pairsContainer.addEventListener("click", (event) => {
-      if (event.target.classList.contains("remove-pair-btn")) {
-        const pairDiv = event.target.closest(".pair");
-        if (pairDiv) {
-          pairDiv.remove();
+    function reindexPairs() {
+      const pairDivs = [...pairsContainer.querySelectorAll(".pair")];
+      pairCount = pairDivs.length;
+      pairDivs.forEach((pair, idx) => {
+        const newIndex = idx + 1;
+        const oldIndex = pair.dataset.index || newIndex;
+        pair.dataset.index = newIndex;
+        // Update labels/text
+        const headerSpan = pair.querySelector(".pair-header span");
+        if (headerSpan) headerSpan.textContent = `Sentence ${newIndex}`;
+        // Update IDs for originals and roots
+        const orig = pair.querySelector(`#original-${oldIndex}`) || pair.querySelector("textarea[id^='original-']");
+        if (orig) {
+          orig.id = `original-${newIndex}`;
+          orig.previousElementSibling?.setAttribute("for", `original-${newIndex}`);
         }
+        const root = pair.querySelector(`#root-${oldIndex}`) || pair.querySelector("input[id^='root-']");
+        if (root) {
+          root.id = `root-${newIndex}`;
+          root.closest("label")?.setAttribute("for", `root-${newIndex}`);
+        }
+        // Update translation ids
+        pair.querySelectorAll("textarea[id^='translation-']").forEach((ta) => {
+          const parts = ta.id.split("-");
+          const slug = parts.slice(1, -1).join("-");
+          ta.id = `translation-${slug}-${newIndex}`;
+          ta.previousElementSibling?.setAttribute("for", `translation-${slug}-${newIndex}`);
+        });
+      });
+    }
+
+    pairsContainer.addEventListener("click", (event) => {
+      const pairDiv = event.target.closest(".pair");
+      if (!pairDiv) return;
+      if (event.target.classList.contains("remove-pair-btn")) {
+        pairDiv.remove();
+        reindexPairs();
+      } else if (event.target.classList.contains("insert-before-btn")) {
+        const beforeIndex = Number(pairDiv.dataset.index) || 1;
+        const newPair = createPairElement(beforeIndex);
+        addLanguagesToPair(newPair, beforeIndex);
+        attachTextareas(newPair);
+        setPairCollapsed(newPair, false);
+        pairDiv.before(newPair);
+        reindexPairs();
+      } else if (event.target.classList.contains("insert-after-btn")) {
+        const afterIndex = (Number(pairDiv.dataset.index) || 1) + 1;
+        const newPair = createPairElement(afterIndex);
+        addLanguagesToPair(newPair, afterIndex);
+        attachTextareas(newPair);
+        setPairCollapsed(newPair, false);
+        pairDiv.after(newPair);
+        reindexPairs();
+      } else if (event.target.classList.contains("pair-toggle")) {
+        const current = pairDiv.dataset.collapsed === "true";
+        setPairCollapsed(pairDiv, !current);
       }
     });
 
-    // Collect all non-empty pairs into an array
+    function attachTextareas(pairElement) {
+      pairElement.querySelectorAll("textarea").forEach((ta) => {
+        autoResize(ta);
+        ta.addEventListener("input", () => autoResize(ta));
+      });
+      // Keep preview updated for this pair
+      const orig = pairElement.querySelector("textarea[id^='original-']");
+      if (orig) {
+        orig.addEventListener("input", () => {
+          const pair = orig.closest(".pair");
+          if (pair) {
+            setPairCollapsed(pair, pair.dataset.collapsed === "true");
+          }
+        });
+      }
+    }
+
+    function slugifyLang(code) {
+      return code.trim().replace(/[^a-z0-9_-]/gi, "-");
+    }
+
+    function addLanguageField(langCode) {
+      const lang = langCode.trim();
+      if (!lang) {
+        showMessage("Please enter a language code.", "warn");
+        return;
+      }
+      const exists = languages.some((l) => l.lang.toLowerCase() === lang.toLowerCase());
+      if (exists) {
+        showMessage(`Language "${lang}" already added.`, "warn");
+        return;
+      }
+      const slug = slugifyLang(lang);
+      languages.push({ lang, slug });
+      document.querySelectorAll(".pair").forEach((pair, idx) => {
+        const index = Number(pair.dataset.index) || idx + 1;
+        addLanguageToPair(pair, lang, slug, index);
+      });
+      showMessage(`Added translation field for "${lang}".`);
+    }
+
+    addLangBtn.addEventListener("click", () => {
+      addLanguageField(langCodeInput.value);
+      langCodeInput.value = "";
+    });
+
+    function setsEqual(a, b) {
+      if (a.size !== b.size) return false;
+      for (const v of a) {
+        if (!b.has(v)) return false;
+      }
+      return true;
+    }
+
+    function validateLanguageConsistency(sentences) {
+      if (!sentences.length) return { valid: true, languages: [] };
+      const sets = sentences.map(
+        (s) => new Set(Object.keys(s.translations || {}))
+      );
+      const union = new Set();
+      sets.forEach((s) => s.forEach((lang) => union.add(lang)));
+
+      const baseline =
+        sets.find((s) => s.size > 0) ||
+        sets[0] ||
+        new Set();
+      let valid = true;
+      for (const s of sets) {
+        if (!setsEqual(s, baseline)) {
+          valid = false;
+          break;
+        }
+      }
+      return { valid, languages: Array.from(union) };
+    }
+
+    let messageTimer = null;
+
+    if (inlineCssToggle) {
+      inlineCssToggle.checked = true;
+    }
+
+    function showMessage(text, type = "info") {
+      if (messageTimer) {
+        clearTimeout(messageTimer);
+        messageTimer = null;
+      }
+      messageText.textContent = text;
+      messageEl.className = type === "warn" ? "message-overlay warn" : "message-overlay";
+      messageEl.style.display = text ? "flex" : "none";
+      if (text && type !== "warn") {
+        messageTimer = setTimeout(() => showMessage(""), 3000);
+      }
+    }
+
+    messageClose.addEventListener("click", () => {
+      showMessage("");
+    });
+
+    function resetEditor() {
+      languages.length = 0;
+      pairsContainer.innerHTML = "";
+      pairCount = 0;
+    }
+
+    function normalizeData(raw) {
+      if (Array.isArray(raw)) {
+        if (raw.length && raw[0].sentences) return raw;
+        return [{ sectionTitle: "Text", sentences: raw }];
+      }
+      if (raw && Array.isArray(raw.sections)) return raw.sections;
+      throw new Error("Unsupported JSON shape. Expected an array of sections or sentences.");
+    }
+
+    function populateFromData(raw) {
+      resetEditor();
+      const sections = normalizeData(raw);
+      const section = sections[0] || { sectionTitle: "Text", sentences: [] };
+      sectionTitleInput.value = section.sectionTitle || "Text";
+      const sentences = section.sentences || [];
+
+      const { valid, languages: langs } = validateLanguageConsistency(sentences);
+
+      // Prepare language objects with slugs
+      languages.push(
+        ...langs.map((lang) => ({ lang, slug: slugifyLang(lang) }))
+      );
+
+      sentences.forEach((s, idx) => {
+        addPair();
+        const currentIndex = idx + 1;
+        const pair = pairsContainer.querySelectorAll(".pair")[idx];
+        const orig = pair.querySelector(`#original-${currentIndex}`);
+        if (orig) {
+          orig.value = s.original || "";
+          autoResize(orig);
+        }
+        const rootEl = pair.querySelector(`#root-${currentIndex}`);
+        if (rootEl) rootEl.checked = !!s.root;
+        Object.entries(s.translations || {}).forEach(([lang, text]) => {
+          const slug = slugifyLang(lang);
+          const ta = document.getElementById(`translation-${slug}-${currentIndex}`);
+          if (ta) {
+            ta.value = text || "";
+            autoResize(ta);
+          }
+        });
+      });
+      if (!valid) {
+        showMessage(`Inconsistent translation languages across sentences. Loaded ${section.sentences?.length || 0} sentence(s).`, "warn");
+      } else {
+        showMessage(`Loaded ${section.sentences?.length || 0} sentence(s) from JSON.`);
+      }
+    }
+
+    async function readJsonFile(file) {
+      const text = await file.text();
+      return JSON.parse(text);
+    }
+
+    function hasUnsavedContent() {
+      return Array.from(document.querySelectorAll("textarea")).some(
+        (ta) => ta.value.trim().length > 0
+      );
+    }
+
+    uploadJsonBtn.addEventListener("click", async () => {
+      const file = uploadJsonInput.files && uploadJsonInput.files[0];
+      if (!file) {
+        showMessage("Please choose a JSON file to load.", "warn");
+        return;
+      }
+      if (hasUnsavedContent()) {
+        const proceed = window.confirm(
+          "Loading a JSON will discard current content. Continue?"
+        );
+        if (!proceed) {
+          showMessage("Upload cancelled to preserve current content.", "warn");
+          return;
+        }
+      }
+      try {
+        const data = await readJsonFile(file);
+        populateFromData(data);
+      } catch (err) {
+        showMessage(`Failed to load JSON: ${err.message}`, "warn");
+      }
+    });
+
+    window.addEventListener("beforeunload", (event) => {
+      if (hasUnsavedContent()) {
+        event.preventDefault();
+        event.returnValue = "";
+      }
+    });
+
     function collectPairs() {
       const data = [];
       for (let i = 1; i <= pairCount; i++) {
         const origEl = document.getElementById(`original-${i}`);
-        const transEl = document.getElementById(`translation-${i}`);
-        if (!origEl || !transEl) continue;
+        const rootEl = document.getElementById(`root-${i}`);
+        if (!origEl) continue;
 
         const original = origEl.value.trim();
-        const translation = transEl.value.trim();
+        const root = rootEl ? rootEl.checked : false;
+        const translations = {};
+        let hasTranslation = false;
+        languages.forEach(({ lang, slug }) => {
+          const ta = document.getElementById(`translation-${slug}-${i}`);
+          if (ta) {
+            translations[lang] = ta.value.trim();
+            if (translations[lang]) hasTranslation = true;
+          }
+        });
 
-        if (!original && !translation) continue;
+        if (!original && !hasTranslation) continue;
 
-        data.push({ original, translation });
+        data.push({
+          original,
+          translations,
+          root,
+        });
       }
       return data;
     }
 
-    // Generate a simple static HTML document string from the pairs
-    function buildStaticHtml(data) {
-      const esc = (str) =>
-        String(str)
-          .replace(/&/g, "&amp;")
-          .replace(/</g, "&lt;")
-          .replace(/>/g, "&gt;");
-
-      const rows = data
-        .map(
-          (item, index) => `
-        <tr>
-          <td>${index + 1}</td>
-          <td>${esc(item.original)}</td>
-          <td>${esc(item.translation)}</td>
-        </tr>`
-        )
-        .join("");
-
-      return `<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Parallel Texts</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-    h1 {
-      margin-bottom: 1rem;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    th, td {
-      border: 1px solid #ccc;
-      padding: 0.5rem;
-      vertical-align: top;
-    }
-    th {
-      background: #f5f5f5;
-    }
-    tbody tr:nth-child(odd) {
-      background: #fafafa;
-    }
-  </style>
-</head>
-<body>
-  <h1>Parallel Texts</h1>
-  <table>
-    <thead>
-      <tr>
-        <th>#</th>
-        <th>Original</th>
-        <th>Translation</th>
-      </tr>
-    </thead>
-    <tbody>
-      ${rows}
-    </tbody>
-  </table>
-</body>
-</html>`;
+    function buildSectionedData() {
+      return [
+        {
+          sectionTitle: sectionTitleInput.value.trim() || "Text",
+          sentences: collectPairs(),
+        },
+      ];
     }
 
-    // Download JSON
+    function downloadFile(content, filename, mime) {
+      const blob = new Blob([content], { type: mime });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }
+
     downloadJsonBtn.addEventListener("click", () => {
-      const data = collectPairs();
-      const jsonStr = JSON.stringify(data, null, 2);
-      const blob = new Blob([jsonStr], { type: "application/json" });
-      const url = URL.createObjectURL(blob);
-
-      const filenameInput = document.getElementById("filenameJson").value.trim();
-      const filename = filenameInput || "parallel-texts.json";
-
-      const a = document.createElement("a");
-      a.href = url;
-      a.download = filename;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-
-      URL.revokeObjectURL(url);
-
-      messageEl.textContent = `Downloaded JSON with ${data.length} pair(s) to ${filename}.`;
+      const data = buildSectionedData();
+      const filename = (document.getElementById("filenameJson").value.trim() || "parallel-texts.json");
+      downloadFile(JSON.stringify(data, null, 2), filename, "application/json");
+      showMessage(`Downloaded JSON with ${data[0].sentences.length} sentence(s) to ${filename}.`);
     });
 
-    // Download static HTML
-    downloadHtmlBtn.addEventListener("click", () => {
-      const data = collectPairs();
-      const htmlStr = buildStaticHtml(data);
-      const blob = new Blob([htmlStr], { type: "text/html" });
-      const url = URL.createObjectURL(blob);
+    async function loadTemplate() {
+      const url = new URL("template.html", window.location.href).toString();
+      let resp;
+      try {
+        resp = await fetch(url, { cache: "no-cache" });
+      } catch (err) {
+        throw new Error(`Failed to load template.html. If you are opening this editor via file://, please run a local server (e.g. python3 -m http.server) and reload. Details: ${err.message}`);
+      }
+      if (!resp.ok) {
+        throw new Error(`Failed to load template.html: ${resp.status}`);
+      }
+      return resp.text();
+    }
 
-      const filenameInput = document.getElementById("filenameHtml").value.trim();
-      const filename = filenameInput || "parallel-texts.html";
+    async function loadStyles() {
+      const url = new URL("styles.css", window.location.href).toString();
+      const resp = await fetch(url, { cache: "no-cache" });
+      if (!resp.ok) {
+        throw new Error(`Failed to load styles.css: ${resp.status}`);
+      }
+      return resp.text();
+    }
 
-      const a = document.createElement("a");
-      a.href = url;
-      a.download = filename;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-
-      URL.revokeObjectURL(url);
-
-      messageEl.textContent = `Downloaded HTML with ${data.length} pair(s) to ${filename}.`;
+    downloadHtmlBtn.addEventListener("click", async () => {
+      try {
+        const template = await loadTemplate();
+        const data = buildSectionedData();
+        const payload = JSON.stringify(data, null, 2);
+        let filled = template.replace("__DATA__", payload);
+        const shouldInlineCss = !inlineCssToggle || inlineCssToggle.checked;
+        if (shouldInlineCss) {
+          const css = await loadStyles();
+          filled = filled.replace(
+            '<link rel="stylesheet" href="styles.css">',
+            `<style>\n${css}\n</style>`
+          );
+        }
+        const filename = (document.getElementById("filenameHtml").value.trim() || "parallel.html");
+        downloadFile(filled, filename, "text/html");
+        showMessage(`Downloaded HTML with ${data[0].sentences.length} sentence(s) to ${filename}.`);
+      } catch (err) {
+        showMessage(err.message, "warn");
+      }
     });
+
+    // Seed with a single empty pair by default
+    addPair();
   </script>
 </body>
 </html>

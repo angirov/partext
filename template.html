@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Foldable Multi-Level Parallel Text</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="controls">
+      <label><input type="checkbox" id="toggleNumbers"> Show sentence numbers</label>
+      <strong>Show translations:</strong>
+      <div id="langControls"></div>
+    </div>
+  </aside>
+
+  <div class="container">
+    <div id="textContainer"></div>
+  </div>
+</div>
+
+<script>
+  const data = __DATA__;
+
+  const container = document.getElementById("textContainer");
+  const langControls = document.getElementById("langControls");
+  const toggleNumbersCheckbox = document.getElementById("toggleNumbers");
+  let globalSentenceCount = 1;
+
+  function collectLanguages(sections) {
+    const langs = new Set();
+    sections.forEach(section => {
+      (section.sentences || []).forEach(sentence => {
+        Object.keys(sentence.translations || {}).forEach(lang => langs.add(lang));
+      });
+    });
+    return Array.from(langs);
+  }
+
+  function toggleLanguage(lang, show) {
+    document.querySelectorAll(`.translation[data-lang="${lang}"]`).forEach(el => {
+      el.style.display = show ? "block" : "none";
+    });
+  }
+
+  function buildLanguageControls(languages) {
+    langControls.innerHTML = "";
+    if (!languages.length) {
+      const placeholder = document.createElement("span");
+      placeholder.textContent = "No translations found.";
+      langControls.appendChild(placeholder);
+      return;
+    }
+
+    languages.forEach(lang => {
+      const label = document.createElement("label");
+      const checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.checked = true;
+      checkbox.dataset.lang = lang;
+      checkbox.addEventListener("change", () => toggleLanguage(lang, checkbox.checked));
+      label.appendChild(checkbox);
+      label.appendChild(document.createTextNode(" " + lang.toUpperCase()));
+      langControls.appendChild(label);
+    });
+  }
+
+  function createSentenceBlock(sentence, number) {
+    const pair = document.createElement("div");
+    pair.className = "sentence-pair";
+
+    const header = document.createElement("div");
+    header.className = "header";
+
+    const numberDiv = document.createElement("span");
+    numberDiv.className = "sentence-number";
+    numberDiv.textContent = `${number}.`;
+
+    const originalDiv = document.createElement("div");
+    originalDiv.className = "original";
+    originalDiv.textContent = sentence.original || "";
+    if (sentence.root) {
+      originalDiv.classList.add("root-text");
+    }
+
+    const toggleIcon = document.createElement("span");
+    toggleIcon.className = "toggle-icon";
+    toggleIcon.textContent = "+";
+
+    header.appendChild(numberDiv);
+    header.appendChild(originalDiv);
+    header.appendChild(toggleIcon);
+
+    const content = document.createElement("div");
+    content.className = "content";
+
+    Object.entries(sentence.translations || {}).forEach(([lang, text]) => {
+      const transDiv = document.createElement("div");
+      transDiv.className = "translation";
+      transDiv.dataset.lang = lang;
+      transDiv.textContent = text;
+      content.appendChild(transDiv);
+    });
+
+    header.addEventListener("click", () => {
+      const isVisible = content.style.display === "block";
+      content.style.display = isVisible ? "none" : "block";
+      toggleIcon.textContent = isVisible ? "+" : "−";
+    });
+
+    pair.appendChild(header);
+    pair.appendChild(content);
+    return pair;
+  }
+
+  function createSection(sectionData) {
+    const section = document.createElement("div");
+    section.className = "section";
+
+    const header = document.createElement("div");
+    header.className = "section-header";
+    header.innerHTML = `
+      <span>${sectionData.sectionTitle || "Section"}</span>
+      <span class="toggle-icon">−</span>
+    `;
+
+    const content = document.createElement("div");
+    content.className = "section-content";
+
+    (sectionData.sentences || []).forEach(sentence => {
+      const block = createSentenceBlock(sentence, globalSentenceCount++);
+      content.appendChild(block);
+    });
+
+    header.addEventListener("click", () => {
+      const isVisible = content.style.display !== "none";
+      content.style.display = isVisible ? "none" : "block";
+      header.querySelector(".toggle-icon").textContent = isVisible ? "+" : "−";
+    });
+
+    section.appendChild(header);
+    section.appendChild(content);
+    return section;
+  }
+
+  const languages = collectLanguages(data);
+  buildLanguageControls(languages);
+  data.forEach(sectionData => {
+    const section = createSection(sectionData);
+    container.appendChild(section);
+  });
+
+  function toggleNumbers(show) {
+    document.querySelectorAll(".sentence-number").forEach(el => {
+      el.style.display = show ? "inline" : "none";
+    });
+  }
+
+  toggleNumbers(toggleNumbersCheckbox.checked);
+  toggleNumbersCheckbox.addEventListener("change", () => {
+    toggleNumbers(toggleNumbersCheckbox.checked);
+  });
+</script>
+
+</body>
+</html>

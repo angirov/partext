@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Foldable Multi-Level Parallel Text</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="controls">
+      <label><input type="checkbox" id="toggleNumbers"> Show sentence numbers</label>
+      <strong>Show translations:</strong>
+      <div id="langControls"></div>
+    </div>
+  </aside>
+
+  <div class="container">
+    <div id="textContainer"></div>
+  </div>
+</div>
+
+<script>
+  const data = [
+  {
+    "sectionTitle": "Viṃśika 15-20",
+    "sentences": [
+      {
+        "original": "kiṃ cātaḥ |",
+        "translations": {
+          "en": "Now what follows from this ?",
+          "ru": "Что же отсюда следует?"
+        },
+        "root": false
+      },
+      {
+        "original": "anekatve doṣa uktaṃ |",
+        "translations": {
+          "en": "The flaw inherent in assuming their' severalness has already been discussed (in relation to the arguments on atomic aggregation).",
+          "ru": "Ошибка, присущая допущению их множественности, уже обсуждена (в связи с доводами о соединении атомов)."
+        },
+        "root": false
+      },
+      {
+        "original": "ekatve na krameṇetir yugapan na grahāgrahau |\nvicchinnānekavṛttiś ca sūkṣmānīkṣā ca no bhavet || 15 ||",
+        "translations": {
+          "en": "If their unity existed, one couldn't arrive at anything gradually, there couldn't be apprehension and non-apprehension simultaneously, there couldn't be separate, several, developments, and there would be no reason for the non-seeing of the very subtle.",
+          "ru": "Если бы существовало их единство, нельзя было бы к чему-либо приходить постепенно; не могло бы быть одновременного постижения и непостижения; не могло бы быть отдельных множественных становлений; и не было бы основания для невидения самого тонкого."
+        },
+        "root": true
+      },
+      {
+        "original": "yadi yāvad vicchinnaṃ nānekaṃ cakṣuṣo viṣayas tad ekaṃ dravyaṃ kalpyate pṛthivyāṃ krameṇetir na syād gamanam ity arthaḥ | sakṛtpādakṣepeṇa sarvasya gatatvāt | arvāgbhāgasya ca grahaṇaṃ parabhāgasya cāgrahaṇaṃ yugapan na syāt | na hi tasyaiva tadānīṃ grahaṇaṃ cāgrahaṇaṃ ca yuktam | vicchinnasya cānekasya hastyaśvādikasyaikatra vṛttir na syād yatraiva hy ekaṃ tatraivāparam iti kathaṃ tayor viccheda iṣyate | kathaṃ vā tad ekaṃ yat prāptaṃ ca tābhyāṃ na ca prāptam antarāle tac chūnyagrahaṇāt | sūkṣmāṇāṃ caudakajantūnāṃ sthūlaiḥ samānarūpāṇām anīkṣaṇaṃ na syād | yadi lakṣaṇabhedād eva dravyāntaratvaṃ kalpyate nānyathā | tasmād avaśyaṃ paramāṇuśo bhedaḥ kalpayitavyaḥ | sa caiko na sidhyati | tasyāsiddhau rūpādīnāṃ cakṣurādiviṣayatvam asiddham iti siddhaṃ vijñaptimātraṃ bhavatīti ||",
+        "translations": {
+          "en": "If one entity as a sense-object for the eye, with no separations, and no severalness, were constructed, then one couldn't arrive at anything gradually on the Earth : that is, there could be no act of going. For, even with placing down a foot once, one would go everywhere. There could be no apprehension of a nearer \"part of something\" and a non-apprehension of a more removed \"part\", simultaneously. For a concurrent apprehen- sion and non-apprehension of the same thing isn't logical. There would be no special development for species that are separate, such as elephants, horses, etc. and since they would all be one in that case, how could their separation be accepted ? And how can they be accepted as single, anyway, since there is the apprehension of an empty space between two of them ? And there would be no reason for the non-seeing of subtle water-beings, since they would be visible in common with the more apparent. An otherness in entities is constructed if there is a division of characteristics, and not otherwise, so when speaking from the atomic point of view, one must by necessity con struct divisions, and it cannot be demonstrated that they (the atoms) are in any way of one kind. With their unity undemonstrated, visibles', etc.'s state of being sense-objects of the eye, etc. is also un- demonstrated, and thus perception-only is demonstrated.",
+          "ru": "Если бы как объект зрения без разрывов и множественности было сконструировано одно единственное вещество, то нельзя было бы постепенно куда-либо идти на земле: то есть не было бы акта движения. Ведь, раз поставив ногу, человек дошел бы всюду. Не могло бы быть одновременного восприятия ближней «части чего-то» и невосприятия дальней части, ибо одновременное восприятие и невосприятие одного и того же нелогично. Не было бы особого развития у отдельных видов, таких как слоны, кони и т. п.; поскольку они все были бы едины, как можно было бы принять их разделенность? И как можно было бы вообще признать их едиными, если воспринимается пустота между двумя? И не было бы причины невидения тонких водных существ, ведь они были бы видимы вместе с более явными. Иное в сущностях конструируется, если есть различение признаков, и не иначе, поэтому, говоря с атомной точки зрения, необходимо конструировать различия, и нельзя показать, что атомы как-то одного рода. При недоказанности их единства недоказанно также, что видимое и прочее являются объектами зрения и прочих органов, и таким образом устанавливается только восприятие-как-сознание."
+        },
+        "root": false
+      },
+      {
+        "original": "pramāṇavaśād astitvaṃ nāstitvaṃ vā nirdhāryate sarveṣāṃ ca pramāṇānāṃ pratyakṣaṃ pramāṇaṃ gariṣṭam ity asaty arthe katham iyaṃ buddhir bhavati pratyakṣam iti |",
+        "translations": {
+          "en": "If the existence and non-existence of objects of sense or under- standing are being investigated by force of the means-of-cognition (direct perception, inference, appeal to reliable authority), direct perception must be recognized as being the most weighty of all means-of-cognition. But with an object of sense or understand- ing not existing, how can there be any cognizing whichcan.be termed \"direct perception\" ?",
+          "ru": "Если исследуются существование или несуществование объектов чувств или понимания силой средств познания (прямого восприятия, вывода, ссылки на авторитет), прямое восприятие нужно признать самым веским из всех средств. Но при отсутствии объекта чувств или понимания как может быть какое-либо познание, которое называлось бы «прямым восприятием»?"
+        },
+        "root": false
+      },
+      {
+        "original": "pratyakṣabuddhiḥ svapnādau yathā",
+        "translations": {
+          "en": "Cognizing by direct perception is like in a dream, etc. 16a",
+          "ru": "Познание посредством прямого восприятия подобно тому, что бывает во сне и т. п. 16a"
+        },
+        "root": false
+      },
+      {
+        "original": "vināpy artheneti pūrvam eva jñāpitaṃ",
+        "translations": {
+          "en": "For it is without an object of sense or understanding, as has been made known previously.",
+          "ru": "Ибо оно лишено объекта чувств или понимания, как было сказано ранее."
+        },
+        "root": false
+      },
+      {
+        "original": "sā ca yadā tadā |\nna so 'rtho dṛśyate tasya pratyakṣatvaṃ kathaṃ mataṃ || 16 ||",
+        "translations": {
+          "en": "And when it occurs, the object is already not seen, so how can it be considered a state of direct perception ?",
+          "ru": "И когда оно происходит, объект уже не виден — как же можно считать это состоянием прямого восприятия?"
+        },
+        "root": true
+      },
+      {
+        "original": "yadā ca sā pratyakṣabuddhir bhavatīdaṃ me pratyakṣam iti tadā na so 'rtho dṛśyate manovijñānenaiva paricchedāc cakṣurvijñānasya ca tadā niruddhatvād iti kathaṃ tasya pratyakṣatvam iṣṭaṃ | viśeṣeṇa tu kṣaṇikasya viṣayasya tadānīṃ (Vvs_9) niruddham evaṃ tad rūpaṃ rasādikaṃ vā || nānanubhūtaṃ manovijñānena smaryata ity avaśyam arthānubhavena bhavitavyaṃ tac ca darśanam ity evaṃ tadviṣayasya rūpādeḥ pratyakṣatvaṃ mataṃ | asiddham idam anubhūtasyārthasya smaraṇaṃ bhavatīti | yasmāt |",
+        "translations": {
+          "en": "When a cognition through direct perception arises in the form \"This is my direct perception\", the object itself is already not seen, since this distinguishing takes place only through a mental consciousness, and the visual consciousness has already ceased by that time, so how can its being a direct perception be accept- ed ? This is especially true for a sense-object, which is mo- mentary, for that visible, or taste, etc. has already ceased by that time.18 It may be said that nothing which hasn't been experienced (by other consciousnesses) is remembered by the mental consciousness, and that this takes place by necessity as it is brought about by the experience of an object of sense or understanding, and that those can be considered to be a state of direct perception of sense-objects, visibles, etc. in this way. But this remembering of an experienced object of sense or un- derstanding is not demonstrated, either. Because",
+          "ru": "Когда возникает познание прямым восприятием в форме «это моё прямое восприятие», сам объект уже не виден, поскольку это различение происходит только через ментальное сознание, а зрительное сознание к тому времени уже прекратилось; как же тогда признать его прямым восприятием? Особенно это верно для чувственного объекта, который мгновенен: этот видимый или вкус и т. п. к тому времени уже прекратился. Можно сказать, что ментальное сознание не вспоминает того, что не было пережито (другими сознаниями), и что это происходит по необходимости благодаря переживанию объекта чувств или понимания, и таким образом их можно считать состоянием прямого восприятия видимого и прочего. Но воспоминание пережитого объекта чувств или понимания тоже не доказано. Потому что"
+        },
+        "root": false
+      },
+      {
+        "original": "uktaṃ yathā tadābhāsā vijñaptiḥ",
+        "translations": {
+          "en": "It has been stated how perception occurs with its appearance. 17a",
+          "ru": "Было сказано, как восприятие возникает вместе со своим образом. 17a"
+        },
+        "root": true
+      },
+      {
+        "original": "vināpy arthena yathārthābhāsā cakṣurvijñānādikā vijñaptir utpadyate tathoktaṃ |",
+        "translations": {
+          "en": "It has already been stated how perceptions in the shape of eye- consciousnesses, etc. arise with the appearance of an object, even without there being any (external) object of sense or un- derstanding.",
+          "ru": "Уже было сказано, как восприятия в форме зрительного сознания и прочего возникают с образом объекта, даже без наличия внешнего объекта чувств или понимания."
+        },
+        "root": false
+      },
+      {
+        "original": "smaraṇaṃ tataḥ |",
+        "translations": {
+          "en": "And remembering takes place from that. 17b",
+          "ru": "И из этого возникает вспоминание. 17b"
+        },
+        "root": false
+      },
+      {
+        "original": "tato hi vijñapteḥ smṛtisaṃprayuktā tatpratibhāsaiva rūpādivikalpikā manovijñaptir utpadyata iti na smṛtyutpādād arthānubhavaḥ sidhyati | yadi yathā svapne vijñaptir abhūtārthaviṣayā tathā jāgrato 'pi syāt tathaiva tadabhāvaṃ lokaḥ svayam avagacchet | na caivaṃ bhavati | tasmān na svapna ivārthopalabdhiḥ sarvā nirarthikā | idam ajñāpakaṃ | yasmāt |",
+        "translations": {
+          "en": "\"From that\" means \"from the perception\". A mental per- ception arises with the discrimination of a visible, etc. when that appearance is linked with memory, so an experience of an (external) object can't be demonstrated through the arising of a memory. Objection : If, even when one is awake, perception has sense-objects which weren't, like in a dream, then people would understand their non-being by themselves. But that isn't the case. So it's not that the apprehension of objeets is like in a dream, and all perceptions are really without an (external) object. Reply : This argument won't bring us to the cognition you wish, because",
+          "ru": "«Из этого» означает «из восприятия». Ментальное восприятие возникает вместе с различением видимого и т. п., когда этот образ связан с памятью, поэтому переживание (внешнего) объекта нельзя доказать возникновением памяти.\nВозражение: если даже наяву восприятие имеет небывшие объекты, как во сне, то люди сами бы понимали их несуществование. Но этого нет. Значит, постижение объектов не подобно сновидению, и все восприятия действительно без (внешнего) объекта.\nОтвет: этот довод не приведёт к желаемому познанию, потому что"
+        },
+        "root": false
+      },
+      {
+        "original": "svapnadṛgviṣayābhāvaṃ nāprabuddho 'vigacchati || 17 ||",
+        "translations": {
+          "en": "Somebody who isn't awake doesn't understand the non- being of the visual sense-objects in a dream. 17c",
+          "ru": "Тот, кто не пробуждён, не понимает отсутствия видимых объектов во сне. 17c"
+        },
+        "root": false
+      },
+      {
+        "original": "evaṃ vitathavikalpābhyāsavāsanānidrayā prasupto lokaḥ svapna ivābhūtam arthaṃ paśyan na prabuddhas tadabhāvaṃ yathāvan nāvagacchati | yadā tu tatpratipakṣalokottaranirvikalpajñānalābhāt prabuddho bhavati tadā tatpṛṣṭhalabdhaśuddhalaukikajñānasaṃmukhībhāvād viṣayābhāvaṃ yathāvad avagacchatīti samānam etat ||",
+        "translations": {
+          "en": "Just as people when they are asleep in a dream have their facul- ties concentrated on impressions of appearances of discrimina- tions which appear differently than they do later, and, as long as they aren't awake, don't understand the non-being of objects of sense and understanding that weren't, just so when they be- come awakened by the attainment of a supermundane know- ledge free from discriminations, which is the antidote to these (discriminations), then they truly understand the non-being of these sense-objects through meeting with a clear worldly subsequently attained knowledge.19 So their situations are similar.",
+          "ru": "Подобно тому как люди, когда спят и видят сон, имеют способности, сосредоточенные на впечатлениях образов различений, которые позже выглядят иначе, и, пока они не пробуждены, не понимают отсутствия объектов чувств и понимания, которых не было, так же, когда они пробуждаются благодаря обретению сверхмирского недискриминирующего знания, являющегося противоядием этим различениям, тогда они по-настоящему понимают отсутствие этих чувственных объектов благодаря встрече с ясным последующим мирским знанием. Так что ситуации сходны."
+        },
+        "root": false
+      },
+      {
+        "original": "yadi svasaṃtānapariṇāmaviśeṣād eva satvānām arthapratibhāsā vijñaptaya utpadyante nārthaviśeṣāt | tadā ya eṣa pāpakalyāṇamitrasaṃparkāt sadasaddharmaśravaṇāc ca vijñaptiniyamaḥ sattvānāṃ sa kathaṃ sidhyati asati sadasatsaṃparke taddeśanāyāṃ ca |",
+        "translations": {
+          "en": "Objection : If, through a special transformation of \"their own\" moment-series, perceptions with the appearance of (external) objects of sense or understanding arise for beings, and not through special objects themselves, then how can any cer- tainty as regards perceptions be demonstrated from association with bad or good friends, or from hearing about existent and non-existent events20, since there can exist neither association with the good or bad, nor any real teaching ?",
+          "ru": "Возражение: если у существ восприятия с образом (внешних) объектов чувств или понимания возникают лишь из особого преобразования их собственных потоков моментов, а не из самих особых объектов, то как может устанавливаться определённость восприятий из общения с дурными или хорошими друзьями или из слушания об имеющихся и не имеющихся явлениях, ведь тогда нет ни общения с хорошими и дурными, ни подлинного учения?"
+        },
+        "root": false
+      },
+      {
+        "original": "anyonyādhipatitvena vijñaptiniyamo mithaḥ |",
+        "translations": {
+          "en": "Reply : The certainty of perceptions takes place mutually, by the state of their sovereign effect on one another. 18a",
+          "ru": "Ответ: определённость восприятий происходит взаимно, благодаря их властному воздействию друг на друга. 18a"
+        },
+        "root": false
+      },
+      {
+        "original": "sarveṣāṃ hi sattvānām anyonyavijñaptyādhipatyena mitho vijñapter niyamo bhavati yathāyogaṃ | mitha iti parasparataḥ | ataḥ saṃtānāntaravijñaptiviśeṣāt saṃtānāntare vijñaptiviśeṣa utpadyate nārthaviśeṣāt |",
+        "translations": {
+          "en": "For all beings there is certainty of perception through a mutual sovereign effect of perceptions on one another, according to circumstances21. \"Mutually\" means \"each affecting the other*'. So one special perception arises within a moment-series through a special perception within the moment-series, and not because of a special object.",
+          "ru": "У всех существ определённость восприятия возникает благодаря взаимному властному влиянию восприятий друг на друга, сообразно обстоятельствам. «Взаимно» значит «друг на друга». Поэтому особое восприятие в одном потоке возникает из особого восприятия в другом потоке, а не из особого объекта."
+        },
+        "root": false
+      },
+      {
+        "original": "yadi yathā svapne nirarthikā vijñaptir evaṃ jāgrato 'pi syāt kasmāt kuśalākuśalasamudācāro suptāsuptayos tulyaṃ phalam iṣṭāniṣṭam āyatyāṃ na bhavati | yasmāt |",
+        "translations": {
+          "en": "Objection : If a perception is without an (external) object, just like in a dream, even for those who are awake, why- is it that in the practise of the beneficial and unbeneficial there won't be an equal result from desirable and undesirable efforts, for those who are asleep and those who aren't ? Reply : Because",
+          "ru": "Возражение: если восприятие без (внешнего) объекта, как во сне, даже у бодрствующих, почему в практике благого и неблагого не будет одинакового результата от желательных и нежелательных усилий у спящих и неспящих? Ответ: потому что"
+        },
+        "root": false
+      },
+      {
+        "original": "middhenopahataṃ cittaṃ svapne tenāsamaṃ phalaṃ || 18 ||",
+        "translations": {
+          "en": "Citta is affected by torpor in a dream, so their results are different. 18b",
+          "ru": "Во сне сознание поражено вялостью, поэтому результаты различны. 18b"
+        },
+        "root": true
+      },
+      {
+        "original": "idam atra kāraṇāṃ na tv arthasadbhāvaḥ ||\n\nyadi vijñāptimātram evedaṃ na kasyacit kāyo 'sti na vāk ||",
+        "translations": {
+          "en": "This is the reason, not the existing being of an (external) object.",
+          "ru": "Вот причина, а не существование (внешнего) объекта."
+        },
+        "root": false
+      },
+      {
+        "original": "katham upakramyamāṇānām aurabhrikādibhir urabhrādīnāṃ (Vvs_10) maraṇaṃ bhavti | atatkṛte vā tanmaraṇe katham aurabhrikādīnāṃ prāṇātipātāvadyena yogo bhavati |",
+        "translations": {
+          "en": "Objection : If all this is perception-only, there can't be body or speech for anybody. So how can the dying of sheep who have been attacked by shepherds, take place ? If their dying takes place without the shepherds having done anything, how can the shepherds be held responsible for the offense of taking life? Reply :",
+          "ru": "Возражение: если всё это лишь восприятие, то ни у кого не может быть ни тела, ни речи. Как тогда может происходить смерть овец, на которых напали пастухи? Если их смерть происходит без действий пастухов, как пастухи могут быть связаны с проступком убийства?\nОтвет:"
+        },
+        "root": false
+      },
+      {
+        "original": "maraṇam paravijñaptiviśeṣād vikriyā yathā |\nsmṛtilopādikānyeṣāṃ piśācādimanovaśāt || 19 ||",
+        "translations": {
+          "en": "Dying may be a modification resulting from a special perception by another, just like losses of memory, etc. may take place through the mental control of spirits, etc. 19",
+          "ru": "Смерть может быть изменением, вызванным особым восприятием другого, как и потеря памяти и т. п. может происходить под ментальным влиянием духов и т. п. 19"
+        },
+        "root": true
+      },
+      {
+        "original": "yathā hi piśācādimanovaśād anyeṣāṃ smṛtilopasvapnadarśanabhūtagrahāveśavikārā bhavanti | ṛddhivan manovaśāc ca | yathā sāraṇasyāryamahākātyāyanādhiṣṭhānāt svapnadarśanaṃ | āraṇyakarṣimanaḥpradoṣāc ca vemacitraparājayaḥ | tathā paravijñaptiviśeṣādhipatyāt pareṣāṃ jīvitendriyavirodhinī kācid vikriyotpadyate yayā sabhāgasaṃtativicchedākhyaṃ maraṇaṃ bhavatīti veditavyaṃ ||",
+        "translations": {
+          "en": "Just as there may be modifications in others, such as loss of memory, the seeing of dreams, or being taken possession of by spirits, by the mental control of* psychic powers, as in the case of Särana's seeing dreams through Mahä-Kätyäyana's men- tal force, or, as in the case of the vanquishing of Vemacitra through mental harming coming from the forest-dwelling seers.23 In the same way, through the force of a special perception of another, a certain modification of the aggregate-series, destroy- ing its life-force, may arise, through which dying, which is to be known as a name for a discontinuity in the aggregate-series tak- ing part in an organism [Discussion of Five Aggregates, p. 71], takes place.",
+          "ru": "Так же как под властью ума пьяшачей и других у одних происходят изменения — потеря памяти, видение снов, одержимость духами; и под властью чудесного ума, как видение сна у Сараны по установлению досточтимого Махакаатьяяны, или поражение Вемачитры из-за ментального вреда лесных риши; точно так же под властью особого восприятия другого у других возникает некоторое изменение потока совокупностей, уничтожающее жизненную силу, из-за которого происходит смерть, называемая разрывом однотипной серии совокупностей, участвующей в организме."
+        },
+        "root": false
+      },
+      {
+        "original": "kathaṃ vā daṇḍakāraṇyaśūnyatvam ṛṣikopataḥ |",
+        "translations": {
+          "en": "Or else, how was it that the Dandaka Forest became empty because of the anger of seers ? 20a",
+          "ru": "Иначе как же лес Дандака опустел из-за гнева риши? 20a"
+        },
+        "root": false
+      },
+      {
+        "original": "yadi paravijñaptiviśeṣādhipatyāt sattvānāṃ maraṇaṃ neṣyate | manodaṇḍasya hi mahāsāvadyatvaṃ sādhayatā bhagavatopālir gṛhapatiḥ pṛṣṭaḥ | kaccit te gṛhapate śrutaṃ kena tāni daṇḍakāraṇyāni mātaṅgāraṇyāni kaliṅgāraṇyāni śūnyāni medhyībhūtāni | tenoktaṃ | śrutaṃ me bho gautama ṛṣīṇāṃ manaḥpradoṣeṇeti |",
+        "translations": {
+          "en": "If it isn't accepted that the dying of beings can occur through the force of a special perception in others, how is it that the Exalted One, in order to demonstrate that mental harm constitutes a great offense, questioned Upäli when he was still a householder, as follows : \"Householder ! Through what agency were the Dandaka, Matahga, and Kalinga Forests made empty and sacred, as has been reported ?\", and Upäli replied, \"I heard that it happened through the mental harming of seers, Gautama.\" [Majjhima I, 37-38]",
+          "ru": "Если не принять, что смерть существ может происходить под воздействием особого восприятия других, то как Благословенный, желая доказать, что ментальный вред — великий проступок, спросил Упали, когда тот был домохозяином: «Домохозяин, слышал ли ты, чем были опустошены и сделаны священными леса Дандака, Матангараня и Калингараня?» — и тот ответил: «Я слышал, почтенный Гаутама, что это было из-за ментального вреда риши» (Мадджхима I, 37–38)."
+        },
+        "root": false
+      },
+      {
+        "original": "manodaṇḍo mahāvadyaḥ kathaṃ vā tena sidhyati || 20 ||",
+        "translations": {
+          "en": "If not, how could it be demonstrated that mental harm constitutes a great offense ? 20b",
+          "ru": "Если нет, как можно было бы показать, что ментальный вред является тяжким проступком? 20b"
+        },
+        "root": true
+      },
+      {
+        "original": "yady evaṃ kalpyate | tadabhiprasannair amānuṣais tadvāsinaḥ sattvā utsāditā na tv ṛṣīṇāṃ manaḥpradoṣān mṛtā ity evaṃ sati kathaṃ tena karmaṇā manodaṇḍaḥ kāyavāgdaṇḍābhyāṃ mahāvadyatamaḥ siddho bhavati | tanmanaḥpradoṣamātreṇa tāvatāṃ sattvānāṃ maraṇāt sidhyati ||",
+        "translations": {
+          "en": "If this situation were constructed as not taking place through a mental harming, and it were to be said that those sentient beings that were living in that forest were destroyed by non human spirits that had been propitiated as if they were seers, how could it be demonstrated by this passage that mental harm through mental action is a greater offense than bodily or verbal harm ?24 This passage demonstrates that the dying of so many sentient beings came about only through a mental harming.",
+          "ru": "Если представить, что это произошло не через ментальный вред и сказать, что существа, жившие в том лесу, были уничтожены нечеловеческими духами, умилостивлёнными как будто риши, то как этим отрывком доказать, что ментальный вред как ментальное действие — проступок, превосходящий телесный и речевой? Этот отрывок показывает, что смерть стольких существ произошла только через ментальный вред."
+        },
+        "root": false
+      },
+      {
+        "original": "yadi vijñaptimātram evedaṃ paracittavidaḥ kiṃ paracittaṃ jānanty atha na | kiṃ cātaḥ | yadi na jānanti kathaṃ paracittavido bhavanti | atha jānanti |",
+        "translations": {
+          "en": "Objection : But if all this is perception-only, do those who understand the cittas of others really know the cittas of others, or don't they ? Reply : What about this ? Objector : If they don't know them, how can they be \"those who understand the cittas of others\" ? Reply : They know them.",
+          "ru": "Возражение: но если всё это лишь восприятие, знают ли познающие чужие умы чужой ум или нет?\nОтвет: что насчёт этого?\nВозражающий: если не знают, как они могут быть «познающими чужие умы»?\nОтвет: знают."
+        },
+        "root": false
+      },
+      {
+        "original": "paracittavidāṃ jñānam ayathārthaṃ kathaṃ yathā |\nsvacittajñānaṃ",
+        "translations": {
+          "en": "The knowledge of those who understand others' cittas is not like an object. And how is this ? As in the case of a knowledge of one's own citta. 21a",
+          "ru": "Знание познающих чужие умы не является объектоподобным. Как это? Как в случае знания собственного ума. 21a"
+        },
+        "root": true
+      },
+      {
+        "original": "tad api katham ayathārtha |",
+        "translations": {
+          "en": "Objector : And how is that knowledge (of one's own citta) not like an object ?",
+          "ru": "Возражающий: и почему это знание (собственного ума) не объектоподобно?"
+        },
+        "root": false
+      },
+      {
+        "original": "ajñānād yathā buddhasya gocaraḥ || 21 ||",
+        "translations": {
+          "en": "Because of non-knowledge, as in the case of the scope of Buddhas. 21b",
+          "ru": "Из-за незнания, как в случае сферы Будд. 21b"
+        },
+        "root": true
+      },
+      {
+        "original": "yathā tannirabhilāpyenātmanā buddhānāṃ gocaraḥ | tathā tadajñānāt tadubhayaṃ na yathārthaṃ vitathapratibhāsatayā grāhyagrāhakavikalpasyāprahīṇatvāt ||",
+        "translations": {
+          "en": "Just as the domain of the Buddhas is through the inexpressible Self, so because of non-knowledge both of these knowledges are not veridical, for the discrimination between object grasped and subject grasper is not eliminated due to an illusory appearance.",
+          "ru": "Как сфера Будд познаётся через неизречённое «я», так из-за незнания оба эти знания не соответствуют действительности, потому что из-за ложного облика не устранено различение между воспринимаемым и воспринимающим."
+        },
+        "root": false
+      },
+      {
+        "original": "anantaviniścayaprabhedāgāmbhīryāyāṃ vijñaptimātratāyāṃ |",
+        "translations": {
+          "en": "It's just like in the case of the scope of Buddhas, which comes about through the ineffable Self. Thus both of these knowledges, because of their inherent non-knowledge, are not like an object, because it is through the state of an appearance of something which appears differently than it does later that there is a state of non-abandonment of the discrimination between object apprehended and subject apprehendor.25 Though perception-only has unfathomable depth, and there are limitless kinds of ascertainments to be gained in it,",
+          "ru": "Это так же, как сфера Будд, возникающая через невыразимое «я». Поэтому оба эти знания, из-за присущего им незнания, не объектоподобны, ибо вследствие состояния видимости, которая потом предстает иначе, не устранено различение воспринимаемого и воспринимающего. Хотя «только-восприятие» имеет бездонную глубину и в нём бесчисленные виды установлений,"
+        },
+        "root": false
+      },
+      {
+        "original": "vijñaptimātratāsiddhiḥ svaśaktisadṛśī mayā |\nkṛteyaṃ sarvathā sā tu na cintyā",
+        "translations": {
+          "en": "I have written this demonstration of perception-only according to my abilities, but in its entirety it is beyond the scope of citta. 22a",
+          "ru": "Я написал это доказательство «только-восприятия» по мере своих способностей, но целиком оно вне сферы ума. 22a"
+        },
+        "root": true
+      },
+      {
+        "original": "sarvaprakārā tu sā mādṛśaiś cintayituṃ na śakyate | tarkāviṣayatvāt | kasya punaḥ sā sarvathā gocara ity āha |",
+        "translations": {
+          "en": "It is impossible for people like me to consider it in all its aspects, because it is not in the range of dialetics. And in order to show by whom it is known entirely as a scope of insight, it is said to be",
+          "ru": "Людям вроде меня невозможно рассмотреть его во всех аспектах, поскольку оно вне области логики. Чтобы показать, кем оно целиком является областью познания, говорится, что это"
+        },
+        "root": false
+      },
+      {
+        "original": "buddhagocaraḥ || 22 ||",
+        "translations": {
+          "en": "the scope of Buddhas. 22b",
+          "ru": "область Будд. 22b"
+        },
+        "root": true
+      },
+      {
+        "original": "buddhānāṃ hi sā bhagavatāṃ sarvaprakāraṃ gocaraḥ sarvākārasarvajñeyajñānāvighātād iti ||",
+        "translations": {
+          "en": "In all its modes, it is the scope of Buddhas, Exalted Ones, because of their lack of impediment to the knowledge of everything that can be known in all aspects.",
+          "ru": "Во всех своих видах это область Будд, Благословенных, потому что ничто не препятствует их знанию всего познаваемого во всех аспектах."
+        },
+        "root": false
+      },
+      {
+        "original": "viṃśatikā vijñaptimātratāsiddhiḥ |\nkṛtir iyam ācāryavasubandhoḥ |",
+        "translations": {
+          "en": "Twenty Verses: a demonstration of perception-only; a work of the teacher Vasubandhu.",
+          "ru": "«Двадцать строф» — доказательство «только-восприятия»; сочинение учителя Васубандху."
+        },
+        "root": false
+      }
+    ]
+  }
+];
+
+  const container = document.getElementById("textContainer");
+  const langControls = document.getElementById("langControls");
+  const toggleNumbersCheckbox = document.getElementById("toggleNumbers");
+  let globalSentenceCount = 1;
+
+  function collectLanguages(sections) {
+    const langs = new Set();
+    sections.forEach(section => {
+      (section.sentences || []).forEach(sentence => {
+        Object.keys(sentence.translations || {}).forEach(lang => langs.add(lang));
+      });
+    });
+    return Array.from(langs);
+  }
+
+  function toggleLanguage(lang, show) {
+    document.querySelectorAll(`.translation[data-lang="${lang}"]`).forEach(el => {
+      el.style.display = show ? "block" : "none";
+    });
+  }
+
+  function buildLanguageControls(languages) {
+    langControls.innerHTML = "";
+    if (!languages.length) {
+      const placeholder = document.createElement("span");
+      placeholder.textContent = "No translations found.";
+      langControls.appendChild(placeholder);
+      return;
+    }
+
+    languages.forEach(lang => {
+      const label = document.createElement("label");
+      const checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.checked = true;
+      checkbox.dataset.lang = lang;
+      checkbox.addEventListener("change", () => toggleLanguage(lang, checkbox.checked));
+      label.appendChild(checkbox);
+      label.appendChild(document.createTextNode(" " + lang.toUpperCase()));
+      langControls.appendChild(label);
+    });
+  }
+
+  function createSentenceBlock(sentence, number) {
+    const pair = document.createElement("div");
+    pair.className = "sentence-pair";
+
+    const header = document.createElement("div");
+    header.className = "header";
+
+    const numberDiv = document.createElement("span");
+    numberDiv.className = "sentence-number";
+    numberDiv.textContent = `${number}.`;
+
+    const originalDiv = document.createElement("div");
+    originalDiv.className = "original";
+    originalDiv.textContent = sentence.original || "";
+    if (sentence.root) {
+      originalDiv.classList.add("root-text");
+    }
+
+    const toggleIcon = document.createElement("span");
+    toggleIcon.className = "toggle-icon";
+    toggleIcon.textContent = "+";
+
+    header.appendChild(numberDiv);
+    header.appendChild(originalDiv);
+    header.appendChild(toggleIcon);
+
+    const content = document.createElement("div");
+    content.className = "content";
+
+    Object.entries(sentence.translations || {}).forEach(([lang, text]) => {
+      const transDiv = document.createElement("div");
+      transDiv.className = "translation";
+      transDiv.dataset.lang = lang;
+      transDiv.textContent = text;
+      content.appendChild(transDiv);
+    });
+
+    header.addEventListener("click", () => {
+      const isVisible = content.style.display === "block";
+      content.style.display = isVisible ? "none" : "block";
+      toggleIcon.textContent = isVisible ? "+" : "−";
+    });
+
+    pair.appendChild(header);
+    pair.appendChild(content);
+    return pair;
+  }
+
+  function createSection(sectionData) {
+    const section = document.createElement("div");
+    section.className = "section";
+
+    const header = document.createElement("div");
+    header.className = "section-header";
+    header.innerHTML = `
+      <span>${sectionData.sectionTitle || "Section"}</span>
+      <span class="toggle-icon">−</span>
+    `;
+
+    const content = document.createElement("div");
+    content.className = "section-content";
+
+    (sectionData.sentences || []).forEach(sentence => {
+      const block = createSentenceBlock(sentence, globalSentenceCount++);
+      content.appendChild(block);
+    });
+
+    header.addEventListener("click", () => {
+      const isVisible = content.style.display !== "none";
+      content.style.display = isVisible ? "none" : "block";
+      header.querySelector(".toggle-icon").textContent = isVisible ? "+" : "−";
+    });
+
+    section.appendChild(header);
+    section.appendChild(content);
+    return section;
+  }
+
+  const languages = collectLanguages(data);
+  buildLanguageControls(languages);
+  data.forEach(sectionData => {
+    const section = createSection(sectionData);
+    container.appendChild(section);
+  });
+
+  function toggleNumbers(show) {
+    document.querySelectorAll(".sentence-number").forEach(el => {
+      el.style.display = show ? "inline" : "none";
+    });
+  }
+
+  toggleNumbers(toggleNumbersCheckbox.checked);
+  toggleNumbersCheckbox.addEventListener("change", () => {
+    toggleNumbers(toggleNumbersCheckbox.checked);
+  });
+</script>
+
+</body>
+</html>
