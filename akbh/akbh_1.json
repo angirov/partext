@@ -1,0 +1,4507 @@
+[
+  {
+    "sectionTitle": "prathamaṃ kośasthānam",
+    "sentences": [
+      {
+        "original": "[001|03-001|07]\noṃ namo buddhāya\nyaḥ sarvathāsarvahatāndhakāraḥ saṃsārapaṅkājjagadujjahāra /\ntasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmyabhidharmakośam // VAkK_1.1 //",
+        "root": true
+      },
+      {
+        "original": "[001|08]\nśāstraṃ praṇetukāmaḥ svasya śāsturmāhātmyajñāpanārthaṃ guṇākhyānapūrvakaṃ tasmai namaskāramārabhate ya iti /",
+        "root": false
+      },
+      {
+        "original": "[001|09-001|10]\nbuddhaṃ bhagavantamadhikṛtyāha hatamasyāndhakāramanena veti hatāndhakāraḥ /",
+        "root": false
+      },
+      {
+        "original": "[001|10]\nsarveṇa prakāreṇa sarvasmin hatāndhakāraḥ sarvathāsarvahatāndhakāraḥ /",
+        "root": false
+      },
+      {
+        "original": "[001|10-001|11]\najñānaṃ hi bhūtārthadarśanapratibandhādhakāram /",
+        "root": false
+      },
+      {
+        "original": "[001|11-001|12]\ntacca bhagavato buddhasya pratipakṣalābhenātyantaṃ sarvathā sarvatra jñeye punaranutpattidharmatvāddhatam /",
+        "root": false
+      },
+      {
+        "original": "[001|12]\nato 'sau sarvathāsarvahatāndhakāraḥ /",
+        "root": false
+      },
+      {
+        "original": "[001|13]\npratyaikabuddhaśrāvakā api kāmaṃ sarvatra hatāndhakārāḥ /\nkliṣṭasaṃmohātyantavigamāt /",
+        "root": false
+      },
+      {
+        "original": "[001|14]\nna tu sarvathā /",
+        "root": false
+      },
+      {
+        "original": "[001|14-001|15]\ntatha hyeṣāṃ buddhadharmeṣvativiprakṛṣṭadeśakāleṣu artheṣu cānantaprabhedeṣu bhavatyevākliṣṭamajñānam /",
+        "root": false
+      },
+      {
+        "original": "[001|15-001|16]\nityātmahitapratipattisaṃpadā saṃstutya punastameva bhagavantaṃ parahitapratipattisaṃpadā saṃstauti saṃsārapaṅkājjagadujjahāreti /",
+        "root": false
+      },
+      {
+        "original": "[001|17]\nsaṃsāro hi jagadāsaṅgasthānatvāt duruttaratvācca paṅkabhūtaḥ /",
+        "root": false
+      },
+      {
+        "original": "[001|17-001|20]\ntatrāvamagnaṃ jagadatrāṇamanukampamāno bhagavān saddharmadeśanāhastapradānairyathābhavyamabhyuddhṛtavān iti ya evamātmaparahitapratipattisaṃpadā yuktastasmai namaskṛtyeti śirasā praṇipatya /",
+        "root": false
+      },
+      {
+        "original": "[001|20]\nyathārthamaviparītaṃ śāstīti yathārthaśāstā /",
+        "root": false
+      },
+      {
+        "original": "[001|20-001|21]\nanena parahitapratipattyupāyamasyāviṣkaroti /",
+        "root": false
+      },
+      {
+        "original": "[001|21-001|22]\nyathābhūtaśāsanācchāstā bhavanntasau saṃsārapaṅkājjagadujjahāra na tvṛddhivarapradānaprabhāveṇeti /",
+        "root": false
+      },
+      {
+        "original": "[001|22-002|01]\ntasmai namaskṛtya kiṃ kariṣyāmī tyāha śāstraṃ pravakṣyāmi /",
+        "root": false
+      },
+      {
+        "original": "[002|01]\nśiṣyaśāsanācchāstram /",
+        "root": false
+      },
+      {
+        "original": "[002|01-002|02]\nkatamacchāstramityāha abhidharmakośam",
+        "root": false
+      },
+      {
+        "original": "[002|02]\nko 'yamabhidharmo nāma /",
+        "root": false
+      },
+      {
+        "original": "[002|03]\nprajñā 'malā sānucarā 'bhidharmaḥ (1-2a)",
+        "root": true
+      },
+      {
+        "original": "[002|04]\ntatra prajñā dharmapravicayaḥ/\namaleti anāsravā /\nsānucareti saparivārā /",
+        "root": false
+      },
+      {
+        "original": "[002|04-002|05]\nevamanāsravaḥ pañcaskandhako 'bhidharma ityuktaṃ bhavati /",
+        "root": false
+      },
+      {
+        "original": "[002|05]\neṣa tāvat pāramārthiko 'bhidharmaḥ /",
+        "root": false
+      },
+      {
+        "original": "[002|06]\nsāṃketikastu",
+        "root": false
+      },
+      {
+        "original": "[002|07]\ntatprāptaye yāpi ca yacca śāstram / (1-2b)",
+        "root": true
+      },
+      {
+        "original": "[002|08-002|09]\nyāpi ca śrutacintābhāvanāmayī sāsravā prajñā upapattipratilambhikā ca sānucarā /",
+        "root": false
+      },
+      {
+        "original": "[002|09-002|10]\nyacca śāstramasyāḥ prāptyarthamanāsravāyāḥ prajñāyāḥ tadapi tatsaṃbhārabhāvādabhidharma ityucyate /",
+        "root": false
+      },
+      {
+        "original": "[002|10]\nnirvacanaṃ tu svalakṣaṇadhāraṇād dharmaḥ /",
+        "root": false
+      },
+      {
+        "original": "[002|10-002|11]\ntadayaṃ paramārthadharmaṃ vā nirvāṇaṃ dharmalakṣaṇaṃ vā pratyabhimukho dharma ityabhidharmaḥ /",
+        "root": false
+      },
+      {
+        "original": "[002|12]\nukto 'bhidharmaḥ /\nidaṃ tu śāstraṃ kathamabhidharmakośam /",
+        "root": false
+      },
+      {
+        "original": "[002|13-002|14]\ntasyārthato 'smin samanupraveśāt\nsa cāśrayo syetyabhidharmakośam (1-2c-2d) // VAkK_1.2 //",
+        "root": true
+      },
+      {
+        "original": "[002|15-002|16]\nsa hi śāstrasaṃjñako 'bhidharma etasminnarthato yathāpradhānamantarbhūta ityetacchāstraṃ tasya kośasthānīyaṃ bhavati /",
+        "root": false
+      },
+      {
+        "original": "[002|16]\nathavā so 'bhidharma etasyāśrayabhūtaḥ śāstrasya /",
+        "root": false
+      },
+      {
+        "original": "[002|17]\ntato hyetannirākṛṣṭam /\nataḥ sa evāsyābhidharmaḥ kośa ityetacchāstramabhidharvarmakośam /",
+        "root": false
+      },
+      {
+        "original": "[002|18-002|19]\nkimarthaṃ punarabhidharmopadeśaḥ kena cāyaṃ prathamata upadiṣṭo yaṭa ācāryo 'bhidharmakośaṃ vaktumādriyata iti //",
+        "root": false
+      },
+      {
+        "original": "[002|19]\nāha//",
+        "root": false
+      },
+      {
+        "original": "[002|20-002|23]\ndharmāṇāṃ pravicayamantareṇa nāsti kleśānāṃ yata upaśāntaye 'bhyupāyaḥ /\nkleśaiśca bhramati bhavārṇave 'tra lokastaddhetorata uditaḥ kilaiṣa śāstrā // VAkK_1.3 //",
+        "root": true
+      },
+      {
+        "original": "[002|24]\nyato na vinā dharmapravicayenāsti kleśopaśamābhyupāyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[002|24-003|01]\nkleśāśca lokaṃ bhramayanti saṃsāramahārṇeve 'sminan /",
+        "root": false
+      },
+      {
+        "original": "[003|01-003|02]\natastaddhetostasya dharmapravicayasyārthe śāstrā kila buddhenābhidharma uktaḥ /",
+        "root": false
+      },
+      {
+        "original": "[003|02]\nnahi vinā 'bhidharmopadeśena śiṣyaḥ śakto dharmān pravicetumiti /",
+        "root": false
+      },
+      {
+        "original": "[003|03-003|04]\nsa tu prakīrṇa ukto bhagavatā bhadantakātyāyanīputra-prabhṛtibhiḥ piṇḍīkṛtya sthapitobhadanta dharmatrāto dānavargīyakaraṇavadityāhurvaibhāṣikāḥ /",
+        "root": false
+      },
+      {
+        "original": "[003|05]\nkatame punaste dharmā yeṣāṃ pravicayārthamabhidharmopadeśa ityāha",
+        "root": false
+      },
+      {
+        "original": "[003|06]\nsāsravā 'nāsravā dharmāḥ (1-4a)",
+        "root": true
+      },
+      {
+        "original": "[003|07]\neṣa sarvadharmāṇāṃ samāsanirddeśaḥ /",
+        "root": false
+      },
+      {
+        "original": "[003|07-003|08]\ntatra katame sāsravā dharmā ityāha",
+        "root": false
+      },
+      {
+        "original": "[003|08-003|09]\nsaṃskṛtā mārgavarjitāḥ /\nsāsravāḥ (1-4b-4c1)",
+        "root": true
+      },
+      {
+        "original": "[003|10]\nmārgasatyaṃ varjayitvā 'nye saṃskṛtā dharmāḥ sāsravāḥ /\nkiṃ kāraṇam /",
+        "root": false
+      },
+      {
+        "original": "[003|11]\nāsravāsteṣu yasmāt samanuśerate (1-4c2-4d) // VAkK_1.4 //",
+        "root": true
+      },
+      {
+        "original": "[003|12-003|13]\nkāmaṃ nirodhamārgasatyālambanā api āsravā upajāyante na tinuśerate tatreti na tayoḥ sāsravatvaprasañgaḥ /",
+        "root": false
+      },
+      {
+        "original": "[003|13-003|14]\nyathā 'tra nānuśerate tat paścādanuśayanirdeśa eva jñāpayiṣyāmaḥ /",
+        "root": false
+      },
+      {
+        "original": "[003|14]\nuktāḥ sāsravāḥ /",
+        "root": false
+      },
+      {
+        "original": "[003|15]\nanasravāḥ katame /",
+        "root": false
+      },
+      {
+        "original": "[003|16]\nanāsravā mārgasatyaṃ trividhaṃ cāpyasaṃskṛtam / (1-5a-5b)",
+        "root": true
+      },
+      {
+        "original": "[003|17]\nkatamattri vidham /",
+        "root": false
+      },
+      {
+        "original": "[003|18]\nākāśaṃ dvau nirodhau ca (1-5c)",
+        "root": true
+      },
+      {
+        "original": "[003|19]\nkatamau dvau /\npratisaṃkhyānirodho 'pratisaṃkhyānirodhaśca /",
+        "root": false
+      },
+      {
+        "original": "[003|19-003|20]\nityetadākāśādi trividhamasaṃskṛtaṃ mārgasatyaṃ cānāsravā dharmāḥ /",
+        "root": false
+      },
+      {
+        "original": "[003|20]\nkiṃ kāraṇam /\nnahi teṣvāsravā anuśerata iti /",
+        "root": false
+      },
+      {
+        "original": "[003|21]\nyadetat trividhamasaṃskṛtamuddiṣṭam",
+        "root": false
+      },
+      {
+        "original": "[003|22]\ntatrākāśamanāvṛtiḥ (1-5d) // VAkK_1.5 //",
+        "root": true
+      },
+      {
+        "original": "[003|23]\nanāvaraṇasvabhāvamākāśaṃ yatra rūpasya gatiḥ //",
+        "root": false
+      },
+      {
+        "original": "[003|24]\npratisaṃkhyānirodho yo visaṃyogaḥ (1-6a-6b1)",
+        "root": true
+      },
+      {
+        "original": "[004|01]\nyaḥ sāsravairdharmairvisaṃyogaḥ sa pratisaṃkhyānirodhaḥ /",
+        "root": false
+      },
+      {
+        "original": "[004|01-004|02]\nduḥkhādīnāmāryasatyānāṃ pratisaṃkhyānaṃ pratisaṃkhyā prajñāviśeṣastena prāpyo nirodhaḥ /",
+        "root": false
+      },
+      {
+        "original": "[004|02]\npratisaṃkhyānirodhaḥ /",
+        "root": false
+      },
+      {
+        "original": "[004|02-004|03]\nmadhyapadalopāt gorathavat /",
+        "root": false
+      },
+      {
+        "original": "[004|04]\nkiṃ punareka eva sarveṣāṃ sāsravāṇāṃ dharmāṇāṃ pratisaṃkhyānirodhaḥ /\nnetyāha /",
+        "root": false
+      },
+      {
+        "original": "[004|05]\nkiṃ tarhi /",
+        "root": false
+      },
+      {
+        "original": "[004|06]\npṛthak pṛthak / (1-6b2)",
+        "root": true
+      },
+      {
+        "original": "[004|07]\nyāvanti hi saṃyogadravyāṇi tāvanti visaṃyogadravyāṇi /",
+        "root": false
+      },
+      {
+        "original": "[004|07-004|08]\nanyathā hi duḥkhadarśanaheyakleśanirodhasākṣātk karaṇāt sarvakleśanirodhasākṣātkriyā prasajyeta /",
+        "root": false
+      },
+      {
+        "original": "[004|08-004|09]\nsati caivaṃ śeṣapratipakṣabhāvanāvaiyarthyaṃ syāt /",
+        "root": false
+      },
+      {
+        "original": "[004|09-004|10]\nyattarhyuktam \"asabhāgonirodha\" ityasya ko 'rthaḥ /",
+        "root": false
+      },
+      {
+        "original": "[004|10-004|11]\nnāsya kaścit sabhāgaheturasti nāsau kasyacidityayamasya vākyasyārtho na tu nāsya kaśicat sabhāgo 'stīti /",
+        "root": false
+      },
+      {
+        "original": "[004|11]\nuktaḥ pratisaṃkhyānirodhaḥ //",
+        "root": false
+      },
+      {
+        "original": "[004|12]\nutpādātyantavighno 'nyo nirodho 'pratisaṃkhyayā (1-6c-6d) // VAkK_1.6 //",
+        "root": true
+      },
+      {
+        "original": "[004|13-004|14]\nanāgatānāṃ dharmāṇāmutpādasyātyantaṃ vighnabhūto visaṃyogād yo 'nyo nirodhaḥ so 'pratisaṃkhyānirodhaḥ /",
+        "root": false
+      },
+      {
+        "original": "[004|14]\nna hyasau pratisaṃkhyayā labhyate /\nkiṃ tarhi /\npratyayavaikalyāt /",
+        "root": false
+      },
+      {
+        "original": "[004|14-004|16]\nyathaikarūpavyāsaktacakṣurmanaso yāni rūpāṇi śabdagandharasaspraṣṭavyāni cātyayante tadālambanaiḥ pañcabhirvijñānakāyairna śakyaṃ punarutpattum /",
+        "root": false
+      },
+      {
+        "original": "[004|16-004|17]\nna hi te satyā atītaṃ viṣayamālambayi tulmiti /",
+        "root": false
+      },
+      {
+        "original": "[004|17]\nataḥ sa teṣāmapratisaṃkhyānirodhaḥ pratyayavaikalyāt prāpyate /",
+        "root": false
+      },
+      {
+        "original": "[004|18]\ncatuṣkoṭikaṃ cātra bhavati /\nsanti te dharmā yeṣāṃ pratisaṃkhyānirodha eva labhyate /",
+        "root": false
+      },
+      {
+        "original": "[004|19]\ntadyathā atitapratyutpannotpattidharmāṇāṃ sāsravāṇām /",
+        "root": false
+      },
+      {
+        "original": "[004|19-004|20]\nsanti yeṣāmapratisaṃkhyānirodha eva /",
+        "root": false
+      },
+      {
+        "original": "[004|20]\ntadyathā 'nutpattidharmāṇāmanāsravasaṃskṛtānām /\nsanti te yesāmubhayam /",
+        "root": false
+      },
+      {
+        "original": "[004|21]\ntadyathā sāsravāṇāmanutpasttidharmāṇām /\nsanti yeṣāṃ nobhayam /",
+        "root": false
+      },
+      {
+        "original": "[004|21-004|22]\ntadyathā atītapratyutpannotpattidharmāṇāmaṇāsravāṇāmiti /",
+        "root": false
+      },
+      {
+        "original": "[004|22]\nuktaṃ trividhamasaṃskṛtam //",
+        "root": false
+      },
+      {
+        "original": "[004|23]\nyattūktaṃ \"saṃskṛtā mārgavarjitāḥ /",
+        "root": false
+      },
+      {
+        "original": "[004|23-004|24]\nsāsravā\" iti katame te saṃskṛtāḥ /",
+        "root": false
+      },
+      {
+        "original": "[004|25]\nte punaḥ saṃskṛtā dhārmā rūpādiskandhapañcakam / (1-7a-7b)",
+        "root": true
+      },
+      {
+        "original": "[004|26]\nrūpaskandho vedanāskandhaḥ saṃskāraskandho vijñānaskandhaścetyete saṃskṛtā dharmāḥ /",
+        "root": false
+      },
+      {
+        "original": "[004|27]\nsametya saṃbhūya pratyayaiḥ kṛtāḥ iti saṃskṛtāḥ /\nnahyekapratyayajanitaṃ kiñcidastīti /",
+        "root": false
+      },
+      {
+        "original": "[004|27-005|01]\ntajjātīyatvādanāgateṣvavirodho dugdhendhanavat /",
+        "root": false
+      },
+      {
+        "original": "[005|02]\nta evādhvā kathāvastu saniḥsārāḥ savastukāḥ (1-7c-7d) // VAkK_1.7 //",
+        "root": true
+      },
+      {
+        "original": "[005|03]\nta eva saṃskṛtā gatagacchadgamiṣyadbhāvādadhvānaḥ adyante 'nitayatyeti vā /",
+        "root": false
+      },
+      {
+        "original": "[005|03-005|04]\nkathā vāvāyam tasyā vastu nāma /",
+        "root": false
+      },
+      {
+        "original": "[005|04]\nsārthakavastugrahaṇāt tu saṃskṛntaṃ kathāvastūcyate /",
+        "root": false
+      },
+      {
+        "original": "[005|04-005|05]\nanyathā hi urakaraṇagrantho virudhyeta /",
+        "root": false
+      },
+      {
+        "original": "[005|05]\n\"kathāvastūnyaṣṭādaśabhirdhatubhiḥ saṃgṛhītāni /\"",
+        "root": false
+      },
+      {
+        "original": "[005|05-005|06]\nniḥsaraṇaṃ niḥsāraḥ sarvasya saṃskṛtasya nirvāṇam /",
+        "root": false
+      },
+      {
+        "original": "[005|06]\ntadeṣāmastīti saniḥsārāḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|06-005|07]\nsahetukatvāt savastukāḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|07]\nhetuvacanaḥ kila vastuśabda iti vaibhāṣicāḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|07-005|08]\nityete saṃskṛtadharmauaryāyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|08]\nta eva puyaḥ saṃskṛtā dharamāḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|09]\nye sāsravā upādānaskandhāste (1-8a-8b1)",
+        "root": true
+      },
+      {
+        "original": "[005|10]\nataḥ kiṃ diddhaṃ /",
+        "root": false
+      },
+      {
+        "original": "[005|10-005|11]\nya upādānaskandhāḥ skandhā api te syuḥ eva nopādānaskandhāḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|11]\nanāsravāḥ saṃskārā iti\ntatra upādānāni kleśāḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|11-005|12]\ntatsaṃbhūtatvādupādānaskandhāḥ //",
+        "root": false
+      },
+      {
+        "original": "[005|12]\ntruṇatupāgnivat /\ntaddhidheyatvādvā rājapurūpavat /",
+        "root": false
+      },
+      {
+        "original": "[005|12-005|13]\nupādānāni vā tebhyaḥ saṃbhavantīti upādānaskandhāḥ puṣpaphalavṛkṣavat /",
+        "root": false
+      },
+      {
+        "original": "[005|13-005|14]\nta eva sāsravā dharmā ucyante /",
+        "root": false
+      },
+      {
+        "original": "[005|15]\nsaraṇā api / (1-8b2)",
+        "root": true
+      },
+      {
+        "original": "[005|16]\nraṇsā hi kleśāḥ /\nātmapāravyāvādhanāt /\nstadanuśayitatvāt saraṇāḥ /\nsāsravavat /\npunaḥ",
+        "root": false
+      },
+      {
+        "original": "[005|17]\nduḥkhaṃ samudayo loko dṛṣṭisthānaṃ bhavaśca te (1-8c-8d) // VAkK_1.8 //",
+        "root": true
+      },
+      {
+        "original": "[005|18]\nāryāṇāṃ pratikūlatvādduḥkham /\nsamudetyasmād duḥkhamiti samudayaḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|18-005|19]\nlakṣyata iti lokaḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|19]\ndṛṣṭirasmiṃstiṣṭhatyanuśayanāditi dṛṣṭisthānam /\nbhavatīti bhavaḥ",
+        "root": false
+      },
+      {
+        "original": "[005|20]\nityete sāsravāṇasaṃ dharmāṇāmānvarthaparyāyāḥ",
+        "root": false
+      },
+      {
+        "original": "[005|21]\npañca rūpādayaḥ skandhā ityuktam /\ntatra",
+        "root": false
+      },
+      {
+        "original": "[005|22]\nrūpaṃ pañcendriyāṇyarthāḥ pañcāvijñaptireva ca / (1-9a-9b)",
+        "root": true
+      },
+      {
+        "original": "[005|23]\npañcendriyāṇi cakṣuḥśtrotragrhāṇajihvākāyendariyā ṇa /",
+        "root": false
+      },
+      {
+        "original": "[005|23-005|24]\npañcārthāsteṣāmevacakṣurādīnāmindriyāṇāṃ yathāsvaṃ ye pañca viṣayāḥ rūpaśabdagandharasaspraṣṭavyākhyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|25]\navijñaptiśceti /\netāvān rūpaskandhaḥ",
+        "root": false
+      },
+      {
+        "original": "[005|26]\ntatra ya ete pañca rūpādayo 'rthā uktāḥ /",
+        "root": false
+      },
+      {
+        "original": "[005|27]\ntadvijñānāśrayā rūpaprasādāścakṣurādayaḥ (1-9c-9d) // VAkK_1.9 //",
+        "root": true
+      },
+      {
+        "original": "[006|01-006|02]\nrūpaśabdagandharasaspraṣṭavyavijñānānāmāśrayabhūtā ye pañca rūpātmakāḥ prasādāste yathākramaṃ cakṣuḥśrotraghrāṇajihvākāyā veditavyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|02-006|03]\nyathoktaṃ bhagavatā \"cakṣurbhikṣo ādhyātmikamāyatanaṃ catvāri mahābhūtānyupādāya\" rūpa prasāda iti vistaraḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|03-006|04]\nyānyetāni cakṣurādīnyuktani tadvijñānāśrayā rūpaprasādāścakṣurādayaḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|04-006|05]\ncakṣurvijñānādyāśrayā ityarthaḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|05]\nevaṃ kṛtvā prakaraṇagraṇtho 'pyanuvṛtto bhavati /\n\"cakṣuḥ katamat /",
+        "root": false
+      },
+      {
+        "original": "[006|05-006|06]\ncakṣurvijñānāśrayo rūpaprasāda\" iti vistaraḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|06]\nnirddiṣṭāni pañcendriyāṇi /",
+        "root": false
+      },
+      {
+        "original": "[006|07]\narthāḥ pañcā nirddeśyāḥ /\ntatra tāvat]",
+        "root": false
+      },
+      {
+        "original": "[006|08]\nrūpaṃ dvidhā",
+        "root": true
+      },
+      {
+        "original": "[006|09]\nvarṇaḥ saṃsthānaṃ ca /\ntatra varṇaścaturvidho nīlādiḥ /\ntadbhedā anye /",
+        "root": false
+      },
+      {
+        "original": "[006|09-006|10]\nsamsthānamaṣṭavidhaṃ dīrghadi visātāntam /",
+        "root": false
+      },
+      {
+        "original": "[006|10]\ntadeva rūpāyatanaṃ punarucyate /",
+        "root": false
+      },
+      {
+        "original": "[006|11]\nvimśatidhā",
+        "root": true
+      },
+      {
+        "original": "[006|12-006|13]\ntadyathā nīlaṃ pītaṃ lohitamavadātaṃ dīrghaṃ hrasvaṃ vṛttaṃ parimaṇḍalaṃ unnatamavanataṃ sātaṃ visātaṃ abhraṃ dhūmo rajo mahikā cchāyā ātapaḥ ālokaḥ andhakāramiti /",
+        "root": false
+      },
+      {
+        "original": "[006|13-006|14]\nkecinnabhaścaikavarṇamiti ekaviṃśatiṃ saṃpaṭhanti /",
+        "root": false
+      },
+      {
+        "original": "[006|14]\ntatra sātaṃ samasthānam / visātaṃ viṣama sthānaml mahikā nīhāraḥ / ātapaḥ sūryaprabhā /",
+        "root": false
+      },
+      {
+        "original": "[006|14-006|15]\nālokaḥ candratārakāgnyoṣadhimaṇīnaṃ prabhā /",
+        "root": false
+      },
+      {
+        "original": "[006|16]\nchāyā yatra rūpāṇāṃ darśanam /\nviparyayādandhakāram /",
+        "root": false
+      },
+      {
+        "original": "[006|16-006|17]\nśeṣaṃ sugamatvānna vipañcitam /",
+        "root": false
+      },
+      {
+        "original": "[006|17]\nasti rūpāyatanaṃ varṇato vidyate na saṃsthānataḥ",
+        "root": false
+      },
+      {
+        "original": "[006|17-006|18]\nnīlapītalohitavadātacchāyātapālokāndhakārākhyam /",
+        "root": false
+      },
+      {
+        "original": "[006|18]\nasti saṃsthānato na varṇataḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|18-006|19]\nghādīnāṃ pradeṣaḥ kāyavijñaptisvabhāvaḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|19]\nastyubhayathā /\npariśiṣṭaṃ rūpāyatanam /",
+        "root": false
+      },
+      {
+        "original": "[006|19-006|20]\nātapālokāveva varṇato vidyete ityapare /",
+        "root": false
+      },
+      {
+        "original": "[006|20]\n\"dṛśyate hi nīlādīnaṃ dīrghādipariccheda\" iti /",
+        "root": false
+      },
+      {
+        "original": "[006|21]\nkathaṃ punarekaṃ dravyamubhayathā vidyate /\nastyubhayasya tatra prajñānāt /",
+        "root": false
+      },
+      {
+        "original": "[006|21-006|22]\njñānārtho hyeṣa vidirna sattārthaḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|22]\nkāyavijñaptāvapi tarhi prasaṅgaḥ /\nuktaṃ rūpāyatanaṃ //",
+        "root": false
+      },
+      {
+        "original": "[006|23]\nśabdastvaṣṭavidhaḥ /",
+        "root": true
+      },
+      {
+        "original": "[006|24]\nupāttānupāttamahābhūtahetukaḥ sattvāsattvākhyaśceti caturvidhaḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|24-006|25]\npunarmanojñāmanojñabhedādaṣṭavidho bhavati /",
+        "root": false
+      },
+      {
+        "original": "[006|25-006|26]\ntatropāttamahābhūtahetuko yathā hastavākchabdaḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|26]\nanupāttamahābhutahetuko yathā vāyuvanaspatinadīśabdaḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|26-006|27]\nsattvākhyo vāgvijñaptiṣabdaḥ /",
+        "root": false
+      },
+      {
+        "original": "[006|27]\nasattvākhyo 'nyaḥ",
+        "root": false
+      },
+      {
+        "original": "[006|27-006|28]\nupāttānupāttamahābhūtahetuko 'pyasti śabda ityapare /",
+        "root": false
+      },
+      {
+        "original": "[006|28]\ntadyathā hastamṛdaṅgasaṃyogaja iti /",
+        "root": false
+      },
+      {
+        "original": "[006|28-007|01]\nsa tu yathaikau varṇaparamāṇurna bhūtacatuṣkadvayamupādāyeṣyate tathā naivaiṣṭavya iti /",
+        "root": false
+      },
+      {
+        "original": "[007|01]\nuktaḥ śabdaḥ //",
+        "root": false
+      },
+      {
+        "original": "[007|02]\nrasaḥ /",
+        "root": true
+      },
+      {
+        "original": "[007|03]\nṣoḍha",
+        "root": true
+      },
+      {
+        "original": "[007|04]\nmadhurāmlalavaṇakaṭukatittakaṣāyabhedāt /",
+        "root": false
+      },
+      {
+        "original": "[007|05]\ncaturvidho gandhaḥ",
+        "root": true
+      },
+      {
+        "original": "[007|06]\nsugandhadurgandhayoḥ samaviṣamagandhatvāt /\ntrividhastu śāstre /",
+        "root": false
+      },
+      {
+        "original": "[007|06-007|07]\n\"sugandho durgandhaḥ samagandha\" iti /",
+        "root": false
+      },
+      {
+        "original": "[007|08]\nspṛśyamekādaśātmadkam // VAkK_1.10 //",
+        "root": true
+      },
+      {
+        "original": "[007|09]\nspraṣṭavyamekādaśadravyasvabhāvam /",
+        "root": false
+      },
+      {
+        "original": "[007|09-007|10]\ncatvāri mahābhūtāni ślakṣṇatvaṃ karkaśatvaṃ gurutvaṃ laghutvaṃ śītaṃ jighatsā pipāsā ceti /",
+        "root": false
+      },
+      {
+        "original": "[007|10]\ntatra bhūtāni paścādvakṣyāmḥ /",
+        "root": false
+      },
+      {
+        "original": "[007|10-007|11]\nślakṣṇatvaṃ mṛdutā /",
+        "root": false
+      },
+      {
+        "original": "[007|11]\nkarkaśatvaṃ paruṣatā /\ngurutvaṃ yena bhāvāstulyante /\nlaghutvaṃ viparyayāt /",
+        "root": false
+      },
+      {
+        "original": "[007|11-007|12]\nśītamuṣṇābhilāṣakṛt /",
+        "root": false
+      },
+      {
+        "original": "[007|12]\njighatsā bhojanābhilāṣakṛt /\nkāraṇe kāryopacārāt /\nyathā",
+        "root": false
+      },
+      {
+        "original": "[007|13-007|14]\n\"buddhānāṃ sukha utpādaḥ sukhā dharmasya deśanā /\nsukhā saṅghasya sāmagrī samagrāṇāṃ tapaḥ sukhaṃ\" // iti /",
+        "root": false
+      },
+      {
+        "original": "[007|15]\ntatra rūpadhātau jighatsāpipāse na staḥ /\nśeṣamasti",
+        "root": false
+      },
+      {
+        "original": "[007|15-007|16]\nyadyapi tatra vastrāṇyekaśo na tulyante sañcitāni punastulyante /",
+        "root": false
+      },
+      {
+        "original": "[007|16]\nśītamupaghātakaṃ nāsti /",
+        "root": false
+      },
+      {
+        "original": "[007|16-007|17]\nanugrāhakaṃ kilāsti /",
+        "root": false
+      },
+      {
+        "original": "[007|18-007|19]\nyadetadbahuvidhaṃ rūpamuktaṃ tatra kadācidekena dravyeṇa cakṣurvijñānamutpadyate yadā tatprakāravyavacchedo bhavati /",
+        "root": false
+      },
+      {
+        "original": "[007|19]\nkadācid bahubhiryadā na vyavacchedaḥ /",
+        "root": false
+      },
+      {
+        "original": "[007|19-007|20]\ntadyathā senāvyūhamanekavarṇasaṃsthānaṃ maṇisamūhaṃ ca dūrāt paśyataḥ /",
+        "root": false
+      },
+      {
+        "original": "[007|20]\nevaṃ śrotrādivijñānaṃ veditavyaṃ /",
+        "root": false
+      },
+      {
+        "original": "[007|21]\nkāyavijñānaṃ tu paraṃ pañcabhiḥ spraṣṭavyairutpadyata ityeke /",
+        "root": false
+      },
+      {
+        "original": "[007|21-007|22]\ncaturbhirmahābhūtairekena ca ślakṣṇatvādinā /",
+        "root": false
+      },
+      {
+        "original": "[007|22]\nsarvairekādaśabhirityapare /",
+        "root": false
+      },
+      {
+        "original": "[007|22-007|23]\nnanu caivaṃ samastālambanatvāt sāmānyaviṣayāḥ pañca vijñānakāyāḥ prāpnuvanti na svalakṣaṇaviṣayāḥ /",
+        "root": false
+      },
+      {
+        "original": "[007|23-007|24]\nāyatanasvalakṣaṇaṃ pratyete svalakṣaṇaviṣayā iṣyante na dravyasvalakṣaṇamityadoṣaḥ /",
+        "root": false
+      },
+      {
+        "original": "[007|25]\nidaṃ vicāryate /",
+        "root": false
+      },
+      {
+        "original": "[007|25-007|26]\nkāyajihvendriyayoryugapad viṣayaprāptau satyāṃ katarad vijñānaṃ pūrvamutpadyate /",
+        "root": false
+      },
+      {
+        "original": "[007|26]\nyasya viṣayaḥ paṭīyān /",
+        "root": false
+      },
+      {
+        "original": "[007|26-007|27]\nsamaprāpte tu viṣaye jihvāvijñānaṃ pūrvamutpadyate /",
+        "root": false
+      },
+      {
+        "original": "[007|27]\nbhoktukāmatāvarjitatvātsasntateḥ /",
+        "root": false
+      },
+      {
+        "original": "[007|27-007|28]\nuktāḥ pañācendriyārthāḥ yathā ca teṣāṃ grahaṇaṃ /",
+        "root": false
+      },
+      {
+        "original": "[007|29]\navijñaptiridānīṃ vaktavyā /\nseyamucyate",
+        "root": false
+      },
+      {
+        "original": "[008|01-008|02]\nvikṣiptācittakasyāpi yo 'nubaṇdhaḥ śubhāśubhaḥ /\nmahābhūtānyupādāya sa hyavijñaptirucyate // VAkK_1.11 //",
+        "root": true
+      },
+      {
+        "original": "[008|03]\nvikṣiptacittakasyeti tadanyacittasyāpi //",
+        "root": false
+      },
+      {
+        "original": "[008|03-008|04]\nacittakasyāpītyasaṃjñinirodhasamāpattisamāpannasyāpi /",
+        "root": false
+      },
+      {
+        "original": "[008|04]\napiśabdenāvikṣiptasacittasyāpīti vijñāyate /",
+        "root": false
+      },
+      {
+        "original": "[008|05]\nyo 'nu bandha iti yaḥ pravāhaḥ /\nśubhāśubha iti kuśalākuśalaḥ /",
+        "root": false
+      },
+      {
+        "original": "[008|05-008|06]\nkuśalākuśale prāptivāho 'pyastīdṛśa iti tadviśeṣaṇārthamucyate mahābhūtānyupādāyeti /",
+        "root": false
+      },
+      {
+        "original": "[008|07]\nhetvartha upādāyārtha iti vaibhāṣikāḥ /\njananādihetubhāvāt /",
+        "root": false
+      },
+      {
+        "original": "[008|07-008|08]\nsa hyavijñaptiriti hiśabdastannāmakaraṇavijñāpanārthaḥ /",
+        "root": false
+      },
+      {
+        "original": "[008|08-008|09]\nrūpakriyāsvabhāvāpi satī vijñaptivat paraṃ na vijñāpayatītyavijñaptiḥ /",
+        "root": false
+      },
+      {
+        "original": "[008|09-008|09\nucyata iti ācāryavacanaṃ darśayati /",
+        "root": false
+      },
+      {
+        "original": "[008|09-008|10]\nsamāsatastu vijñaptisamādhisaṃbhūtaṃ kuśalākuśalaṃ rūpamavijñaptiḥ /",
+        "root": false
+      },
+      {
+        "original": "[008|11]\nmahābhūtānyupādāyetyuktāni katamāni bhūtāni /",
+        "root": false
+      },
+      {
+        "original": "[008|12]\nbhūtāni pṛthivīdhāturaptejovāyudhātavaḥ",
+        "root": true
+      },
+      {
+        "original": "[008|13]\nityete catvāraḥ svalakṣaṇopādāyarūpadhāraṇād dhātavaścatvāri mahābhūtāny ucyante /",
+        "root": false
+      },
+      {
+        "original": "[008|14]\nmahattvameṣāṃ sarvānyarūpāśrayatvenaudārikatvāt /",
+        "root": false
+      },
+      {
+        "original": "[008|14-008|15]\natha vā tadudbhūtavṛttiṣu pṛthivyaptejovāyuskandheṣveṣāṃ mahāsṇniveśatvāt /",
+        "root": false
+      },
+      {
+        "original": "[008|15-008|16]\nte punahete dhātavaḥ kasmin karmaṇi saṃsidhāḥ kiṃsvabhāvāścetyāha",
+        "root": false
+      },
+      {
+        "original": "[008|17]\ndhṛtyādikarmasaṃsiddhāḥ",
+        "root": true
+      },
+      {
+        "original": "[008|18]\ndhṛtisaṃgrahapaktivyūhanakarmasvete yathākramaṃ saṃsiddhāḥ pṛthivyaptejovāyudhātavaḥ /",
+        "root": false
+      },
+      {
+        "original": "[008|18-008|19]\nvyūhanaṃ punarvṛddhiḥ prasarpaṇaṃ ca veditavyam /",
+        "root": false
+      },
+      {
+        "original": "[008|19]\nidameṣāṃ karma /\nsvabhāvastu yathākramaṃ",
+        "root": false
+      },
+      {
+        "original": "[008|20]\nkharasnehosṇateraṇāḥ // VAkK_1.12 //",
+        "root": true
+      },
+      {
+        "original": "[008|21]\nkharaḥ pṛthivīdhātuḥ /\nsneho 'bdhātuḥ /\nuṣṇatā tejodhātuḥ /",
+        "root": false
+      },
+      {
+        "original": "[008|22]\nīraṇā vāyudhātuḥ /\nīryate 'nayā bhūtasroto deśāntarotpādanāt pradīperaṇavaditīraṇā /",
+        "root": false
+      },
+      {
+        "original": "[008|23]\n\"vāyudhātuḥ katamo laghusamudīraṇatvam\" iti prakāraṇeṣu nirdiṣṭaṃ sūtre ca /",
+        "root": false
+      },
+      {
+        "original": "[008|23-008|24]\ntattu laghutvamupādāya rūpamapyuktaṃ prakaraṇeṣu /",
+        "root": false
+      },
+      {
+        "original": "[008|24-008|25]\nato ya īraṇāsvabhāvo dharmaḥ sa vāyuriti karṃaṇā 'sya svabhāvo 'bhivyaktaḥ /",
+        "root": false
+      },
+      {
+        "original": "[008|26]\nkaḥ punaḥ pṛthivyādināṃ pṛthivīdhātvādīnāṃ ca viśeṣaḥ /",
+        "root": false
+      },
+      {
+        "original": "[009|01]\npṛthivī varṇasaṃsthānamucyate lokasaṃjñayā /\n[009|02]\ntathā hi pṛthivīṃ darśayanto varṇaṃ saṃsthānaṃ ca darśayanti /\nyathā pṛthivī evaṃ",
+        "root": true
+      },
+      {
+        "original": "[009|03]\nāpastejaśca",
+        "root": true
+      },
+      {
+        "original": "[009|04]\nvarṇasaṃsthānamevocyate lokasaṃjñayā /",
+        "root": false
+      },
+      {
+        "original": "[009|05]\nvāyustu dhātureva",
+        "root": true
+      },
+      {
+        "original": "[009|06]\nya eva tu vāyudhātuḥ sa eva loke vāyuarityucyate /",
+        "root": false
+      },
+      {
+        "original": "[009|07]\ntathapi ca // VAkK_1.13 //",
+        "root": true
+      },
+      {
+        "original": "[009|08]\nyathā pṛthivī varṇasaṃsthānamucyate lokasaṃjñayā tatha vāyuarapi /",
+        "root": false
+      },
+      {
+        "original": "[009|08-009|09]\nnīlikā vātyā maṇḍalikā vātyeti //",
+        "root": false
+      },
+      {
+        "original": "[009|10]\nkasmāt punarayamavijñaptiparyanto rūpaskandha ityucyate /\nraupaṇāt /",
+        "root": false
+      },
+      {
+        "original": "[009|10-009|11]\nuktaṃ bhagavatā \"rūpyate rupyata iti bhikṣavastasmādrūpopādānasdandha ityucyate //",
+        "root": false
+      },
+      {
+        "original": "[009|11-009|12]\nkena rupyate /",
+        "root": false
+      },
+      {
+        "original": "[009|12]\npāṇisparśenāpi spṛṣṭo rūpyata\" iti vistaraḥ /\nrūpyate bādhyata ityarthaḥ /",
+        "root": false
+      },
+      {
+        "original": "[009|13]\ntathā hyarthavargīyeṣūktam",
+        "root": false
+      },
+      {
+        "original": "[009|14-009|15]\n\"tasya cet kāmayānasya cchandajātasya dehinaḥ /\nte kāmā na samṛdhyanti śalyaviddha iva rūpyate //\"",
+        "root": false
+      },
+      {
+        "original": "[009|16]\nrūpasya punaḥ kā badhanā /\nvipariṇāmotpādanā /",
+        "root": false
+      },
+      {
+        "original": "[009|16-009|17]\npratighāto rūpeṇetyapare /",
+        "root": false
+      },
+      {
+        "original": "[009|17]\nparamāṇurūpaṃ tarhi rūpaṃ na prāpnotyarūpaṇāt /",
+        "root": false
+      },
+      {
+        "original": "[009|17-009|18]\nna vai paramāṇurūpamekaṃ pṛthag bhūtamasti /",
+        "root": false
+      },
+      {
+        "original": "[009|18]\nsañghātasthaṃ tu tad rūpyata eva /",
+        "root": false
+      },
+      {
+        "original": "[009|18-009|19]\natītānāgataṃ tarhi rūpaṃ na prāpnoti /",
+        "root": false
+      },
+      {
+        "original": "[009|19]\ntadapi rūpitaṃ rūpayiṣyamāṇaṃ tajjātīyaṃ ceti rūpamindhanavat /",
+        "root": false
+      },
+      {
+        "original": "[009|19-009|20]\navijñaptistarhi na prāpnoti /",
+        "root": false
+      },
+      {
+        "original": "[009|20]\nsāpi vijñaptirūpaṇād rūpitā bhavati /",
+        "root": false
+      },
+      {
+        "original": "[009|20-009|21]\nvṛkṣapracalane cchāyāpracalanavat /",
+        "root": false
+      },
+      {
+        "original": "[009|21]\nnāvikārāt /",
+        "root": false
+      },
+      {
+        "original": "[009|21-009|22]\nvijñaptinivṛttau cāvijñaptinivṛttiḥ syād vṛkṣābhāve cchāyā 'bhāvavat /",
+        "root": false
+      },
+      {
+        "original": "[009|22-009|23]\nāśrayabhūtarūpaṇādityapare evaṃ tarhi cakṣurvijñānādīnāmapyāśrayarūpaṇāt rūpatvaprasaṅgaḥ /",
+        "root": false
+      },
+      {
+        "original": "[009|23]\nviṣamo 'yamupanyāsaḥ /",
+        "root": false
+      },
+      {
+        "original": "[009|23-009|24]\navijñaptirhi cchāyeva vṛkṣaṃ prabheva maṇiṃ bhūtānyāśrtya varttate /",
+        "root": false
+      },
+      {
+        "original": "[009|24-009|25]\nna tvevaṃ cakṣurādīnyāśritya varttante cakṣurvijñānādīni kevalaṃ tūtpattinimiktamātraṃ tāni teṣāṃ bhavantīti /",
+        "root": false
+      },
+      {
+        "original": "[009|25-009|26]\nidaṃ tāvadavaibhāṣikīyaṃ vṛkṣamāśritya cchāyā varttate maṇiṃ cāśritya prabheti /",
+        "root": false
+      },
+      {
+        "original": "[009|26-010|01]\ncchāyādivarṇaparamāṇūnāṃ pratyekaṃ svabhūtacatuṣkāśritatvābhyupagamāt /",
+        "root": false
+      },
+      {
+        "original": "[010|01]\nsatyapi ca tadāśritatve cchāyāprabhayornāvijñaptistathaivāśritā /\nyujyate /",
+        "root": false
+      },
+      {
+        "original": "[010|02]\nniruddheṣvapi avijña ptyāśayeṣu mahābhūteṣu tasyā anirodho 'bhyupagamyate /",
+        "root": false
+      },
+      {
+        "original": "[010|02-010|03]\nato na bhavatyeṣa parihāraḥ /",
+        "root": false
+      },
+      {
+        "original": "[010|03-010|04]\nanye punaratra parihāramāhuḥ cakṣurvijñānādīnāmāśrayo bhedaṃ gataḥ /",
+        "root": false
+      },
+      {
+        "original": "[010|04]\nkaṣcidrūpyate cakṣurādiḥ kaścinna rūpyate yathā manaḥ /",
+        "root": false
+      },
+      {
+        "original": "[010|05]\nna tvevamavijñaptiḥ /",
+        "root": false
+      },
+      {
+        "original": "[010|05-010|06]\ntasmādasamānaḥ prasaṅgaḥ ityata upapannametadāśraya rūpaṇādrūpamiti /",
+        "root": false
+      },
+      {
+        "original": "[010|07]\nya eva rūpaskandhasvabhāvā uktāḥ",
+        "root": false
+      },
+      {
+        "original": "[010|08]\nindriyārthasta eveṣṭā aśāyatanadhātavaḥ /",
+        "root": true
+      },
+      {
+        "original": "[010|09]\nāyatanavyavasthāyāṃ daśāyatanāni /",
+        "root": false
+      },
+      {
+        "original": "[010|09-010|10]\ncakṣurāyatanaṃ rūpāyatanaṃ yāvat kāyāyatanaṃ spraṣṭavyāyatanamiti /",
+        "root": false
+      },
+      {
+        "original": "[010|10-010|11]\ndhātuvyavasthāyāṃ ta eva daśadhātavaścakṣurchātū rūpadhāturyāvat kāyadhātuḥ spraṣṭavyadhāturiti /",
+        "root": false
+      },
+      {
+        "original": "[010|11]\nukto rūpaskandhastasya cāyatanavyavasthānam /",
+        "root": false
+      },
+      {
+        "original": "[010|12=01012]\nvedanādayo vaktavyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[010|12]\ntatra",
+        "root": false
+      },
+      {
+        "original": "[010|13]\nvedanā 'nubhavaḥ",
+        "root": true
+      },
+      {
+        "original": "[010|14]\ntrividho 'nubhavo vedanāskandhaḥ /\nsukho duḥkho , duḥkhāsukhaśca /",
+        "root": false
+      },
+      {
+        "original": "[010|14-010|15]\nsa punarbhidyamānaḥ ṣaḍ vedanākāyāḥ cakṣuḥsaṃsparśajā vedanā yāvamvanaḥsaṃsparśajā vedaneti /",
+        "root": false
+      },
+      {
+        "original": "[010|16]\nsaṃjñā nimittodgrahaṇātmikā // VAkK_1.14 //",
+        "root": true
+      },
+      {
+        "original": "[010|17-010|18]\nyāvannīlapītadīrghahrasvastripuruṣamitramitrasukhaduḥkhādinimittodgrahaṇamasau saṃjñāskandhaḥ /",
+        "root": false
+      },
+      {
+        "original": "[010|18]\nsa punarbhidyamānaḥ ṣaṭsaṃjñākāyā vedanāvat //",
+        "root": false
+      },
+      {
+        "original": "[010|19]\ncaturbhyo 'nye tu saṃskāraskandhaḥ",
+        "root": true
+      },
+      {
+        "original": "[010|20]\nrūpavedanāsaṃjñāvijñānebhyaścatubbryo 'nye tu saṃskārāḥ saṃskāraskandhaḥ/",
+        "root": false
+      },
+      {
+        "original": "[010|20-010|21]\nbhagavatā tu sūtre ṣaṭ cetanākāyā ityuktaṃ prādhānyāt /",
+        "root": false
+      },
+      {
+        "original": "[010|21-010|22]\nsā hi karmasvarūpatvādabhisaṃskaraṇe pradhānā /",
+        "root": false
+      },
+      {
+        "original": "[010|22-010|23]\nata evoktaṃ bhagavatā \"saṃskṛtamabhisaṃskaroti /",
+        "root": false
+      },
+      {
+        "original": "[010|23]\ntasmāt saṃskārā upādānaskandha ity ucyata\" iti",
+        "root": false
+      },
+      {
+        "original": "[010|23-010|25]\nanyathā hi śeṣāṇāṃ caitasikānāṃ viprayuktānāṃ ca saṃskārāṇāṃ skandhāsaṃgrahādduḥkhasamudayasatyatvaṃ na syāditi parijñāparihāṇe api na syātām/",
+        "root": false
+      },
+      {
+        "original": "[010|25-010|26]\nuktaṃ ca bhagavatā \"nāhamekadharmamapi anabhijñāyāparijñāya duḥkhasyāntakriyāṃ vadāmīti /",
+        "root": false
+      },
+      {
+        "original": "[010|26]\nevamaprahāye\" tyuktam /",
+        "root": false
+      },
+      {
+        "original": "[011|01]\ntasmādavaśyameṣāṃ saṃskāraskandhasaṃgraho \"bhyupagantavyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[011|02]\nete punastrayaḥ /",
+        "root": true
+      },
+      {
+        "original": "[011|03]\nvedanāsaṃjñāsaṃskāraskandhāḥ āyatanadhātuvyavasthāyāṃ",
+        "root": false
+      },
+      {
+        "original": "[011|04]\ndharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ // VAkK_1.15 //",
+        "root": true
+      },
+      {
+        "original": "[011|05]\nityetāni sapta dravyāṇi dharmāyatanaṃ dharmadhātuścetyākhyāyante /",
+        "root": false
+      },
+      {
+        "original": "[011|06]\nvijñānaṃ prativijñaptiḥ",
+        "root": true
+      },
+      {
+        "original": "[011|07]\nviṣayaṃ viṣayaṃ prati vijñaptirupalabdhirvijñāna skandha ityucyate /",
+        "root": false
+      },
+      {
+        "original": "[011|07-011|08]\nsa punaḥ ṣaḍ vijñānakāyāḥ cakṣurvijñānaṃ yāvanmanovijñānamiti /",
+        "root": false
+      },
+      {
+        "original": "[011|08-011|09]\nya eṣa vijñānaskandha ukta āyatanavyavasthāyāṃ",
+        "root": false
+      },
+      {
+        "original": "[011|10]\nmana āyatanaṃ ca tat /",
+        "root": true
+      },
+      {
+        "original": "[011|11]\ndhātuvyavasthāyāṃ sa eva",
+        "root": false
+      },
+      {
+        "original": "[011|12]\ndhātavaḥ saspta ca matāḥ",
+        "root": true
+      },
+      {
+        "original": "[011|13]\nkatame sapta /",
+        "root": false
+      },
+      {
+        "original": "[011|14]\nṣaḍ vijñānānyatho manaḥ // VAkK_1.16 //",
+        "root": true
+      },
+      {
+        "original": "[011|15]\ncakṣurvijñānadhāturyāvanmanovijñānadhātumanodhātuśca /",
+        "root": false
+      },
+      {
+        "original": "[011|15-011|16]\nevamatra pañca skandhā dvādaśāyatanāni aṣṭādaśa dhātavo nirddiṣṭā bhavaṇti /",
+        "root": false
+      },
+      {
+        "original": "[011|16-011|17]\navijñaptivarjyo rūpaskandho daśāyatanāni daśa dhatavaḥ /",
+        "root": false
+      },
+      {
+        "original": "[011|17-011|18]\nvedanā dayaḥ skandhāstrayo \"vijñaptirasaṃskṛtāni ca dharmāyatanaṃ dharmadhātuśca vijñānaskandho mana āyatanaṃ ṣaḍ vijñānadhātavo manodhātuśceti //",
+        "root": false
+      },
+      {
+        "original": "[011|19]\nnanu ca ṣaḍ vijñānakāyā vijñānaskandha ityuktam /",
+        "root": false
+      },
+      {
+        "original": "[011|19-011|20]\natha ko \"yaṃ punastebhyo \"nyo manodhātuḥ na khalu kaścidanyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[011|20]\nkiṃ narhi /\nteṣāmeva",
+        "root": false
+      },
+      {
+        "original": "[011|21]\nṣaṇṇāmanantarātītaṃ vijñānaṃ yaddhi tanmanaḥ /",
+        "root": true
+      },
+      {
+        "original": "[011|22]\nyadyatsamanantaraniruddhaṃ vijñānaṃ tanmanodhāturityucyeta /",
+        "root": false
+      },
+      {
+        "original": "[011|22-011|23]\ntadyathā sa eva putro \"nyasya pitā bhavati tadeva phalamanyasya bījamiti /",
+        "root": false
+      },
+      {
+        "original": "[011|23-011|25]\nevaṃ tarhi dravyataḥ saptadaśa dhātavo bhavanti dvādaśa vā ṣaḍvijñānadhātumanodhātūnāmitaretarāntarbhāvāditi kasmādaṣṭādāśa vyavasthāpyante /",
+        "root": false
+      },
+      {
+        "original": "[011|25]\nyadyapyevaṃ tathāpi",
+        "root": false
+      },
+      {
+        "original": "[011|26]\nṣaṣṭhāśrayaprasiddhyartha dhātavo \"ṣādaś smṛtāḥ // VAkK_1.17 //",
+        "root": true
+      },
+      {
+        "original": "[011|27]\npañcānāṃ vijñānadhātūnāṃ cakṣurdhātvāyatanādayaḥ pañcāśrayāḥ /",
+        "root": false
+      },
+      {
+        "original": "[011|28]\nṣaṣṭhasya manovijñānadhātorāśrayo \"nyo nāsti /",
+        "root": false
+      },
+      {
+        "original": "[011|28-011|29]\natastadāśrayaprasiddhacyartha manodhāturūpadiṣṭaḥ /",
+        "root": false
+      },
+      {
+        "original": "[011|29-012|01]\nevamāśrayāśritālambanaṣṭkavyavasathānādaṣṭādaśa dhātavo bhavantīti /",
+        "root": false
+      },
+      {
+        "original": "[012|01]\narhatastarhi caramaṃ cittam na mano bhaviṣyati /",
+        "root": false
+      },
+      {
+        "original": "[012|02]\nnahi tadasti yasya tatsasmanantarātītaṃ syāditi /\nna /",
+        "root": false
+      },
+      {
+        "original": "[012|02-012|03]\ntasyāpi manobhāvenāvasthitatvāt /",
+        "root": false
+      },
+      {
+        "original": "[012|03]\nanyakāraṇavaikalyāttu nottaravijñānasaṃbhūtiḥ //",
+        "root": false
+      },
+      {
+        "original": "[012|04]\ntatra skandhaiḥ sarvasaṃskṛtasaṃgrahaḥ /",
+        "root": false
+      },
+      {
+        "original": "[012|04-012|05]\nupādānaskandhaiḥ sarvasāsravāṇāmā yatanadhātubhiḥ sarvadharmāṇām /",
+        "root": false
+      },
+      {
+        "original": "[012|05]\nsamāsatastu jñātavyaḥ",
+        "root": false
+      },
+      {
+        "original": "[012|06-012|07]\nsarvasaṃgraha ekena skandehnāyatanena ca\ndhātunā ca",
+        "root": true
+      },
+      {
+        "original": "[012|08]\nrūpaskandhena mana āyatanena dharmadhātunā ca sarvadharmāṇāṃ saṃgraho boddhavyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[012|08-012|09]\nsa khalveṣa saṃgraho yatra kvaciducyamāno veditavyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[012|10]\nsvabhāvena",
+        "root": true
+      },
+      {
+        "original": "[012|11]\nna parabhāvena /\nkim kāraṇam /",
+        "root": false
+      },
+      {
+        "original": "[012|12]\nparabhāvaviyogataḥ // VAkK_1.18 //",
+        "root": true
+      },
+      {
+        "original": "[012|13]\nviyukto hi parabhavena dharmaḥ /\ntasmānna yena viyuktastenaiva saṃgṛhīto yujyate /",
+        "root": false
+      },
+      {
+        "original": "[012|13-012|14]\ntadyathā cakṣurindriyaṃ rūpaskandhena cakṣurāyatanadhātubhyāṃ ca duḥkhasamudayasatyābhyāṃ ca saṃgṛhītam /",
+        "root": false
+      },
+      {
+        "original": "[012|15]\ntatsvabhāvatvāt /\nnānyaiḥ skandhādibhistadbhāva viyuktatvāt /",
+        "root": false
+      },
+      {
+        "original": "[012|15-012|16]\nyastvanyenānyasya saṃgraha ucyate yathā saṃgrahavastubhiḥ parṣadāṃ sa hi kādācitkatvāt sāṃketiko veditavyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[012|17]\nnanu caikaviṃśatyā dhātubhirbhavitavyam /\ncakṣuṣo dvitvāt śrotraghrāṇayośca /",
+        "root": false
+      },
+      {
+        "original": "[012|18]\nna bhavitavyam /\nyasmāt /",
+        "root": false
+      },
+      {
+        "original": "[012|19-012|20]\njātigocaravijñānasāmānyādekadhātutā\ndvitve \"pi cakṣuradīnaṃ",
+        "root": true
+      },
+      {
+        "original": "[012|21]\ntra jātisāmānyamubhayoścakṣuḥsvabhāvatvāt /",
+        "root": false
+      },
+      {
+        "original": "[012|21-012|22]\ngocarasāmānyamubhayo rūpaviṣayatvāt /",
+        "root": false
+      },
+      {
+        "original": "[012|22]\nvijñānasāmānyamubhayorekacakṣurvijñānāśrayatvāt /\ntasmadeka eva cakṣurdhātuḥ /",
+        "root": false
+      },
+      {
+        "original": "[012|23]\nevaṃ śrotraghrāṇayorapi yojyam /",
+        "root": false
+      },
+      {
+        "original": "[012|24]\nśobhārthaṃ tu dvayodbhavaḥ // VAkK_1.19 //",
+        "root": true
+      },
+      {
+        "original": "[012|25]\nekadhātutve \"pi tu cakṣurādīnaṃ dvayoḥ saṃbhava āśrayasya śobhārtham /",
+        "root": false
+      },
+      {
+        "original": "[012|25-013|01]\nanya thā hyekacakṣuḥśrotrādhiṣṭhānaikanāsikāvilasaṃbhavāt mahad vairupyaṃ syāditi /",
+        "root": false
+      },
+      {
+        "original": "[013|02]\nuktāḥ skandhāyatanadhātavaḥ",
+        "root": false
+      },
+      {
+        "original": "[013|03]\nidaṃ tu vaktavyaṃ kaḥ skandhāyatanadhātvartha iti /",
+        "root": false
+      },
+      {
+        "original": "[013|04]\nrāśyāyadvāragotrārthāḥ skandhāyatanadhātavaḥ /",
+        "root": true
+      },
+      {
+        "original": "[013|05-013|07]\n'yat kiñcidrūpamatītānāgatapratyutpannamādhyātmibāhyam audārikaṃ vā sūkṣmaṃ vā hīnaṃ vā praṇītaṃ vā yadvā dūre antike tatsarvamaikadhyamabhisaṃkṣipya rūpaskandha iti saṃkhyāṃ gacchatī ti vacanāt sūtre rāśyarthaḥ skandhārtha iti siddham /",
+        "root": false
+      },
+      {
+        "original": "[013|07-013|08]\ntatrātītaṃ rūpamanityatāniruddham /",
+        "root": false
+      },
+      {
+        "original": "[013|08]\nanāgatamanutpannam /\npratyutpannamutpannāniruddham /",
+        "root": false
+      },
+      {
+        "original": "[013|09]\nādhyātmikaṃ svāsāntānikaṃ bāhyamanyadāyatanato vā",
+        "root": false
+      },
+      {
+        "original": "[013|09-013|10]\naudārikaṃ sapratighaṃ sūkṣmamapratighamāpekṣikaṃ vā /",
+        "root": false
+      },
+      {
+        "original": "[013|10]\nāpekṣikatvādasiddhamiti cet /\nna /",
+        "root": false
+      },
+      {
+        "original": "[013|10-013|11]\napekṣābhedāt /",
+        "root": false
+      },
+      {
+        "original": "[013|11]\nyadapekṣyau dārikaṃ na jātu tadapekṣya sūkṣmaṃ pitāputravat /\nhīnaṃ kliṣṭam /",
+        "root": false
+      },
+      {
+        "original": "[013|12]\npraṇitamakliṣṭam /\ndūramatītānāgatam /\nantikaṃ pratyutpannam /",
+        "root": false
+      },
+      {
+        "original": "[013|12-013|13]\nevaṃ yāvat vijñānam /",
+        "root": false
+      },
+      {
+        "original": "[013|13]\nayaṃ tu viśaṣaḥ /\naudārikaṃ pañcendriyāśrayam sūkṣmaṃ mānasam /",
+        "root": false
+      },
+      {
+        "original": "[013|13-013|14]\nbhūmito veti vaibhāṣikāḥ /",
+        "root": false
+      },
+      {
+        "original": "[013|14]\nbhadanta āha audārikarūpaṃ pañacendriyagrāhyam sūkṣmamanyat /",
+        "root": false
+      },
+      {
+        "original": "[013|15]\nhīnamamanāpaṃ praṇītaṃ manāpam /\ndūramadṛśyadeśam /\nantikaṃ dṛśyadeśam /",
+        "root": false
+      },
+      {
+        "original": "[013|15-013|16]\natītādīnāṃ svaśabdenābhi hitatvāt /",
+        "root": false
+      },
+      {
+        "original": "[013|16]\nevam vedanādayo 'pi veditavyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[013|17]\ndūrāntikatvaṃ tu teṣāmāśrayavaśāt /\naudārikasūkṣmatvaṃ tu pūarvavaditi //",
+        "root": false
+      },
+      {
+        "original": "[013|18]\ncittacaittāyadvārārtha āyatanārthaḥ /",
+        "root": false
+      },
+      {
+        "original": "[013|18-013|19]\nnirvacanaṃ tu cittacaittānāmāyaṃ tanvantīti āyatanāni /",
+        "root": false
+      },
+      {
+        "original": "[013|19]\nvistṛṇvantītyarthaḥ /\ngotrārtho dhātvarthaḥ /",
+        "root": false
+      },
+      {
+        "original": "[013|19-013|21]\nyathaikasmin parvate bahūnyayastāmrarūpyasuvarṇādigotrāni dhātava ucyante evam ekasminnāśraye santāne vā aṣṭādaśa gotrāṇi aṣṭādaśa dhātava ucyante /",
+        "root": false
+      },
+      {
+        "original": "[013|21]\nākarāstatra gotrāṇyuacyante /",
+        "root": false
+      },
+      {
+        "original": "[013|21-013|22]\nta ime cakṣurādayaḥ kasyākarāḥ /",
+        "root": false
+      },
+      {
+        "original": "[013|22]\nsvasyā jāteḥ /\nsabhāgahetutvāt /",
+        "root": false
+      },
+      {
+        "original": "[013|22-013|23]\nasaṃskṛtaṃ tarhi na dhātuḥ syāt /",
+        "root": false
+      },
+      {
+        "original": "[013|23]\ncittacittānāṃ tarhi jātivācako \"yaṃ dhātuśabda ityapare /",
+        "root": false
+      },
+      {
+        "original": "[013|23-013|24]\naṣṭādaśdharmāṇāṃ jātayaḥ svabhāvā aṣṭādaśa dhātava iti /",
+        "root": false
+      },
+      {
+        "original": "[013|24-013|25]\nyadi rāśyarthaḥ skandhārthaḥ prajñaptisantaḥ skandhāḥ prāpnuvanti /",
+        "root": false
+      },
+      {
+        "original": "[013|25]\nanekadravyasamūhatvāt rāśipudgalavat /\nna /",
+        "root": false
+      },
+      {
+        "original": "[013|26]\nekasyāpi dravyaparamāṇoḥ skandhatvāt /\nna tarhi rāśyarthaḥ skandhārtha iti vaktavyam /",
+        "root": false
+      },
+      {
+        "original": "[013|27]\nna hyekasyāsti rāśitvamiti /\nkāryab hārodvahanārthaḥ skandhārtha ityapare /",
+        "root": false
+      },
+      {
+        "original": "[013|27-013|28]\npracchedārtho vā /",
+        "root": false
+      },
+      {
+        "original": "[013|28]\ntathāhi vaktāro bhavanti tribhiḥ skandhakairdeyaṃ dāsyāma iti /\ntadetadutsūtram /",
+        "root": false
+      },
+      {
+        "original": "[013|29]\nsūtraṃ hi rāśyarthameva bravīti \"yatkiñcidrūpamatītānāgatapratyutpannami\"ti vistaraḥ",
+        "root": false
+      },
+      {
+        "original": "[013|30]\npratyekamatītādirūpasya skandhatvaṃ tatra vijñāpyate /",
+        "root": false
+      },
+      {
+        "original": "[013|30-014|01]\nsarvametadatītādi rūpamekaśo rūpaskandha iti /",
+        "root": false
+      },
+      {
+        "original": "[014|01]\nna śakyamevaṃ vijñātum /",
+        "root": false
+      },
+      {
+        "original": "[014|01-014|02]\n\"tatsarvamaikadhyamabhisaṃkṣipye\"ti vacanāt / tasmādrāśivadeva skandhāḥ prajñaptisantaḥ",
+        "root": false
+      },
+      {
+        "original": "[014|02-014|03]\nrūpoīnyapi tarhyāyatanāni prajñaptisanti prāpnuvanti /",
+        "root": false
+      },
+      {
+        "original": "[014|03-014|04]\nbahunāṃ cakṣurādiparamāṇūnāmāyadvāra bhāvāt /",
+        "root": false
+      },
+      {
+        "original": "[014|04]\nna /",
+        "root": false
+      },
+      {
+        "original": "[014|04-014|05]\nekaśaḥ samagrāṇāṃ kāraṇabhāvāt viṣayasahakāritvādvā nendriyaṃ pṛthagāyatanaṃ syāt /\n01405-01405]\nvibhāṣāyāṃ tūcyate \"yadyābhidharmikaḥ skandhaprajñaptimapekṣate /",
+        "root": false
+      },
+      {
+        "original": "[014|06]\nsa āha paramāṇurekasya dhātorekasyāyatanasyaikasya skandhasya pradeśaḥ /",
+        "root": false
+      },
+      {
+        "original": "[014|06-014|07]\natha nāpekṣate /",
+        "root": false
+      },
+      {
+        "original": "[014|07]\nsa āha /\nparamāṇureko dhāturekamāyatanamekaḥ skandha\" iti /",
+        "root": false
+      },
+      {
+        "original": "[014|07-014|08]\nbhavati hi pradeśe \"pi pradeśivadupacāro yathā paṭṭaiakadeśe dagdhe paṭo dagdha iti /",
+        "root": false
+      },
+      {
+        "original": "[014|09]\nkirthaṃ bhagavān skandhādimudhena trividhāṃ deśanāmārabhate /\nāha /\nvineyānāṃ",
+        "root": false
+      },
+      {
+        "original": "[014|10]\nmohendriyarucitraidhāttisraḥ skandhādideśanāḥ // VAkK_1.20 //",
+        "root": true
+      },
+      {
+        "original": "[014|11]\ntrayaḥ prakārāstraidham /\ntriprakāraḥ kila sattvānāṃ mohaḥ /",
+        "root": false
+      },
+      {
+        "original": "[014|11-014|12]\nkeciccaitteṣu saṃmūḍhāḥ piṇḍātmagrahaṇataḥ /",
+        "root": false
+      },
+      {
+        "original": "[014|12]\nkecidrūpa eva /\nkecidrūpacittayoḥ /\nindriyāṇyapi trividhāni /",
+        "root": false
+      },
+      {
+        "original": "[014|13]\ntīkṣṇamadhyamṛdvindriyatvāt /\nrūcirapi trividhā /",
+        "root": false
+      },
+      {
+        "original": "[014|13-014|14]\nsaṃkṣiptamadhyavistaragrantharucitvāt /",
+        "root": false
+      },
+      {
+        "original": "[014|14]\nteṣāṃ yathākramaṃ tisraḥ skandhāyatanadhātudeśanā iti //",
+        "root": false
+      },
+      {
+        "original": "[014|15-014|16]\nkim punaḥ kāraṇaṃ caitasikā ekatra saṃskāraskandhanikṣiptā vedanāsaṃjñe tu pṛthak skandhīkṛte ityāha",
+        "root": false
+      },
+      {
+        "original": "[014|17-014|18]\nvivādamūlasaṃsārahetutvāt kramakāraṇāt /\ncaittebhyo vedanāsaṃjñe pṛthakaskndhau niveśitau // VAkK_1.21 //",
+        "root": true
+      },
+      {
+        "original": "[014|19]\ndve vivādamūle /\nkāmādhyavasānaṃ dṛṣṭyadhyavasānaṃ ca /",
+        "root": false
+      },
+      {
+        "original": "[014|19-014|20]\ntayorvedanāsaṃjñe yathākramaṃ pradhānahetū /",
+        "root": false
+      },
+      {
+        "original": "[014|20-014|21]\nvedanāsvādavaśāddhi kāmānabhiṣvajante viparītasaṃjñāvaśācca dṛṣṭīriti /",
+        "root": false
+      },
+      {
+        "original": "[014|21]\nsaṃsārasyāpi te pradhānahetū /\nvedanāsvādagṛddho hi viṣaryastasaṃjñaḥ saṃsarati /",
+        "root": false
+      },
+      {
+        "original": "[014|22-014|23]\nyacca skandhakrame kāraṇamupadekṣyamāṇaṃ tato 'pi kramakāraṇādanayoḥ pṛthakskandhīkaraṇaṃ veditavyam /",
+        "root": false
+      },
+      {
+        "original": "[014|23]\netacca tredho papādayiṣyāmaḥ /",
+        "root": false
+      },
+      {
+        "original": "[014|24]\nskandheṣva saṃskṛtaṃ noktamarthāyogāt",
+        "root": true
+      },
+      {
+        "original": "[014|25]\ntaddhi skandheṣūcyamānaṃ na tāvadeteṣvevāntarṇetuṃ śakyate\narthāyogāt /",
+        "root": false
+      },
+      {
+        "original": "[014|25-015|01]\nnahi tadrūpaṃ nāpi yāvadvijñānamiti /",
+        "root": false
+      },
+      {
+        "original": "[015|01]\nnacāpi ṣaṣṭhaḥ skandho vaktuṃ śakyate /\nkutaḥ /\narthāyogāt /",
+        "root": false
+      },
+      {
+        "original": "[015|02]\n\"rāśyartho hi skandhārtha\" ityuktam /",
+        "root": false
+      },
+      {
+        "original": "[015|02-015|03]\nnacāsaṃskṛtamatītādibhedabhinnaṃ rūpādivadyatastatsarvamaikadhyamabhisaṃkṣipyāsaṃskṛtaskandha iti saṃkhyāṃ gacchet /",
+        "root": false
+      },
+      {
+        "original": "[015|03-015|04]\nsaṃkleśavastujñāpanārthaṃ khalūpādānaskandhavacanaṃ saṃkleśavyavadānavastujñāpanārthaṃ skandhavacanaṃ /",
+        "root": false
+      },
+      {
+        "original": "[015|04-015|05]\nnacobhayathā \"pyasaṃskṛtamityarthāyogānna teśu vyavasthāpitam /",
+        "root": false
+      },
+      {
+        "original": "[015|05-015|06]\nyathā ghaṭoparamo na ghaṭa evaṃ skandhoparamo na skandho bhavitumarhatītyapare /",
+        "root": false
+      },
+      {
+        "original": "[015|06-015|07]\nteṣāṃ dhātvāyataneṣvapyeṣa prasaṅgaḥ /",
+        "root": false
+      },
+      {
+        "original": "[015|07]\nuktaḥ skandhānāmanyaḥ prakāraḥ //",
+        "root": false
+      },
+      {
+        "original": "[015|08]\nkramaḥ punaḥ /",
+        "root": true
+      },
+      {
+        "original": "[015|09]\nyathaudārikasaṃkleśabhājanādyarthadhātutaḥ // VAkK_1.22 //",
+        "root": true
+      },
+      {
+        "original": "[015|10]\nrūpaṃ hi sapratighatvātsarvaudārikam /\narupiṇāṃ vedanā pracāraudārikatayā /",
+        "root": false
+      },
+      {
+        "original": "[015|10-015|11]\ntathā hi vyapadiśanti haste me vedanā pāde me vedaneti /",
+        "root": false
+      },
+      {
+        "original": "[015|11]\ndvābhyāṃ cau dārikatarā saṃjñā /",
+        "root": false
+      },
+      {
+        "original": "[015|11-015|12]\nvijñānātsaṃskārā ityato yadaudārikataraṃ tatpūrvamuktam /",
+        "root": false
+      },
+      {
+        "original": "[015|12-015|13]\nathavā anādimati saṃsāre strīpuruṣā anyonyaṃ rūpābhirāmāste ca vedanāsvādagarddhāt /",
+        "root": false
+      },
+      {
+        "original": "[015|13]\ntadgarddhaḥ saṃjñāviparyāsāt /",
+        "root": false
+      },
+      {
+        "original": "[015|14]\ntadviparyāsaḥ kleśaiścittaṃ aca tatsaṃkliṣṭamiti yathāsaṃkleśaṃ ca kramaḥ /",
+        "root": false
+      },
+      {
+        "original": "[015|14-015|15]\nbhājanādyarthena vā /",
+        "root": false
+      },
+      {
+        "original": "[015|15]\nbhajanabhojanavyañjanakarttṛ bhoktṛbhūtā hi rūpādayaḥ skandhāḥ /\ndhātuto vā /",
+        "root": false
+      },
+      {
+        "original": "[015|16]\nkāmaguṇarūpaprabhāvito hi kāmadhātuḥ /\nvedanāprabhāvitāni dhyānāni /",
+        "root": false
+      },
+      {
+        "original": "[015|16-015|17]\nsaṃjñāprabhāvitāḥ trayaḥ ārūpyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[015|17]\nsaṃskāramātraprabhāvitaṃ bhavāgram /",
+        "root": false
+      },
+      {
+        "original": "[015|17-015|18]\netā eva vijñānasthitayaḥ tāsu ca pratiṣṭhitaṃ vijñānamiti kṣetrabijasaṃdarśanārthaḥ skandhānukramaḥ /",
+        "root": false
+      },
+      {
+        "original": "[015|18-015|19]\nata eva pañcaskandhā nālpīyāṃso na bhūyāṃsaḥ /",
+        "root": false
+      },
+      {
+        "original": "[015|19-015|20]\nata eva ca kramakāraṇādvedanāsaṃjñe saṃskārebhyaḥ pṛthaka skandhīkṛte /",
+        "root": false
+      },
+      {
+        "original": "[015|20-015|21]\nyata ete audārikatare saṃkleśānukramahetū bhājanavyañjanabhūte tatprabhāvitaṃ ca dhātudvayamiti //",
+        "root": false
+      },
+      {
+        "original": "[015|22]\nāyatanadhātūnāṃ ṣaṇṇāṃ cakṣurādīnāmanukramo vaktavyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[015|23]\ntadvaśenaiva hi tadviṣayavijñānānāṃ kramaḥ /\nteṣāṃ ca punaḥ ṣaṇṇāṃ /",
+        "root": false
+      },
+      {
+        "original": "[015|24]\nprāk pañca vārttamārthyāt",
+        "root": true
+      },
+      {
+        "original": "[015|25]\ncakṣurādīni pañca varttamānaviṣayatvāt pūrvamuktāni /\nmanastvaniyataviṣayam",
+        "root": false
+      },
+      {
+        "original": "[015|25-016|01]\nkiñcidvarttamānaviṣayaṃ kiñcit vyadhvānadhraviṣayam /",
+        "root": false
+      },
+      {
+        "original": "[016|02]\nbhautikārthyāccatuṣṭayam /",
+        "root": true
+      },
+      {
+        "original": "[016|03]\nprāgiti varttate /\npañcānāṃ punaśctvāri pūrvamuktāni /\nbhautikaviṣayatvāt /",
+        "root": false
+      },
+      {
+        "original": "[016|03-016|04]\nkāyasya tvaniyato viṣayaḥ",
+        "root": false
+      },
+      {
+        "original": "[016|04]\nkadācid bhūtāni kadācid bhautikam kadācidubhayam /",
+        "root": false
+      },
+      {
+        "original": "[016|05]\ndūrāśutaravṛttyā 'nyat",
+        "root": true
+      },
+      {
+        "original": "[016|06]\nśeṣaṃ punaritasmād yathāyogaṃ dūrāśutaravṛttyā pūrvamuktam /\ncakṣuḥśrotraṃ hi dūraviṣayam /",
+        "root": false
+      },
+      {
+        "original": "[016|07]\ntat pūrvamuktaṃ dvayāt /\ntayorapi cakṣuṣo dūratare vṛttiḥ /",
+        "root": false
+      },
+      {
+        "original": "[016|07-016|08]\npaśyato 'pi dūrānnadīṃ tacchabdāśravaṇādatastat pūrvamuktam /",
+        "root": false
+      },
+      {
+        "original": "[016|08]\nghrāṇasya tu nāsti dūre vṛttiḥ /\njihvāyāśca /",
+        "root": false
+      },
+      {
+        "original": "[016|09]\ntayorāśutaravṛttitvāt ghrāṇaṃ pūrvamuktamaprāptasyaiva jihvā bhojyasya gandhagrahaṇāt /",
+        "root": false
+      },
+      {
+        "original": "[016|10]\nyathāsthānaṃ kramo 'thavā // VAkK_1.23 //",
+        "root": true
+      },
+      {
+        "original": "[016|11]\nathavā asmin śarīre cakṣuṣo 'dhiṣṭhānamupāriṣṭāt niviṣṭam /\ntasmādadhaḥ śrotrasya /",
+        "root": false
+      },
+      {
+        "original": "[016|12]\ntasmādadho ghrāṇasya / tasmāt jihvāyāḥ\ntakyāḥ syāsya bahulyena /",
+        "root": false
+      },
+      {
+        "original": "[016|12-016|13]\nmanaḥ punastānyeva niśritamadeśasthaṃ ceti yathāsthānameṣāṃ kramaḥ syāt /",
+        "root": false
+      },
+      {
+        "original": "[016|14]\nkiṃ punaḥ kāraṇaṃ daśasvāyataneṣu rūpaskandhasaṃgṛhīteṣvekaṃ rūpāyatanamucyate /",
+        "root": false
+      },
+      {
+        "original": "[016|14-016|15]\nsarveṣu ca dharmasvabhaveṣvekaṃ dharmāyatanamityāha",
+        "root": false
+      },
+      {
+        "original": "[016|16-016|17]\nviśeṣaṇārthaṃ prādhānyādbahudharmāgrasaṃgrahāt /\nekamāyatanaṃ rūpamekaṃ dharmākhyamucyate // VAkK_1.24 //",
+        "root": true
+      },
+      {
+        "original": "[016|18]\nkathaṃ viśeṣaṇārtham /",
+        "root": false
+      },
+      {
+        "original": "[016|18-016|19]\nyathā gamyeta pratyekameṣāṃ daśānāmāyatanatvaṃ viṣayaviṣayitvena vyavasthānaṃ na samastānāmiti /",
+        "root": false
+      },
+      {
+        "original": "[016|19-016|20]\ncakṣurādibhiśca viśeṣitairyanna cakṣurādisaṃjñakaṃ rūpaṃ ca tadrūpakayātanaṃ jñāsyata ityasya punarnāmāntaraṃ nocyate /",
+        "root": false
+      },
+      {
+        "original": "[016|20-016|21]\nathavā rūpāyatanasya prādhānyāt /",
+        "root": false
+      },
+      {
+        "original": "[016|21]\ntaddhi sapratighatvācca /\npāṇyādisaṃsparśaiḥ spṛṣṭaṃ rūpyate /",
+        "root": false
+      },
+      {
+        "original": "[016|22]\nsanidarśanatvācca /",
+        "root": false
+      },
+      {
+        "original": "[016|22-016|23]\nidamihāmutreti nirūpaṇāt loke 'pi ca tadrūpamiti pratītaṃ nānyāni /",
+        "root": false
+      },
+      {
+        "original": "[016|23]\nviśeṣaṇārthameva caikaṃ dharmāyatanamuktaṃ na sarvāṇi /",
+        "root": false
+      },
+      {
+        "original": "[016|23-017|01]\napi cātrabahūnāṃ dharmāṇāṃ saṃgraho vedanādīnām /",
+        "root": false
+      },
+      {
+        "original": "[017|01]\nataḥ sāmānyenābhidhānaṃ kriyate dharmaśabdena /\n[017|02]\nagrasya ca nirvāṇadharmasyātra saṃgraho nānyeṣviti /",
+        "root": false
+      },
+      {
+        "original": "[017|02-017|03]\nviṃśatiprakāratvenaudārikatvānmāṃsa divyāryaprajñācakṣustrayagocaratvāccaikaṃ rūpāyatanamityapare //",
+        "root": false
+      },
+      {
+        "original": "[017|04-017|05]\nanyānyapi skandhāyatanadhātusaṃśabditānyupalabhyante sūtreṣu teṣāṃ kiṃebhireva saṃgraho veditavya āhosvidvyatirekaḥ",
+        "root": false
+      },
+      {
+        "original": "[017|05]\nebhireva saṃgraho na vyatirekaḥ /\ntatra tāvat",
+        "root": false
+      },
+      {
+        "original": "[017|06-017|07]\ndharmaskandhasahasrāṇi yānyaśītiṃ jagau muniḥ /\ntāni vāṅnāma vetyeṣāṃ rūpasaṃskārasaṃgrahaḥ // VAkK_1.25 //",
+        "root": true
+      },
+      {
+        "original": "[017|08]\nyeṣāṃ vāksvabhāvaṃ buddhavacanaṃ teṣāṃ tāni rūpaskandhasaṃgṛhītāni /",
+        "root": false
+      },
+      {
+        "original": "[017|09]\nyeṣāṃ nāmasvabhāvaṃ teṣāṃ saṃskāraskandhena //",
+        "root": false
+      },
+      {
+        "original": "[017|10]\nkiṃ punardharmaskandhasya pramāṇam /",
+        "root": false
+      },
+      {
+        "original": "[017|11]\nśāstrapramāṇa ityeke",
+        "root": true
+      },
+      {
+        "original": "[017|12]\neke tāvat āhurdharmaskandhasaṃjñakasyaivābhidharmaśāstrasyāsya opramaṇamiti /",
+        "root": false
+      },
+      {
+        "original": "[017|12-017|13]\ntacca ṣaṭsahasrāṇi /",
+        "root": false
+      },
+      {
+        "original": "[017|13]\napare punarāhuḥ",
+        "root": false
+      },
+      {
+        "original": "[017|14]\nskandhādīnaṃ kathaikaśaḥ /",
+        "root": true
+      },
+      {
+        "original": "[017|15-017|17]\nskandhāyatanadhātupratītyasamutpādasatyāhāradhyānāpramāṇārūpyavimokṣābhibhvāyatanakṛtsnāyatanabodhipākṣikābhijñāpratisaṃvitpraṇidhijñānāraṇādīnāṃ kathā prātyekaṃ dharmaskandha iti /",
+        "root": false
+      },
+      {
+        "original": "[017|18]\ncaritapratipakṣastu dharmaskandho 'nuvarṇitaḥ // VAkK_1.26 //",
+        "root": true
+      },
+      {
+        "original": "[017|19]\nevaṃ tu varṇayantyaśītiścaritasahasraṇi sattvānām /\nrāgadveṣamohamānādicaritabhedena /",
+        "root": false
+      },
+      {
+        "original": "[017|20]\nteṣāṃ pratipakṣeṇa bhagavatā 'śītirdharmaskandhasahasrāṇyuktāni /",
+        "root": false
+      },
+      {
+        "original": "[017|20-017|21]\nyathaitānyaśītirdharmaskandhasahasrāṇyeṣveva pañcaskandheṣu opratipāditāni /",
+        "root": false
+      },
+      {
+        "original": "[017|22-017|23]\ntathā 'nye 'pi yathāyogaṃ skandhāyatanadhātavaḥ /\npratipādyā yathokteṣu saṃpradhārya svalakṣaṇam // VAkK_1.27 //",
+        "root": true
+      },
+      {
+        "original": "[017|24-017|26]\nye 'pyanye skandhāyatanadhātavaḥ sūtrāntareṣūktāste 'pyeṣveva yathokteṣu skandhādiṣu pratiopādyāḥ svaṃ svaṃ lakṣaṇameṣāṃ yathāvihitamasmiṃacchāstre saṃpradharya /",
+        "root": false
+      },
+      {
+        "original": "[017|26-018|02]\ntatra tāvat pañcānāṃ śīlasamādhiprajñāvimuktijñānadarśanaskandhānāṃ śīlaskandho rūpaskandhena saṃgṛhītaḥ /",
+        "root": false
+      },
+      {
+        "original": "[018|02-017|02]\nśeṣāḥ saṃskāraskandhena /",
+        "root": false
+      },
+      {
+        "original": "[018|02-018|03]\ndaśānāṃ kṛtsnāyatanānāmaṣṭāvalobhasvabhāvatvāddharmāyatanena /",
+        "root": false
+      },
+      {
+        "original": "[018|03]\nsaparivārāṇi tu pañcaskandhasvabhāvatvānmanodharmāyatanābhyām /",
+        "root": false
+      },
+      {
+        "original": "[018|04]\ntathā 'bhibhvāyatanāni /",
+        "root": false
+      },
+      {
+        "original": "[018|04-018|05]\nākāśavijñānānantyāyatanakṛtsne catvāri cākāśānantyāyatanādīni catuḥskandhasvabhāvatvāt manodharmāyatanābhyām /",
+        "root": false
+      },
+      {
+        "original": "[018|05-018|06]\npañca vimuktyāyatanāni prajñāsvabhāvatvāddharmāyatanena /",
+        "root": false
+      },
+      {
+        "original": "[018|06]\nsaparivārāṇi tu śabdo manodharmāyatanaiḥ /",
+        "root": false
+      },
+      {
+        "original": "[018|07]\ndvayorāyatanayorasaṃjñisattvā daśabhirāyatanairgandharsāyatanābhāvāt /",
+        "root": false
+      },
+      {
+        "original": "[018|07-018|08]\nnaivasaṃjñānāsaṃjñāyatanopagā manodharmāyatanābhyām /",
+        "root": false
+      },
+      {
+        "original": "[018|08]\nevaṃ bahudhātuke 'pi dvāṣaṣṭirdhātavo deśitāḥ /",
+        "root": false
+      },
+      {
+        "original": "[018|08-018|09]\nteṣāṃ yathāyogaṃ saṃgraho veditavyaḥ //",
+        "root": false
+      },
+      {
+        "original": "[018|10-018|11]\nya ime tatra ṣaḍ dhātavaḥ uktāḥ pṛthivīdhāturabdhātustejodhāturvāyudhāturākāśadhāturvijñānadhāturityeṣāṃ dvayorlakṣaṇamanuktam /",
+        "root": false
+      },
+      {
+        "original": "[018|11-018|12]\ntat kimākāśamevākāśadhāturveditavyaḥ sarvaṃ aca vijñānaṃ vijñānadhātuḥ/",
+        "root": false
+      },
+      {
+        "original": "[018|12]\nnetyāha /\nkiṃ tarhi /\ndvāravātāyanamukhanāsikādiṣu",
+        "root": false
+      },
+      {
+        "original": "[018|13]\nchidramākāśadhātvākhyam",
+        "root": true
+      },
+      {
+        "original": "[018|14]\nchidramityucyamānaṃ kiṃ veditavyam /",
+        "root": false
+      },
+      {
+        "original": "[018|15]\nālokatamasī kila /",
+        "root": true
+      },
+      {
+        "original": "[018|16]\nnahi chidramālokatamobhyāmanyad gṛhyate /",
+        "root": false
+      },
+      {
+        "original": "[018|16-018|17]\ntasmāt kilākāśadhāturālokatamaḥsvabhāvo rātrindivasvabhāvo veditavyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[018|17-018|18]\nsa eva cāghasāmantakaṃ rūpamityucyate /",
+        "root": false
+      },
+      {
+        "original": "[018|18]\naghaṃ kila cittasthaṃ rūpam /\natyarthaṃ ghātāt /",
+        "root": false
+      },
+      {
+        "original": "[018|18-018|19]\ntasya tatsāmantakamiti /",
+        "root": false
+      },
+      {
+        "original": "[018|19]\naghaṃ ca tadanyasya rūpasya tatrāpratighātātsāmantakaṃ cānyasya rūpasyetyapare /",
+        "root": false
+      },
+      {
+        "original": "[018|20]\nvijñānadhāturvijñānaṃ sāsravaṃ",
+        "root": true
+      },
+      {
+        "original": "[018|21]\nkasmādanāsravaṃ nocyate /\nyasmādime ṣaḍ dhātava iṣṭāḥ /",
+        "root": false
+      },
+      {
+        "original": "[018|22]\njanmaniśrayāḥ // VAkK_1.28 //",
+        "root": true
+      },
+      {
+        "original": "[018|23]\nete hi janmanaḥ pratisandhicittādyāvat cyuticittasādhāraṇabhūtāḥ",
+        "root": false
+      },
+      {
+        "original": "[018|23-018|24]\nanāsravāstu dharmā naivamiti /",
+        "root": false
+      },
+      {
+        "original": "[018|24-018|25]\ntadevaṃ satyeṣāṃ catvāro dhātavaḥ spraṣṭavyadhātāvantarbhūtāḥ pañcamo rūpadhātau ṣaṣṭhaḥ saptasu vijñānadhātuṣviti /",
+        "root": false
+      },
+      {
+        "original": "[018|26]\nye punarime aṣṭādaśa dhātava uktāsteṣāṃ kati sanidarśanāḥ katyanidarśanāḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|01]\nsanidarśana eko 'tra rūpaṃ",
+        "root": true
+      },
+      {
+        "original": "[019|02]\nsa hi śakyate nidarśayitumidamihāmutreti /\nuktaṃ bhavati anidarśanāḥ śeṣā iti //",
+        "root": false
+      },
+      {
+        "original": "[019|03]\nkati sapratighāḥ katyapratighāḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|04]\nsaparatighā daśa /",
+        "root": true
+      },
+      {
+        "original": "[019|05]\nrūpiṇaḥ /",
+        "root": true
+      },
+      {
+        "original": "[019|06]\nya ete rūpaskandhasaṃgṛhītā daśa dhātava uktāste sapratighāḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|06-019|07]\npratigho nāma pratighātaḥ sa ca trividhaḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|07]\nāvaraṇaviṣayālambanapratighātaḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|07-019|08]\ntatrāvaraṇapratighātaḥ svadeśe parasyotpattiporativandhaḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|08]\nyathā hasto haste pratihanyate upale vā /\nupalo 'pi tayoḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|09]\nviṣayapratighātaścakṣurādīnāṃ viṣayiṇāṃ rūpādiṣu viṣayeṣu /",
+        "root": false
+      },
+      {
+        "original": "[019|09-019|10]\nyathoktaṃ prajñaptā\"vasti cakṣurjale pratihanyate na sthale /",
+        "root": false
+      },
+      {
+        "original": "[019|10]\nyathā matsyānām /",
+        "root": false
+      },
+      {
+        "original": "[019|10-019|11]\nasti sthale na jale /",
+        "root": false
+      },
+      {
+        "original": "[019|11]\nprāyeṇa manuṣyāṇām /\nastyubhayatra /",
+        "root": false
+      },
+      {
+        "original": "[019|11-019|12]\nśiśumāramaṇḍūkapiśācakaivarttādīnām /",
+        "root": false
+      },
+      {
+        "original": "[019|12]\nasti nobhayatra /\netānākārān sthāpayitvā /",
+        "root": false
+      },
+      {
+        "original": "[019|12-019|13]\nasti cakṣuryadrātrau pratihanyate na divā /",
+        "root": false
+      },
+      {
+        "original": "[019|13]\ntadyathā titīlolūkādīnām /\ndivā na rātrau /",
+        "root": false
+      },
+      {
+        "original": "[019|13-019|14]\nprāyeṇa manuṣyāṇām /",
+        "root": false
+      },
+      {
+        "original": "[019|14]\nrātrau divā ca /\nśvaśṛgālaturagadvīpimārjārādīnām /\nnobhayatra /",
+        "root": false
+      },
+      {
+        "original": "[019|14-019|15]\netānākārān sthāpayitve\"tyayaṃ viśayapratighātaḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|15-019|16]\nālambanapratighātaścittacaittānāṃ sveṣbālamvaneṣu /",
+        "root": false
+      },
+      {
+        "original": "[019|16]\nkaḥ punarviṣayālambanayorviśeṣaḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|16-019|17]\nyasmin yasya kāritraṃ sa tasya viṣayaḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|17]\nyaccittacaittairgṛhyate tadālambanam /",
+        "root": false
+      },
+      {
+        "original": "[019|17-019|18]\nkaḥ punaḥ svasminviṣaye pravarttamānamālamvane vā pratihanyata ityucyate /",
+        "root": false
+      },
+      {
+        "original": "[019|18]\ntasmāt pareṇāpravṛtteḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|18-019|19]\nnipāto vā 'tra pratighāto yā svaviṣaye pravṛttiḥ",
+        "root": false
+      },
+      {
+        "original": "[019|19-019|20]\ntadihāvaraṇapratighātena daśānāṃ sapratighatvaṃ veditavyamanyonyāvaraṇāt /",
+        "root": false
+      },
+      {
+        "original": "[019|20-019|21]\nye dharmā viṣayapratighātena sapratighā āvaraṇapratighātenāpi ta iti catuṣkoṭikaḥ",
+        "root": false
+      },
+      {
+        "original": "[019|21]\nprathamā koṭiḥ sapta cittadhātavo dharmadhātupradeśaśca yaḥ saṃprayuktaḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|22]\ndvitīyā pañca viṣayāḥ /\ntṛtīyā pañcendriyāṇi /",
+        "root": false
+      },
+      {
+        "original": "[019|22-019|23]\ncaturthī dharmadhātupradeśaḥ saṃprayuktakavarjyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[019|23-019|24]\nye dharmā viśayapratighātena sapratighā ālambana pratighātenāpi ta iti /",
+        "root": false
+      },
+      {
+        "original": "[019|24]\npaścātpādakaḥ /\nye tāvadālambanapratighātenāpi viṣayapratighātenāpi te /",
+        "root": false
+      },
+      {
+        "original": "[019|25-010|25]\nsyurviṣayapratighatenaiva nālambanapratighātena /",
+        "root": false
+      },
+      {
+        "original": "[019|25]\npañcendriyāṇi /",
+        "root": false
+      },
+      {
+        "original": "[020|01-020|02]\n\"yatrotpitsormanasaḥ pratighataḥ śakyate paraiḥ karttum /\ntatsapratighaṃ jñeyaṃ viparyayādapratighamiṣṭami\"ti",
+        "root": false
+      },
+      {
+        "original": "[020|03]\nbhadantakumāralātaḥ /\nuktāḥ sapratighā apratighāśca //",
+        "root": false
+      },
+      {
+        "original": "[020|04]\neṣāmaṣṭādaśadhātūnāṃ kati kuśalāḥ katyakuśalāḥ katyavyākṛtā /",
+        "root": false
+      },
+      {
+        "original": "[020|05]\navyākṛtā aṣṭau",
+        "root": true
+      },
+      {
+        "original": "[020|06]\nkatame aṣṭau /\nya ete sapratighā daśoktāḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|07]\nta evārūpaśabdakāḥ // VAkK_1.29 //",
+        "root": true
+      },
+      {
+        "original": "[020|08]\npañcendriyāṇi gandharasaspraṣṭavyā dhātavaśca /",
+        "root": false
+      },
+      {
+        "original": "[020|08-020|09]\nete 'ṣṭau kuśalākuśalabhāvenāvyākaraṇādavyākṛtāḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|09]\nvipākaṃ pratyavyākaraṇādityapare /\nevamanāsrave 'pi prasaṅgaḥ //",
+        "root": false
+      },
+      {
+        "original": "[020|10]\ntridhā 'nye",
+        "root": true
+      },
+      {
+        "original": "[020|11]\nanye daśa dhātavaḥ kuśalākuśalāvyākṛtāḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|11-020|12]\ntatra sapta dhātavo 'lobhādisaṃprayuktā kuśalāḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|12]\nlobhādisaṃprayuktā akuśalāḥ /\nanye avyākṛtāḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|12-020|13]\ndharmadhāturalobhādisvabhāvasaṃprayuktasamutthaḥ pratisaṃkhyānirodhaśca kuśalaḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|13-020|14]\nlobhādisvabhāvasaṃprayuktasamuttho 'kuśalaḥ",
+        "root": false
+      },
+      {
+        "original": "[020|14]\nanyo 'vyākṛtaḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|14-020|15]\nrūpaśabdadhātū kuśalākuśalacittasamuṭthau kuśalākuśalau kāyavāgvijñaptisaṃgṛhītau /",
+        "root": false
+      },
+      {
+        "original": "[020|15]\ntadanyāvyākṛtau /\nuktaḥ kuśalādibhāvaḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|16]\neṣāmaṣṭādaśadhātūnāṃ kati kāmadhātvāptāḥ kati rūpadhātvāptāḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|17]\nkāmadhātvāptāḥ sarve",
+        "root": true
+      },
+      {
+        "original": "[020|18]\nāptā aviyuktāḥ kāmadhātupratisaṃyuktā ityarthaḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|19]\nrupe caturdaśa /",
+        "root": true
+      },
+      {
+        "original": "[020|20]\nrūpadhātau caturdaśa dhātavaḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|21]\nvinā gandharasaghrāṇajihvāvijñānadhātubhiḥ // VAkK_1.30 //",
+        "root": true
+      },
+      {
+        "original": "[020|22]\ntatra hi gandharasau na staḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|22-020|23]\ntayoḥ kavaḍīkārāhāratvāttaddvītarāgāṇāṃ ca tatropapatteḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|23]\ntato ghrāṇajihvāvijñāne api na staḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|23-020|24]\nālambanābhāvāt /",
+        "root": false
+      },
+      {
+        "original": "[020|24]\nevaṃ tarhi spraṣṭavyadhātorapi tatrabhāvaprasaṅgaḥ /\nkavaḍīkārāhāratvāt /",
+        "root": false
+      },
+      {
+        "original": "[020|25]\nyo nāhārasvabhāvaḥ sa tatrāsti /\ngandharasayorapyeṣa prasaṅgaḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|25-020|26]\nnāsti vinā 'bhyavahāreṇa gandharasayoḥ paribhogaḥ /",
+        "root": false
+      },
+      {
+        "original": "[020|26-021|01]\nasti tu spraṣṭavyasyendriyāśrayādhāraprāvaraṇabhāvena /",
+        "root": false
+      },
+      {
+        "original": "[021|01-021|02]\ntasmādabhyavahāravītarāgāṇāṃ gandharasau tatra niṣprayojanau na tu spraṣṭavyam /",
+        "root": false
+      },
+      {
+        "original": "[021|02]\nanye punarāhuḥ /",
+        "root": false
+      },
+      {
+        "original": "[021|02-021|03]\ndhyānasamāpattisaniśrayeṇeha rūpāṇi saṃdṛśyante śabdāśca śrūyante /",
+        "root": false
+      },
+      {
+        "original": "[021|03]\nprasrabdhisahagatena spraṣṭavya viśeṣeṇa ca kāyo 'nugṛhyate /",
+        "root": false
+      },
+      {
+        "original": "[021|03-021|04]\nata eṣāmeva trayāṇāṃ dhyānopapattau saṃbhavo na gandharasayoriti /",
+        "root": false
+      },
+      {
+        "original": "[021|04]\nevaṃ tarhi ghrāṇajihvendriyayorabhāvaprasaṅgo niṣprayojanatvāt /",
+        "root": false
+      },
+      {
+        "original": "[021|05]\nasti prayojanam /",
+        "root": false
+      },
+      {
+        "original": "[021|05-021|06]\ntābhyāṃ hi vinā'; śrayaśobhaiva na syāditi vyavahārśca /",
+        "root": false
+      },
+      {
+        "original": "[021|06-021|07]\nyadyetat prayojanamadhiṣṭhānamevāstu śobhārthaṃ vacanārthaṃ ca mā bhūdindriyam /",
+        "root": false
+      },
+      {
+        "original": "[021|07]\nnānindriyamadhiṣṭhānaṃ saṃbhavati /\npuruṣendriyādhiṣṭhānavat /",
+        "root": false
+      },
+      {
+        "original": "[021|07-021|08]\nyuktastadasaṃbhavo niṣprayojanatvāt /",
+        "root": false
+      },
+      {
+        "original": "[021|08-021|09]\nghrāṇajihvādhiṣṭhānaṃ tu saprayojanam",
+        "root": false
+      },
+      {
+        "original": "[021|09]\nato 'sya vinā 'pīndriyeṇa yuktaḥ saṃbhavaḥ /",
+        "root": false
+      },
+      {
+        "original": "[021|09-021|10]\nniḥprayojanā 'pīndriyābhinirvṛttirbhavati /",
+        "root": false
+      },
+      {
+        "original": "[021|10]\nyathā garbhe niyatamṛtyūnām /\nsyānnāma niḥprayojanā na tu nirhetukā /",
+        "root": false
+      },
+      {
+        "original": "[021|11]\nkaśca heturindriyotpatteḥ /\nindariyasatṛṣṇasya karmaviśeṣaḥ /",
+        "root": false
+      },
+      {
+        "original": "[021|11-021|12]\nyaśca viṣayādvitṛṣṇaḥ sa niyatamindriyādapīti /",
+        "root": false
+      },
+      {
+        "original": "[021|12]\nna tadviṣayavītarāgāṇāṃ ghrāṇajihvendriye saṃbhavitumarhataḥ /",
+        "root": false
+      },
+      {
+        "original": "[021|13]\npuruṣendraiyamapi vā kiṃ na nivarttate /\naśobhākaratvāt /",
+        "root": false
+      },
+      {
+        "original": "[021|13-021|14]\nkośagatavastiguhyānāṃ kiṃ na śobheta /",
+        "root": false
+      },
+      {
+        "original": "[021|14]\nna ca prayojanavaśādutpattiḥ /\nkiṃ tarhi /",
+        "root": false
+      },
+      {
+        "original": "[021|14-021|15]\nkāraṇavaśādityaśobhākarasyāpi syādeva sati hetāvutpattiḥ /",
+        "root": false
+      },
+      {
+        "original": "[021|15]\nsūtraṃ tarhi virudhyate /",
+        "root": false
+      },
+      {
+        "original": "[021|15-021|16]\n\"avikalā ahīnendariyā\" iti /",
+        "root": false
+      },
+      {
+        "original": "[021|16]\nyāni tatrendriyāṇi tairavikalā ahīnendriyā iti ko 'tra virodhaḥ /",
+        "root": false
+      },
+      {
+        "original": "[021|16-021|17]\nitarathā hi puruśendriyasyāpi syāt prasaṅgaḥ /",
+        "root": false
+      },
+      {
+        "original": "[021|17]\nevaṃ tuvarṇayanti /",
+        "root": false
+      },
+      {
+        "original": "[021|17-021|18]\nsta eva tatra ghrāṇajivhendriye na tu gandharasau /",
+        "root": false
+      },
+      {
+        "original": "[021|18]\nātmabhāvamukhena hi ṣaḍāyatane tṛṣṇāsamudācāro na viṣayamukhena /",
+        "root": false
+      },
+      {
+        "original": "[021|19]\npuruṣendriye tu maithunasparśamukheneti /\ntasmātsiddhametadrūpadhātvāptāścaturdaśa dhātava iti /",
+        "root": false
+      },
+      {
+        "original": "[021|20]\nārūpyāptā manodharmamanovijñānadhātavaḥ /",
+        "root": true
+      },
+      {
+        "original": "[021|21-021|22]\nrūpavītarāgāṇāṃ tatropapattirato 'tra daśa rūpasvabhāvā dhātavastadāśrrayālambanāśca pañca vijñānadhātāvo na saṃabhavanti //",
+        "root": false
+      },
+      {
+        "original": "[021|23]\nkati sāsravāḥ katyanāsravāḥ /\nya ete manodharmamanovijñānadhātava uktāḥ",
+        "root": false
+      },
+      {
+        "original": "[021|24]\nsāsravānāsravā ete trayaḥ",
+        "root": true
+      },
+      {
+        "original": "[021|25]\nye mārgasatyāsaṃskṛtasaṃghṛhītāste 'nāsravā anye sāsravāḥ /",
+        "root": false
+      },
+      {
+        "original": "[021|26]\nśeṣāstu sāsravāḥ // VAkK_1.31 //",
+        "root": true
+      },
+      {
+        "original": "[022|01]\npañcadaśa dhātavaḥ śeṣāstvekāntasāsravāḥ //",
+        "root": false
+      },
+      {
+        "original": "[022|02]\nkati savitarkāḥ savicārāḥ katyavitarkā vicāramātrāḥ katyavitarkā avicārāḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|03]\nsavitarkavicārā hi pañca vijñānadhātavaḥ /",
+        "root": true
+      },
+      {
+        "original": "[022|04]\nnityamete vitarkavicārābhyāṃ saṃprayuktāḥ /\navadhāraṇārtho hiśabdaḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|05]\nantyāstrayastriprakārāḥ",
+        "root": true
+      },
+      {
+        "original": "[022|06]\nmanodhāturdharmadhāturmanovijñānadhātuścāntyāḥ\nete trayastriprakārāḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|06-022|08]\ntatra manodhāturmanovijñānadhātuḥ saṃprayuktaśca dharamadhāturanyatra vitarkavicārābhyāṃ kāmadhātau prathame ca dhyāne savitarkāḥ savicārāḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|08]\ndhyānāntare 'vitarkā vicāramātrāḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|08-022|09]\ndvitīyāddhyānāt prabhṛtyābhavāgrādavitarkā avicārāḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|09-022|10]\nsarvaścāsaṃprayukto dharmadhāturdhyānātare aca vicāraḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|10-022|11]\nvitarkastū nityamaviatarko vicāramātro dvitīyavitarkābhāvāt vicārasaṃprayogācca /",
+        "root": false
+      },
+      {
+        "original": "[022|11]\nkāmadhātau prathame dhyāne vicāra eṣu triprakāreṣu nāntarbhavati /",
+        "root": false
+      },
+      {
+        "original": "[022|11-022|12]\nsa kathaṃ vaktavyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|12]\navicāro vitarkamātaraḥ /\ndvitīyavicārābhāvāt vitarkasaṃprayogācca /",
+        "root": false
+      },
+      {
+        "original": "[022|13]\nata evocyate \"syuḥ savitarkasavicārāyāṃ bhūmau dharmāścatuḥprakārāḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|14]\nsavitarkāḥ savicārā vicāravitarkavarjyāḥ saṃprayuktāḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|14-022|15]\navitarko vicāramātro vitarkaḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|15]\navitarkā avicārā asaṃprayuktāḥ /\navicāro vitarkamātro vicāra\" iti /",
+        "root": false
+      },
+      {
+        "original": "[022|16]\nśeṣā ubhayavarjitāḥ // VAkK_1.32 //",
+        "root": true
+      },
+      {
+        "original": "[022|17]\ndaśa rupiṇo dhātavaḥ śeṣā nityamavitarkā avicārā asaṃprayogitvāt //",
+        "root": false
+      },
+      {
+        "original": "[022|18]\nyadi pañca vijñānakāyāḥ savitarkāḥ savicārāḥ kathamavikalpakā ityucyante /",
+        "root": false
+      },
+      {
+        "original": "[022|19]\nnirūpaṇānusmaraṇavikalpenāvikalpakāḥ /",
+        "root": true
+      },
+      {
+        "original": "[022|20]\ntrividhaḥ kila vikalpaḥ /\nsvabhāvābhinirūpaṇānusmaraṇavikalpaḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|20-022|21]\ntadeṣāṃ svabhāvavikalpo 'sti /",
+        "root": false
+      },
+      {
+        "original": "[022|21]\nnetarau /\ntasmādavikalpakā ityucyante /",
+        "root": false
+      },
+      {
+        "original": "[022|21-022|22]\nyathā ekapādako 'śvo 'pādaka iti /",
+        "root": false
+      },
+      {
+        "original": "[022|22]\ntatra svabhāvavikalpo vitarkaḥ /\nsa caitteṣu paścānnirdekṣyate /",
+        "root": false
+      },
+      {
+        "original": "[022|22-022|23]\nitarau punaḥ kiṃsvabhāvau /",
+        "root": false
+      },
+      {
+        "original": "[022|23]\nyathākramaṃ",
+        "root": false
+      },
+      {
+        "original": "[022|24]\ntau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī // VAkK_1.33 //",
+        "root": true
+      },
+      {
+        "original": "[022|25]\nmanovijñānasaṃprayuktā prajñā mānasītyucyate /\nasamāhitā vyagretyucyate /",
+        "root": false
+      },
+      {
+        "original": "[022|25-022|26]\nsā hyabhinirūpaṇāvikalpaḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|26]\nmānasyeva sarvā smṛtiḥ samāhitā cāsamāhitā cānusmaraṇavikalpaḥ /",
+        "root": false
+      },
+      {
+        "original": "[022|27]\nkati sālambanāḥ katyanālambanāḥ /",
+        "root": false
+      },
+      {
+        "original": "[023|01]\nsapta sālambanāścittadhātavaḥ",
+        "root": true
+      },
+      {
+        "original": "[023|02-023|03]\ncakṣuḥśrotraghrāṇajihvākāyamanovijñānadhātavo manodhātuśca ete sapta cittadhātavaḥ sālambanā viṣayagrahaṇāt /",
+        "root": false
+      },
+      {
+        "original": "[023|04-021|04]\nardhaṃ ca dharmataḥ /",
+        "root": true
+      },
+      {
+        "original": "[023|05]\nsālambanaṃ yaccaitasikasvabhāvam /",
+        "root": false
+      },
+      {
+        "original": "[023|05-023|06]\nśeṣā daśa rūpiṇo dhātavo dharmadhātupradeśaścāsaṃprayuktako 'nālambanā it isiddham /",
+        "root": false
+      },
+      {
+        "original": "[023|07]\nkatyupāttāḥ katyanupāttāḥ /",
+        "root": false
+      },
+      {
+        "original": "[023|08]\nnavānupāttāḥ /",
+        "root": true
+      },
+      {
+        "original": "[023|09]\nkatame nava /\nye sapta sālambanā uktāḥ aṣṭamaṣyārdhena sārdham /",
+        "root": false
+      },
+      {
+        "original": "[023|10]\nte cāṣṭau śabdaśca",
+        "root": true
+      },
+      {
+        "original": "[023|11]\nime te navānupāttāḥ /\nsapta cittadhātavo dharmadhātuḥ śabdadhātuśca /",
+        "root": false
+      },
+      {
+        "original": "[023|12]\nanye nava dvidhā // VAkK_1.34 //",
+        "root": true
+      },
+      {
+        "original": "[023|13-013|13]\nupāttā anupāttāśca /",
+        "root": false
+      },
+      {
+        "original": "[023|13]\ntatra cakṣuḥśrotraghrāṇajihvākāyāḥ pratyutpannā upāttāḥ /",
+        "root": false
+      },
+      {
+        "original": "[023|14]\natītānāgatā anupāttāḥ /",
+        "root": false
+      },
+      {
+        "original": "[023|14-023|15]\nrūpagandharasaspraṣṭavyadhātavaḥ pratyutpannā indriyāvinirbhāgiṇa upāttāḥ /",
+        "root": false
+      },
+      {
+        "original": "[023|15-023|16]\nanye 'nupāttāstadyathā mūlavarjeṣu keśaromanakhadanteṣu viṇmūtrakheṭasiṃghāṇakaśeṇitādiṣu bhūmyudakādiṣu ca /",
+        "root": false
+      },
+      {
+        "original": "[023|16]\nupāttamiti ko 'rthaḥ /",
+        "root": false
+      },
+      {
+        "original": "[023|16-023|17]\nyaccittacaittairadhiṣṭhānabhāvenopiagṛhītamanugrahopaghātābhyāmanyonyānuvidhānāt /",
+        "root": false
+      },
+      {
+        "original": "[023|17]\nyalloke sacetanamityucyate /",
+        "root": false
+      },
+      {
+        "original": "[023|18]\nkati dhātavo bhūtasvabhāvāḥ kati bhautikāḥ /",
+        "root": false
+      },
+      {
+        "original": "[023|19]\nspraṣṭavyaṃ dvividhaṃ",
+        "root": true
+      },
+      {
+        "original": "[023|20]\nbhūtāni bhautikaṃ ca /\ntatra bhūtāni catvāri /\nbhautikaṃ ślakṣṇatvādi saptavidham /",
+        "root": false
+      },
+      {
+        "original": "[023|21]\nbhūteṣu bhavatvāt /",
+        "root": false
+      },
+      {
+        "original": "[023|22]\nśeṣā rūpiṇo nava bhautikāḥ /",
+        "root": true
+      },
+      {
+        "original": "[023|23]\npañcendriyadhātavaśca catvāro viṣayāḥ /\nete nava dhātavo bhautikā eva /",
+        "root": false
+      },
+      {
+        "original": "[023|24]\ndharmadhātvekadeśaśca",
+        "root": true
+      },
+      {
+        "original": "[023|25]\navijñaptisaṃjñako bhautikaḥ /",
+        "root": false
+      },
+      {
+        "original": "[023|25-024|01]\nśeṣāḥ cittadhātavo dharmadhātuścāvijñaptivarjyo nobhayathā /",
+        "root": false
+      },
+      {
+        "original": "[024|01-023|01]\n\"bhūtamātraṃ daśāyatanānī\"ti bhadantbduddhadevaḥ /",
+        "root": false
+      },
+      {
+        "original": "[024|01-024|02]\ntacca naivaṃ bhūtānāṃ catuṣṭva khakkhaṭādilakṣaṇāvadhāraṇāt sūtre /",
+        "root": false
+      },
+      {
+        "original": "[024|02]\nteṣāṃ spraṣṭavyatvāt /",
+        "root": false
+      },
+      {
+        "original": "[024|02-024|03]\nna hi kāṭhinyādīni cakṣurādibhirgṛhyante nāpi varṇādayaḥ kāyendriyeṇa /",
+        "root": false
+      },
+      {
+        "original": "[024|03-024|05]\nuktaṃ ca sūtre \"cakṣurbhikṣo ādhyātmikamāyatanaṃ catvāri mahābhūtānyupādāya rūpaprasādo arupyanidarśanaṃ saprataighaṃ evaṃ yāvat kāyaḥ",
+        "root": false
+      },
+      {
+        "original": "[024|05-024|06]\nrūpāṇi bhikṣo bāhyamāyatanaṃ catvāri mahābhūtānyupādāyarupi sanidarśanaṃ sapratigham /",
+        "root": false
+      },
+      {
+        "original": "[024|06-024|07]\nśabdo bhikṣo bāhyamāyatanaṃ catvāri mahābhūtānyupādāya rupyanidarśanaṃ sapratigham /",
+        "root": false
+      },
+      {
+        "original": "[024|07]\nevaṃ gandharasāḥ /",
+        "root": false
+      },
+      {
+        "original": "[024|07-024|08]\nspraṣṭavyāni bhikṣo bāhyamāyatanaṃ catvāri mahābhūtāni catvāri mahābhūtānyupādāya rūpyanidarśanaṃ sapratighami\"ti /",
+        "root": false
+      },
+      {
+        "original": "[024|09]\nspraṣṭrvyāyatanikadeśenaiva bhūtānāṃ saṃgrahāccheṣaṃ na bhūtānīti spaṣṭamādarśitam /",
+        "root": false
+      },
+      {
+        "original": "[024|09-024|10]\nyattarhi sūtre uktaṃ \"yaccakṣuṣi maṃsapiṇḍe khakkhaṭaṃ kharagatami\"ti",
+        "root": false
+      },
+      {
+        "original": "[024|10-024|11]\ntenāvinirbhadivarttino maṃsapiṇḍsyaiṣa upadeśaḥ /",
+        "root": false
+      },
+      {
+        "original": "[024|11-024|12]\nṣaḍdhāturayaṃ bhikṣo puruṣa\"iti garbhavakrāntau maulasattvadravyasaṃdarśanārtham /",
+        "root": false
+      },
+      {
+        "original": "[024|12]\npunaḥ ṣaṭsparśyatanavacanāccaittābhāvaprasaṅgācca /",
+        "root": false
+      },
+      {
+        "original": "[024|12-024|13]\nna ca yuktaṃ cittameva caittā ityabhyupetum /",
+        "root": false
+      },
+      {
+        "original": "[024|13-024|14]\n\"saṃjñā ca vedanā ca caitasika eṣa dharmaścittānvayāccittaniśrita'; iti sūtre vacanātsarāgacittādi vacanācca /",
+        "root": false
+      },
+      {
+        "original": "[024|15]\ntasmācyathoktaṃ dhātūnaṃ bhūtabhautikatvam /",
+        "root": false
+      },
+      {
+        "original": "[024|16]\nkati saṃcitāḥ katyasaṃcitāḥ /",
+        "root": false
+      },
+      {
+        "original": "[024|17]\nsaṃcitā daśa rūpiṇaḥ // VAkK_1.35 //",
+        "root": true
+      },
+      {
+        "original": "[024|18]\npañcendriyadhātavaḥ pañca viṣayāḥ saṃcitāḥ /",
+        "root": false
+      },
+      {
+        "original": "[024|18-024|19]\nparamāṇusaṃghātatvāt śeṣā na saṃcitā iti siddhaṃ bhavati //",
+        "root": false
+      },
+      {
+        "original": "[024|20-024|21]\naṣṭādaśānaṃ dhātūnāṃ kaśchīnatti kaśiciādyate ko dahati ko dahyate kastulayati kastulyate /",
+        "root": false
+      },
+      {
+        "original": "[024|22]\nchinatti cchidyate caiva bāhyaṃ dhātue catuṣṭayam /",
+        "root": true
+      },
+      {
+        "original": "[024|23]\nrūpagandharasaspraṣṭavyākhyaṃ paraśudārvādisaṃjñakam /\nchedo nāma ka eṣa dharmaḥ /",
+        "root": false
+      },
+      {
+        "original": "[024|23-024|24]\nsaṃbandhotpādinaḥ saṃghātasrotaso vibhaktotpādanam /",
+        "root": false
+      },
+      {
+        "original": "[024|24]\nna kāyendriyādīni cchidyante /",
+        "root": false
+      },
+      {
+        "original": "[024|24-024|25]\nniravaśeṣāṅgacchede tadadvaidhīkaraṇāt /",
+        "root": false
+      },
+      {
+        "original": "[024|25]\nna hīndriyāṇi dvidhā bhavanti /",
+        "root": false
+      },
+      {
+        "original": "[024|25-024|26]\nchinnasyāṅgasya nirindriyatvāt /",
+        "root": false
+      },
+      {
+        "original": "[024|26]\nna cāpi cchindanti /\nmaṇiprabhāvadandhatvāt /",
+        "root": false
+      },
+      {
+        "original": "[024|26-024|27]\nyathā cchinattī cchiyate caiva bāhyaṃ dhātucatuṣṭayam /",
+        "root": false
+      },
+      {
+        "original": "[025|01]\ndahyate tulayatyevaṃ",
+        "root": true
+      },
+      {
+        "original": "[025|02]\ntadeva dahyate tadeva tulayati /\nnendriyāṇyacchatvānmaṇiprabhāvat /\nna śabda ucheditvāt /",
+        "root": false
+      },
+      {
+        "original": "[025|03]\nvivādo dagdhṛtulyayoḥ // VAkK_1.36 //",
+        "root": true
+      },
+      {
+        "original": "[025|04]\nkecidāhuḥ tadeva dhātucatuṣṭayaṃ dāhakaṃ tulyaṃ ca",
+        "root": false
+      },
+      {
+        "original": "[025|04-025|05]\nkecidāhustejodhātureva dagdhā gurutvameva ca tulyamiti /",
+        "root": false
+      },
+      {
+        "original": "[025|06-025|07]\nkati vipākajāḥ dhātavaḥ katyaupacayikāḥ kati naihṣyandikāḥ kati dravayuktāḥ kati kṣaṇikāḥ /",
+        "root": false
+      },
+      {
+        "original": "[025|07]\nāha /",
+        "root": false
+      },
+      {
+        "original": "[025|08]\nvipākajaupacayikāḥ pañcādhyātmaṃ /",
+        "root": true
+      },
+      {
+        "original": "[025|09-025|10]\nadhyātmaṃ tāvat pañca dhātavaḥ cakṣurādayo vipākajāścaupacayikāśca /",
+        "root": false
+      },
+      {
+        "original": "[025|10]\nnaiḥṣyandikā na santi /\ntadvyatiriktaniṣyandābhāvāt /",
+        "root": false
+      },
+      {
+        "original": "[025|10-025|11]\ntatra vipākahetorjātāḥ vipākajāḥ /",
+        "root": false
+      },
+      {
+        "original": "[025|11]\nmadhyapadalopāt gorathavat /",
+        "root": false
+      },
+      {
+        "original": "[025|11-025|12]\nphalakālaprāptaṃ vā karma vipāka ityucyate /",
+        "root": false
+      },
+      {
+        "original": "[025|12]\nvipacyata iti kṛtvā /\ntasmājjātā vipākajāḥ /",
+        "root": false
+      },
+      {
+        "original": "[025|12-025|13]\nphalaṃ tu vipaktireveti vipākaḥ /",
+        "root": false
+      },
+      {
+        "original": "[025|13]\nbhavatu phalahetau phalopacāro yathā phale hetūpacāraḥ /",
+        "root": false
+      },
+      {
+        "original": "[025|13-025|14]\n\"ṣaḍimāni sparśāyatanāni paurāṇaṃ karma veditavyam\"iti /",
+        "root": false
+      },
+      {
+        "original": "[025|14-025|15]\nāhārasaṃskārasvapnasamādhiviśeṣairupacitā aupacayikāḥ /",
+        "root": false
+      },
+      {
+        "original": "[025|15]\nbrahṃacaryeṇa cetyeke /\nanupaghātamātraṃ tu tena syānnopacayaḥ /",
+        "root": false
+      },
+      {
+        "original": "[025|15-025|16]\nvipākasantānasyopacayasantānaḥ pratiprākāra ivārakṣā /",
+        "root": false
+      },
+      {
+        "original": "[025|16-025|17]\nśabda aupacayiko naiḥṣyandikaścāsti /",
+        "root": false
+      },
+      {
+        "original": "[025|18]\nvipākajaḥ /",
+        "root": true
+      },
+      {
+        "original": "[025|19]\nna śabdaḥ",
+        "root": true
+      },
+      {
+        "original": "[025|20]\nkiṃ kāraṇam /\nīhātaḥ pravṛtteḥ /",
+        "root": false
+      },
+      {
+        "original": "[025|20-025|21]\nyattarhi prajñaptiśāstre uktaṃ \"pāruṣyavirateḥ subhāvitatvād brahmasvaratā mahāpuruṣalakṣaṇaṃ nirvartta iti /",
+        "root": false
+      },
+      {
+        "original": "[025|21]\ntṛtīyā 'sau paraṃparetyeke /",
+        "root": false
+      },
+      {
+        "original": "[025|22]\nkarmabhyo hi bhūtāni bhūtebhyaḥ śabdaḥ iti /\npañcamyasau paraṃparetyapare /",
+        "root": false
+      },
+      {
+        "original": "[025|22-025|24]\nkarmabhyo hi vipākajāni mahābhūtāni tebhyaścaupacayikāni tebhyo naiḥṣyandikāni tebhyaḥ śabda iti /",
+        "root": false
+      },
+      {
+        "original": "[025|24-025|25]\nevam tarhi śāhī hikyapi vedanā karmajabhūtasaṃbhūtatvānna vipākaḥ prapnoti /",
+        "root": false
+      },
+      {
+        "original": "[025|25]\nyadi śabdavad yuktivirodhaḥ syāt /",
+        "root": false
+      },
+      {
+        "original": "[025|26]\napratighā aṣṭau naiḥṣyandikavipoākajāḥ // VAkK_1.37 //",
+        "root": true
+      },
+      {
+        "original": "[025|27]\nkatame 'ṣṭau /\nsapta cittadhātavo dharmadhātuśca /\nnaiḥṣyandikāḥ sabhāgasarvatragahetujanitāḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|01]\nvipākajā vipākahetujanitāḥ /\naupacayikā na santyapratighānāṃ sañābhāvāt /",
+        "root": false
+      },
+      {
+        "original": "[026|02]\ntridhā 'nye",
+        "root": true
+      },
+      {
+        "original": "[026|03]\nanye catvāraḥ śeṣā rūparasagandhaspraṣṭavyadhātavaḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|03-026|04]\nte vipākajā apyaupacayikā api naiḥṣyandrikā api /",
+        "root": false
+      },
+      {
+        "original": "[026|05]\ndravyavānekaḥ",
+        "root": true
+      },
+      {
+        "original": "[026|06]\nasaṃskṛtaṃ hi sāratvād dravyam /\ntacca dharmadhātāvastyato dharmadhātureko dravyayuktaḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|07]\nkṣaṇikāḥ paścimāstrayaḥ /",
+        "root": true
+      },
+      {
+        "original": "[026|08]\nmanodhāturdharmadhāturmanovijñānadhātuśca pāṭhakrameṇa paścimāḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|08-026|09]\nte prathamānāsrave duḥkhe dharmajñānakṣāntikalāpe kṣaṇamekamanaiḥṣyandikā bhavantyataḥ kṣaṇikā ityucyante /",
+        "root": false
+      },
+      {
+        "original": "[026|09-026|10]\nanyasaṃbhūtasaṃskṛto nāsti kaścidanaiḥṣyandikaḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|10-026|11]\ntatra duḥkhe dharmajñānakṣāntisaṃprayuktaṃ cittaṃ manodhāturmanovijñānadhātuśca /",
+        "root": false
+      },
+      {
+        "original": "[026|11]\nśeṣāstatsahabhuvo dharmadhātuḥ //",
+        "root": false
+      },
+      {
+        "original": "[026|12-025|12]\nidaṃ vicāryate /",
+        "root": false
+      },
+      {
+        "original": "[026|12-026|13]\nyaścakṣurdhātunā 'samanvāgataḥ samanvāgamaṃ pratilabhate cakṣurvijñānadhātunā 'pi saḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|13]\nyo vā cakṣurvijñānadhātunā cakṣurdhātunā 'pi saḥ /\nāha /",
+        "root": false
+      },
+      {
+        "original": "[026|14]\ncakṣurvijñānadhātvoḥ syāt pṛthak lābhaḥ sahāpi ca // VAkK_1.38 //",
+        "root": true
+      },
+      {
+        "original": "[026|15]\npṛthak tāvat syāccakṣurdhātunā na cakṣurvijñānadhātunā /",
+        "root": false
+      },
+      {
+        "original": "[026|15-026|16]\nkāmadhātau krameṇa cakṣurindriyaṃ pratilabhamānaḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|16]\nārupyadhātucyutaśca dvitīyādiṣu dhyāneṣūpapadyamānaḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|16-026|17]\nsyāccakṣurvijñānadhātunā na cakṣurdhātunā /",
+        "root": false
+      },
+      {
+        "original": "[026|17-026|18]\ndvitīyādidhyānopapannaścakṣurvijñāna saṃmukhīkurvāṇastatpracyutaścādhastādupapadyamānaḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|18-026|19]\nsahāpi syādubhayena samanvāgamaṃ pratilabhate /",
+        "root": false
+      },
+      {
+        "original": "[026|19]\nārūpyadhātucyutaḥ kāmadhātau brahmaloke copapadyamānaḥ /\nnobhayena /",
+        "root": false
+      },
+      {
+        "original": "[026|20]\netānākārān sthāpayitvā /\nyaścakṣurdhātunā samanvāgataścakṣurvijñānadhātunā 'pi saḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|21]\ncatuṣkoṭikaḥ /\nprathamā koṭirdvitīyādiṣu dhyāneṣūpapannaścakṣurvijñānāsaṃmukhīkurvāṇaḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|22]\ndvitīyā kāmadhātāvalabdhavihīna cakṣuḥ /",
+        "root": false
+      },
+      {
+        "original": "[026|22-026|23]\ntṛtīyā kāmadhātau labdhāvihīnacakṣuḥ prathamadhyānopapanno dvitīyādidhyānopapannaśca paśyan /",
+        "root": false
+      },
+      {
+        "original": "[026|23-026|24]\ncatuṛthyetānākārān sthāpayitvā /",
+        "root": false
+      },
+      {
+        "original": "[026|24-026|25]\nevaṃ cakṣurdhāturūpadhātvoścakṣurvijñānarūpadhātvośca pratilambhasamanvāgamau yathāyogamabhyūhitavyau /",
+        "root": false
+      },
+      {
+        "original": "[026|25]\netasya prasaṅgasya samuccayārthaścaśabdaḥ sahāpi ca iti /",
+        "root": false
+      },
+      {
+        "original": "[027|01]\nkatyādhyātmikā dhātavaḥ kati bāhyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[027|02]\ndvādaśādhyātmikāḥ",
+        "root": true
+      },
+      {
+        "original": "[027|03]\nkatame dvādaśa /",
+        "root": false
+      },
+      {
+        "original": "[027|04]\nhitvā rūpādan",
+        "root": true
+      },
+      {
+        "original": "[027|05]\nṣaḍ vijñānāni ṣaḍāśrayā ityete dvādaśa dhātava ādhyātmakāḥ /",
+        "root": false
+      },
+      {
+        "original": "[027|05-027|06]\nrūpādayastu ṣaḍ viṣayadhātavo bāhyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[027|06]\nātmanyasati kathamādhyātmikaṃ bāhyaṃ vā /",
+        "root": false
+      },
+      {
+        "original": "[027|06-027|07]\nahaṅkārasanniśrayatvāccittamātmetyupacaryate /",
+        "root": false
+      },
+      {
+        "original": "[027|08]\n\"ātmanā hi sudāntena svargaṃ prāpnoti paṇḍitaḥ\"",
+        "root": false
+      },
+      {
+        "original": "[027|09-026|09]\nityuktam /",
+        "root": false
+      },
+      {
+        "original": "[027|09]\ncittasya cānyatra damanamuktaṃ bhagavatā /",
+        "root": false
+      },
+      {
+        "original": "[027|10]\n\"cittasya damanaṃ sādhu cittaṃ dāntaṃ sukhāvaham\" iti /",
+        "root": false
+      },
+      {
+        "original": "[027|11]\nata ātmabhūtasya cittasyāśrayabhāvena pratyāsannatvāt /",
+        "root": false
+      },
+      {
+        "original": "[027|11-027|12]\ncakṣurādīnāmādhyātmikatvaṃ rūpādīnāṃ viṣayabhāvād bāhyatvam /",
+        "root": false
+      },
+      {
+        "original": "[027|12-027|13]\nevam tarhi ṣaḍ vijñānadhātava ādhyātmikā na prāpnuvanti /",
+        "root": false
+      },
+      {
+        "original": "[027|13]\nna hyete manodhātutvamaprāptāścittasyāśrayībhavanti /",
+        "root": false
+      },
+      {
+        "original": "[027|13-027|14]\nyadā tadā ta eva te bhavantīti lakṣaṇaṃ nātibarttante /",
+        "root": false
+      },
+      {
+        "original": "[027|14-027|15]\nanyathā hi manodhāturatīta eva syānnānāgatapratyutpannaḥ /",
+        "root": false
+      },
+      {
+        "original": "[027|15]\niṣyante cāṣṭādaśa dhātavastraiyadhvikāḥ /",
+        "root": false
+      },
+      {
+        "original": "[027|15-027|16]\nyadi cānāgatapratyutpannasya vijñānasya manodhātulakṣaṇaṃ na syāt atīte 'pyadhvani manodhāturna vyavasthāpyeta /",
+        "root": false
+      },
+      {
+        "original": "[027|17]\nnahi lakṣaṇasyādhvasu vyabhicāro 'stīti //",
+        "root": false
+      },
+      {
+        "original": "[027|18]\nkati dhātavaḥ sabhāgāḥ kati tatsabhāgāḥ /\nekāntena tāvat\n[027|19]\ndharmasaṃjñakaḥ /",
+        "root": true
+      },
+      {
+        "original": "[027|20]\nsabhāgaḥ",
+        "root": true
+      },
+      {
+        "original": "[027|21-027|22]\nyo hi viṣayo yasya vijñānasya niyato yadi tatra tadvijñānamutpantaṃ bhavatyutpattidharmi vā evaṃ sa viṣayaḥ sabhāga ityucyate /",
+        "root": false
+      },
+      {
+        "original": "[027|22-027|23]\nna ca so 'sti kaściddharmadhāturyatra nānantaṃ manovijñānamutpannamutpatsyate vā /",
+        "root": false
+      },
+      {
+        "original": "[027|23-027|24]\ntathā hi sarvāryapudgalānāmidaṃ cittamavaśyamutpadyate \"sarvadharmā anātmāna\" iti /",
+        "root": false
+      },
+      {
+        "original": "[027|14-027|25]\ntasya ca svabhāvasahabhūnirmuktāḥ sarvadharmā ālambanam /",
+        "root": false
+      },
+      {
+        "original": "[027|25-027|26]\nsa punaścittakṣaṇo 'nyasya cittakṣaṇasyālambanamiti dvayoḥ kṣaṇayoḥ sarvadharmā hyālambanaṃ bhavanti /",
+        "root": false
+      },
+      {
+        "original": "[027|26]\ntasmād dharmadhātuarnityaṃ sabhāgaḥ /",
+        "root": false
+      },
+      {
+        "original": "[027|27]\ntatsabhāgāśca śeṣāḥ",
+        "root": true
+      },
+      {
+        "original": "[027|28]\nsabhāgaśceti caśabdaḥ /\nko 'yaṃ tatsabhāgo nāma /",
+        "root": false
+      },
+      {
+        "original": "[028|01]\nyo na svakarmakṛt // VAkK_1.39 //",
+        "root": true
+      },
+      {
+        "original": "[028|02]\nuktaṃ bhavati yaḥ svakarmakṛt sa sabhāga iti /",
+        "root": false
+      },
+      {
+        "original": "[028|02-028|03]\ntatra yena cakṣuṣā rūpāṇyapaśyat paśyati drakṣyati vā taducyate sabhāgaṃ acakṣuḥ /",
+        "root": false
+      },
+      {
+        "original": "[028|03-028|04]\nevaṃ yāvanmanaḥ svena viṣayakāritreṇa vaktavyam /",
+        "root": false
+      },
+      {
+        "original": "[028|04]\ntatsabhāgaṃ cakṣuḥ kāśmīrāṇāṃ caturvidham /",
+        "root": false
+      },
+      {
+        "original": "[028|04-028|05]\nyad dṛṣṭvā rūpāṇi niaruddhaṃ nirudhyate nirotsyate vā yaccānutpattidharmi /",
+        "root": false
+      },
+      {
+        "original": "[028|05-028|06]\npāścāttyānāṃ punaḥ pañcavidham /",
+        "root": false
+      },
+      {
+        "original": "[028|06]\ntadevānutpattidharmi dvidhā kṛtvā vijñānasamāyuktaṃ cāsamāyusktaṃ ca /",
+        "root": false
+      },
+      {
+        "original": "[028|07]\nevaṃ yāvat kāyo veditavyaḥ /\nmanastvanutpattidharmakameva tatsabhāgam /",
+        "root": false
+      },
+      {
+        "original": "[028|07-028|08]\nrūpāṇi ca yāni cakṣuṣā 'paśāyat paśyati drakṣyati vā tāni sabhāgāni /",
+        "root": false
+      },
+      {
+        "original": "[028|08]\ntatsabhāgāni caturvidhāni /",
+        "root": false
+      },
+      {
+        "original": "[028|09]\nyānyadṛṣṭānyeva niruddhāni nirudhyante nirutsyante vā yāni cānutpattidharmīṇi /",
+        "root": false
+      },
+      {
+        "original": "[028|09-028|10]\nevaṃ yāvat spraṣṭavyāni /",
+        "root": false
+      },
+      {
+        "original": "[028|10]\nsvendriyakāritreṇa sabhāgatatsabhāgāni veditavyāni /",
+        "root": false
+      },
+      {
+        "original": "[028|10-028|11]\nyadekasya cakṣuḥ sabhāgaṃ tatsarveṣām /",
+        "root": false
+      },
+      {
+        "original": "[028|11]\nevaṃ tatsabhāgamapi /",
+        "root": false
+      },
+      {
+        "original": "[028|110-02811]\ntatha yāvanmanaḥ /",
+        "root": false
+      },
+      {
+        "original": "[028|11-028|12]\nrūpaṃ tu yaḥ paśyati tasya sabhāgaṃ yo na paśyati tasya tatsabhāgam /",
+        "root": false
+      },
+      {
+        "original": "[028|12]\nkiṃ kāraṇam /",
+        "root": false
+      },
+      {
+        "original": "[028|12-028|13]\nasti hi saṃbhavo yadrūpamekaḥ paśyati taddhavo 'pi paśyeyuryathā candranaṭmallaprekṣāsu /",
+        "root": false
+      },
+      {
+        "original": "[028|13-028|14]\nnatu saṃbhavo 'sti yadekena cakṣuṣā dvau paśyetām /",
+        "root": false
+      },
+      {
+        "original": "[028|14]\nato 'syāsādhāraṇatvādekasantānavaśena vyavasthānam /",
+        "root": false
+      },
+      {
+        "original": "[028|15]\nrūpasya tu sādhāraṇatvāt anekasantānavaśena /",
+        "root": false
+      },
+      {
+        "original": "[028|15-028|16]\nyathā raupamevaṃ śabdagandharasaspraṣṭavyadhātavo veditavyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[028|16]\nbhavatu śabda evam /",
+        "root": false
+      },
+      {
+        "original": "[028|16-028|18]\ngandhādayastu ya ekena gṛhyante na te 'nyena prāptagṛhaṇādityasādhāraṇatvādeṣāṃ cakṣurādivadatideśo nyāyyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[028|18]\nastyetadevamapi tveśāmapi saṃbhavaṃ prati sādhāraṇatvam /",
+        "root": false
+      },
+      {
+        "original": "[028|18-028|19]\nasti hyeṣa saṃbhavo ya eva gandhādaya ekasya ghrāṇādivijñānamutpādayeyusta evānyeṣāmapi /",
+        "root": false
+      },
+      {
+        "original": "[028|20]\nna tvevaṃ cakṣurādayaḥ /\ntasmāndeṣāṃ rūpādivadatideśaḥ /",
+        "root": false
+      },
+      {
+        "original": "[028|20-028|21]\ncakṣurvijñānādīnāṃ sabhāgatatsabhāgatvamutpattyanutpattidharmitvādyathā manodhātoḥ /",
+        "root": false
+      },
+      {
+        "original": "[028|22]\nsabhāga iti ko 'rthaḥ /",
+        "root": false
+      },
+      {
+        "original": "[028|22-028|23]\nindriyaviṣayavijñānānāmanyonyabhajanaṃ kāritrabhajanaṃ vā bhāgaḥ /",
+        "root": false
+      },
+      {
+        "original": "[028|23]\nsa eṣāmastīti sabhāgaḥ /\nsparśasamānakāryatvādvā /",
+        "root": false
+      },
+      {
+        "original": "[028|23-028|24]\nye punarasabhāgāste teṣā sabhāgānāṃ jātisāmānyena sabhāgatvāt tatsabhāgāḥ /",
+        "root": false
+      },
+      {
+        "original": "[028|25]\nkati dhātavo darśanaheyāḥ kati bhāvanāheyāḥ katyaheyāḥ /\nrūpiṇastāvat",
+        "root": false
+      },
+      {
+        "original": "[028|26]\ndaśa bhāvanayā heyāḥ pañca ca",
+        "root": true
+      },
+      {
+        "original": "[028|27]\nvijñānadhātavaḥ /",
+        "root": false
+      },
+      {
+        "original": "[028|28]\nantyāstrayastridhā /",
+        "root": true
+      },
+      {
+        "original": "[028|29]\nmanodhāturdharmadhāturmanovijñānadhātuśca /\nete trayo dhātavaḥ pāṭhānupūrvyā 'ntyāstriprakārāḥ /",
+        "root": false
+      },
+      {
+        "original": "[029|01]\naṣṭāśītyanuśayāḥ tatsahabhuvastatpraptayaśāca sānucarā daṛśanaheyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[029|01-029|02]\nśeṣāḥ sāsravā bhāvanāheyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[029|02]\nanāsravā aheyāḥ /",
+        "root": false
+      },
+      {
+        "original": "[029|02-029|03]\nnanu cānyadapi darśanaprahātavyamasti pṛthagjanatvamāpāyikaṃ ca kāyavākkarma /",
+        "root": false
+      },
+      {
+        "original": "[029|03-029|04]\nāryamārgavirodhitvāt na tad daṛśanaprahātavyam /",
+        "root": false
+      },
+      {
+        "original": "[029|04]\neṣa hi saṃkṣepaḥ /",
+        "root": false
+      },
+      {
+        "original": "[029|05]\nna dṛṣṭiheyamakliṣṭaṃ na rūpaṃ nāpyaḍaḍtḥajaṃ",
+        "root": true
+      },
+      {
+        "original": "[029|06]\nnāsti kiñcidakliṣṭaṃ darśanaprahātavyaṃ nāpi rūpam /",
+        "root": false
+      },
+      {
+        "original": "[029|06-029|07]\nakliṣṭavyākṛtaṃ ca pṛthagjanatvam /",
+        "root": false
+      },
+      {
+        "original": "[029|07]\nsamucchinnakuśalamūlavītarāgāṇāmapi tatsamanvāmat rūpaṃ kāyavākkarma /",
+        "root": false
+      },
+      {
+        "original": "[029|08]\ntasmānna darśanaprahātavyam /",
+        "root": false
+      },
+      {
+        "original": "[029|08-029|09]\nsatyeṣva vipratipatterduḥkhe dharmajñānakṣāntau prthagjanatvaprasaṅgācca /",
+        "root": false
+      },
+      {
+        "original": "[029|10]\nnāpyaṣaṣṭajam // VAkK_1.40 //",
+        "root": true
+      },
+      {
+        "original": "[029|11]\nṣaṣṭhamucyate mana āyatanam /",
+        "root": false
+      },
+      {
+        "original": "[029|11-029|12]\ntasmādanyatra jātamaṣaṣṭhajaṃ pañcendriyajaṃ ca yattadapi nāsti darśnaprahātavyam //",
+        "root": false
+      },
+      {
+        "original": "[029|13]\naṣṭādaśānāṃ dhātūnāṃ kati dṛṣṭiḥ kati na dṛṣṭiḥ /",
+        "root": false
+      },
+      {
+        "original": "[029|14]\ncakṣuśca dharmadhātośca pradeśu dṛṣṭiḥ",
+        "root": true
+      },
+      {
+        "original": "[029|15]\nkatamaḥ sa ityāha",
+        "root": false
+      },
+      {
+        "original": "[029|16]\naṣṭadhā /",
+        "root": true
+      },
+      {
+        "original": "[029|17-029|18]\npañca satkāyadṛṣṭyādikā dṛṣṭayaḥ laukikī samyag dṛṣṭiḥ śaiṅkṣī dṛṣṭiraśaikṣī dṛṣṭirityayamaṣṭaprakāro dharmadhāturdṛṣṭi ravraśiṣṭo na dṛṣṭiḥ /\ntatra satkāyadṛṣṭyādīnāmanuśāyanirdeśe nirddeśaḥ prāptakālo bhaviṣyati /",
+        "root": false
+      },
+      {
+        "original": "[029|19-029|20]\nlaukikī punaḥ samyagdṛṣṭirmanovijñānasaṃprayuktā kuśalasāsravā prajñā /",
+        "root": false
+      },
+      {
+        "original": "[029|20-029|21]\nśaikṣasyanāsravā dṛṣṭiḥ ṣaikṣī aśaikṣasya akśaikṣī /",
+        "root": false
+      },
+      {
+        "original": "[029|21-029|22]\nsameghāmegharatrindivarūpadarśanavat kliṣṭākliṣṭalaukikīśaikṣyaśaikṣībhirdṛṣṭibhirdharmadarśanam /",
+        "root": false
+      },
+      {
+        "original": "[029|22]\natha kasmāllaudikī samyagdṛṣṭirmanovijñānasaṃprayuktaivocyate /",
+        "root": false
+      },
+      {
+        "original": "[029|23]\nyasmāt /",
+        "root": false
+      },
+      {
+        "original": "[029|24]\npañcavijñānasahajā dhīrna dṛṣṭiratīraṇāt // VAkK_1.41 //",
+        "root": true
+      },
+      {
+        "original": "[029|25]\nsantīrikā hi dṛṣṭirupadhyānapravṛttattvāt /\nna caivaṃ pañcavijñānasahājā prajñā /",
+        "root": false
+      },
+      {
+        "original": "[030|01]\ntasmādsau na dṛṣṭiḥ /\nata eva cānyā 'pi kliṣṭā 'kliṣṭā vā prājñā na dṛṣṭiḥ /",
+        "root": false
+      },
+      {
+        "original": "[030|02]\ncakṣuridānīmasantīrakatve kathaṃ dṛṣṭiḥ /\nrūpālocanārthena /\nyasmāt",
+        "root": false
+      },
+      {
+        "original": "[030|03]\ncakṣuḥ paśyati rūpāṇi",
+        "root": true
+      },
+      {
+        "original": "[030|04]\nyadi cakṣuḥ paśyedanyavijñānasamaṅgino 'pi paśyet /\nna vai sarvaṃ cakṣuḥ paśyati /\nkiṃ tarhi /",
+        "root": false
+      },
+      {
+        "original": "[030|05]\nsabhāgaṃ",
+        "root": true
+      },
+      {
+        "original": "[030|06]\nsavijñānakaṃ yadā bhavati tadā paśyatyanyadā neti /",
+        "root": false
+      },
+      {
+        "original": "[030|06-030|07]\nevam tarhi tadeva cakṣurāśritam vijñānaṃ paśyatītyastu /",
+        "root": false
+      },
+      {
+        "original": "[030|08]\nna tadāśritam /",
+        "root": true
+      },
+      {
+        "original": "[030|09]\nvijñānaṃ",
+        "root": true
+      },
+      {
+        "original": "[030|10]\npaśyatīti śasyamavijñātum /\nkiṃ kāraṇam /",
+        "root": false
+      },
+      {
+        "original": "[030|11]\ndṛśyate rūpaṃ na kilāntaritaṃ yataḥ // VAkK_1.42 //",
+        "root": true
+      },
+      {
+        "original": "[030|12]\nyasmāt kila rūpaṃ kuḍyādivyavahitaṃ na dṛśyate /",
+        "root": false
+      },
+      {
+        "original": "[030|12-030|13]\nyadi hi vijñānaṃ paśyettassyāpratighatvāt kuḍyādiṣu pratighāto nāsti ityvāṛtamapi rūpaṃ paśyet /",
+        "root": false
+      },
+      {
+        "original": "[030|13-030|14]\nnaiva hāvṛte cakṣurvijñānamutpadyata ityanutpannaṃ kathaṃ drakṣyati /",
+        "root": false
+      },
+      {
+        "original": "[030|14]\nkiṃ khalu notpadyate /",
+        "root": false
+      },
+      {
+        "original": "[030|14-030|16]\nyasya tu cakṣuḥ paśyati tasya cakṣuṣaḥ saparatighatvādvyayavahite vṛttyabhāva iti vijñānasyānutpatti rāśrayeṇaika viṣayapravṛttatvāt yujyate /",
+        "root": false
+      },
+      {
+        "original": "[030|16-030|17]\nkiṃ nu vai cakṣuḥ prāptaviṣayaṃ kāyendriyavat yata āvṛtaṃ na paśyet /",
+        "root": false
+      },
+      {
+        "original": "[030|17]\nsapratighatvāt /",
+        "root": false
+      },
+      {
+        "original": "[030|17-030|18]\nkācābhrapaṭalasphaṭikāmbubhiścāntaritaṃ kathaṃ dṛśyate /",
+        "root": false
+      },
+      {
+        "original": "[030|18]\nsapratighatvāccakṣuṣa āvṛtasya rūpasyādarśanam /",
+        "root": false
+      },
+      {
+        "original": "[030|19]\nkiṃ tarhi /",
+        "root": false
+      },
+      {
+        "original": "[030|19-030|20]\nyatrālokasyāpratibandha āvṛte 'pi rupe tatropapadyata eva cakṣurvijñānam /",
+        "root": false
+      },
+      {
+        "original": "[030|20-030|21]\nyatra tu pratibandhastatra notpadyata ityanutpannatvādāvṛtaṃ nekṣyate /",
+        "root": false
+      },
+      {
+        "original": "[030|21]\nyattarhi sūtra uktaṃ \"cakṣuṣā rūpāṇi dṛṣṭve\"ti /",
+        "root": false
+      },
+      {
+        "original": "[030|21-030|22]\ntenāśrayeṇetyayamatrābhisandhiryathā \"manasā dharmān vijñāye\" tyāha /",
+        "root": false
+      },
+      {
+        "original": "[030|22-030|23]\nna ca mano dharmān vijānāti /",
+        "root": false
+      },
+      {
+        "original": "[030|23]\natītatvāt /\nkiṃ tarhi /\nmanovijñānam /",
+        "root": false
+      },
+      {
+        "original": "[030|23-030|24]\nāśritakarma vā āśrayasyopacaryate /",
+        "root": false
+      },
+      {
+        "original": "[030|24]\nyathā mañcāḥ krośantīti /",
+        "root": false
+      },
+      {
+        "original": "[030|24-030|25]\nyathā ca sūtra uktaṃ \"cakṣurvijñeyāni rūpāṇīṣṭāni kāntāni\"ti /",
+        "root": false
+      },
+      {
+        "original": "[030|25]\nna ca tāni cakṣuṣā vijñāyante /",
+        "root": false
+      },
+      {
+        "original": "[030|25-030|27]\nuktaṃ ca sūtre \"cakṣurbrāhmaṇa dvāraṃ yāvadeva rūpāṇāṃ darśanāya\" ityato gamyate cakṣuṣā dvāreṇa vijñānaṃ paśyatīti /\nś",
+        "root": false
+      },
+      {
+        "original": "[030|27]\ndarśane tatra dvārākhyā /\nnahyetadyujyate /\ncakṣurdārśanaṃ arūpāṇāṃ darśnāyeti /",
+        "root": false
+      },
+      {
+        "original": "[031|01]\nyadi vijñānaṃ kpaśyati ko vijānāti kaścānayorviśeṣaḥ /",
+        "root": false
+      },
+      {
+        "original": "[031|01-031|02]\nyadeva hi rūpasya vijñānaṃ tadevāsya darśnamiti /",
+        "root": false
+      },
+      {
+        "original": "[031|02-031|03]\ntadyathā kācit prajñā paśyatītyapyucyate prajānātītyapyevaṃ kiñcidvijñānaṃ paśyatītyapyucyāte vijānātītyapi /",
+        "root": false
+      },
+      {
+        "original": "[031|03]\nanye punarāhuḥ /",
+        "root": false
+      },
+      {
+        "original": "[031|03-031|04]\n\"yadi cakṣuḥ paśyati kartṛbhūtasya cakṣuṣaḥ kā 'nyā dṛśikriye\"ti vaktavyam /",
+        "root": false
+      },
+      {
+        "original": "[031|04]\ntadetadacodyam /",
+        "root": false
+      },
+      {
+        "original": "[031|04-031|05]\nyadi hi vijñānaṃ vijānātītīṣyate /",
+        "root": false
+      },
+      {
+        "original": "[031|05]\nna ca tatra kartṛkriyābhedaḥ /\nevamatrāpi /",
+        "root": false
+      },
+      {
+        "original": "[031|05-031|06]\napare punarbruvate /",
+        "root": false
+      },
+      {
+        "original": "[031|06-031|07]\n\"cakṣurvijñānaṃ darśanaṃ tasyāśrayabhāvāccakṣuḥ paśyatītyucyate /",
+        "root": false
+      },
+      {
+        "original": "[031|07]\nyathā nādasyāśrayabhāvāt ghaṇṭā nadatītyucyate\" iti /",
+        "root": false
+      },
+      {
+        "original": "[031|07-031|08]\nnanu caīvaṃ vijñānasyāśrayabhāvācakṣurvijānātīti prāpnoti /",
+        "root": false
+      },
+      {
+        "original": "[031|08]\nna prāpnoti /",
+        "root": false
+      },
+      {
+        "original": "[031|08-031|09]\ntadvijñānaṃ darśanamiti ruḍhaṃ loke /",
+        "root": false
+      },
+      {
+        "original": "[031|09]\ntathā hi tasminnutpanne rūpaṃ dṛṣṭamityucyate na vijñātam /",
+        "root": false
+      },
+      {
+        "original": "[031|09-031|10]\nvibhāṣāyāmapyuktaṃ \"cakṣuḥ saṃpraptaṃ cakṣurvijñānānubhūtaṃ dṛṣṭamityucyata\" iti /",
+        "root": false
+      },
+      {
+        "original": "[030|10-031|11]\ntasmāccakṣuḥ paśyatītyevocyate na vijānātīti /",
+        "root": false
+      },
+      {
+        "original": "[031|11]\nvijñānaṃ tu sānnidhyamātreṇa rūpaṃ vijānātītyucyate /",
+        "root": false
+      },
+      {
+        "original": "[031|12]\nyathā sūryo divasakara iti /\natra sautrāntikā āhuḥ /\nkimidamākāśaṃ khādyate /",
+        "root": false
+      },
+      {
+        "original": "[031|13]\ncakṣurhi pratītya rūpāṇi cotpadyate cakṣurvijñānam /\ntatra kaḥ paśyati ko vā dṛśyate /",
+        "root": false
+      },
+      {
+        "original": "[031|14]\nnivryāpāraṃ hīdaṃ dharmamātraṃ hetuphalamātraṃ ca /",
+        "root": false
+      },
+      {
+        "original": "[031|14-031|15]\ntatra vyavahārārthaṃ cchandata upacārāḥ kriyante /",
+        "root": false
+      },
+      {
+        "original": "[031|15]\ncakṣuḥ paśyati vijñānaṃ vijānātīti nātrābhiniveṣṭavyam /",
+        "root": false
+      },
+      {
+        "original": "[031|15-031|16]\nuktaṃ hi bhagavatā \"janapadaniruktiṃ nābhiniviśeta saṃjñāṃ ca lokasya nābhidhāvedi\"ti /",
+        "root": false
+      },
+      {
+        "original": "[031|16-031|17]\neṣa tu kāśmīravaibhāṣikāṇāṃ siddhāntaḥ /",
+        "root": false
+      },
+      {
+        "original": "[031|17-031|18]\ncakṣuḥ paśyati śrotraṃ śṛṇoti ghrāṇaṃ jighrati jihvā āsvādayati kāyaḥ spṛśati mano vijānātīti /",
+        "root": false
+      },
+      {
+        "original": "[031|19]\ntadyadi cakṣuḥ paśyati kimekena cakṣuṣā rūpāṇi paśyatyāhosvidubhābhyām /",
+        "root": false
+      },
+      {
+        "original": "[031|20]\nnātra niyamaḥ /",
+        "root": false
+      },
+      {
+        "original": "[031|21]\nubhābhyāmapi cakṣubhuyāṃ paśyati vyaktadarśanāt /",
+        "root": true
+      },
+      {
+        "original": "[031|22]\nubhābhyāmapi cakṣurbhyāṃ paśyatītyābhidhārmikāḥ /",
+        "root": false
+      },
+      {
+        "original": "[031|22-031|23]\ntathā hi dvayorvivṛtayoḥ paraiśāuddhataraṃ darāśanaṃ bhavati /",
+        "root": false
+      },
+      {
+        "original": "[031|23-031|24]\nekasmiṃścīnmīlite cakṣuṣi dvitīye cārdhanimīlite dvicandrādigrahaṇaṃ bhavati /",
+        "root": false
+      },
+      {
+        "original": "[031|24]\nnaikatarānyathībhāvāt /",
+        "root": false
+      },
+      {
+        "original": "[031|24-031|25]\nna cāśrayavicchedād vicchedaparasaṅgo vijñānasya deśāpratiṣṭhitatvād raupavaditi /",
+        "root": false
+      },
+      {
+        "original": "[031|26-031|27]\nyadi cakṣuḥ paśyati śrotraṃ śṛṇoti yāvanmano vijānāti kimeṣāṃ prāpto viṣaya āhosvidaprāptaḥ /",
+        "root": false
+      },
+      {
+        "original": "[032|01]\ncakṣuḥśrotramano 'prāptaviṣayaṃ",
+        "root": true
+      },
+      {
+        "original": "[032|02]\ntathā hi dūrādrūpaṃ paśyatyakṣisthamañjanaṃ na paśyati /\ndūrācchabdaṃ śṛṇoti /",
+        "root": false
+      },
+      {
+        "original": "[032|02-032|03]\nsati ca prāptaviṣayatve divyaṃ cakṣuḥśrotramiha dhyāyināṃ nopajāyeta /",
+        "root": false
+      },
+      {
+        "original": "[032|03]\nghrāṇādivat /",
+        "root": false
+      },
+      {
+        "original": "[032|03-032|04]\nyadyaprāptaviṣayaṃ cakṣuḥ kasmānna sarvamaprāptaṃ paśyati dūraṃ tiraskṛtaṃ ca /",
+        "root": false
+      },
+      {
+        "original": "[032|04-032|05]\nkathaṃ tāvadayskānto na sarvamaprāptamayaḥ karṣati /",
+        "root": false
+      },
+      {
+        "original": "[032|05]\nprāptaviṣayatve 'pi caitatsamānam /",
+        "root": false
+      },
+      {
+        "original": "[032|05-032|06]\nkasmānna sarvaṃ prāptaṃ paśyatyañjanaṃ śalākāṃ vā /",
+        "root": false
+      },
+      {
+        "original": "[032|06-032|07]\nyathā ca ghrāṇādīnaṃ prāpto viṣayo na tu sarvaḥ /",
+        "root": false
+      },
+      {
+        "original": "[032|7-03207]\nsahabhūgandhādyagrahaṇāt /",
+        "root": false
+      },
+      {
+        "original": "[032|07]\nevaṃ cakṣuṣo 'pyaprāptaḥ syānna tu sarvaḥ /",
+        "root": false
+      },
+      {
+        "original": "[032|07-032|08]\nmanastvarūpitvāt prāptumevāśaktam /",
+        "root": false
+      },
+      {
+        "original": "[032|08]\nkecit punaḥ śrotraṃ praptāprāptaviṣayaṃ manyayante /",
+        "root": false
+      },
+      {
+        "original": "[032|09]\nkarṇabhyantare 'pi śabdaśravaṇāt /\nśeṣaṃ tu ghrāṇajihvākāyākhyam /",
+        "root": false
+      },
+      {
+        "original": "[032|10]\ntrayamanyathā // VAkK_1.43 //",
+        "root": true
+      },
+      {
+        "original": "[032|11]\nprāptaviṣayamityarthaḥ /\nghrāṇaṃ kathaṃ prāptaviṣayam /\nnirucchvāsasya gandhāgrahaṇāt /",
+        "root": false
+      },
+      {
+        "original": "[032|12]\nkeyaṃ prāptirnāma /\nnirantarotpattiḥ /",
+        "root": false
+      },
+      {
+        "original": "[032|12-032|13]\nkiṃ punaḥ paramāṇavaḥ spṛśantyanyonyamāhosvinna /",
+        "root": false
+      },
+      {
+        "original": "[032|13-031|13]\nna spṛśantīti kāśmīrakāḥ /",
+        "root": false
+      },
+      {
+        "original": "[032|13]\nkiṃ kāraṇam /",
+        "root": false
+      },
+      {
+        "original": "[032|13-032|14]\nyadi tāvat sarvānmanā spṛśeyurmiśrībhaveyurdravyāṇi /",
+        "root": false
+      },
+      {
+        "original": "[032|14]\nathaikadeśena sāvayavāḥ prasajyeran /",
+        "root": false
+      },
+      {
+        "original": "[032|15]\nniravayavāśca paramāṇavaḥ /\nkathaṃ śabdābhiniśpattirbhavati /",
+        "root": false
+      },
+      {
+        "original": "[032|15-032|16]\nata eva yadi hi spṛśeyurhasto haste 'bhyāhataḥ sajyeto palaścopale /\n[032|16-032|17]\nkathaṃ citaṃ pratyāhataṃ na viśīryate /",
+        "root": false
+      },
+      {
+        "original": "[032|17]\nvāyudhātusaṃdhāritatvāt /",
+        "root": false
+      },
+      {
+        "original": "[032|17-032|18]\nkaścidvāyudhāturvikiraṇāya pravṛtto yathā saṃvarttanyāṃ kaścit saṃdhāraṇāya yathā vivarttanyāmiti /",
+        "root": false
+      },
+      {
+        "original": "[032|18-032|19]\nkathamidānīṃ nirantara prāptyā prāptaviṣayaṃ trayamucyate /",
+        "root": false
+      },
+      {
+        "original": "[032|19]\ntadevaiṣāṃ niruttaratvaṃ yanmadhye nāsti kiñcit /",
+        "root": false
+      },
+      {
+        "original": "[032|20]\napikhlu saṃghātāḥ sāvayavatvāt spṛśantītyadvīṣaḥ /",
+        "root": false
+      },
+      {
+        "original": "[032|20-032|21]\nevaṃ ca kṛtvā 'yamapi grantha upapanno bhavati vibhāṣāyām /",
+        "root": false
+      },
+      {
+        "original": "[032|21-032|22]\nkiṃ nu spṛṣṭahetukaṃ spṛṣṭamutpadyate āhosvidaspṛṣṭahetukamiti praśnayitvāha\"kāraṇaṃ prati /",
+        "root": false
+      },
+      {
+        "original": "[032|22-032|23]\nkadācit spṛṣṭahetukamaspṛṣṭamutpadhate yadā viśīryate /",
+        "root": false
+      },
+      {
+        "original": "[032|23]\nkadācidaspṛṣṭahetukaṃ spṛṣṭaṃ yadā cayaṃ gacchati /",
+        "root": false
+      },
+      {
+        "original": "[033|01]\nkadācit spṛṣṭahetukaṃ spṛṣṭaṃ yadā cayavatāṃ cayaḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|01-033|02]\nkadācidaspṛṣṭahetukamaspṛṣṭaṃ yadā vātāyanaraja\" iti /",
+        "root": false
+      },
+      {
+        "original": "[033|02]\nyadi paramāṇavaḥ spṛśeyuruttarakṣaṇāvasthānaṃ syāditi bhadantavasumitraḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|03]\nna spṛśanti /\nnirantare tu spṛṣṭasaṃjñeti bhadantaḥ /\nbhadantamataṃ caiṣṭavyam /",
+        "root": false
+      },
+      {
+        "original": "[033|04]\nanyathā hi sāntarāṇāṃ paramāṇūnāṃ śūnyeṣvantareṣu gatiḥ kena pratibadhyeta /",
+        "root": false
+      },
+      {
+        "original": "[033|04-033|05]\nyataḥ sapratighā iṣyante /",
+        "root": false
+      },
+      {
+        "original": "[033|05]\nnaca paramāṇubhyo 'nye saṃghātā iti /",
+        "root": false
+      },
+      {
+        "original": "[033|05-033|06]\nta eva te saṃghātāḥ paramāṇavaḥ spṛśyante yathā rūpyante /",
+        "root": false
+      },
+      {
+        "original": "[033|06-033|07]\nyadi ca paramāṇordigbhāgabhedaḥ kalpyate spṛṣṭasyāspṛṣṭasya vā sāvayavatvaprasaṅgaḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|07]\nno cet spṛṣṭasyāpyaprasaṅgaḥ //",
+        "root": false
+      },
+      {
+        "original": "[033|08-033|09]\nkiṃ punarebhiścakṣurādibhirātmaparimāṇatulyasyārthasya grahaṇaṃ bhavatyāśuvṛttyā ca parvatādīnāmalātakrādivadāhosvittulyātulyasya /",
+        "root": false
+      },
+      {
+        "original": "[033|09-033|10]\nyāni tāvadetāni prāptaviṣayāṇyuktānyebhiḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|11]\ntribhirghrāṇādibhistulyaviṣayagrahaṇaṃ matam /",
+        "root": true
+      },
+      {
+        "original": "[033|12]\nyāvanto hīndriyaparamāṇavastāvanto hi viṣayaparamāṇavaḥ sametya vijñānaṃ janayanti /",
+        "root": false
+      },
+      {
+        "original": "[033|13]\ncakṣuḥśrotrābhyāṃ tvaniyamaḥ /\nkadācidalpīyāṃso yadā vālāgraṃ paśyati /",
+        "root": false
+      },
+      {
+        "original": "[033|13-033|14]\nkadācit samā yadā drākṣāphataṃ paśyati /",
+        "root": false
+      },
+      {
+        "original": "[033|14-033|15]\nkadācit bhūyāṃso yadā mahāntaṃ parvataṃ paśyatyunmiṣitamātreṇa /",
+        "root": false
+      },
+      {
+        "original": "[033|15]\nevam śrotreṇa maśakameghādiśabdaśravaṇe ghoṣam /",
+        "root": false
+      },
+      {
+        "original": "[033|15-033|16]\nmanastvamūrttivadeveti nāsya parimāṇaparicchedaḥ saṃpradhāryate /",
+        "root": false
+      },
+      {
+        "original": "[033|16]\nkatahaṃ punareṣāṃ cakṣurādīndriyaparamāṇūnāṃ saṃniveśaḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|17]\ncakṣurindriyaparamāṇavastāvadakṣitārakāyāmajājīpuṣpavadavasthitāḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|17-033|18]\nacchacarmāvacchāditāstu na vikīryante /",
+        "root": false
+      },
+      {
+        "original": "[033|18-033|19]\nadharauttaryeṇa piṇḍavadavasthitā ityapare /",
+        "root": false
+      },
+      {
+        "original": "[033|19]\nna cānyo 'nyamāvṛṇvanti sphaṭikavadacchatvāt /",
+        "root": false
+      },
+      {
+        "original": "[033|19-033|20]\nśrotrendriyaparamāṇavo bhūrjābhyantarāvasthitāḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|20]\nghrāṇendriyaparamāṇavo ghaṭābhyantareṇa śalākāvat /",
+        "root": false
+      },
+      {
+        "original": "[033|20-033|21]\nādyāni trīṇīndriyāṇi mālāvadavasthitāni /",
+        "root": false
+      },
+      {
+        "original": "[033|21]\njihvendriyaparamāṇvo 'rdhacandravat /",
+        "root": false
+      },
+      {
+        "original": "[033|21-033|22]\nvālāgramātraṃ kila madhyajivhāyāṃ jihvendriyaparamāṇubhirasphuṭam /",
+        "root": false
+      },
+      {
+        "original": "[033|22-033|23]\nkāyendriyaparamāṇavaḥ kāyavadavasthitāḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|23]\nstrīndriyaparamāṇavo bherīkaṭāhavat /\npuruṣendriyaparamāṇavo 'ṅguṣṭhavat /",
+        "root": false
+      },
+      {
+        "original": "[033|24]\ntatra cakṣurindriyaparamāṇavaḥ kadācit sarve sabhāgā bhavanti kadācittatsabhāgāḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|24-033|25]\nkadācideke sabhāgāḥ eke tatsabhāgāḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|25]\nevam yāvajjihvendriyaparamāṇavaḥ /",
+        "root": false
+      },
+      {
+        "original": "[033|25-033|26]\nkāyendriyaparamāṇavastu sarve sabhāgā na bhavanti /",
+        "root": false
+      },
+      {
+        "original": "[033|26-033|27]\npradīptanarakābhyantarāvaruddhānāmapi hyaparimāṇāḥ kāyendriyaparamāṇavastatsabhāgā bhavanti /",
+        "root": false
+      },
+      {
+        "original": "[033|27-034|01]\nsarvaiḥ kila vijñānotpattāvāśrayo viśīryeta /",
+        "root": false
+      },
+      {
+        "original": "[034|01]\nna caika indriyaparamāṇurviṣayaparamāṇurvā vijñānaṃ janayati /",
+        "root": false
+      },
+      {
+        "original": "[034|01-034|02]\nsaṃcitāśrayālambanatvāt pañcānāṃ vijñānakāyānām /",
+        "root": false
+      },
+      {
+        "original": "[034|02]\nata evānidarśanaḥ paramāṇuradṛśyatvāt //",
+        "root": false
+      },
+      {
+        "original": "[034|03-034|04]\nya ime ṣaḍvijñānadhātava uktāścakṣurvijñānaṃ yavanmanovijñānaṃ kimeṣāṃ yatha viṣayo varttamānaḥ pañcānāṃ caramasya trikāla evamāśrayo 'pi /",
+        "root": false
+      },
+      {
+        "original": "[034|05]\nnetyāha /",
+        "root": false
+      },
+      {
+        "original": "[034|05-034|-5]\nkiṃ tarhi /",
+        "root": false
+      },
+      {
+        "original": "[034|06]\ncaramasyāśrayo 'tītaḥ",
+        "root": true
+      },
+      {
+        "original": "[034|07]\nmanovijñānadhātoḥ samanantaraniruddhaṃ mana āśrayaḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|08-034|07]\npañcānāṃ sahajaśca taiḥ // VAkK_1.44 //",
+        "root": true
+      },
+      {
+        "original": "[034|09]\natītaśceti caśabdaḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|09-034|10]\ntatra cakṣurvijñānasya cakṣuḥ sahaja āśārayo yāvat kāyavijñānasya kāyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|10]\natītaḥ punareṣāmāśrayo mana ityapyete pañca vijñānakāyā indriyadvayāśrayāḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|11]\nata evocyate \"yaścakṣurvijñānasyāśrayabhāvena samanantarapratyayabhāvenāpi sa tasye\"ti /",
+        "root": false
+      },
+      {
+        "original": "[034|12]\ncatuṣkotikaḥ /\nprathamā kotiścakṣuḥ /\ndvitīyā samanantarātītaścaitasiko dharmadhātuḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|13]\ntṛtīyā samanantarātītaṃ manaḥ /\ncaturthī koṭiruktanirmuktā dharmāḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|13-034|14]\nevaṃ yāvat kāyavijñānasya svamindriyaṃ vaktavyam /",
+        "root": false
+      },
+      {
+        "original": "[034|14]\nmanovijñānasya pūrvapādakaḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|14-034|15]\nyastāvadāśrayabhāvena samanantarapratyayabhāvenāpi saḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|15]\nsyātsamanantarapratyayabhāvena nāśrayabhāvena /",
+        "root": false
+      },
+      {
+        "original": "[034|15-034|16]\nsamanantarābhyatītaścetasiko dharmadhāturiti /",
+        "root": false
+      },
+      {
+        "original": "[034|17-034|18]\nkiṃ punaḥ kāraṇamubhayādhīnāyāṃ vijñānotpattau cakṣurādayaḥ evāśrayā ucyante na rūpādayaḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|19]\ntadvikāravikāritvādāśrayāścakṣurādayaḥ /",
+        "root": true
+      },
+      {
+        "original": "[034|20]\ndhātava ityadhikāraḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|20-034|21]\ncakṣurādīnāṃ hi vikāreṇa tadvijñānānāṃ vikāro bhavatyanugrahopaghātapaṭumandatānuvidhānāt na tu rūpādīnāṃ vikāreṇa tadvikāraḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|22]\ntasmāt sādhīyastadadhīnatvat ta evāśrayā na rūpādayaḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|23-034|24]\nkiṃ punaḥ kāraṇaṃ rūpādayaśca tairvijñāyante cakṣurvijñānaṃ cocyate yāvanmanovijñānam /",
+        "root": false
+      },
+      {
+        "original": "[034|24]\nna punā rūpavijñānaṃ yāvaddharmavijñānamiti /",
+        "root": false
+      },
+      {
+        "original": "[034|24-034|25]\nya ete cakṣurādaya āśrayā eṣām /",
+        "root": false
+      },
+      {
+        "original": "[034|26]\nato 'sādhāraṇatvāddhi vijñānaṃ tairnirucyate // VAkK_1.45 //",
+        "root": true
+      },
+      {
+        "original": "[034|27]\nkathamasādhāraṇatvam /\nna hi cakṣuranyasya vijñānasyāśrayībhavitumutsahate /",
+        "root": false
+      },
+      {
+        "original": "[034|27-034|28]\nrūpaṃ tu manovijñānasyālambanībhavatyanyacakṣurvijñānasyāpīti /",
+        "root": false
+      },
+      {
+        "original": "[034|28]\nevaṃ yāvat kāyo veditavyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|29]\ntasmādāśrayabhāvādasādhāraṇatvācca vijñānaṃ tenaiva nirdiśyate na rūpādibhiḥ /",
+        "root": false
+      },
+      {
+        "original": "[034|29-034|30]\nyathā bherīśabdo yavāṅkura iti /",
+        "root": false
+      },
+      {
+        "original": "[035|01-035|02]\natha yatra kāye sthitaścakṣuṣā rūpāṇi paśyati kiṃ tāni kāyacakṣūrūpavijñānānyekabhūmikānyeva bhavantyāhosvidanyabhūmikānyapi /",
+        "root": false
+      },
+      {
+        "original": "[035|02]\nāha /\nsarveṣāṃ bhedaḥ /",
+        "root": false
+      },
+      {
+        "original": "[035|03]\nkāmadhātūpapannasya svena cakṣuṣā svāni rūpāṇi paśyataḥ sarvaṃ svabhūmikam bhavati /",
+        "root": false
+      },
+      {
+        "original": "[035|04-035|05]\ntasyaiva svāni rūpāṇi prathamadhyānabhūmīni paśyano rūpāṇi trīṇapi tadbhūmikāni /",
+        "root": false
+      },
+      {
+        "original": "[035|06-035|07]\ndvitīyadhyānacakṣuṣā svāni rūpoāṇi paśyataḥ kāyarūpe svabhūmike cakṣustadbhūmikaṃ vijñānaṃ prathamadhyāna bhūmikam /\n[035|07-035|06]\nprathamadhyānabhūmīni paśyato vijñānarupe tadbhūmike kāyaḥ kāmāvacaraścakṣurdvitīyadyānabhūmikam /",
+        "root": false
+      },
+      {
+        "original": "[035|08-035|10]\ndvitīyadhyānabhūmīni paśyataścakṣūarūpe tadbhūmike kāyaḥ kāmāvacaro vijñānaṃ prathamabhūmīkam /",
+        "root": false
+      },
+      {
+        "original": "[035|10-035|11]\nevaṃ tṛtīyacaturthadhyānabhūmikena cakṣuṣā tadbhūmikādharabhumikāni rūpāṇi paśyato yojayitavyam /",
+        "root": false
+      },
+      {
+        "original": "[035|11-035|12]\nprathmadhyānopapannasya svena cakṣuṣā svāni rūpāṇi paśyataḥ sarvaṃ svabhūmikamadharāṇi paśyataḥ trayaṃ svabhūmikaṃ /",
+        "root": false
+      },
+      {
+        "original": "[035|12-035|13]\ndvitīyadhyānacakṣuṣā svāni rūpāṇi paśyatastrayaṃ svabhūmikaṃ cakṣustadbhūmikam /",
+        "root": false
+      },
+      {
+        "original": "[035|13-035|14]\nkāmāvacarāṇi paśyataḥ kāyavijñāne svabhūmike rūpāṇyadharāṇi cakṣustadbhūmikam /",
+        "root": false
+      },
+      {
+        "original": "[035|14-035|15]\ndvitīyadhyānabhūmīni paśyataścakṣūrūpe tadbhūmike śeṣaṃ svabhūmikam /",
+        "root": false
+      },
+      {
+        "original": "[035|15]\nevaṃ tṛtīyadhyānacakṣuṣā yojyam /",
+        "root": false
+      },
+      {
+        "original": "[035|16-035|17]\ndvitīyādidhyānopapannasya svaparacakṣurbhyāṃ svaparabhūmikāni rūpāṇi paśyato yathāyogaṃ yojayitavyam /",
+        "root": false
+      },
+      {
+        "original": "[035|17]\nayaṃ tu niyamaḥ /",
+        "root": false
+      },
+      {
+        "original": "[035|18]\nna kāyasyādharaṃ cakṣuḥ /",
+        "root": true
+      },
+      {
+        "original": "[035|19]\npañcabhūmikāni hi kāyacakṣūrūpāṇi kāmāvacarāṇi yāvaccaturthadhyānabhūmikāni /",
+        "root": false
+      },
+      {
+        "original": "[035|20]\ndvibhūmikaṃ cakṣurvijñānaṃ kāmāvacaraṃ prathamadhyānabhūmikaṃ ca /",
+        "root": false
+      },
+      {
+        "original": "[035|20-035|21]\ntatra yadbhūmikaḥ kāyastadbhūmikaṃ cakṣurūrdhvabhūmikaṃ vā cakṣurbhavati na tvadharabhūmikam /",
+        "root": false
+      },
+      {
+        "original": "[035|21-035|22]\nyadbhūmikaṃ cakṣustadbhūmikamadharabhūmikaṃ vā rūpaṃ viṣayo bhavati /",
+        "root": false
+      },
+      {
+        "original": "[035|23]\nūdhrvaṃ rūpaṃ na cakṣuṣaḥ /",
+        "root": true
+      },
+      {
+        "original": "[035|24]\nna hi kadācidūrdhrvabhūmikaṃ rūpamadhobhūmikena cakṣuṣā draṣṭuṃ śakyate /",
+        "root": false
+      },
+      {
+        "original": "[035|25]\nvijñānaṃ ca",
+        "root": false
+      },
+      {
+        "original": "[035|26]\nūrdhva na cakṣuṣo rūpavat /",
+        "root": false
+      },
+      {
+        "original": "[036|01]\nasya rūpaṃ tu kāyasyobhe ca sarvataḥ // VAkK_1.46 //",
+        "root": true
+      },
+      {
+        "original": "[036|02]\nasyetyanantaroktasya cakṣurvijñānasya rūpaṃ sarvato viṣayaḥ ūrdhvamadhaḥ svabhūmau ca /",
+        "root": false
+      },
+      {
+        "original": "[036|03]\nkāyasya cobhe rūpavijñāne sarvato bhavataḥ /\nyathā cecaṃ cakṣuruttaṃ vistareṇa veditavyam",
+        "root": false
+      },
+      {
+        "original": "[036|04]\ntathā śrotraṃ",
+        "root": true
+      },
+      {
+        "original": "[036|05-036|06]\n\"na kāyasyādharaṃ śrotramūrdhvaṃ śabdo na ca śruteḥ /\nvijñānaṃ cāsya śabdastu kāyasyobhe ca sarvataḥ //\"iti",
+        "root": false
+      },
+      {
+        "original": "[036|07]\nvistareṇa yojyam /",
+        "root": false
+      },
+      {
+        "original": "[036|08]\ntrayāṇāṃ tu sarvameva svabhūmikam /",
+        "root": true
+      },
+      {
+        "original": "[036|09]\nghrāṇajihvākāyadhātūnāṃ kāyaviṣayavijñānāni svabhūmikānyeva /",
+        "root": false
+      },
+      {
+        "original": "[036|09-036|10]\nityutsargaviśeṣeṇa kṛtvā punarviśeṣaṇārthamapavāda ārabhyate /",
+        "root": false
+      },
+      {
+        "original": "[036|11]\nkāyavijñānamadharasvabhūmi",
+        "root": true
+      },
+      {
+        "original": "[036|12]\nkāyaḥ kāyadhātuḥ spraṣṭavyaṃ ca svabhūmikānyeva nityaṃ bhavanti /",
+        "root": false
+      },
+      {
+        "original": "[036|12-036|13]\nkāyavijñānaṃ tu keṣāñcit svabhūmikaṃ yathākāmadhātuprathamadhyānopapannāṃ /",
+        "root": false
+      },
+      {
+        "original": "[036|13-036|14]\nkeṣāñcidadharabhūmikaṃ yathā dvitīyādidhyānopapannānāmiti /",
+        "root": false
+      },
+      {
+        "original": "[036|15]\naniyataṃ manaḥ // VAkK_1.47 //",
+        "root": true
+      },
+      {
+        "original": "[036|16-036|17]\nkadācit kāyamanovijñānadharmaiḥ samānabhūmikaṃ mano bhavati kadācidūrdhvādhobhūmikam /",
+        "root": false
+      },
+      {
+        "original": "[036|17-036|19]\npañcabhūmike 'pi hi kāye sarvabhūmikāni mana ādīni bhavanti samāpattyupapattikāle yathāyogamiti vistareṇa samāpattinirdeśe kośasthāna etadākhyāyiṣyate /",
+        "root": false
+      },
+      {
+        "original": "[036|19-036|20]\natihahugranthabhāraparihārārthaṃ tu nedānīṃ punarākhyāyate /",
+        "root": false
+      },
+      {
+        "original": "[036|20]\nalpaṃ ca prayojanaṃ mahāṃśca śrama iti samāpta ānuṣaṅgikaḥ prasaṅgaḥ /",
+        "root": false
+      },
+      {
+        "original": "[036|21]\nidamidānīṃ vicāryate /",
+        "root": false
+      },
+      {
+        "original": "[036|21-036|22]\naṣṭādaśānāṃ cdātūnāṃ ṣaṇṇāṃ ca vijñānānāṃ kaḥ kena vijñeyaḥ /",
+        "root": false
+      },
+      {
+        "original": "[036|22]\nāha /",
+        "root": false
+      },
+      {
+        "original": "[036|23]\npañca bāhyā dvivijñeyāḥ",
+        "root": true
+      },
+      {
+        "original": "[036|24-036|25]\nrūpaśabagandharasaspraṣṭavyadhātavo yathāsaṃkhyaṃ cakṣuḥśrotraghrāṇajihvākāyavijñānairanubhūtā manovijñānena vijñāyante /",
+        "root": false
+      },
+      {
+        "original": "[036|25]\nevamete pratyekaṃ dvābhyāṃ vijñānābhyāṃ vijñeyā bhavanti /",
+        "root": false
+      },
+      {
+        "original": "[036|26-036|27]\nśeṣāstrayodaśa dhātavaḥ pañcānāṃ vijñānakāyānāmaviṣayatvādekena manovijñānena vijñeyā ityākhyātaṃ bhavati /",
+        "root": false
+      },
+      {
+        "original": "[037|01]\neṣāmaṣṭādaśānāṃ dhātūnāṃ madhye kati nityāḥ katyanityāḥ /",
+        "root": false
+      },
+      {
+        "original": "[037|01-037|02]\nna kaśct sakalo 'sti nityo dhāturapi tu",
+        "root": false
+      },
+      {
+        "original": "[037|03]\nnityā dharmā asaṃskṛtāḥ /",
+        "root": true
+      },
+      {
+        "original": "[037|04]\ntena dhārmadhātvekadeśo nityaḥ śeṣā anityāḥ /",
+        "root": false
+      },
+      {
+        "original": "[037|05]\nkatīndriyaṃ kati nendriyam /",
+        "root": false
+      },
+      {
+        "original": "[037|06]\ndharmārdhamindriyaṃ ye ca dvādaśādhyātmikāḥ smṛtāḥ // VAkK_1.48 //",
+        "root": true
+      },
+      {
+        "original": "[037|07]\ndvāviṃśatirindriyāṇyuktāni sūtre /",
+        "root": false
+      },
+      {
+        "original": "[037|07-037|11]\ncakṣurindriyaṃ śrotrendriyaṃ ghrāṇendriyaṃ jihvendriyaṃ kāyendriyaṃ manaindriyaṃ strīndriyaṃ puruṣendriyaṃ jīvitendriyaṃ sukhendriyaṃ duḥkhendriyaṃ saumanasyendriyaṃ daurmanasyendraiyaṃ upekṣendriyaṃ śraddhendriyaṃ vīryendriyaṃ smṛtīndriyaṃ smādhīndriyaṃ prajñendariyaṃ anājñātamājñāsyāmīndariyam ājñendriyaṃ ājñātāvīndriyamiti /",
+        "root": false
+      },
+      {
+        "original": "[037|11-037|12]\nābhidhārmikāstu ṣaḍāyatanavyavasthānamādṛtya jīvitendriyānantaraṃ manaindriyaṃ paṭhanti /",
+        "root": false
+      },
+      {
+        "original": "[037|12]\nsālambanatvāt /",
+        "root": false
+      },
+      {
+        "original": "[037|12-037|13]\ntatra dharmārdhaṃ jīvitendriyādīnyekādaśendriyāṇi trayāṇāṃ ca bhāgo dharmadhātupradeśatvāt /",
+        "root": false
+      },
+      {
+        "original": "[037|13-037|14]\ndvādaśānāmādhyātmikānāṃ cakṣurādayaḥ pañca svanāmoktāḥ /",
+        "root": false
+      },
+      {
+        "original": "[037|14-037|15]\nsapta cittadhātavo manaindriyaṃ stripuruṣendriye kāyadhātupradeś iti paścād vakṣyati /",
+        "root": false
+      },
+      {
+        "original": "[037|15-037|16]\nśeṣāḥ pañca dhātavo dharmadhātupradeśaśca nendriyamiti siddham //",
+        "root": false
+      },
+      {
+        "original": "[037|17]\nabhidharmakośabhāṣye dhātunirdeśo nāma",
+        "root": false
+      },
+      {
+        "original": "[037|18]\nprathamaṃ kośasthānaṃ samāptam iti /",
+        "root": false
+      },
+      {
+        "original": "[037|19-037|21]\nye dharmā hetuprabhavā hetuṃ teṣāṃ tathāgato hyavadat /\nteṣāṃ ca yo nirhodha evaṃvādīu mahāśramaṇaḥ //",
+        "root": false
+      },
+      {
+        "original": "[037|22]\nlikhāpitamidaṃ śrīlāmāvākeneti /",
+        "root": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,4382 @@
+[
+  {
+    "sectionTitle": "prathamaṃ kośasthānam",
+    "sentences": [
+      {
+        "original": "Abhidharmakośabhāṣyam",
+        "translations": {
+          "ru-sb": "Абхидхармакоша.\nЭнциклопедия Абхидхармы.\nВасубандху. Перевод на русский язык Б.В. Семичова и М.Г. Брянского, Улан-Удэ."
+        },
+        "root": true
+      },
+      {
+        "original": "om namo buddhāya",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "yaḥ sarvathāsarvahatāndhakāraḥ saṃsārapaṅkājjagadujjahāra / tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmyabhidharmakośam // VAkK_1.1 //",
+        "translations": {
+          "ru-sb": "Тот, который победил полностью всякое омрачение\nИ осуществил вывод живых существ из грязи Колеса бытия,\nУчитель цели существования. Его почтительно приветствуя,\nАбхидхармакошу буду разъяснять."
+        },
+        "root": true
+      },
+      {
+        "original": "prajñāmalā sānucarābhidharmaḥ tatprāptaye yāpi ca yacca śāstram / tasyārthato 'smin samanupraveśāt sa cā śrayo 'syetyabhidharmakośam // VAkK_1.2 //",
+        "translations": {
+          "ru-sb": "Абхидхарма – это чистая мудрость с тем, что за ней следует.\nЧтобы ее постигнуть, этот трактат.\nЧтобы ее смысл как следует понять,\nЗдесь ее местопребывание. Поэтому Абхидхармакоша."
+        },
+        "root": true
+      },
+      {
+        "original": "dharmāṇāṃ pravicayamantareṇa nāsti kleśānāṃ yata upaśāntaye 'bhyupāyaḥ / kleśaiśca bhramati bhavārṇave 'tra lokastaddhetorata uditaḥ kilaiṣa śāstrā // VAkK_1.3 //",
+        "translations": {
+          "ru-sb": "Омрачения при отсутствии детального анализа элементов бытия,\nБез этого нет способа полного их успокоения.\nВедь благодаря омрачению океан мирского бытия, и в нём скитаются,\nПоэтому ради того это было сказано Учителем."
+        },
+        "root": true
+      },
+      {
+        "original": "sāsravānāsravā dharmāḥ saṃskṛtā mārgavarjitāḥ / sāsravāḥ āsravāsteṣu yasmātsamanuśerate // VAkK_1.4 //",
+        "translations": {
+          "ru-sb": "Элементы бытия бывают омраченные и неомраченные,\nПодвержены бытию, за исключением пути.\nПочему омраченные? В них полностью распространены омрачения."
+        },
+        "root": true
+      },
+      {
+        "original": "anāsravā mārgasatyaṃ trividhaṃ cāpyasaṃskṛtam / ākāśaṃ dvau nirodhau ca tatrākāśamanāvṛtiḥ // VAkK_1.5 //",
+        "translations": {
+          "ru-sb": "Hеомраченные – истина о пути\nИ три необусловленных:\nПространство и два подавления.\nИз них пространство не помеха."
+        },
+        "root": true
+      },
+      {
+        "original": "pratisaṃkhyānirodho yo visaṃyogaḥ pṛthak pṛthak / utpādātyantavighno 'nyo nirodho 'pratisaṃkhyayā // VAkK_1.6 //",
+        "translations": {
+          "ru-sb": "Подавление через аналитическое знание – глубокий анализ.\nПостоянное же препятствование возникновению –\nИное подавление, не через аналитическое знание."
+        },
+        "root": true
+      },
+      {
+        "original": "te punaḥ saṃskṛtā dharmā rūpādiskandhapañcakam / sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // VAkK_1.7 //",
+        "translations": {
+          "ru-sb": "Обусловленные элементы бытия – это пять групп:\nЧувственное и прочее. Hепостоянство этих\nЭлементов – предмет обсуждения. Они способны\nВыйти из круга феноменального бытия и обладают причиной."
+        },
+        "root": true
+      },
+      {
+        "original": "ye sāsravā upādānaskandhāste saraṇā api / duḥkhaṃ samudayo loko dṛṣṭisthānaṃ bhavaśca te // VAkK_1.8 //",
+        "translations": {
+          "ru-sb": "Обладающие омрачением, или мирские группы, –\nОни как бы в борьбе между собой. Феноменальное\nБытие, его причины, мирское,\nМесто ложных воззрений, бытие – вот что они такое."
+        },
+        "root": true
+      },
+      {
+        "original": "rūpaṃ pañcendriyāṇyarthāḥ pañcāvijñaptireva ca / tadvijñānāśrayā rūpaprasādāścakṣurādayaḥ // VAkK_1.9 //",
+        "translations": {
+          "ru-sb": "Чувственное – это пять органов, пять объектов и\n\"Hепроявленное\". Опора их сознания – тонкое\nЧуственное глаза и других органов."
+        },
+        "root": true
+      },
+      {
+        "original": "rūpaṃ dvidhā viṃśatidhā śabdastvaṣṭavidhaḥ rasaḥ / ṣoḍhā caturvidho gandhaḥ spṛśyamekādaśātmakam // VAkK_1.10 //",
+        "translations": {
+          "ru-sb": "Видимое бывает двух и двадцати видов,\nЗвук – восьми видов,\nВкус – шести, запах – четырёх,\nОсязаемое – одиннадцати."
+        },
+        "root": true
+      },
+      {
+        "original": "vikṣiptācittakasyāpi yo 'nubandhaḥ śubhāśubhaḥ / mahābhūtānyupādāya sa hyavijñaptirucyate // VAkK_1.11 //",
+        "translations": {
+          "ru-sb": "Колеблющаяся мысль и состояние без нее,\nБлагоприятное и неблагоприятное ее сплетение –\nПроизводное Великих элементов.\nОно именуется внешне непроявленным."
+        },
+        "root": true
+      },
+      {
+        "original": "bhūtāni pṛthividhāturaptejovāyudhātavaḥ / dhṛtyādikarmasaṃsiddhā kharasnehoṣṇateraṇāḥ // VAkK_1.12 //",
+        "translations": {
+          "ru-sb": "Великие элементы – это элементы\nЗемли, воды, огня и ветра.\nОни постигаются при схватывании и\nПрочих действиях как твердое, жидкое, жар и движения."
+        },
+        "root": true
+      },
+      {
+        "original": "pṛthivī varṇasaṃsthānamucyate lokasaṃjñayā / āpastejaśca vāyustu dhātureva tathāpi ca // VAkK_1.13 //",
+        "translations": {
+          "ru-sb": "При обычном определении земли\nУказывают на цвет и форму.\nВода, огонь и ветер определяются так же просто,\nКак определяется элемент земли."
+        },
+        "root": true
+      },
+      {
+        "original": "indriyārthāsta eveṣṭā daśāyatanadhātavaḥ / vedanānubhavaḥ saṃjñā nimittodgrahaṇātmikā // VAkK_1.14 //",
+        "translations": {
+          "ru-sb": "Органы и объекты – именно они\nВключены в десять баз и категорий.\nОщущение – это чувственное Различение\nИмеет сущностью схватывание отличительных признаков."
+        },
+        "root": true
+      },
+      {
+        "original": "caturbhyo 'nye tu saṃskāraskandhaḥ ete punastrayaḥ / dharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtai // VAkK_1.15 //",
+        "translations": {
+          "ru-sb": "Группа сил отлична от четырёх.\nЭти три, внешне непроявленное\nИ необусловенное следует понимать\nКак базу и категорию элементов."
+        },
+        "root": true
+      },
+      {
+        "original": "vijñānaṃ prativijñaptiḥ mana āyatanaṃ ca tat / dhātavaḥ sapta ca matāḥ ṣaḍ vijñānānyatho mahaḥ // VAkK_1.16 //",
+        "translations": {
+          "ru-sb": "Сознание – это полное знание в отдельности,\nЭто база интеллекта.\nВ семи же категориях – шесть видов сознания и интеллект,\nПонимаемый как сознание предыдущего момента."
+        },
+        "root": true
+      },
+      {
+        "original": "ṣaṇṇāmanantarātītaṃ vijñānaṃ yaddhi tanmanaḥ / ṣaṣṭhāśrayaprasiddhayarthaṃ dhatavo 'ṣṭādaśa smṛtāḥ // VAkK_1.17 //",
+        "translations": {
+          "ru-sb": "Шесть непосредственно прошедших сознания\nЭто и есть интеллект, то есть\nОпора шести сознаний.\nТак осуществляются восемнадцать категорий."
+        },
+        "root": true
+      },
+      {
+        "original": "sarvasaṃgraha ekena skandhenāyatanena ca / dhātunā ca svabhāvena parabhāvaviyogataḥ // VAkK_1.18 //",
+        "translations": {
+          "ru-sb": "Одной группой, одной базой\nИ одной категорией охватывается все\nЧерез собственную сущность,\nА не вследствие обладания чужой сущностью."
+        },
+        "root": true
+      },
+      {
+        "original": "jātigocaravijñānasāmānyādekadhātutā / dvitve 'pi cakṣurādīnāṃ śobhārtha tu dvayodbhavaḥ // VAkK_1.19 //",
+        "translations": {
+          "ru-sb": "Хотя орган зрения и другие органы двойные,\nHо из-за сходства природы, сферы деятельности\nИ сознания категория едина.\nДвойственность – для красоты."
+        },
+        "root": true
+      },
+      {
+        "original": "rāśyāyadvāragotrārthāḥ skandhāyatanadhātavaḥ / mohendriyarūcitraidhāttistraḥ skandhādideśanāḥ // VAkK_1.20 //",
+        "translations": {
+          "ru-sb": "\"Груда\", \"дверь возникновения\", \"происхождение\"\nСмысл наименований группы, базы и категории.\nВследствие трёх видов заблуждения, способностей и склонностей\nУказываются три: группы и прочие."
+        },
+        "root": true
+      },
+      {
+        "original": "vivādamūlasaṃsārahetutvāt kramakāraṇāt / caittebhyo vedanāsaṃjñe pṛthakskandhau niveśitau // VAkK_1.21 //",
+        "translations": {
+          "ru-sb": "Будучи основой дискуссионного обсуждения\nБудучи причиной \"круга бытия\", по причине последовательности\nИз всего ментального \"ощущение\" и \"различение\"\nУстановлены как отдельные группы."
+        },
+        "root": true
+      },
+      {
+        "original": "skandheṣva saṃskṛtaṃ noktamarthāyogāt kramaḥ punaḥ / yathaudārikasaṃklesabhājanādyarthadhātutaḥ // VAkK_1.22 //",
+        "translations": {
+          "ru-sb": "Hеобусловленное не указано в группах,\nТак как это недопустимо по смыслу.\nПорядок же – по грубости, омраченности,\nВмещению и прочему, по подобию сфер."
+        },
+        "root": true
+      },
+      {
+        "original": "prāk pañca vārttamānārthyāt bhautikārthyāccatuṣṭayam / dūrāśutaravṛttyānyat yathāsthānaṃ kramo 'thavā // VAkK_1.23 //",
+        "translations": {
+          "ru-sb": "Первые пять органов. Их объект – в настоящем времени;\nПервые четыре. Их объект – производное чувственное.\nИли иначе они действуют дальше и быстрее.\nТакова последовательность расположения."
+        },
+        "root": true
+      },
+      {
+        "original": "viśeṣaṇārthaṃ prādhānyabdahudharmāgrasaṃgrahāt / ekamāyatanaṃ rūpamekaṃ dharmākhyamucyate // VAkK_1.24 //",
+        "translations": {
+          "ru-sb": "Вследствие главности и различения,\nВследствие концентрации лучшего и множества элементов\nОдна база называется базой видимого\nИ одна – базой элементов."
+        },
+        "root": true
+      },
+      {
+        "original": "dharmaskandhasahasrāṇi yānyaśītiṃ jagau muniḥ / tāni vāṅnāma vetyeṣāṃ rūpasaṃskārasaṃgrahaḥ // VAkK_1.25 //",
+        "translations": {
+          "ru-sb": "80 000 групп элементов,\nКоторые названы Буддой,\nОни – слова или наименования\nИ собраны в чувственном или ментальном."
+        },
+        "root": true
+      },
+      {
+        "original": "śāstrapramāṇā ityeke skandhādīnāṃ kathaikaśaḥ / caritapratipakṣastu dharmaskandho 'nuvarṇitaḥ // VAkK_1.26 //",
+        "translations": {
+          "ru-sb": "Некоторые считают: \"Мера – это шастра\nИ отдельные устные предания о группах\".\nВрагом их действий названа\nСовокупность по шастре \"Чой-чжи-пхунг-бо\"."
+        },
+        "root": true
+      },
+      {
+        "original": "tathānye 'pi yathāyogaṃ skandhāyatanadhātavaḥ / pratipādyā yathokteṣu saṃpradhārya svalakṣaṇam // VAkK_1.27 //",
+        "translations": {
+          "ru-sb": "Эти и другие соответствующие группы, базы и категории\nПосле хорошего исследования их сущности\nСледует включать в то, что было названо."
+        },
+        "root": true
+      },
+      {
+        "original": "chidramākāśadhātvākhyam ālokatamasī kila / vijñānadhāturvijñānaṃ sāsravaṃ janmaniśrayāḥ // VAkK_1.28 //",
+        "translations": {
+          "ru-sb": "Отверстие – вот что такое категория пространства,\nСвет и мрак.\nОскверненное сознание –\nКатегория сознания, опора возникновения."
+        },
+        "root": true
+      },
+      {
+        "original": "sanidarśana eko 'tra rūpaṃ sapratighā daśa / rūpiṇaḥ avyākṛtā aṣṭau ta evārūpaśabdakāḥ // VAkK_1.29 //",
+        "translations": {
+          "ru-sb": "Указуемая – \"Вот оно\" – единственно категория видимого.\nДесять категорий чувственного – непроницаемые.\nНейтральных – восемь.\nДругие, за исключением видимого и звука – трёх видов."
+        },
+        "root": true
+      },
+      {
+        "original": "tridhānye kāmadhātvāptāḥ sarve rūpe caturdaśa / vinā gandharasaghrāṇajivhāvijñānadhātubhiḥ // VAkK_1.30 //",
+        "translations": {
+          "ru-sb": "Сфера страстей включает все категории,\nА в мире ограниченного чувственного – 14.\nОбоняемое и вкушаемое\nИ их сознания не включены."
+        },
+        "root": true
+      },
+      {
+        "original": "ārūpyāptā manodharmamanovijñānadhātavaḥ / sāsravānāsravā ete trayaḥ śeṣāstu sāsravāḥ // VAkK_1.31 //",
+        "translations": {
+          "ru-sb": "Мир нечувственного включает категорию интеллекта,\nКатегорию нечувственного и сознание нечувственного.\nЭти три категории могут быть скверной и нескверной.\nОстальное – скверна."
+        },
+        "root": true
+      },
+      {
+        "original": "savitarkavicārā hi pañca vijñānadhātavaḥ / antyāstrayastriprakārāḥ śeṣā ubhayavarjitāḥ // VAkK_1.32 //",
+        "translations": {
+          "ru-sb": "\"Искание\" и \"установление\" находится\nВ пяти категориях сознания\nПоследние три – трёх видов.\nОстальные отрасывают оба."
+        },
+        "root": true
+      },
+      {
+        "original": "nirūpaṇānusmaraṇavikalpenāvikalpakāḥ / tau prajñāmānasī vyagrā smṛtiḥ sarvaiva mānasī // VAkK_1.33 //",
+        "translations": {
+          "ru-sb": "Отсутствие конструктивной мысли,\nВосприятие рассматривающее и памятующее.\nОни – колеблющаяся мудрость интеллекта\nИ памятование интеллекта."
+        },
+        "root": true
+      },
+      {
+        "original": "sapta sālambanāścittadhātavaḥ ardhaṃ ca dharmataḥ / navānupāttā te cāṣṭau śabdaśca anye nava dvidhā // VAkK_1.34 //",
+        "translations": {
+          "ru-sb": "Семь категорий, шесть видов сознания и\nИнтеллект, а также часть объективно-нечувственного, имеющие опору.\nВосемь этих и звук – неберущие.\nДругие девять – двух видов."
+        },
+        "root": true
+      },
+      {
+        "original": "spraṣṭavyaṃ dvividhaṃ śeṣā rūpiṇo nava bhautikāḥ / dharmadhātvekadeśaśca saṃcitā daśa rūpiṇaḥ // VAkK_1.35 //",
+        "translations": {
+          "ru-sb": "Осязаемое – двух видов.\nОставшиеся, девять видов чувственного –\nПроизводное, также и часть объективно-нечувсвенного.\nЧувственных – десять. Они конгломерат."
+        },
+        "root": true
+      },
+      {
+        "original": "chinatti chidyate caiva bāhyaṃ dhātu catuṣṭayam / dahyate tulayatyevaṃ vivādo dagdhṛtulyayoḥ // VAkK_1.36 //",
+        "translations": {
+          "ru-sb": "Рубящие и разрубаемые –\nЧетыре внешние категории.\nТакже и сжигаемые и взвешивающие.\nНет согласия в отношении сжигающих и взвешивающих."
+        },
+        "root": true
+      },
+      {
+        "original": "vipākajaupacayikāḥ pañcādhyātmaṃ vipākajaḥ / na śabdaḥ apratighā aṣṭau naiḥṣyandika vipākajāḥ // VAkK_1.37 //",
+        "translations": {
+          "ru-sb": "Возникшие как последствия кармы\nИ возникшие от развития –\nПять внутренних категорий.\nЗвук не рождается как последствие кармы."
+        },
+        "root": true
+      },
+      {
+        "original": "tridhānye dravyavānekaḥ kṣaṇikāḥ paścimāstrayaḥ / cakṣurvijñānadhātvoḥ syāt pṛthak lābhaḥ sahāpi ca // VAkK_1.38 //",
+        "translations": {
+          "ru-sb": "Возникших от однородных условий как последствия кармы\nНепроницаемых – восемь. Остальные – трёх видов.\nКатегорий, обладающих субстанцией, – одна;\nПоследние три моментальны. Категории зрения и осознания отдельно и вместе."
+        },
+        "root": true
+      },
+      {
+        "original": "dvādaśādhyātmikāḥ hitvā rūpādīn dharmasaṃjñakaḥ / sabhāgaḥ tatsabhāgāśca śeṣāḥ yo na svakarmakṛt // VAkK_1.39 //",
+        "translations": {
+          "ru-sb": "Внутренних – двенадцать категорий,\nЗа исключением видимого и прочего.\nСознание объективно-нечувственного активно,\nОстальные неактивны, то есть не создают своей кармы."
+        },
+        "root": true
+      },
+      {
+        "original": "daśa bhāvanayā heyāḥ pañca ca antyāstrayastridhā / na dṛṣṭiheyamakliṣṭaṃ na rūpaṃ nāpyaṣaṣṭhajam // VAkK_1.40 //",
+        "translations": {
+          "ru-sb": "Созерцанием отбрасываются десять, а также пять категорий,\nПоследние три – трёх видов.\nНеомраченные категории чувственного, интеллекта, невозникшего\nНе отбрасывается прозрением."
+        },
+        "root": true
+      },
+      {
+        "original": "cakṣuśca dharmadhātośca pradeśau dṛṣṭiḥ aṣṭadhā / pañcavijñānasahajā dhīrna dṛṣṭiratīraṇāt // VAkK_1.41 //",
+        "translations": {
+          "ru-sb": "Орган зрения и часть категории объективно- нечувственного – воззрения.\nПоследняя – восьми видов.\nПять видов сознания и мысль, рожденная в связи с ним,\nНе являются воззрением, будучи недостоверным актом мышления."
+        },
+        "root": true
+      },
+      {
+        "original": "cakṣuḥ paśyati rūpāṇi sabhāgaṃ na tadāśritam / vijñānaṃ dṛśyate rūpaṃ na kilāntaritaṃ yataḥ // VAkK_1.42 //",
+        "translations": {
+          "ru-sb": "Видимое видится лазом по причине однородности.\nИм, а не сознанием однородности,\nПотому, когда налицо препятствие,\nТо видимое не видится."
+        },
+        "root": true
+      },
+      {
+        "original": "ubhābhyāmapi cakṣurbhyāṃ paśyati vyaktadarśanāt / cakṣuḥśrotramano 'prāptaviṣayaṃ trayamanyathā // VAkK_1.43 //",
+        "translations": {
+          "ru-sb": "Орган зрения видит двумя для ясности увидения.\nОрганы зрения, интеллекта и слуха\nНе встречаются с объектом,\nА три других встречаются."
+        },
+        "root": true
+      },
+      {
+        "original": "tribhirghrāṇādibhistulyaviṣayagrahaṇaṃ matam / caramasyāśrayo 'tītaḥ pañcānāṃ sahajaśca taiḥ // VAkK_1.44 //",
+        "translations": {
+          "ru-sb": "Орган обоняния и прочие три\nСтремятся к схватыванию равного объекта.\nУ последнего опора прошедшая,\nПять же возникает вместе."
+        },
+        "root": true
+      },
+      {
+        "original": "tadvikāravikāritvādāśrayāścakṣurādayaḥ / ato 'sādhāraṇatvāddhi vijñānaṃ tairnirucyate // VAkK_1.45 //",
+        "translations": {
+          "ru-sb": "Через изменение органов, вследствие изменчивости их,\nОпора – в органе зрения и прочих.\nПоэтому, а также вследствие специфичности\nПо ним указывается сознание."
+        },
+        "root": true
+      },
+      {
+        "original": "na kāyasyādharaṃ cakṣuḥ ūrdhvaṃ rūpaṃ na cakṣuṣaḥ / vijñānaṃ ca asya rūpaṃ tu kāyasyobhe ca sarvataḥ // VAkK_1.46 //",
+        "translations": {
+          "ru-sb": "Орган зрения – не ниже тела,\nОбъект зрения – не ниже органа зрения.\nСознание и его объект, а также и тело –\nЭто пара во всех ступенях."
+        },
+        "root": true
+      },
+      {
+        "original": "tathā śrotraṃ trayāṇāṃ tu sarvameva svabhūmikam / kāyavijñānamadharasvabhūmi aniyataṃ manaḥ // VAkK_1.47 //",
+        "translations": {
+          "ru-sb": "Так же и орган слуха.\nТри следующие – все своей ступени.\nСознание осязаемого – ниже и своей ступени.\nИнтеллект не установлен."
+        },
+        "root": true
+      },
+      {
+        "original": "pañca bāhyā divijñeyāḥ nityā dharmā asaṃskṛtāḥ / dharmārdhamindriyaṃ ye ca dvādaśādhyātmikāḥ smṛtāḥ // VAkK_1.48 //",
+        "translations": {
+          "ru-sb": "Пять внешних осознаются двумя.\nНеобусловленный элемент – неизменный.\nПоловина элементов и двенадцать внутренних\nИменуются решающими факторами."
+        },
+        "root": true
+      },
+      {
+        "original": "abhidharmakośabhāṣye dhātunirdeśo nāma prathamaṃ kośasthānaṃ samāptamiti /",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ye dharmā hetuprabhavā hetusteṣāṃ tathāgato hyavadat / teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇaḥ //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "likhāpitamidaṃ śrīlāmāvākeneti /",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      }
+    ]
+  },
+  {
+    "sectionTitle": "dvitīyaṃ kośasthānam",
+    "sentences": [
+      {
+        "original": "caturṣvartheṣu pañcānāmādhipatyaṃ dvayoḥ kila / caturṇṇāṃ pañcakāṣṭānāṃ saṃkleśavyavadānayoḥ // VAkK_2.1 //",
+        "translations": {
+          "ru-sb": "Пять по отношению к четырем предметам –\nРешающие факторы. Четыре – по отношению к двум.\nПять и восемь – они\nПо отношению к омрачению и очищению."
+        },
+        "root": true
+      },
+      {
+        "original": "svārthopalabdhyādhipatyāt sarvasya ca ṣaḍindriyam / strītvapuṃstvādhipatyāttu kāyāt strīpuruṣendriye // VAkK_2.2 //",
+        "translations": {
+          "ru-sb": "Так как господствуют по отношению к условиям для возникновения чего-либо,\nПо отношению к своему собственному объекту и всем объектам, то таких факторов-органов шесть.\nГосподствующие факторы М. и Ж. выделяют из телесности,\nПотому что они таковые по отношению к мужественности и женственности."
+        },
+        "root": true
+      },
+      {
+        "original": "nikāyasthitisaṃkleśavyavadānādhipatyataḥ / jīvitaṃ vedanāḥ pañca śraddhādyāścendriyaṃ matāḥ // VAkK_2.3 //",
+        "translations": {
+          "ru-sb": "Фактор жизненности выражается в единомыслии,\nОн господствует по отношению к омрачению и очищению.\nЖизненность, ощущения, а акже вера и прочие –\nТак сказано о двух пятерках."
+        },
+        "root": true
+      },
+      {
+        "original": "ājñāsyāmyākhyamājñākhyamājñātāvīndriyaṃ tathā / uttarottarasaṃprāptinirvāṇādyādhipatyataḥ // VAkK_2.4 //",
+        "translations": {
+          "ru-sb": "Вследствие господствования при получении\nДвижения вперед и вперед и нирваны\n\"Познания непознанного\", \"познания всего\", а также\n\"Обладания всезнанием\" – высшие господствующие факторы."
+        },
+        "root": true
+      },
+      {
+        "original": "cittāśrayastadvikalpaḥ sthitiḥ saṃkleśa eva ca / saṃbhāro vyavadānaṃ ca yāvatā tāvadindriyam // VAkK_2.5 //",
+        "translations": {
+          "ru-sb": "Опоры сознания, из различие,\nДлительность, омраченность, накопление\nИ очищение, сколько бы их не было,\nВсе они – господствующие факторы."
+        },
+        "root": true
+      },
+      {
+        "original": "pravṛtterāśrayotpattisthitipratyupabhogataḥ / caturdaśa tathānyāni nivṛtterindriyāṇi vā // VAkK_2.6 //",
+        "translations": {
+          "ru-sb": "Опять же, опора силы, создающей неминуемость потока причин и следствий,\nВозникновения, длительности, общения –\nТаких факторов 14.\nИх антитеза – иные факторы."
+        },
+        "root": true
+      },
+      {
+        "original": "duḥkhendriyamaśātā yā kāyikī vedanā sukham / śātā dhyāne tṛtīye tu caitasī sā sukhendriyam // VAkK_2.7 //",
+        "translations": {
+          "ru-sb": "Телесное ощущение, которое неприятно,\nЕсть фактор, создающий страдание.\nПриятное ощущение благоприятно.\nМысли третьей ступени созерцания – фактор, создающий благоприятное."
+        },
+        "root": true
+      },
+      {
+        "original": "anyatra sā saumanasyaṃ aśātā caitasī punaḥ / daurmanasyamupekṣā tu madhyā ubhayī avikalpanāt // VAkK_2.8 //",
+        "translations": {
+          "ru-sb": "В другом случае – это чувство удовлетворения.\nНеприятности мысли – это чувство неудовлетворения.\nЧувство же безразличия – среднее, потому что нет конструктивности мысли\nКак у обоих первых."
+        },
+        "root": true
+      },
+      {
+        "original": "dṛgbhāvanāśaikṣapathe nava trīṇi amalaṃ trayam / rūpīṇi jīvitaṃ duḥkhe sāsravāṇi dvidhā nava // VAkK_2.9 //",
+        "translations": {
+          "ru-sb": "На путях прозрения, созерцания и архата – девять\nИ три. Эти три – чистые.\nЧувственное, жизненность и неприятное –\nОскверненные. Девыть – двух видов."
+        },
+        "root": true
+      },
+      {
+        "original": "vipāko jīvitaṃ dvedhā dvādaśa antyāṣṭakādṛte / daurmanasyācca tattvekaṃ savipākaṃ daśa dvidhā // VAkK_2.10 //",
+        "translations": {
+          "ru-sb": "Жизненность – последствие кармы. Двенадцать – двух видов.\nВосемь последних и чувство неудовлетворения исключая.\nОно одно способствует карме.\nДесять – двух видов. Интеллект, другие ощущения, вера и прочее."
+        },
+        "root": true
+      },
+      {
+        "original": "mano 'nyavittiśraddhādīni aṣṭakaṃ kuśalaṃ dvidhā / daurmanasyaṃ mano 'nyā ca vittistredhā anyadekadhā // VAkK_2.11 //",
+        "translations": {
+          "ru-sb": "Восемь благоприятных.\nЧувство неудовлетворения – двух видов.\nИнтеллект и другие ощущения – трёх видов.\nОстальное – одного вида."
+        },
+        "root": true
+      },
+      {
+        "original": "kāmāptamamalaṃ hitvā rūpāptaṃ strīpumindriye / duḥkhe ca hitvā ārūpyāptaṃ sukhe cāpohya rūpi ca // VAkK_2.12 //",
+        "translations": {
+          "ru-sb": "Неоскверненные факторы не входят в сферу страстей.\nФакторы М и Ж не входят в сферу получувственного.\nЧувственное и приятное не входят\nВ сферу чувственного."
+        },
+        "root": true
+      },
+      {
+        "original": "manovittitrayaṃ tredhā dviheyā durmanaskatā / nava bhavanayā pañca tvaheyānyapi na trayam // VAkK_2.13 //",
+        "translations": {
+          "ru-sb": "Интеллект и три ощущения – трёх видов.\nЧувство неудовлетворения отбрасывается двумя,\nДевять – через путь созерцания,\nПять, а также и три не отбрасываются."
+        },
+        "root": true
+      },
+      {
+        "original": "kāmeṣvādau vipāko dve labhyate nopapādukaiḥ / teḥ ṣaḍ vā sapta vā aṣṭau vā ṣaḍ rūpeṣu ekamuttare // VAkK_2.14 //",
+        "translations": {
+          "ru-sb": "В сфере страстей, в первую очередь, фактора – как последствия кармы.\nКроме как у родившихся чудесным образом\nУ этих -6, 7 и 8.\nВ сфере получувственного – 6, в высшей – один."
+        },
+        "root": true
+      },
+      {
+        "original": "nirodhayatyuparamānnārūpye jīvitaṃ manaḥ / upekṣāṃ caiva rūpe 'ṣṭau kāme daśa navāṣṭau vā // VAkK_2.15 //",
+        "translations": {
+          "ru-sb": "В сфере нечувственного смерть\nОстанавливает жизненность, интеллект и чувство\nБезразличия. ВLсфере получувственного – восемь;\nВ сфере страстей - десять, девять или восемь."
+        },
+        "root": true
+      },
+      {
+        "original": "kramamṛtyau tu catvāri śubhe sarvatra pañca ca / navāptirantyaphalayoḥ saptāṣṭanavabhirdvayoḥ // VAkK_2.16 //",
+        "translations": {
+          "ru-sb": "При постепенном умирании – четыре\nПри благоприятной смерти – пять.\nПри двух крайних – девять.\nДва же – через семь, восемь или девять."
+        },
+        "root": true
+      },
+      {
+        "original": "ekādaśabhirarhattvamuktaṃ tvekasya saṃbhavāt / upekṣajīvitamanoyukto 'vaśyaṃ trayānvitaḥ // VAkK_2.17 //",
+        "translations": {
+          "ru-sb": "Архатство – через одиннадцать факторов\nВследствие наличия какого-то одного – так сказано.\nОбладающий безразличием обладает обязательно тремя.\nТо есть еще и интеллектом, и жизненностью."
+        },
+        "root": true
+      },
+      {
+        "original": "caturbhiḥ sukhakāyābhyāṃ pañcabhiścakṣurādimān / saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān // VAkK_2.18 //",
+        "translations": {
+          "ru-sb": "При обладании приятностью и осязанием – четырьмя,\nПри обладании зрением и прочим – пятью,\nТакже и при обладании удовлетворением.\nОбладающие страданием – семью, а Ж. и прочими –"
+        },
+        "root": true
+      },
+      {
+        "original": "aṣṭābhiḥ ekādaśabhistvājñājñāte ndriyānvitaḥ / ājñāsyāmīndriyopetastrayodaśabhiranvitaḥ // VAkK_2.19 //",
+        "translations": {
+          "ru-sb": "Восемью, при \"обладании всезнанием\"\nОбладают одиннадцатью факторами,\nПри обладании \"познанием непознанного\"\nОбладают тринадцатью."
+        },
+        "root": true
+      },
+      {
+        "original": "sarvālpairniḥśubho 'ṣṭābhirvinmanaḥkāyajīvitaiḥ / yuktaḥ bālastathārūpye upekṣāyurmanaḥśubhaiḥ // VAkK_2.20 //",
+        "translations": {
+          "ru-sb": "Без благоприятного самое малое восемь:\nТелесность, ощущения, жизненность, интеллект.\nВ сфере нечувственного –\nБезразличие, жизненность, интеллект, благоприятное."
+        },
+        "root": true
+      },
+      {
+        "original": "bahubhiryukta ekānnaviṃśatyāmalavarjitaiḥ / dviliṅgaḥ āryo rāgī ekaliṅgadvayamalavarjitaiḥ // VAkK_2.21 //",
+        "translations": {
+          "ru-sb": "Наибольшее число – девятнадцать,\nИсключая неоскверненные.\nОни же – у двуполых, у праведника, обладающего страстями,\nЗа исключением половых органов и двух неоскверненных."
+        },
+        "root": true
+      },
+      {
+        "original": "kāme 'ṣṭadravyako 'śabdaḥ paramāṇuranindriyaḥ / kāyendriyī navadravyaḥ daśadravyo 'parendriyaḥ // VAkK_2.22 //",
+        "translations": {
+          "ru-sb": "В сфере страстей, когда не имеет места орган\nИ звук, атом состоит из восьми субстанций.\nПри наличии органа осязания – субстанций девять\nПри наличии других органов – субстанций десять."
+        },
+        "root": true
+      },
+      {
+        "original": "cittaṃ caittāḥ sahāvaśyaṃ sarva saṃskṛtalakṣaṇaiḥ / prāptyā vā pañcadhā caittā mahābhūmyādibhedataḥ // VAkK_2.23 //",
+        "translations": {
+          "ru-sb": "Сознание и его элементы всегда вместе,\nВсе с признаками обусловленного, со своими признаками\nИли с \"получением-обладанием\". Связанные с сознанием – пяти видов,\nПотому что различаются по разрядам."
+        },
+        "root": true
+      },
+      {
+        "original": "vedanā cetanā saṃjñā cchandaḥ sparśo matiḥ smṛtiḥ / manaskāro 'dhimokṣaśca samādhiḥ sarvacetasi // VAkK_2.24 //",
+        "translations": {
+          "ru-sb": "Ощущение, усилие, различение,\nРвение, контакт, мудрость, память,\nВнимание, намерение и\nСосредоточение – во многих видах сознания."
+        },
+        "root": true
+      },
+      {
+        "original": "śraddhāpramādaḥ praśrabdhirupekṣā hrīrapatrapā / mūladvayamahiṃsā ca vīryaṃ ca kuśale sadā // VAkK_2.25 //",
+        "translations": {
+          "ru-sb": "Вера, изобретение и сохранение хороших качеств, готовность к действию,\nБезразличие, стыд перед собой. Стыд-страх перед другими,\nДва корня, непричинение зла,\nЭнергия – всегда возникает в благоприятном сознании."
+        },
+        "root": true
+      },
+      {
+        "original": "mohaḥ pramādaḥ kauśīdyamāśraddhayaṃ styānamuddhavaḥ / kliṣṭe sadaiva akuśale tvāhrīkyamanapatrapā // VAkK_2.26 //",
+        "translations": {
+          "ru-sb": "Неведение, невнимание, ложь,\nНеверие, тупость, беспокойство\nВозникают при омрачении сознания."
+        },
+        "root": true
+      },
+      {
+        "original": "krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ / māyāmadavihiṃsāśca parīttakleśabhūmikāḥ // VAkK_2.27 //",
+        "translations": {
+          "ru-sb": "Гнев, враждебность, вероломство,\nЗависть, ободрение предосудительного, лицемерие, скупость,\nОбман, самодовольство, причинение вреда –\nЭто разряд \"ограниченно-омраченных\"."
+        },
+        "root": true
+      },
+      {
+        "original": "savitarkavicāratvāt kuśale kāmacetasi / dvāṃviṃśatiścaitasikāḥ kaukṛtyamadhikaṃ kvacit // VAkK_2.28 //",
+        "translations": {
+          "ru-sb": "В благоприятном сознании сферы страстей\nПри обладании элементов \"искания\" и установления –"
+        },
+        "root": true
+      },
+      {
+        "original": "āveṇike tvakuśale dṛṣṭiyukte ca viṃśatiḥ / kleśaiścaturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // VAkK_2.29 //",
+        "translations": {
+          "ru-sb": "Сознания несмешанные неблагоприятные,\nОбладающие ложными воззрениями, имеют 20.\nДобавление одного из четырёх ограниченно-оскверненных,\nА также гнева и прочих, и угрызения – дают 21 элемент ."
+        },
+        "root": true
+      },
+      {
+        "original": "nivṛte 'ṣṭādaśa anyatra dvādaśāvyākṛte matāḥ / middhaṃ sarvāvirodhitvādyatra syādadhikaṃ hi tat // VAkK_2.30 //",
+        "translations": {
+          "ru-sb": "При омраченности неопределенное состоит из\nВосемнадцати, иногда лишь из двенадцати.\nАпатия, вследствие свой непротиворечивости,\nПрисоединяется к любому из них."
+        },
+        "root": true
+      },
+      {
+        "original": "kaukṛtyamiddhākuśalānyādye dhyāne na santyataḥ / dhyānāntare vitarkaśca vicāraścāpyataḥ param // VAkK_2.31 //",
+        "translations": {
+          "ru-sb": "Из них угрызение и апатия как неблагоприятные\nОтсутствуют в первой ступени созерцания.\nИскания нет в особой ступени созерцания,\nА в высших нет и установления."
+        },
+        "root": true
+      },
+      {
+        "original": "ahrīragurutā avadye bhayādarśitva matrapā / prema śraddhā gurutvaṃ hrīḥ te punaḥ kāmarūpayoḥ // VAkK_2.33 //",
+        "translations": {
+          "ru-sb": "Искание и установление – это понятия тонкости и грубости.\nГрубость – это высокомерие.\nСамодовольство – страстная привязанность к элементам своей личности\nИ сознание, полностью постигшее это."
+        },
+        "root": true
+      },
+      {
+        "original": "vitarkacārā vaudāryasūkṣmate māna unnatiḥ / madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // VAkK_2.33 //",
+        "translations": {
+          "ru-sb": "Искание и установление – это понятия тонкости и грубости.\nГрубость – это высокомерие.\nСамодовольство – страстная привязанность к элементам своей личности\nИ сознание, полностью постигшее это."
+        },
+        "root": true
+      },
+      {
+        "original": "cittaṃ mano 'tha vijñānamekārthaṃ cittacaitasāḥ / sāśrayā lambanākārāḥ saṃprayuktāśca pañcadhā // VAkK_2.34 //",
+        "translations": {
+          "ru-sb": "Термины \"йид\", \"сем\" и \"нам-шэ\"\nОднородны по смыслу. Сознание и его элементы\nОбладают опорой, объектом, формой\nИ пятью видами связей."
+        },
+        "root": true
+      },
+      {
+        "original": "viprayuktāstu saṃskārāḥ prāptyaprāptī sabhāgatā / āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // VAkK_2.35 //",
+        "translations": {
+          "ru-sb": "Силы несвязанные: 1) обладание, 2) необладание,\n3) общность бытия, 4-6) три вида транса,\n7) жизненность, 8-11) признаки.\n12-14) придание значения звукам, словам, предложениям."
+        },
+        "root": true
+      },
+      {
+        "original": "nāmakāyādayaśceti prāptirlābhaḥ samanvayaḥ / prāptyaprāptī svasaṃtāna patitānāṃ nirodhayoḥ // VAkK_2.36 //",
+        "translations": {
+          "ru-sb": "Термин \"тхоб-ба\" означает получение и обладание.\nОбладание и необладание входят\nВ состав цепи личности,\nКак и два \"подавления\"."
+        },
+        "root": true
+      },
+      {
+        "original": "traiyadhvikānāṃ trividhā śubhādīnāṃ śubhādikā / svadhātukā tadāptānāṃ anāptānāṃ caturvidhā // VAkK_2.37 //",
+        "translations": {
+          "ru-sb": "У трёх времён – силы трёх видов.\nУ благоприятных и прочих – благоприятное и прочее\nСвязаны со своей сферой.\nУ невключенных – четырёх видов."
+        },
+        "root": true
+      },
+      {
+        "original": "tridhā naśaikṣāśaikṣāṇāṃ aheyānāṃ dvidhā matā / avyākṛtāptiḥ sahajā abhijñānairmāṇikādṛte // VAkK_2.38 //",
+        "translations": {
+          "ru-sb": "Она – трёх видов у нетренирующегося и тренирующегося.\nДвух видов – у неподлежащего отбрасыванию.\nНеопределенные \"получение-обладание\" возникают одновременно,\nЗа исключением всезнания и магии."
+        },
+        "root": true
+      },
+      {
+        "original": "nivṛtasya ca rūpasya kāme rūpasya nāgrajā / akliṣṭāvyākṛtāprāptiḥ sātītājātayostridhā // VAkK_2.39 //",
+        "translations": {
+          "ru-sb": "Также и получение-обладание загрязненного чувственного в сфере страстей.\nВ сфере страстей перед чувственным и не возникает.\nНеобладание незагрязненно-нейтральное\nБывает трёх видов у прошедших и будущих."
+        },
+        "root": true
+      },
+      {
+        "original": "kāmādyāptāmalānāṃ ca mārgasyāprāptiriṣyate / pṛthagjanatvam tatprāptibhūsaṃcārād vihīyate // VAkK_2.40 //",
+        "translations": {
+          "ru-sb": "У входящих в сферу страстей и прочие и у незагрязненных.\nТаким образом, необладание Путем имеет место\nУ простого человека.\nИсчезновение – это \"получение-обладание\" и переход в другую ступень."
+        },
+        "root": true
+      },
+      {
+        "original": "sabhāgatā sattvasāmyaṃ āsaṃjñikamasaṃjñiṣu / nirodhaścittacaittānāṃ vipākaḥ te bṛhatphalāḥ // VAkK_2.41 //",
+        "translations": {
+          "ru-sb": "Сила общности – это схожесть живых существ,\nОпределяемая как \"ду-шэ-мэд-ба\",\nЭто подавление сознания и его элементов с отсутствием представлений.\nПоследствие кармы, третья ступень четвертой степени созерцания"
+        },
+        "root": true
+      },
+      {
+        "original": "tathāsaṃjñisamāpattiḥ dhyāne 'ntye niḥsṛtīcchayā / śubhā upapadyavedyaiva nāryasya ekādhvikāpyate // VAkK_2.42 //",
+        "translations": {
+          "ru-sb": "Мистический транс без представлений –\nЭто последняя ступень созерцания благодаря желанию освобождения.\nОна благоприятна, испытывается после рождения\nНе у праведника и получается одновременно."
+        },
+        "root": true
+      },
+      {
+        "original": "nirodhākhyā tathaiveyaṃ vihārārthaṃ bhavāgrajā / śubhā dvivedyāniyatā ca āryasya āpyā prayogataḥ // VAkK_2.43 //",
+        "translations": {
+          "ru-sb": "Конечное подавление схоже в смысле места успокоения.\nРождение в кульминации бытия благоприятно.\nВ двух – воздаяние в свое время и в неопределенное.\nУ праведников получается тренировкой."
+        },
+        "root": true
+      },
+      {
+        "original": "bodhilabhyā muneḥ na prāk catustriṃśatkṣaṇāptitaḥ / kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // VAkK_2.44 //",
+        "translations": {
+          "ru-sb": "Получаемое буддой просветление\nВследствие получения через 34.\nОба вида транса имеют место и в сфере страстей, и в сфере получувственного.\nМистический транс с подавлением сначала у людей."
+        },
+        "root": true
+      },
+      {
+        "original": "āyurjīvitam ādhāra ūṣmavijñāyorhi yaḥ / lakṣaṇāni punarjātirjarā sthitiranityatā // VAkK_2.45 //",
+        "translations": {
+          "ru-sb": "Сила жизненности – это жизнь, теплота\nИ опора сознания.\nПризнаки – это возникновение,\nСтарение, пребывание и исчезновение."
+        },
+        "root": true
+      },
+      {
+        "original": "jātijātyādayasteṣāṃ te 'ṣṭadharmaikavṛttayaḥ / janyasya janikā jātirna hetupratyayairvinā // VAkK_2.46 //",
+        "translations": {
+          "ru-sb": "У них тоже есть эти последующие вторичные признаки.\nОни воздействуют на восемь элементов и на один.\nПри отсутствии причин и условий\nНе рождается подлежащее рождению через рождение."
+        },
+        "root": true
+      },
+      {
+        "original": "nāmakāyādayaḥ saṃjñāvākyākṣarasamuktayaḥ / kāmarūpāptasattvākhyā niḥṣyandāvyākṛtāḥ tathā // VAkK_2.47 //",
+        "translations": {
+          "ru-sb": "Силы, придающие значение словам и прочему, –\nЭто силы, придающие значение словам, предложениям и звукам,\nПринадлежащие сферам страстей и получувственного, понятные всем живым существам.\nОбщие по причине и неопределенные также."
+        },
+        "root": true
+      },
+      {
+        "original": "sabhāgatā sā tu punarvipāko 'pi āptayo dvidhā / lakṣaṇāni ca niḥṣyandāḥ samāpattya samanvayāḥ // VAkK_2.48 //",
+        "translations": {
+          "ru-sb": "Общие, являющиеся следствием кармы, –\nВ трех сферах. Обладание – двух видов,\nТакже и признаки. Сила, останавливающая сознание при трансе, и\nНеобладание – они общие по причине."
+        },
+        "root": true
+      },
+      {
+        "original": "kāraṇaṃ sahabhūścaiva sabhāgaḥ saṃprayuktakaḥ / sarvatrago vipākākhyaḥ ṣaḍvidho heturiṣyate // VAkK_2.49 //",
+        "translations": {
+          "ru-sb": "Вот эти шесть видов причин:\nНепрепятствующая, одновременная,\nСхожая, совместносвязующая,\nОднородная и кармическая."
+        },
+        "root": true
+      },
+      {
+        "original": "svato 'nye kāraṇaṃ hetuḥ sahabhūrye mithaḥphalāḥ / bhūtavaccittacittānuvartilakṣaṇalakṣyavat // VAkK_2.50 //",
+        "translations": {
+          "ru-sb": "Кроме себя в отношении других – непрепятствующие.\nОдновременные, когда имеется общий результат,\nПодобно Великим элементам, сознанию и\nСвязанным с ними элементами и признаками."
+        },
+        "root": true
+      },
+      {
+        "original": "caittā dvau saṃvarau teṣāṃ cetaso lakṣaṇāni ca / cittānuvarttinaḥ kālaphalādiśubhatādibhiḥ // VAkK_2.51 //",
+        "translations": {
+          "ru-sb": "Психические (ментальные) элементы, два обета,\nИз признаки, которых четыре, – сопровождающие сознание.\nС точки зрения времени, результата и прочего,\nБлагоприятности и прочего."
+        },
+        "root": true
+      },
+      {
+        "original": "sabhāgahetuḥ sadṛśāḥ svanikāyabhuvaḥ agrajāḥ / anyo 'nyaṃ navabhūmistu mārgaḥ samaviśiṣṭayoḥ // VAkK_2.52 //",
+        "translations": {
+          "ru-sb": "Схожая причина – похожая.\nТой же разновидности. Родившееся ранее.\nПуть девяти ступеней при взаимности.\nРавна или высшая."
+        },
+        "root": true
+      },
+      {
+        "original": "prayogajāstayoreva śrutacintāmayādikāḥ / saṃprayuktakahetustu cittacaittāḥ samāśrayāḥ // VAkK_2.53 //",
+        "translations": {
+          "ru-sb": "Возникшие от усилия именно двух,\nВозникшие от слушания, размышления и прочего.\nСовместно связующая причина в случае сознания и его элементов\nСо сходными опорами."
+        },
+        "root": true
+      },
+      {
+        "original": "sarvatragākhyaḥ kliṣṭānāṃ svabhūmau pūrvasarvagāḥ / vipākaheturaśubhāḥ kuśalāścaiva sāsravāḥ // VAkK_2.54 //",
+        "translations": {
+          "ru-sb": "Причина однородности – это обладание\nОмраченностями своей ступени.\nВозмездная причина – это элементы\nНеблагоприятные и благоприятные нечистые."
+        },
+        "root": true
+      },
+      {
+        "original": "sarvatragaḥ sabhāgaśca dvayadhvagau tryadhvagāstrayaḥ / saṃskṛtaṃ savisaṃyoga phalaṃ nāsaṃskṛtasya te // VAkK_2.55 //",
+        "translations": {
+          "ru-sb": "Причина однородности и схожая причина – двух времён,\nТри причины – трёх времён.\nОбусловленное есть результат разделения\nУ необусловленного их нет."
+        },
+        "root": true
+      },
+      {
+        "original": "vipākaphalamantyasya pūrvasyādhipataṃ phalam / sabhāga sarvatragayorniṣyandaḥ pauruṣaṃ dvayoḥ // VAkK_2.56 //",
+        "translations": {
+          "ru-sb": "Возмездный плод – от последней,\nГлавный плод – от первой,\nЕстественный – от схожей и однородной,\nЧеловеческой деятельности – от двух."
+        },
+        "root": true
+      },
+      {
+        "original": "vipāko 'vyākṛto dharmaḥ sattvākhyaḥ vyākṛtodbhavaḥ / niḥṣyando hetusadṛśaḥ visaṃyogaḥ kṣayo dhiyā // VAkK_2.57 //",
+        "translations": {
+          "ru-sb": "Последствия кармы – нейтральный элемент\nУ живого существа, родившегося после предписанного\nЕстественный результат схож со своей причиной.\nРазделение – это истощение мудростью."
+        },
+        "root": true
+      },
+      {
+        "original": "yadvalājjāyate yattatphalaṃ puruṣakārajam / apūrvaḥ saṃskṛtasyaiva saṃskṛto 'dhipateḥ phalam // VAkK_2.58 //",
+        "translations": {
+          "ru-sb": "Результат, возникший от такой силы,\nВозникает от человеческой деятельности.\nОбусловленное, не возникшее ранее,\nИменно оно и есть главный результат."
+        },
+        "root": true
+      },
+      {
+        "original": "varttamānāḥ phalaṃ pañca gṛṇhanti dvau prayacchataḥ / varttamānābhyatītau dvau eko 'tītaḥ prayacchati // VAkK_2.59 //",
+        "translations": {
+          "ru-sb": "Пять причин берут результат настоящего.\nДве – дают.\nТакже настоящее и прошедшее.\nОдна дает прошедший результат."
+        },
+        "root": true
+      },
+      {
+        "original": "kliṣṭā vipākajāḥ śeṣāḥ prathamāryā yathākramam / vipākaṃ sarvagaṃ hitvā tau sabhāgaṃ ca śeṣajāḥ // VAkK_2.60 //",
+        "translations": {
+          "ru-sb": "Омраченные, последствия кармы,\nОставшиеся и первые чистые, соответственно –\nИсключая причины: возмездную, однородную, эти две\nИ схожую – рождаются."
+        },
+        "root": true
+      },
+      {
+        "original": "cittacaitāḥ tathānye 'pi saṃprayuktakavarjitāḥ / catvāraḥ pratyayā uktāḥ hetvākhyaḥ pañca hetavaḥ // VAkK_2.61 //",
+        "translations": {
+          "ru-sb": "Сознание и его элементы.\nДругое также, за исключением совместно связующей причины."
+        },
+        "root": true
+      },
+      {
+        "original": "cittacaittā acaramā utpannāḥ samanantaraḥ / ālambanaṃ sarvadharmāḥ kāraṇākhyo 'dhipaḥ smṛtaḥ // VAkK_2.62 //",
+        "translations": {
+          "ru-sb": "Возникшее сознание и его элементы,\nЗа исключением последних, – непосредственно предшествующее условие."
+        },
+        "root": true
+      },
+      {
+        "original": "nirudhyamāne kāritraṃ dvau hetū kurutaḥ trayaḥ / jāyamāne tato 'nyau tu pratyayau tadviparyayāt // VAkK_2.63 //",
+        "translations": {
+          "ru-sb": "Две причины действуют на прекращающие свою деятельность,\nТри – на возникающие,\nДругие – от них,\nУсловия от них наоборот."
+        },
+        "root": true
+      },
+      {
+        "original": "caturbhiścattacaittā hi samāpattidvayaṃ tribhiḥ / dvābhyāmanye tu jāyante neśvarādeḥ kramādibhiḥ // VAkK_2.64 //",
+        "translations": {
+          "ru-sb": "Сознание и его элементы – благодаря четырем условиям,\nДва мистических погружения – благодаря трём.\nДругие элементы рождаются от двух,\nНе благодаря богам и прочему, а вследствие последовательности."
+        },
+        "root": true
+      },
+      {
+        "original": "dvidhā bhūtāni taddhetuḥ bhautikasya tu pañcadhā / tridhā bhautikamanyonyaṃ bhūtānāmekadhaiva tat // VAkK_2.65 //",
+        "translations": {
+          "ru-sb": "Причины Великих элементов – двух видов,\nА производного – пяти видов.\nПроизводное – взаимно трёх видов,\nВеликие – одного вида."
+        },
+        "root": true
+      },
+      {
+        "original": "kuśalākuśalaṃ kāme nivṛtānivṛtaṃ manaḥ / rūpārūpyeṣvakuśalādanyatra anāsravaṃ dvidhā // VAkK_2.66 //",
+        "translations": {
+          "ru-sb": "В сфере страстей – благоприятное, неблагоприятное,\nОмраченно-нейтральное и неомраченно-нейтральное;\nВ сферах – получувственного и нечувственного\nИначе, чем неблагоприятные; в морально чистых – два."
+        },
+        "root": true
+      },
+      {
+        "original": "kāme nava śubhāccittāccittāni aṣṭābhya eva tat / daśabhyo 'kuśalaṃ tasmāccatvāri nivṛtaṃ tathā // VAkK_2.67 //",
+        "translations": {
+          "ru-sb": "Сначала сознания – сферы страстей. После благоприятного – девять.\nБлагоприятное – после восьми.\nНеблагоприятное – после десяти.\nПосле неблагоприятного – четыре.\nПосле омраченно-нейтрального – также."
+        },
+        "root": true
+      },
+      {
+        "original": "pañcabhyo 'nivṛtaṃ tasmātsapta cittānyanantaram / rūpe daśaikaṃ ca śubhāt navabhyastadanantaram // VAkK_2.68 //",
+        "translations": {
+          "ru-sb": "Неомраченно-нейтральное – после пяти.\nПосле него – семь сознаний.\nВ сфере получувственного после благоприятного – одиннадцать\nСамо оно – после девяти."
+        },
+        "root": true
+      },
+      {
+        "original": "aṣṭābhyo nivṛtaṃ tasmāt ṣaṭ tribhyo 'nivṛtaṃ punaḥ / tasmāt ṣaṭ evāmārūpye tasya nītiḥ śubhātpunaḥ // VAkK_2.69 //",
+        "translations": {
+          "ru-sb": "Омраченно-нейтральное – после восьми,\nПосле него – шесть.\nНеомраченно-нейтральное – после трёх,\nПосле него – шесть."
+        },
+        "root": true
+      },
+      {
+        "original": "nava cittāni tat ṣaṇṇāṃ nivṛtātsapta tattathā / caturbhyaḥ śaikṣam asmāttu pañca aśaikṣaṃ tu pañcakāt // VAkK_2.70 //",
+        "translations": {
+          "ru-sb": "Девять сознаний. Оно само – от шести.\nПосле омраченно-нейтрального – семь, само оно также.\nТренировки – после четырёх, от него – пять.\nНетренировки – после пяти."
+        },
+        "root": true
+      },
+      {
+        "original": "tasmāccatvāri cittāni dvādaśaitāni viṃśatiḥ / prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // VAkK_2.71 //",
+        "translations": {
+          "ru-sb": "От него четыре сознания.\nЭти двенадцать дают двадцать:\nОт возникновения в трёх, полученных\nОт рождения и от тренировки, то есть двух видов."
+        },
+        "root": true
+      },
+      {
+        "original": "vipākajairyāpathikaśailpasthānikanairmitam / caturdhāvyākṛtaṃ kāme rūpe śilpavivarjitam // VAkK_2.72 //",
+        "translations": {
+          "ru-sb": "Возникшие от возмездия, пути осторожности,\nПребывания в работе, волшебства,\nНеомраченно-нейтральные сферы страстей – в четырёх видах,\nВ сфере получувственного – за исключением возникших от работы."
+        },
+        "root": true
+      },
+      {
+        "original": "kliṣṭe traidhātuke lābhaḥ ṣaṇṇāṃ ṣaṇṇāṃ dvayoḥ śubhe / trayāṇāṃ rūpaje śaikṣe caturṇāṃ tasya śeṣite // VAkK_2.73 //",
+        "translations": {
+          "ru-sb": "Омраченных сознаний трех сфер –\nШесть, шесть и два получается. Благоприятных,\nВозникших в сфере получувственного, – три.\nТренировки – четыре. У остальных – они же."
+        },
+        "root": true
+      },
+      {
+        "original": "abhidharmakośe indriyanirddeśo nāma dvitīyaṃ kośasthānaṃ samāptamiti / śrīlāmāvākasya",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      }
+    ]
+  },
+  {
+    "sectionTitle": "tṛtīyaṃ kośasthānam",
+    "sentences": [
+      {
+        "original": "oṃ namo buddhāya /",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "narakapretatiryañco manuṣyāḥ ṣaḍ divaukasaḥ / kāmadhātuḥ sa narakadvīpabhedena viṃśatiḥ // VAkK_3.1 //",
+        "translations": {
+          "ru-sb": "Адские существа, преты, животные,\nЛюди и шесть божеств –\nЭто сфера страстей. От деления\nАдов и континентов – двадцать."
+        },
+        "root": true
+      },
+      {
+        "original": "ūrdhvaṃ saptadaśasthāno rūpadhātuḥ pṛthak pṛthak / dhyānaṃ tribhūmikaṃ tatra caturthaṃ tvaṣṭabhūmikam // VAkK_3.2 //",
+        "translations": {
+          "ru-sb": "Выше – семнадцать местоприбываний\nСферы получувственного.\nТам каждая ступень созерцания трояка.\nВ четверть ступени – восемь."
+        },
+        "root": true
+      },
+      {
+        "original": "ārūpyadhāturasthānaḥ upapattyā caturvidhaḥ / nikāyaṃ jīvitaṃ cātra niśritā cittasantatiḥ // VAkK_3.3 //",
+        "translations": {
+          "ru-sb": "В сфере нечувственного нет местопребываний.\nДействие рождения – четырёх видов.\nВ нем поток сознания опирается\nНа силу общности и жизненную силу."
+        },
+        "root": true
+      },
+      {
+        "original": "narakādisvanāmoktā gatayaḥ pañca teṣu tāḥ / akliṣṭāvyākṛtā eva sattvākhyā nāntarābhavaḥ // VAkK_3.4 //",
+        "translations": {
+          "ru-sb": "Пять судеб : адские существа и прочие,\nНазванные своими именами. Они\nНеомраченые, нейтральные, (это)\nЖивые существа без промежуточного бытия."
+        },
+        "root": true
+      },
+      {
+        "original": "nānātvakāyasaṃjñāśca nānākāyaikasaṃjñinaḥ / viparyayāccaikakāyasaṃjñāścārūpiṇasrayaḥ // VAkK_3.5 //",
+        "translations": {
+          "ru-sb": "Различные телом и представлениями,\nРазличные телом и единые по представлениям\nИ, наоборот, – единые телом и представлениями и\nТри вида, не обладающих чуственным,"
+        },
+        "root": true
+      },
+      {
+        "original": "vijñānasthitayaḥ sapta śeṣaṃ tatparibhedavat / bhavāgrāsaṃjñisattvāśca sattvāvāsā nava smṛtāḥ // VAkK_3.6 //",
+        "translations": {
+          "ru-sb": "Дают семь состояний сознания.\nОставшиеся - они нарушенные.\nКульминационная точка бытия и живые существа без представлкний\nИменуются девятью местопребываниями существ."
+        },
+        "root": true
+      },
+      {
+        "original": "anicchāvasanānnānye catasraḥ sthitayaḥ punaḥ / catvāraḥ sāsravāḥ skandhāḥ svabhūmāveva kevalam // VAkK_3.7 //",
+        "translations": {
+          "ru-sb": "Вследствие нежелания других местопребываний их и нет.\nМестопребываний же, как известно, четыре.\nЧетыре загрязненные группы\nС сознанием своей ступени. Сознание,"
+        },
+        "root": true
+      },
+      {
+        "original": "vijñānaṃ na sthitiḥ proktaṃ catuṣkoṭi tu saṃgrahe / catasro yonayastatra sattvānāmaṇḍajādayaḥ // VAkK_3.8 //",
+        "translations": {
+          "ru-sb": "Пребывающие самостоятельно, не указывается.\nСуществует всего четыре случая,\nНапример, рождение из яйца и прочего.\nМесто рождения существ – четере."
+        },
+        "root": true
+      },
+      {
+        "original": "caturdhā nara tiryañcaḥ nārakā upapādukāḥ / antarābhavadevāśca pretā api jarāyujāḥ // VAkK_3.9 //",
+        "translations": {
+          "ru-sb": "Люди и животные – четырёх видов.\nСущества ада, божества и\nСущества промежуточного бытия рождаются чудесным образом.\nПреты же рождаются из матки."
+        },
+        "root": true
+      },
+      {
+        "original": "mṛtyupapattibhavayorantarā bhavatīha yaḥ / gamyadeśānupetatvānnopapanno 'ntarābhavaḥ // VAkK_3.10 //",
+        "translations": {
+          "ru-sb": "Там где смерть и рождение,\nВозникает промежуточное бытие.\nВследствии неухода в направлении следования\nПромежуточное бытие не является рождением."
+        },
+        "root": true
+      },
+      {
+        "original": "vrīhisantānasādharmyādavicchinnabhavodbhavaḥ / pratibimbamasiddhatvādasāmyāccānidarśanam // VAkK_3.11 //",
+        "translations": {
+          "ru-sb": "Вследствие сходства (потока) элементов\n(Вообще) с потоком (элементов) зерна\nПосле пребывания бытия нет рождения.\nТак отражение не установлено, то, вследствие несхожести, это не пример."
+        },
+        "root": true
+      },
+      {
+        "original": "sahaikatra dvayābhāvāt asantānād dvayodayāt / kaṇṭhokteścāsti gandharvāt pañcokteḥ gatisūtrataḥ // VAkK_3.12 //",
+        "translations": {
+          "ru-sb": "Потому что водном месте не бывает двух,\nПотому что нет потока, потому что возникновение от двух,\nПотому что сказано голосом. Гандхарва.\nРанее обсказаные сыдьбы установлены из сутры."
+        },
+        "root": true
+      },
+      {
+        "original": "ekākṣepādasāvaiṣyatpūrvakālabhavākṛtiḥ / sa punarmaraṇātpūrva upapattikṣaṇātparaḥ // VAkK_3.13 //",
+        "translations": {
+          "ru-sb": "Они вследствие одинаковости отражения\nИмеют телесную форму предшествовавшего бытия.\nОно от прошедшей уже смерти\nИ до момента рождения."
+        },
+        "root": true
+      },
+      {
+        "original": "sajātiśuddhadivyākṣidṛśyaḥ karmarddhivegavān / sakalākṣaḥ apratighavān anivartyaḥ sa gandhabhuk // VAkK_3.14 //",
+        "translations": {
+          "ru-sb": "Видятся своим классом, божественным оком,\nОбладают силой магического действия,\nОрганы их вполной мере, проницаемы,\nНеобратимы и это – ди-са."
+        },
+        "root": true
+      },
+      {
+        "original": "viparyastamatiryāti gatideśaṃ riraṃsayā / gandhasthānābhikāmo 'nyaḥ ūrdhvapādastu nārakaḥ // VAkK_3.15 //",
+        "translations": {
+          "ru-sb": "Ум, ложно направленный,\nИмея радосную цель, идет к месту своей судьбы.\nДругие страсно желают запаха и места.\nАдские существа – вниз головой."
+        },
+        "root": true
+      },
+      {
+        "original": "saṃprajānan viśatyekaḥ tiṣṭhatyapyaparaḥ aparaḥ / niṣkrāmatyapi sarvāṇi mūḍho 'nyaḥ nityamaṇḍajaḥ // VAkK_3.16 //",
+        "translations": {
+          "ru-sb": "Один вступает бессознательно;\nДругои, пребывая; третий\nРождается; четвертый в полном омрачении.\nРодивщиеся из яйца всегда (омрачены)."
+        },
+        "root": true
+      },
+      {
+        "original": "garbhāvakrāntayastisraścakravarttisvayaṃbhuvām / karmajñānobhayeṣāṃ vā viśadatvād yathākramam // VAkK_3.17 //",
+        "translations": {
+          "ru-sb": "Вхождение в утробу трояко:\nЧакравартины и двое будд.\nИли действия, или познания, или оба,\nТак как последовательны и обширны."
+        },
+        "root": true
+      },
+      {
+        "original": "nātmāsti skandhamātraṃ tu kleśakarmābhisaṃskṛtam / antarābhavasaṃtatyā kukṣimeti pradīpavat // VAkK_3.18 //",
+        "translations": {
+          "ru-sb": "\"Я\" нет, есть только группы,\nОбусловленные омраченными деяниями.\nЧерез поток промежуточного бытия,\nПодобно пламени, следуют в утробу."
+        },
+        "root": true
+      },
+      {
+        "original": "yathākṣepaṃ kramādvṛddhaḥ santānaḥ kleśakarmabhiḥ / paralokaṃ punaryāti ityanādibhavacakrakam // VAkK_3.19 //",
+        "translations": {
+          "ru-sb": "Так, поток (бытия), последовательно отражаясь,\nРождается черкз деяния и омрачния,\nИ идет в другой мир.\nКруг бытия безначален."
+        },
+        "root": true
+      },
+      {
+        "original": "sa pratītyasamutpādo dvādaśāṅgastrikāṇḍakaḥ / pūrvāparāntayordve dve madhye 'ṣṭau paripūriṇaḥ // VAkK_3.20 //",
+        "translations": {
+          "ru-sb": "Это три части двенадцатичленной\nФормулы зависимого происхождения.\nПредшевствующая и последующая – каждая по две,\nСредняя полностью завершает восемь."
+        },
+        "root": true
+      },
+      {
+        "original": "pūrvakleśā daśāvidyā saṃskārāḥ pūrvakarmaṇaḥ / saṃdhiskandhāstu vijñānaṃ nāmarūpamataḥ param // VAkK_3.21 //",
+        "translations": {
+          "ru-sb": "Неведение – это омрачение предыдущих обстоятельст.\nСилы – предыдущие деания.\nСознание – (новое) объединение групп.\nПосле этого – пять групп"
+        },
+        "root": true
+      },
+      {
+        "original": "prāk ṣaḍāyatanotpādāt tatpūrvaṃ trikasaṃgamāt / sparśaḥ prāksukhaduḥkhādikāraṇajñānaśaktitaḥ // VAkK_3.22 //",
+        "translations": {
+          "ru-sb": "До появления шести баз.\nТак до соединения трёх.\nКонтакт – до способности\nПониманиепричин страдания и прочего."
+        },
+        "root": true
+      },
+      {
+        "original": "vittiḥ prāk maithunāt tṛṣṇā bhogamaithunarāgiṇaḥ / upādānaṃ tu bhogānāṃ prāptaye paridhāvataḥ // VAkK_3.23 //",
+        "translations": {
+          "ru-sb": "Ощущение перед сожительством. Жажда жизни.\nУ желающих сожительства и обладания.\nВожделение вследствие спешки\nК получению обладания."
+        },
+        "root": true
+      },
+      {
+        "original": "sa bhaviṣyat bhavaphalaṃ kurute karma tat bhavaḥ / pratisaṃdhiḥ punarjātiḥ jarāmaraṇamā vidaḥ // VAkK_3.24 //",
+        "translations": {
+          "ru-sb": "Возникшие от этого результат\nИ есть бытие.\nРождение – это новое перерождение.\nСтарость и смерть – до \"ощущения\"."
+        },
+        "root": true
+      },
+      {
+        "original": "āvasthikaḥ kileṣṭo 'yaṃ prādhānyā ttvaṅgakīrtanam / pūrvāparāntamadhyeṣu saṃmohavinivṛttaye // VAkK_3.25 //",
+        "translations": {
+          "ru-sb": "По-видимому, это обстоятельственная,\nПотому что указываются только главные,\nЧтобы исключить невежество\nВ отношение предшествования, последования и между ними."
+        },
+        "root": true
+      },
+      {
+        "original": "kleśāstrīṇi dvayaṃ karma sapta vastu phalaṃ tathā / phalahetvabhisaṃkṣepo dvayormadhyānumānataḥ // VAkK_3.26 //",
+        "translations": {
+          "ru-sb": "Три (ее члена) – омрачение, два – действие,\nСемь – база и также плоды.\nРезюме о причинах и результатах, об этих двух, –\nИз вывода о среднем (члене)."
+        },
+        "root": true
+      },
+      {
+        "original": "kleśāt kleśaḥ kriyā caiva tato vastu tataḥ punaḥ / vastu kleśāśca jāyante bhavāṅgānāmayaṃ nayaḥ // VAkK_3.27 //",
+        "translations": {
+          "ru-sb": "От омрачения – омрачения и деяния.\nОт этого – основы.\nОт них – основы и омрачения рождаются.\nТаков характер членов бытия."
+        },
+        "root": true
+      },
+      {
+        "original": "heturatra samutpādaḥ samutpannaḥ phalaṃ matam / vidyāvipakṣo dharmo 'nyo 'vidyāmitrānṛtādivat // VAkK_3.28 //",
+        "translations": {
+          "ru-sb": "Здесь возникновение – причина,\nВозникшее – результат.\nНеведение – особый элемент, обратный\nЗнанию, подобно недругу, неправде и другим."
+        },
+        "root": true
+      },
+      {
+        "original": "saṃyojanādivacanāt kuprajñā cenna darśanāt / dṛṣṭestatsaṃprayuktatvāt prajñopakleśadeśanāt // VAkK_3.29 //",
+        "translations": {
+          "ru-sb": "Потому что определяется как полное единение.\nНе является плохой мудростью, которая есть воззрение.\nЛожное воззрение с ним связано.\nУказано как омраченная мудрость."
+        },
+        "root": true
+      },
+      {
+        "original": "nāma tvarūpiṇaḥ skandhāḥ sparśāḥ ṣaṭ saṃnipātajāḥ / pañcapratighasaṃsparśaḥ ṣaṣṭho 'dhivacanāvhaya // VAkK_3.30 //",
+        "translations": {
+          "ru-sb": "Группы, не являющиеся чувственными,- наименования.\nКонтактов – шесть. Они возникают от встречи.\nПять из них – контакт непроницаемости,\nШестой – слово – наименование."
+        },
+        "root": true
+      },
+      {
+        "original": "vidyāvidyetarasparśāḥ amalakliṣṭaśeṣitāḥ / vyāpādānunayasparśau sukhavedyādayastrayaḥ // VAkK_3.31 //",
+        "translations": {
+          "ru-sb": "Знание, неведение и другие;\nЧистые, омраченные и остальные;\nКонтакт злобы и дружелюбия,\nЧувствование удовольствия и прочего – три."
+        },
+        "root": true
+      },
+      {
+        "original": "tajjāḥ ṣaḍvedanāḥ pañca kāyikī caitasī parā / punaścāṣṭādaśavidhā sā manopavicārataḥ // VAkK_3.32 //",
+        "translations": {
+          "ru-sb": "От него возникает шесть ощущений.\nПять телесных, остальные – мысленное.\nСопутствующее интеллекту –\nВосемнадцати видов."
+        },
+        "root": true
+      },
+      {
+        "original": "kāme svālambanāḥ sarve rūpī dvādaśagocaraḥ / trayāṇāmuttaraḥ dhyānadvaye dvādaśa kāmagāḥ // VAkK_3.33 //",
+        "translations": {
+          "ru-sb": "В сфере страстей все (имеют) свои объекты.\nДвенадцать – объект действия сферы получувственного.\nВ вышей – три. Вдвух созерцаниях –\nДвенадцать, идущие – в сфере страстей."
+        },
+        "root": true
+      },
+      {
+        "original": "svo 'ṣṭālambanam ārūpyo dvayoḥ dhyānadvaye tu ṣaṭ / kāmāḥ ṣaṇṇāṃ caturṇā svaḥ ekasyālambanaṃ paraḥ // VAkK_3.34 //",
+        "translations": {
+          "ru-sb": "Восемь объектов – в своей. В сфере нечувственного –\nДва, а в других созерцаниях – шесть.\nШесть – сферы страстей. Своей – четыре.\nВысшее – обьект одного."
+        },
+        "root": true
+      },
+      {
+        "original": "catvāro 'rūpisāmante rūpagāḥ eka ūrdhvagaḥ / eko maule svaviṣayaḥ sarve 'ṣṭādaśa sāsravāḥ // VAkK_3.35 //",
+        "translations": {
+          "ru-sb": "В сфере нечувственного при \"готовности\" – четыри.\nИдущие в получувственное. Идущий выше – один.\nПри основе – один. Имеет свой объект.\nВсе 18 загрезняны."
+        },
+        "root": true
+      },
+      {
+        "original": "uktaṃ ca vakṣyate cānyat atra tu kleśā iṣyate / bījavannāgavanmūlavṛkṣavattuṣavattathā // VAkK_3.36 //",
+        "translations": {
+          "ru-sb": "Другиие разъяснены или будут разъяснены.\nПри этом омрачения подобны семени,\nНага, корню, дереву,\nА также скорлупе."
+        },
+        "root": true
+      },
+      {
+        "original": "tuṣitaṇḍulavat karma tathaivauṣadhi puṣpavat / siddhānnapānavadvastu tasmin bhavacatuṣṭaye // VAkK_3.37 //",
+        "translations": {
+          "ru-sb": "Деяния подобны плоду со скорлупой,\nТраве и цветку.\nОснова подобна еде и питью.\nИз четырёх видов бытия"
+        },
+        "root": true
+      },
+      {
+        "original": "upapattibhavaḥ kliṣṭaḥ sarvakleśaiḥ svabhūmikaiḥ / tridhānye traya ārūpye āhārasthitikaṃ jagat // VAkK_3.38 //",
+        "translations": {
+          "ru-sb": "Бытие – рождение омрачение.\nВсеми омрачениями своей ступени.\nТри остальных – трёх видов. Три в сфере нечувственного.\nСущества живут пищей."
+        },
+        "root": true
+      },
+      {
+        "original": "kavaḍīkāra āhāraḥ kāme tryāyatanātmakaḥ / na rūpāyatanaṃ tena svākṣamuktānanugrahāt // VAkK_3.39 //",
+        "translations": {
+          "ru-sb": "В сфере страстей – твёрдой пищей.\nЕе сущность – в трёх базах.\nВидимое не установлено,\nИбо не полезно ни органам, ни освобождению."
+        },
+        "root": true
+      },
+      {
+        "original": "sparśaṃcetanāvijñā āhārāḥ sāsravāstriṣu / manomayaḥ saṃbhavaiṣī gandharvaścāntarābhavaḥ // VAkK_3.40 //",
+        "translations": {
+          "ru-sb": "Соприкосновение, духовная пища, сознание –\nПища в трёх, когда загрезнены.\nВозникшие от интеллекта, доискивающиеся бытия,\nГандхарвы, от промежуточное бытие и возврат."
+        },
+        "root": true
+      },
+      {
+        "original": "nirvṛttiśca iha puṣṭyarthamāśrayāśritayordvayam / dvayamanyabhavākṣepanivṛttyartha yathākramam // VAkK_3.41 //",
+        "translations": {
+          "ru-sb": "При этом пребывание и\nОпора – оба для развития.\nДля отражения в ином бытии и завершения.\nДвое последовательно."
+        },
+        "root": true
+      },
+      {
+        "original": "chedasaṃdhāna vairāgyahānicyutyupapattayaḥ / manovijñāna eveṣṭāḥ upekṣāyāṃ cyutodbhavau // VAkK_3.42 //",
+        "translations": {
+          "ru-sb": "Прекращение, объединение, отделение от страстей,\nУпадок, смерть, рождение – они\nПредполагают сознание нечувственного.\nСмерть и рождение – при безразличии."
+        },
+        "root": true
+      },
+      {
+        "original": "naikāgrācittayoretau nirvātyavyākṛtadvaye / kramacyutau pādanābhihṛdayeṣu manaścyutiḥ // VAkK_3.43 //",
+        "translations": {
+          "ru-sb": "При отсутствии сознания и сосредоточения их нет\nНирвана же – нейтральность обоих.\nУ идущих вниз, в люди, в божества,\nУ нерождающихся более последовательность – в ногах,"
+        },
+        "root": true
+      },
+      {
+        "original": "adhonṛsuragājānāṃ marmacchedastvabādibhiḥ / samyaṅ mithyātvaniyatā āryānantaryakāriṇaḥ // VAkK_3.44 //",
+        "translations": {
+          "ru-sb": "В пупе, в сердце умирает сознание.\nРанимые части – через воду и прочее.\nПраведники и совершающие грехи\nИдут к Истине и к ложному."
+        },
+        "root": true
+      },
+      {
+        "original": "tatra bhājanalokasya saṃniveśamuśantyadhaḥ / lakṣaṣoḍaśakodvedhamasaṃkhyaṃ vāyumaṇḍalam // VAkK_3.45 //",
+        "translations": {
+          "ru-sb": "При этом мир – сосуд\nРасположен, имея внизу\nКруг ветра, высотой в\nМиллион шестьсот тысяч; неисчислима."
+        },
+        "root": true
+      },
+      {
+        "original": "apāmekādaśodvedhaṃ sahasrāṇi ca viṃśatiḥ / aṣṭalakṣaucchrayaṃ paścāccheṣaṃ bhavati kāñcanam // VAkK_3.46 //",
+        "translations": {
+          "ru-sb": "Вода в высоту 11 по 100 тысяч\nИ 20 по тысяче.\nПозднее высота 8 по 100 тысяч.\nОставшееся – золото."
+        },
+        "root": true
+      },
+      {
+        "original": "tiryak trīṇi sahasrāṇi sārdhaṃ śatacatuṣṭayam / lakṣadvādaśakaṃ caiva jalakāñcanamaṇḍalam // VAkK_3.47 //",
+        "translations": {
+          "ru-sb": "Диаметр кругов воды и золота –\nДвенадцать по сто тысяч,\nИ 450.\nДлина их окружности – трижды."
+        },
+        "root": true
+      },
+      {
+        "original": "samantatastu triguṇaṃ tatra merūryugandharaḥ / īśādhāraḥ khadirakaḥ sudarśanagiristathā // VAkK_3.48 //",
+        "translations": {
+          "ru-sb": "На нём горы: Меру, Югандхара,\nИшадхара, Кхадирика,\nТакже гора Сударшана,"
+        },
+        "root": true
+      },
+      {
+        "original": "aśvakarṇo vinitako nimindharagiriḥ tataḥ / dvīpāḥ bahiścakravāḍaḥ sapta haimāḥ sa āyasaḥ // VAkK_3.49 //",
+        "translations": {
+          "ru-sb": "Арвакарна, Винилаке и\nГора Ниминдхара. После них\nКонтиненты. Вне их –\nГоры Чакравада."
+        },
+        "root": true
+      },
+      {
+        "original": "catūratnamayo meruḥ jale 'śītisahasrake / magnāḥ ūrdhva jalāt merurbhūyo 'śītisahasrakaḥ // VAkK_3.50 //",
+        "translations": {
+          "ru-sb": "Семь гор – из золота. Одна – из железа,\nСумеру же по природе – из четырёх драгоценностей.\nВ воду на 80 000 погружены, также и вверх 80 000 йоджана.\nОставшиеся восемь в высоту уменьшаются наполовину."
+        },
+        "root": true
+      },
+      {
+        "original": "ardhārdhahāniraṣṭāsu samocchrāyaghanāśca te / śītāḥ saptāntarāṇyeṣāṃ ādyāśītisahasrikā // VAkK_3.51 //",
+        "translations": {
+          "ru-sb": "Они в глубену и высоту одинаковые.\nМежду ними – семь морей – каналов."
+        },
+        "root": true
+      },
+      {
+        "original": "ābhyantaraḥ samudro 'sau triguṇaḥ sa tu pārśvataḥ / ardhārdhenāparāḥ śītāḥ śeṣaṃ bāhyo mahodadheḥ // VAkK_3.52 //",
+        "translations": {
+          "ru-sb": "Первое – 80 000,\nЭто внутреннее море.\nЕго сторона трижды.\nОстальное моря – каналы – каждое вполовину."
+        },
+        "root": true
+      },
+      {
+        "original": "lakṣatrayaṃ sahasrāṇi viṃśatirdve ca tatra tu / jambūdvīpo dvisāhasrastripārśvaḥ śakaṭākṛtiḥ // VAkK_3.53 //",
+        "translations": {
+          "ru-sb": "Оставшееся внешнее море –\nТриста тысяч и\nДвадцать две тысячи.\nИз них Джамбудвипа. Утрёх её сторон"
+        },
+        "root": true
+      },
+      {
+        "original": "sārdhatriyojanaṃ tvekaṃ prāgvideho 'rdhacandravat / pārśvatrayaṃ tathāsya ekaṃ sārdhaṃ triśatayojanam // VAkK_3.54 //",
+        "translations": {
+          "ru-sb": "Две тысячи – в виде колесницы.\nУ одной стороны – три с половиной тысячи йоджана.\nВосточная Видеха схожа с полумесяцем.\nТри стороны схожи, а одна –"
+        },
+        "root": true
+      },
+      {
+        "original": "godānīyaḥ sahasrāṇi sapta sārdhāni maṇḍalaḥ / sārdhe dve madhyamasya aṣṭau caturasraḥ kuruḥ samaḥ // VAkK_3.55 //",
+        "translations": {
+          "ru-sb": "350 йоджана.\nГодания круглая, 7500 йодана и\nЕё диаметр – 2500.\nУттаракуру – 8000, подобна квадрату."
+        },
+        "root": true
+      },
+      {
+        "original": "dehā videhāḥ kuravaḥ kauravāścāmarāvarāḥ / aṣṭau tadantaradvīpā gāṭhā uttaramantriṇaḥ // VAkK_3.56 //",
+        "translations": {
+          "ru-sb": "Восемь промежуточных континентов:\nДеха, Видеха, Куру, Каурава,\nЧамара, Аварачамара,\nШахту и Уттарамантрин."
+        },
+        "root": true
+      },
+      {
+        "original": "ihottareṇa kīṭādri navakāddhimavān tataḥ / pañcāśadvistṛtāyāmaṃ saro 'rvāggandhamādanāt // VAkK_3.57 //",
+        "translations": {
+          "ru-sb": "В нем на север, девять черных гор\nМиновав, – гора Химават. От неё\nПо другую сторону с фимиамом –\nОзеро шириной 50 йоджана."
+        },
+        "root": true
+      },
+      {
+        "original": "adhaḥ sahasrairviśatyā tanmātro 'vīcirasya hi / tadūrdhvaṃ sapta narakāḥ sarve 'ṣṭau ṣoḍaśotsadāḥ // VAkK_3.58 //",
+        "translations": {
+          "ru-sb": "Под ним на 20 000 –\nНар – мэд. Несколько\nВыше него – семь адов.\nВо всей восьмерке – 16 лаг – ма."
+        },
+        "root": true
+      },
+      {
+        "original": "kukūlaṃ kuṇapaṃ cātha kṣuramārgādikaṃ nadī / teṣāṃ caturdiśaṃ śītā anye 'ṣṭāvarvudādayaḥ // VAkK_3.59 //",
+        "translations": {
+          "ru-sb": "У них четыре стороны\nМэ – ма – мур, Ро-ньяг,\nБу – ди – лам и прочие. Река.\nВосемь других холодных Чху – бур – чжан и другие."
+        },
+        "root": true
+      },
+      {
+        "original": "ardhena meroścandrārkau pañcāśatsaikayojanau / ardharātro 'staṃgamanaṃ madhyānha udayaḥ sakṛta // VAkK_3.60 //",
+        "translations": {
+          "ru-sb": "Солнце и луна - вполовину горы,\nИх дисьи – 50 и 51 йоджана.\nПолночь, заход солнца,\nПолдень и восход не одновременны."
+        },
+        "root": true
+      },
+      {
+        "original": "prāvṛṇmāse dvitīye 'ntyanavamyāṃ vardhate niśā / hemantānāṃ caturthe tu hīyate aharviparyayāt // VAkK_3.61 //",
+        "translations": {
+          "ru-sb": "С девятого дня последней половины\nВторого летнего меяца ночи удлиняются.\nС четвёртого же месяца зимы –\nУкорачиваются. Дни – наоборот."
+        },
+        "root": true
+      },
+      {
+        "original": "lavaśo rātryaharvṛddhī dakṣiṇottarage ravau / svacchāyayārkasāmīpyādvikalendusamīkṣaṇam // VAkK_3.62 //",
+        "translations": {
+          "ru-sb": "Дни и ночи удлиняются постепенно\nВо время движения солнца на юг и север.\nОт близости солнца,\nБлагодаря своей тени становится теневым."
+        },
+        "root": true
+      },
+      {
+        "original": "pariṣaṇḍāścatasro 'sya daśasāhasrikāntarāḥ / ṣoḍaśāṣṭau sahasrāṇi catvāri dve ca nirgatāḥ // VAkK_3.63 //",
+        "translations": {
+          "ru-sb": "Ступеней там четыре,\nРастояние между ними – 10 000.\nНа 16 000,\nНа, 8, на 4 и 2 тысячи возвышаются."
+        },
+        "root": true
+      },
+      {
+        "original": "karoṭapāṇayastāsu mālādhārāssadāmadāḥ / mahārājikadevāśca parvateṣvapi saptasu // VAkK_3.64 //",
+        "translations": {
+          "ru-sb": "Там \"Лаг-на-шог-тхог\",\n\"Пхренг-тхог\", \"Дри-нье\"\nИ божества \"Чжал-чан-ши\" пребывают.\nНа семи горах также."
+        },
+        "root": true
+      },
+      {
+        "original": "merumūrdhni trayastriṃśāḥ sa cāśītisahasradik / vidikṣu kūṭāścatvāra uṣitā vajrapāṇibhiḥ // VAkK_3.65 //",
+        "translations": {
+          "ru-sb": "На вершине Сумеру – 33\nЕе скаты – 80 000.\nВ четырёх башнях по сторонам\nПребывают \"Ланг-на-до-ржа\"."
+        },
+        "root": true
+      },
+      {
+        "original": "madhye sārdhadvisāhasrapārśvamadhyardhayojanam / puraṃ sudarśanaṃ nāma haimaṃ citratalaṃ mṛdu // VAkK_3.66 //",
+        "translations": {
+          "ru-sb": "В центре – Город Сундаршана.\nЕго сторона – 2500 йонжада,\nА высота – !500. Золотой\nПоприроде, с почвой пестрой и эластичной."
+        },
+        "root": true
+      },
+      {
+        "original": "sārdhadviśatapārśvo 'tra vaijayantaḥ bahiḥ punaḥ / taccaitrarathapāruṣyamiśranandanabhūṣitam // VAkK_3.67 //",
+        "translations": {
+          "ru-sb": "Там – Нам-бар-чжал-чжед\nСо стронами 250.\nСнаружи он – шинг-да-на-цхог,\nЦуб-чжур, дэ-ба и га-ва украшен."
+        },
+        "root": true
+      },
+      {
+        "original": "viṃśatyantaritānyeṣāṃ subhūmīni caturdiśam / pūrvottare pārijātaḥ sudharmā dakṣiṇāvare // VAkK_3.68 //",
+        "translations": {
+          "ru-sb": "От них на четыре направления\nПри отрезке в 20 – красивые места.\nНа северо-востоке – \"Йонг-ду\",\nНа юго-западе \"Чой-санг-бо\"."
+        },
+        "root": true
+      },
+      {
+        "original": "tata ūrdhva vimāneṣu devāḥ kāmabhujastu ṣaṭ / dvaṃdvāliṃṅganapāṇyāptivasitekṣitamaithunāḥ // VAkK_3.69 //",
+        "translations": {
+          "ru-sb": "Выше их – дворец божеств.\nШесть действуют в сфере со страстеми.\nОни сожительствуют, спариваясь объятиями,\nКасанием рук, смехом и взглядами."
+        },
+        "root": true
+      },
+      {
+        "original": "pañcavarṣopamo yāvat daśavarṣopamaḥ śiśuḥ / saṃbhavatyeṣu saṃpūrṇāḥ savastrāścaiva rūpiṇaḥ // VAkK_3.70 //",
+        "translations": {
+          "ru-sb": "Подобные ребенку, достигшему\n5-10 лет, среди них рождаются.\nСферы получувственного,\nСовершенны и одеты."
+        },
+        "root": true
+      },
+      {
+        "original": "kāmopapattayastistraḥ kāmadevāḥ samānuṣāḥ / sukhopapattayastistro navatridhyānabhūmayaḥ // VAkK_3.71 //",
+        "translations": {
+          "ru-sb": "Рождение в сфере страстей – три.\nБожества сферы страстей – с людми.\nСчасливых рождений – три.\nВ трех созерцаниях – 9 степеней."
+        },
+        "root": true
+      },
+      {
+        "original": "sthānāt sthānadadho yāvattāvadūrdhvaṃ tatastataḥ / nordhva darśanamastyeṣāmanyatrarddhiparāśrayāt // VAkK_3.72 //",
+        "translations": {
+          "ru-sb": "Сколько от местопребывания вниз,\nСтолькожеот него вверх.\nЗа исключением, опоры на магию или другое,\nОни не видят вверх."
+        },
+        "root": true
+      },
+      {
+        "original": "caturdvīpakacandrārkamerukāmadivaukasām / brahmalokasahasraṃ ca sāhasraścūḍiko mataḥ // VAkK_3.73 //",
+        "translations": {
+          "ru-sb": "Четыре континента, солнце и луна,\nСумеру и божества – сферы страстей.\nТысяча миров брамы.\nЭто понимается как универсальная тысяча."
+        },
+        "root": true
+      },
+      {
+        "original": "tatsahasraṃ dvisāhasro lokadhātustu madhyamaḥ / tatsahasraṃ trisāhasraḥ samasaṃvartasaṃbhavaḥ // VAkK_3.74 //",
+        "translations": {
+          "ru-sb": "После нее – вторая тысяча,\nЭто средняя вселеная.\nПосле неё – третья тысяча.\nВместе разрушаются и возникают."
+        },
+        "root": true
+      },
+      {
+        "original": "jāmbūdvīpāḥ pramāṇena catuḥsārdhatrihastakāḥ / dviguṇottaravṛddhayā tu purvagodottarāvhayāḥ // VAkK_3.75 //",
+        "translations": {
+          "ru-sb": "Мера обитателей Джамбудвипы –\nЧетыри и три с половиной локтя\nВосточного, Годами и\nСеверного рождаются, изменяясь дважды."
+        },
+        "root": true
+      },
+      {
+        "original": "pādabṛddhayā tanuryāva tsārdhakrośo divaukasām / kāmināṃ rūpiṇāṃ tvādau yojanārdhaṃ tataḥ param // VAkK_3.76 //",
+        "translations": {
+          "ru-sb": "Тело божеств сферы страстей –\nОт четверти кроша\nДо полутра.\nПевые в сфере получувственного - пол-йоджана."
+        },
+        "root": true
+      },
+      {
+        "original": "ardhārdhavṛddhi ūrdhva tu parīttābhebhya āśrayaḥ / dviguṇadviguṇā hitvānabhrakebhya striyojanam // VAkK_3.77 //",
+        "translations": {
+          "ru-sb": "Выше увеличивастся на половину.\nУ божеств выше Од-чунг\nТело удваивается.\nУ Чжиг-мэд – отбрасывается три йоджана."
+        },
+        "root": true
+      },
+      {
+        "original": "sahasrāmāyuḥ kuruṣu dvayorardhārdhavarjitam / ihāniyatam ante tu daśābdāḥ ādito 'mitam // VAkK_3.78 //",
+        "translations": {
+          "ru-sb": "У куру жизнь – тысяча лет.\nУ двух других отбрасывают половину.\nВ этом непостоянна. В конце концов 10 лет.\nВначале неизмерима."
+        },
+        "root": true
+      },
+      {
+        "original": "nṛṇāṃ varṣāṇi pañcāśadahorātro divaukasām / kāme 'dharāṇāṃ tenāyuḥ pañcavarṣaśatāni tu // VAkK_3.79 //",
+        "translations": {
+          "ru-sb": "50 людских лет –\nОдни сутки у низших\nБожеств сферы страстей.\nЧерез это их жизнь – 500 лет."
+        },
+        "root": true
+      },
+      {
+        "original": "dviguṇottaramurdhvānāmubhayaṃ rūpiṇāṃ punaḥ / nāstyahorātramāyustu kalpaiḥ svāśrayasaṃmitaiḥ // VAkK_3.80 //",
+        "translations": {
+          "ru-sb": "У высших – дважды.\nДля получувственных нет времени дня и ночи\nИх кальпы измеряются телом.\nУ нечувстенных – тысячи кальп."
+        },
+        "root": true
+      },
+      {
+        "original": "ārūpye viṃśatiḥ kalpasahasrāṇya dhikādhikam / mahākalpaḥ parīttābhāt prabhṛtyadharmadhastataḥ // VAkK_3.81 //",
+        "translations": {
+          "ru-sb": "Двадцать и выше.\nПосле Од-чунг – великая кальпа.\nНиже – половина."
+        },
+        "root": true
+      },
+      {
+        "original": "kāmedevāyuṣā tulyā ahorātrā yathākramam / saṃjīvādiṣu ṣaṭsu āyustaisteṣāṃ kāmadevavat // VAkK_3.82 //",
+        "translations": {
+          "ru-sb": "В аде Сой и прочих, всего шести,\nСутки равны жизни богов сферы страстей.\nЗдесь жизнь их\nСхожа с жизнью божеств сферы страстей."
+        },
+        "root": true
+      },
+      {
+        "original": "ardhaṃ pratāpane avīcāvantaḥkalpaṃ paraṃ punaḥ / kalpaṃ tiraścāṃ pretānāṃ māsānhā śatapañcakam // VAkK_3.83 //",
+        "translations": {
+          "ru-sb": "В Раб-ту-пха-ва – половина. Нар-мэд –\nПромежуточная кальпа. У животных\nНаибольшая долгота – кальпа. Преты\n500 – с месячными сутками."
+        },
+        "root": true
+      },
+      {
+        "original": "vāhādvarṣaśatenaikatiloddhārakṣayāyuṣaḥ / arvudā dviṃśatiguṇaprativṛddhayāyuṣaḥ pare // VAkK_3.84 //",
+        "translations": {
+          "ru-sb": "Если из сосуда с сезамом (раз) в 100лет\nИзвлекая по одному зерну –\nВремя жизни в Чху-бур-чан;\nЖизнь в других умножается на 20."
+        },
+        "root": true
+      },
+      {
+        "original": "kurubāhyo 'ntarāmṛtyuḥ paramāṇvakṣarakṣaṇāḥ / rūpanāmādhvaparyantāḥ paramāṇuraṇustathā // VAkK_3.85 //",
+        "translations": {
+          "ru-sb": "За исключением Да-ми-ньян умирают.\nПредел чувственного, слова и времени –\nАтом, слог и момент."
+        },
+        "root": true
+      },
+      {
+        "original": "lohāpśaśā vigocchidrarajolikṣāstadudbhavāḥ / yavastathāṅgulīparva jñeyaṃ saptaguṇottaram // VAkK_3.86 //",
+        "translations": {
+          "ru-sb": "Неделимая частица.\nЖелезная пыль, водяная пыль, кончик\nВолос зайца, овцы, рогатого скота,\nПылинки на солнце,\nУвеличиваясь (каждая) в семь раз,\nДоходят до величены сустава пальца."
+        },
+        "root": true
+      },
+      {
+        "original": "caturviśatiraṅgulyo hasto hastacatuṣṭayam / dhanuḥ pañcaśatānyeṣāṃ krośo raṇyaṃ ca tanmatam // VAkK_3.87 //",
+        "translations": {
+          "ru-sb": "24 пальца – один локоть;\n4 локтя – натяжка лука;\nИх 500 – один чжанг-данг;\nЗдесь место отшельника."
+        },
+        "root": true
+      },
+      {
+        "original": "te 'ṣṭau yojanamityāhuḥ viṃśaṃ kṣaṇaśataṃ punaḥ / tatkṣaṇaḥ te punaḥ ṣaṣṭirlavaḥ triṃśad guṇottarāḥ // VAkK_3.88 //",
+        "translations": {
+          "ru-sb": "Их восемь состовляют йоджана.\n120 малых моментов –\nОдин момент.\nИх 60 – один тханг-чжиг."
+        },
+        "root": true
+      },
+      {
+        "original": "trayo muhūrttāhorātramāsāḥ dvādaśamāsakaḥ / saṃvatsaraḥ sonarātraḥ kalpo bahuvidhaḥ smṛtaḥ // VAkK_3.89 //",
+        "translations": {
+          "ru-sb": "Тройка йуд-пам, ньин-шаг, да\nС учетом шаг-ми-тхуб-ба – 12 месяцев в году.\nКальпа указывается многих вилов –\nПромежуточная, разрушения, созидания и Великая кальпа."
+        },
+        "root": true
+      },
+      {
+        "original": "saṃvarttakalpo narakasaṃbhavāt bhājanakṣayaḥ / vivartakalpaḥ prāgvāyoryāvannaraka saṃbhavaḥ // VAkK_3.90 //",
+        "translations": {
+          "ru-sb": "Кальпа разрушения при отсутствии\nБытия адских существ.\nИстощения вместмлищ.\nСоздание от первого ветра"
+        },
+        "root": true
+      },
+      {
+        "original": "antaḥ kalpo 'mitāt yavaddaśavarṣāyuṣaḥ tataḥ / utkarṣā apakarṣāśca kalpā aṣṭā daśāpare // VAkK_3.91 //",
+        "translations": {
+          "ru-sb": "До бытия в аду.\nПромежуточная кальпа –\nОт неизмеримости\nДо десяти лет жизни."
+        },
+        "root": true
+      },
+      {
+        "original": "utkarṣa ekaḥ te 'śītisahasrādyāvadāyuṣaḥ / iti loko vivṛtto 'yaṃ kalpāṃstiṣṭhati viṃśatim // VAkK_3.92 //",
+        "translations": {
+          "ru-sb": "Увеличения – в одном.\nИх жизнь 80 000 лет.\nВыше этого не идет.\nТаковая создания вселення. Она"
+        },
+        "root": true
+      },
+      {
+        "original": "vivartate 'tha saṃvṛtta āste saṃvartate samam / te hyaśītirmahākalpaḥ tadasaṃkhyatrayodbhavam // VAkK_3.93 //",
+        "translations": {
+          "ru-sb": "Пребывания в двадцати промежуточных кальпах.\nСозидание, разрушение и\nПребывание в разрушении равны.\nЭти 80 – Великая кальпа."
+        },
+        "root": true
+      },
+      {
+        "original": "buddhatvam apakarṣe hi śatādyāvattadudbhavaḥ / dvayoḥ pratyekabuddhānāṃ khaḍgaḥ kalpaśatānvayaḥ // VAkK_3.94 //",
+        "translations": {
+          "ru-sb": "Из этих трёх неисчеслимых возникает Будда.\nВо время деградации до ста они возникают.\nПретьекабудды в обоих.\n\"Подобный носорогу\" по причине ста кальп."
+        },
+        "root": true
+      },
+      {
+        "original": "cakravartisamutpattirnādho 'śītisahasrakāt / suvarṇarūpyatāmrāyaścakriṇaḥ te 'dharakramāt // VAkK_3.95 //",
+        "translations": {
+          "ru-sb": "Появление чатравартинов\nПосле 80 000 не встречается.\nИмеющиеся золотое, серебряное, медное\nИ железное колесо – они на одном, на двух,"
+        },
+        "root": true
+      },
+      {
+        "original": "ekadvitricaturdvīpāḥ na ca dvau saha buddhavat / pratyudyānasvayaṃyāna kalahāstrajitaḥ avadhāḥ // VAkK_3.96 //",
+        "translations": {
+          "ru-sb": "На трёх и четрёх континентах в обратной последовательности.\nВместе два не бывают, как будды.\nОни побеждают, принимая приглашения, приходя сами, устраивая сражения,\nРазмахивая оружием. Без угнетения."
+        },
+        "root": true
+      },
+      {
+        "original": "deśasthottaptapūrṇatvairlakṣaṇātiśayo muneḥ / prāgāsan rūpivat sattvāḥ rasarāgāttataḥ śanaiḥ // VAkK_3.97 //",
+        "translations": {
+          "ru-sb": "Призраки будды расположены особо,\nПри ясности завершены и возвышены.\nСперва живыек существа подобны получувственным,\nЗатем, постепенно полюбив вкус,"
+        },
+        "root": true
+      },
+      {
+        "original": "ālasyātsaṃnidhiṃ kṛtvā sāgrahaiḥ kṣetrapo bhṛtaḥ / tataḥ karmapathādhikyādapahrāse daśāyuṣaḥ // VAkK_3.98 //",
+        "translations": {
+          "ru-sb": "Лень и прочее, установив,\nОбрабатывая землю со страстью захвата.\nПосле этого через излишек пути деяний\nУкорочение жезни достигло десяти лет."
+        },
+        "root": true
+      },
+      {
+        "original": "kalpasya śastrarogābhyāṃ durbhikṣeṇa ca nirgamaḥ / divasān sapta māsāṃśca varṣāṇi ca yathākramam // VAkK_3.99 //",
+        "translations": {
+          "ru-sb": "Кальва кончается орушием,\nБолезнями и голодом.\nПо семь суток, месяцев и\nЛет последовательно."
+        },
+        "root": true
+      },
+      {
+        "original": "saṃvartanyaḥ punastistro bhavantyagnyambuvāyubhiḥ / dhyānatrayaṃ dvitīyādi śīrṣa tāsāṃ yathākramam // VAkK_3.100 //",
+        "translations": {
+          "ru-sb": "Имеется три разрушения –\nОгнём, водой и ветром.\nТри – вторая ступень созерцания и прочие –\nОни, последавательно, предел"
+        },
+        "root": true
+      },
+      {
+        "original": "tadapakṣālasādharmyāt na caturthe 'styaniñjanāt / na nityaṃ saha sattvena tadvimānodayavyayāt // VAkK_3.101 //",
+        "translations": {
+          "ru-sb": "Вследствии общности грехов и элементов,\nВ четрертой нет вследствие непоколибимости.\nНевечная – её дворцы Шал-мэд-кхаг.\nВозникают и разрушаются с живыми существами."
+        },
+        "root": true
+      },
+      {
+        "original": "saptāgninā adbhirekā evaṃ gate 'dbhiḥ saptake punaḥ / tejasā saptakaḥ paścādvāyusaṃvartanī tataḥ // VAkK_3.102 //",
+        "translations": {
+          "ru-sb": "Семь – огнём, одном – водой,\nПройдя семь – водой,\nСемь – огнём. После этого\nПод конец – разрушение ветром."
+        },
+        "root": true
+      },
+      {
+        "original": "abhidharmakośabhāṣye lokanirdeśo nāma tṛtīyaṃ kośasthānam samāptamiti /",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "śrīlāmāvākasya yadatra puṇyam /",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      }
+    ]
+  },
+  {
+    "sectionTitle": "caturthaṃ kośasthānam",
+    "sentences": [
+      {
+        "original": "oṃ namo buddhāya /",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "karmajaṃ lokavaicitryaṃ cetanā tatkṛtaṃ ca tat / cetanā mānasaṃ karma tajjaṃ vākkāyakarmaṇī // VAkK_4.1 //",
+        "translations": {
+          "ru-sb": "От деяний рождается многообразие миров.\nЭто усилие сознания и им созданное.\nУсилие сознания- это деяние интеллекта, –\nИм производятся телесные и словесные деяния"
+        },
+        "root": true
+      },
+      {
+        "original": "te tu vijñaptyavijñaptī kāyavijñaptiriṣyate / saṃsthānaṃ na gatiryasmātsaṃskṛtaṃ kṣaṇikaṃ vyayāt // VAkK_4.2 //",
+        "translations": {
+          "ru-sb": "Деяния бывают внешнепроявленные и непроявленные.\nТелесное внешнепроявленное понимается как форма.\nОно обусловлено, так как не является движением\nОно моментально, так как разрушается."
+        },
+        "root": true
+      },
+      {
+        "original": "na kasyacidahetoḥ syāt hetuḥ syācca vināśakaḥ / dvigrāhyaṃ syāt na cāṇau tat vāgvijñaptistu vāgdhvaniḥ // VAkK_4.3 //",
+        "translations": {
+          "ru-sb": "При отсутствии причины ничто не возникает.\nПричина становится разрушением.\nВоспринималось бы двумя. В атоме не существует.\nСловесное внешнепроявленное- это звук речи."
+        },
+        "root": true
+      },
+      {
+        "original": "trividhāmalarūpoktivṛddhayakurvatpathādibhiḥ / kṣaṇādūrdhvamavijñaptiḥ kāmāptātītabhūtajā // VAkK_4.4 //",
+        "translations": {
+          "ru-sb": "Сказано: три вида и чистое чувственное\nВследствие развития, пути без деяний и прочего.\nВнешне-непроявленное, входящее в сферу страстей,\nВозникает от прошедших великих элементов после первого момента."
+        },
+        "root": true
+      },
+      {
+        "original": "svāni bhūtānyupādāya kāyavākkarma sāsravam / anāsravaṃ yatra jātaḥ avijñaptiranupāttikā // VAkK_4.5 //",
+        "translations": {
+          "ru-sb": "Телесное и словесное осквернинные деяния\nПроисходят от своих великих элементов.\nНеоскверненные- от где родившийся.\nВнешне-непроявленное не схватывается."
+        },
+        "root": true
+      },
+      {
+        "original": "naiḥṣyandikī ca sattvākhyā niṣyandopāttabhūtajā / samādhijau pacayikānupāttābhinnabhūtajā // VAkK_4.6 //",
+        "translations": {
+          "ru-sb": "Возникает от общей причины и указано у живых существ.\nРождается от великих элементов, схватываемых общей причиной.\nРожденное от сосредоточения не схватывается великими элементами.\nРождается, не являясь отличным от возникших от развития"
+        },
+        "root": true
+      },
+      {
+        "original": "nāvyākṛtāstyavijñaptiḥ tridhānvyat aśubhaṃ punaḥ / kāme rūpe 'pyavijñaptiḥ vijñaptiḥ savicārayoḥ // VAkK_4.7 //",
+        "translations": {
+          "ru-sb": "Внешне-непроявленное не бывает нейтральным.\nДругое трёх видов. Неблагоприятное в сфере страстей.\nВ сфере получувственного имеется внешне-непроявленное\nВнешнепроявленное у обладающего \"установлением\""
+        },
+        "root": true
+      },
+      {
+        "original": "kāme 'pi nivṛtā nāsti samutthānamasadyataḥ / paramārthaśubho mokṣaḥ svato mūlahyrapatrapāḥ // VAkK_4.8 //",
+        "translations": {
+          "ru-sb": "В сфере страстей отсутствует неомраченное.\nА почему? Вследствие отсутствия побуждения.\nОсвобождение благоприятно по своей возвышенности.\nЧерез сущность корней \"стыд перед собой\" и \"стыд перед другими\"."
+        },
+        "root": true
+      },
+      {
+        "original": "saṃprayogeṇa tadyuktāḥ samutthā nāt kriyādayaḥ / viparyayeṇākuśalaṃ paramāvyākṛte dhruve // VAkK_4.9 //",
+        "translations": {
+          "ru-sb": "Через связь с ними,\nЧерез побуждение к деяниям.\nОбратное – неблагоприятное.\nАбсолютное указано как нейтральное."
+        },
+        "root": true
+      },
+      {
+        "original": "samutthānaṃ dvidhā hetutatkṣaṇotthānasaṃjñitam / pravartakaṃ tayorādyaṃ dvitīyamanuvartakam // VAkK_4.10 //",
+        "translations": {
+          "ru-sb": "Побуждение двух видов: как причина\nИ данного момента.\nПервое из двух – инициатор.\nВторое – продолжатель."
+        },
+        "root": true
+      },
+      {
+        "original": "pravartakaṃ dṛṣṭiheyaṃ vijñānam ubhayaṃ punaḥ / mānasaṃ bhāvanāheyaṃ pañcakaṃ tvanuvartakam // VAkK_4.11 //",
+        "translations": {
+          "ru-sb": "Сознание, отбрасываемое прозрением, –\nЭто инициатор. Созпание,\nОтбрасываемое сосредоточением, двояко.\nПять – продолжатели"
+        },
+        "root": true
+      },
+      {
+        "original": "pravartake śubhādau hi syāttridhāpyanuvartakam / tulyaṃ muneḥ śubhaṃ yāvat nobhayaṃ tu vipākajam // VAkK_4.12 //",
+        "translations": {
+          "ru-sb": "От благоприятного и прочих инициаторов –\nПродолжатели трёх видов.\nУ Будды схожие. Тот благоприятный.\nВозникший как последствие кармы – ни одно из двух."
+        },
+        "root": true
+      },
+      {
+        "original": "avijñaptistridhā jñeyā saṃvarāsaṃvaretarā / saṃvaraḥ prātimokṣākhyo dhyānajo 'nāsravastathā // VAkK_4.13 //",
+        "translations": {
+          "ru-sb": "Внещне-непроявленное трёх видов:\nДисциплина, недисциплина и иное.\nДисциплина пути освобождения,\nТакже неоскверненная и возникает при созерцании."
+        },
+        "root": true
+      },
+      {
+        "original": "aṣṭadhā prātimokṣākhyaḥ dravyatastu caturvidhaḥ / liṅgato nāmasaṃcārāt pṛthak te cāvirodhinaḥ // VAkK_4.14 //",
+        "translations": {
+          "ru-sb": "Путь освобождения восьми видов.\nПо сущности четырёх видов.\nПотому что наименование вытекает из пола,\nОтдельно и не противоречит."
+        },
+        "root": true
+      },
+      {
+        "original": "pañcāṣṭadaśasarvebhyo varjyebhyo viratigrahāt / upāsakopavāsasthaśramaṇoddeśabhikṣutā // VAkK_4.15 //",
+        "translations": {
+          "ru-sb": "Взяв пять, восемь, десять отбрасываний,\nБеря все отбрасывания,\nСтановятся принявшим пать или восемь обетов,\nПослушником или монахом."
+        },
+        "root": true
+      },
+      {
+        "original": "śīlaṃ sucaritaṃ karma saṃvaraścocyate punaḥ / ādye vijñaptyavijñapto prātimokṣakriyāpathaḥ // VAkK_4.16 //",
+        "translations": {
+          "ru-sb": "Нравственность, правильное поведение\nИ деяния, дисциплина.\nПервые внешнепроявленное и непроявленное –\nПути освобождения и деяний."
+        },
+        "root": true
+      },
+      {
+        "original": "prātimokṣānvitā aṣṭau dhyānajena tadanvitaḥ / anāsraveṇāryasattvāḥ antyau cittānuvartinau // VAkK_4.17 //",
+        "translations": {
+          "ru-sb": "Обладающих путем спасения восьми.\nРодившиеся в созерцании обладают ей.\nПраведники же – чистой.\nДве последние сопровождаются сознанием."
+        },
+        "root": true
+      },
+      {
+        "original": "anāgamye prahāṇākhyau tāvānantaryamārgajau / saṃprajñānasmṛtī dve tu manaindriyasaṃvarau // VAkK_4.18 //",
+        "translations": {
+          "ru-sb": "Рожденые на \"беспрепятственном пути\" – эти двое\nНазываются \"отбрасывающими при непоколебимости\".\nЗнание и память – эти двое –\nДисциплина ума и органа."
+        },
+        "root": true
+      },
+      {
+        "original": "prātimokṣasthito nityamatyāgā dvartamānayā / avijñaptyānvitaḥ pūrvāt kṣaṇādūrdhvamatītayā // VAkK_4.19 //",
+        "translations": {
+          "ru-sb": "Прибывающей на пути освобождения\nПостоянно, не отбрасывая, обладает\nНастоящим внешне-непроявленым.\nПосле первого момента также и прошедшим"
+        },
+        "root": true
+      },
+      {
+        "original": "tathaivāsaṃvarastho 'pi dhyānasaṃvaravān sadā / atītājātayā āryastu prathame nābhyatītayā // VAkK_4.20 //",
+        "translations": {
+          "ru-sb": "Пребывающий вне дисциплины подобен этому.\nОбладающий дисциплиной созерцает –\nВсегда прошедшим и будущим.\nПраведник сперва прошедшим не (обладает)."
+        },
+        "root": true
+      },
+      {
+        "original": "samāhītāryamārgasthau tau yuktau vartamānayā / madhyasthasyāsti cedādau madhyayā ūrdhvaṃ dvikālayā // VAkK_4.21 //",
+        "translations": {
+          "ru-sb": "Пребывающие в глубоком сосредоточении и на пути праведника,\nЭти двое обладают настоящим.\nВ промежуточном состоянии пребывающие – сперва промежуточно.\nВ последующее время первое и второе."
+        },
+        "root": true
+      },
+      {
+        "original": "asaṃvarasthaḥ śubhayāśubhayā saṃvare sthitaḥ / avijñaptyānvito yāvat prasādakleśavegavān // VAkK_4.22 //",
+        "translations": {
+          "ru-sb": "Недисциплинированный с благоприятным внешне-непроявленым\nИ дисциплинированным с неблагоприятным\nОбладают им так долго, пока\nИмеются силы чистоты и омрачения."
+        },
+        "root": true
+      },
+      {
+        "original": "vijñaptyā tu punaḥ sarve kurvanto madhyayānvitāḥ / atītayā kṣaṇādūrdhvamātyāgāt nāstyajātayā // VAkK_4.23 //",
+        "translations": {
+          "ru-sb": "Внешнепроявленное во всех случаях\nУ совершающих его- настоящее.\nДо неотбрасывания. С последующего момента\nОно прошедщее. Будущего же нет."
+        },
+        "root": true
+      },
+      {
+        "original": "nivṛtānivṛtābhyāṃ ca nātītābhyāṃ samanvitaḥ / asaṃvaro duścaritaṃ dauḥśīlyaṃ karma tatpathaḥ // VAkK_4.24 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vijñaptyaivānvitaḥ kurvanmadhyastho mṛducetanaḥ / tyaktānutpannavijñaptiravijñaptyāryapudgalaḥ // VAkK_4.25 //",
+        "translations": {
+          "ru-sb": "В промежуточном при действии\nСо слабым усилием сосзнания- обладание внешнепроявленным.\nПри невозникновении отбрасывания внешнепроявленного\nПраведная личность (обладает) внешне-непроявленным."
+        },
+        "root": true
+      },
+      {
+        "original": "dhyānajo dhyānabhūmyaiva labhyate anāsravastayā / āryayā prātimokṣākhyaḥ paravijñapanādibhiḥ // VAkK_4.26 //",
+        "translations": {
+          "ru-sb": "Возникшая от созерцания получается через ступени созерцания.\nНеоквернённая через праведность.\nПути освобождения\nЧерез внешнепроявленное других."
+        },
+        "root": true
+      },
+      {
+        "original": "yāvajjīvaṃ samādānamahorātraṃ ca saṃvṛteḥ / nāsaṃvaro 'styahorātraṃ na kilaivaṃ pragṛhyate // VAkK_4.27 //",
+        "translations": {
+          "ru-sb": "На всю жизнь и на сутки\nСледует принимать обет-дисциплину.\nСуточный недисциплины нет.\nОна не берется- так известно."
+        },
+        "root": true
+      },
+      {
+        "original": "kālyaṃ grāhyo 'nyato nīcaiḥ sthitenoktānuvāditā / upavāsaḥ samagrāṅgo nirbhūṣeṇāniśākṣayāt // VAkK_4.28 //",
+        "translations": {
+          "ru-sb": "Опустившись, шепотом,\nБез украшений, утром,\nПолностью све части поста\nСледует принимать от другого тайно."
+        },
+        "root": true
+      },
+      {
+        "original": "śīlāṅgānyapramādāṅgaṃ vratāṅgāni yathākramam / catvāryekaṃ tathā trīṇi smṛtināśo madaśca taiḥ // VAkK_4.29 //",
+        "translations": {
+          "ru-sb": "Член нравственности, ччлен\nосторожности, член обета;\nПоследовательно четыре, один,а также три."
+        },
+        "root": true
+      },
+      {
+        "original": "anyasyāpyupavāso 'sti śaraṇaṃ tvagatasya na / upāsakatvopagamātsaṃvṛt uktistu bhikṣuvat // VAkK_4.30 //",
+        "translations": {
+          "ru-sb": "Некоторые, хотя и постящиеся,\nНо не берут убежища.\n\"Принявший восемь обетов\" признает\nОбет-дисциплину. Учения (как) у монаха."
+        },
+        "root": true
+      },
+      {
+        "original": "sarve cet saṃvṛtā ekadeśakāryādayaḥ katham / tatpalanāt kila proktāḥ mṛdvāditvaṃ yathā manaḥ // VAkK_4.31 //",
+        "translations": {
+          "ru-sb": "Если соблюбать обет-дисциплину полностью,\nТо как имеются выполняющие одно правило и прочее?\nЭто понимается как сказанное для дережения.\nМалое и прочие соответствует сознанию."
+        },
+        "root": true
+      },
+      {
+        "original": "buddhasaṃghakarāndharmānaśaikṣānubhayāṃśca saḥ / nirvāṇaṃ ceti śaraṇaṃ yo yāti śaraṇatrayam // VAkK_4.32 //",
+        "translations": {
+          "ru-sb": "Бегущий убежище в трёх\nЭлементах, создающих будду,\nВ двух, создающих общину,\nБерёт убежище в нирване."
+        },
+        "root": true
+      },
+      {
+        "original": "mithyācārātigarhyatvātsaukaryādākriyāptitaḥ / yathābhyupagamaṃ lābhaḥ saṃvarasya na saṃtate // VAkK_4.33 //",
+        "translations": {
+          "ru-sb": "Вследствие большого порицания прелюбодейства\nИ лёгкости достижения его несвершения.\nКак признали дисциплину, так её получили,\nА в отношении потока – нет."
+        },
+        "root": true
+      },
+      {
+        "original": "mṛṣāvādaprasaṅgācca sarvaśikṣāvyatikrame / pratikṣepaṇasāvadyānmadyādeva anyuguptaye // VAkK_4.34 //",
+        "translations": {
+          "ru-sb": "Пройдя (нарушив) все учения,\nДопустили бы ложь.\nОткрытый грех – от опьянения.\nЧтобы других охранялись."
+        },
+        "root": true
+      },
+      {
+        "original": "sarvobhayebhyaḥ kāmāpto vartamānebhya āpyate / maulebhyaḥ sarvakālebhyo dhyānānāsrava saṃvarau // VAkK_4.35 //",
+        "translations": {
+          "ru-sb": "Входящие в сферу страстей, к двум,\nДеяния получаются настоящего времени.\nДисциплина созерцания и чистая\nПо существу во всех временах."
+        },
+        "root": true
+      },
+      {
+        "original": "saṃvaraḥ sarvasattvebhyo vibhāṣā tvaṅgakāraṇaiḥ / asaṃvarastu sarvebhyaḥ sarvāṅgebhyo na kāraṇaiḥ // VAkK_4.36 //",
+        "translations": {
+          "ru-sb": "Обет-дисциплина в отношении всех живых существ,\nА в отношении членов и причин раздельно.\nНедисциплина в отношении всех,\nВсех членов, но не причин."
+        },
+        "root": true
+      },
+      {
+        "original": "asaṃvarasya kriyayā lābho 'bhyupagamena vā / śeṣāvijñaptilābhastu kṣetrādānādarehanāt // VAkK_4.37 //",
+        "translations": {
+          "ru-sb": "Нндисциплина достигается\nДеянием или обещанием.\nОставшееся непроявленное\nПолучается \"полем\", получением и оказанием почтения."
+        },
+        "root": true
+      },
+      {
+        "original": "prātimokṣadamatyāgaḥ śikṣānikṣepaṇāccyuteḥ / ubhayavyañjanotpattermūlacchedānniśātyayāt // VAkK_4.38 //",
+        "translations": {
+          "ru-sb": "\"Дисциплина пути освобождения теряется\nОт отталкивания учения, смерти,\nГермафродитизма,\nРазрыва корней, ухода ночи\"."
+        },
+        "root": true
+      },
+      {
+        "original": "patanīyena cetyeke saddharmāntadhito 'pare / dhanarṇavattu kāśmīrairāpannasyeṣyate dvayam // VAkK_4.39 //",
+        "translations": {
+          "ru-sb": "Некоторые: \"От ведуших к падению\".\nДругие: \"От исчезновения истинного учения.\nКащмирцы: \"При возникновении\nВозможны два – подобно богатству и долгу\"."
+        },
+        "root": true
+      },
+      {
+        "original": "bhūmisaṃcārahānibhyāṃ dhyānāptaṃ tyajyate śubham / tathārūpyāptamāryaṃ tu phalāptyuttaptihānibhiḥ // VAkK_4.40 //",
+        "translations": {
+          "ru-sb": "Благоприятное, принадлежавшее созерцанию,\nТеряется через упадок и смену ступени.\nТакже праведника из сферы нечувственого.\nОт получения плода, ощущение и упадка."
+        },
+        "root": true
+      },
+      {
+        "original": "asaṃvaraḥ saṃvarāptimṛtyudvivyañjanodayaiḥ / vegādānakriyārthāyurmūlacchedaistu madhyamā // VAkK_4.41 //",
+        "translations": {
+          "ru-sb": "Недисциплина (теряется) от получения дисциплины,\nВозникновения смерти, двуполости.\nСреднее от силы, принятия, деяния,\nОбекта жизни и корней теряется."
+        },
+        "root": true
+      },
+      {
+        "original": "kāmāptaṃ kuśalārūpaṃ mūlacchedordhvajanmataḥ / pratipakṣodayāt kliṣṭamarūpaṃ tu vihīyate // VAkK_4.42 //",
+        "translations": {
+          "ru-sb": "Благоприятное нечувственное, входящее в сферу стастей, –\nОт рождения в высшем и отрезания корней.\nОмрачённое нечувственное\nПриходит в упадок при противоположном рождении."
+        },
+        "root": true
+      },
+      {
+        "original": "nṛṇāmasaṃvaro hitvā śaṇḍha paṇḍadvidhākṛtīn / kurūṃśca saṃvaro 'pyevaṃ devānāṃ ca nṛṇāṃ trayaḥ // VAkK_4.43 //",
+        "translations": {
+          "ru-sb": "Люди, за исключением кастратов,\nБесполых, куру и двуполых,\nНедисциплинированы. Так же и дисциплина\nУ них и у божеств. У людей три"
+        },
+        "root": true
+      },
+      {
+        "original": "kāmarūpajadevānāṃ dhyānajaḥ anāsravaḥ punaḥ / dhyānāntarāsaṃjñisattvavarjyānāmapyarūpiṇām // VAkK_4.44 //",
+        "translations": {
+          "ru-sb": "У божеств, рожденных в сферу страстей\nИ получувственного, рождается (дисциплина) созерцания.\nЧистая же, за исключением существ \"сферы без идей\"\nИ особого транса, также в сферы нечувственного"
+        },
+        "root": true
+      },
+      {
+        "original": "kṣemākṣemetaratkarma kuśalākuśaletarat / puṇyāpuṇyamaniñjaṃ ca sukhevedyādi ca trayam // VAkK_4.45 //",
+        "translations": {
+          "ru-sb": "Деяния хорошие, плохие и иные –\nБлагоприятные, неблагоприятные и иные.\nДобродетельные, недобродетельные и недвижные –\nПроявления хорошего и прочего."
+        },
+        "root": true
+      },
+      {
+        "original": "kāmadhātau śubhaṃ karma puṇyamāneñjamūrdhvajam / tadbhūmiṣu yataḥ karmavipākaṃ prati neñjati // VAkK_4.46 //",
+        "translations": {
+          "ru-sb": "\"Добродетельные – это благоприятые деяния сферы стастей.\nНедвижные – возникшие выше.\nА что касается ступений, то в них,\nПоскольку деяния получили возмездие, – недвижное\"."
+        },
+        "root": true
+      },
+      {
+        "original": "sukhavedyaṃ śubhaṃ dhyānādātṛtīyāt ataḥ param / aduḥkhāsukhavedyaṃ tu duḥkhavedyamihāśubham // VAkK_4.47 //",
+        "translations": {
+          "ru-sb": "\"До третьей ступени созерцания благоприятное\nИспытывается как приятное.\nСвыше этого испытывается ни как приятное, ни как нейтральное.\nИспытание страдания – неблагоприятное здесь\"."
+        },
+        "root": true
+      },
+      {
+        "original": "adho 'pi madhyamastyeke dhyānāntaravipākataḥ / apūrvācaramaḥ pākastrayāṇāṃ ceṣyate yataḥ // VAkK_4.48 //",
+        "translations": {
+          "ru-sb": "Ниже существует промежуточное,\nТак говорят некоторые, потому что в промежуточном трансе\nИмеются последствия кармы,\nПотому что воздаяние \"три \"не бывает ранее или позднее."
+        },
+        "root": true
+      },
+      {
+        "original": "svabhāvasaṃprayogābhyāmālambanavipākataḥ / saṃmukhībhāvataśceti pañcadhā vedanīyatā // VAkK_4.49 //",
+        "translations": {
+          "ru-sb": "Ощущения пяти видов:\nПо существу, по связи,\nПо объекту, по последствиям кармы,\nПо очевидности."
+        },
+        "root": true
+      },
+      {
+        "original": "niyatāniyataṃ tacca niyataṃ trividhaṃ punaḥ / dṛṣṭadharmādivedyatvāt pañcadhā karma kecana // VAkK_4.50 //",
+        "translations": {
+          "ru-sb": "Они неизбежны и не – неизбежны\nВ настоящей жизни и прочих.\nЧто касается ощущения, то неизбежных трех видов.\nНекоторые говорят пяти."
+        },
+        "root": true
+      },
+      {
+        "original": "catuṣkoṭikamityanye nikāyākṣepaṇaṃ tribhiḥ / sarvatra caturākṣepaḥ śubhasya narake tridhā // VAkK_4.51 //",
+        "translations": {
+          "ru-sb": "Другие говорят – четыре альтернативы.\nТри вида деяний создают отражение.\nВо всех четыре отражения.\nВ адах благоприятных три."
+        },
+        "root": true
+      },
+      {
+        "original": "yadviraktaḥ sthiro bālastatra notpadyavedyakṛt / nānyavedyakṛdapyāryaḥ kāme 'gre vāsthiro 'pi na // VAkK_4.52 //",
+        "translations": {
+          "ru-sb": "Дитя, устойчивое, лишённое страстей какой-либо (ступени),\nРодившись там, не создаёт ощущаемого.\nПраведник не создает ощущаемого в других.\nТакже и неустойчивый. не опирающийся на сферу страстей и вершину."
+        },
+        "root": true
+      },
+      {
+        "original": "dvāviṃśatividhaṃ kāmeṣvākṣipatyantarābhavaḥ / dṛṣṭadharmaphalaṃ tacca nikāyo hyeka eva saḥ // VAkK_4.53 //",
+        "translations": {
+          "ru-sb": "В промежуточном бытии в сфере страстей\nОтражаются двадцать два вида.\nЭто даёт плод в настоящей жизни.\nВсе одного порядка."
+        },
+        "root": true
+      },
+      {
+        "original": "tīvrakleśaprasādena sātatyena ca yatkṛtam / guṇakṣetre ca niyataṃ tatpitrorghātakaṃ ca yat // VAkK_4.54 //",
+        "translations": {
+          "ru-sb": "С омрачением, с сильной искренностью\nВ отношении поля добродетелей,\nПостоянно действующие и\nУбийство отца и матери неиздежны."
+        },
+        "root": true
+      },
+      {
+        "original": "dṛṣṭadharmaphalaṃ karma kṣetrāśayaviśeṣataḥ / tadbhūmyatyantavairāgyāt vipāke niyataṃ hi yat // VAkK_4.55 //",
+        "translations": {
+          "ru-sb": "Деянея обладающие плодом в настоящей жизни –\nОт особенностей поля и воли.\nВследствие полного отбрасывания страстей той ступени,\nНеизбежны как последствия кармы."
+        },
+        "root": true
+      },
+      {
+        "original": "ye nirodhāraṇāmaitrīdarśanārhatphalotthitāḥ / teṣu kārāpakārāsya phalaṃ sadyo 'nubhūyate // VAkK_4.56 //",
+        "translations": {
+          "ru-sb": "Которые выходят из подавления, любви и созерцания.\nС остановкой сознания, пути прозрения и плода архатства,\nУ тех полезными и вредными деяниями\nПлод ощущает сразу."
+        },
+        "root": true
+      },
+      {
+        "original": "kuśalasyāvitarkasya karmaṇo vedanā matā / vipākaścaitasikyeva kāyikyevāśubhasya tu // VAkK_4.57 //",
+        "translations": {
+          "ru-sb": "\"Последствия кармы от благоприятных деяний без\nМыслительной конструкции\nСоздают только ощущение сознания.\nНеблагоприятные – телесные\"."
+        },
+        "root": true
+      },
+      {
+        "original": "cittakṣepo manaścitte sa ca karmavipākajaḥ / bhayopaghātavaiṣamyaśokaiśca akurukāminām // VAkK_4.58 //",
+        "translations": {
+          "ru-sb": "Сознание, приведённое в смущение – сознание интеллекта.\nОно рождается как последствие кармы от деяний.\nЧерез страх, вред, неравновесие, горе.\nУ существ сферы страстей, кроме Куру."
+        },
+        "root": true
+      },
+      {
+        "original": "vaṅkadoṣakaṣāyoktiḥ śāṭhyadveṣajarāgaje / kṛṣṇaśuklādibhedena punaḥ karma caturvidham // VAkK_4.59 //",
+        "translations": {
+          "ru-sb": "Изворотливость, зло и скверна\nРождают лицемерие, ненависть, страсти.\nПо различию чёрные, белые и прочие.\nДеяния четырёх видов."
+        },
+        "root": true
+      },
+      {
+        "original": "aśubhaṃ rūpakāmāptaṃ śubhaṃ caiva yathākramam / kṛṣṇaśuklobhayaṃ karma tatkṣayāya nirāsravam // VAkK_4.60 //",
+        "translations": {
+          "ru-sb": "Неблагоприятные сферы получувственногои благоприятные\nСферы страстей, соответственно,\nЧёрные, белые и двоякие деяния.\nИстощаясь, становятся чистыми."
+        },
+        "root": true
+      },
+      {
+        "original": "dharmakṣāntiṣu vairāgye cānantaryapathāṣṭake / yā cetanā dvādaśadhā karma kṛṣṇakṣayāya tat // VAkK_4.61 //",
+        "translations": {
+          "ru-sb": "Настойчивость в отношении элементов есть отбрасывания страстей.\nБесприпятственный путь – восьми видов.\nУсилие сознания – двенадцати видов.\nОни уничтожают чёрные деяния."
+        },
+        "root": true
+      },
+      {
+        "original": "navame cetanā yā sā kṛṣṇaśuklakṣayāya ca / śuklasya dhyānavairāgyeṣvantyānantaryamārgajā // VAkK_4.62 //",
+        "translations": {
+          "ru-sb": "Девятое усилие сознания\nИстощает чёрно-белое.\nБелое, лишённое страстей созерцание,\nРождается на беспрепятственном пути последним."
+        },
+        "root": true
+      },
+      {
+        "original": "anye narakavedyānyakāmavedyaṃ dvayaṃ viduḥ / dṛgdheyaṃ kṛṣṇamanye anyatkṛṣṇaśuklaṃ tu kāmajam // VAkK_4.63 //",
+        "translations": {
+          "ru-sb": "Ощущаемое в аду одно и ощущаемое в сфере страстей другое.\nОни двух видов.\nДругое – отбрасываемое прозрением – чёрное.\nУ родившихся в сфере страстей иное – чёрно-белое"
+        },
+        "root": true
+      },
+      {
+        "original": "aśaikṣaṃ kāyavākkarma manaścaiva yathākramam / maunatrayam tridhā śaucaṃ sarva sucaritatrayam // VAkK_4.64 //",
+        "translations": {
+          "ru-sb": "Телесное, словестные и умственные деяния архата –\nПоследовательно три вида мудрого.\nТри хороших деяния – все они\nТри вида очещения."
+        },
+        "root": true
+      },
+      {
+        "original": "aśubhaṃ kāyakarmādi mataṃ duścarita trayam / akarmāpi tvabhidhyādimanoduścaritaṃ tridhā // VAkK_4.65 //",
+        "translations": {
+          "ru-sb": "Телесные и прочие неблагоприятные\nПреступно-действующие считаются три.\nЗависть и прочие, хотя и не являются деяниями, –\nТри вида преступно-действующих деяний."
+        },
+        "root": true
+      },
+      {
+        "original": "viparyayātsucaritam tadaudārikasaṃgrahāt / daśa karmapathā uktā yathāyogaṃ śubhāśubhāḥ // VAkK_4.66 //",
+        "translations": {
+          "ru-sb": "Противоположное – хорошие деяния.\nСобрав из них главное,\nСоответственно благоприятные и неблагоприятные,\nНазывают пути деяний в числе десяти."
+        },
+        "root": true
+      },
+      {
+        "original": "aśubhāḥ ṣaḍavijñaptiḥ dvidhaikaḥ te 'pi kurvataḥ / dvividhāḥ sapta kuśalāḥ avijñaptiḥ samādhijāḥ // VAkK_4.67 //",
+        "translations": {
+          "ru-sb": "Неблагоприятных шесть – внешне-непроявленных.\nОдно – двух видов. Они же при свершении.\nСеми благоприятных двух видов.\nВозникшее от сосредоточения внешне-непроявленно."
+        },
+        "root": true
+      },
+      {
+        "original": "sāmantakāstu vijñaptiḥ avijñaptirbhavenna vā / viparyayeṇa pṛṣṭhāni prayogastu trimūlajaḥ // VAkK_4.68 //",
+        "translations": {
+          "ru-sb": "Трансы готовности – внешнепроявленное.\nВнешне-непроявленное или нет.\nПротивоположное-конечное.\nТренировка-подготовка рождается от трёх корней."
+        },
+        "root": true
+      },
+      {
+        "original": "tadanantarasaṃbhūterabhidhyādyāstrimūlajāḥ / kuśalāḥ saprayogāntā alobhadveṣamohajāḥ // VAkK_4.69 //",
+        "translations": {
+          "ru-sb": "Зависть и прочие рождаются от трёх корней\nВследствии возникновения сразу.\nБлагоприятные подготовка-тренировка и завершение\nРождаются от отсутствия страсти, ненависти и неведения."
+        },
+        "root": true
+      },
+      {
+        "original": "vadhavyāpādapāruṣyaniṣṭhā dveṣeṇa lobhataḥ / parastrīgamanābhidhyādattādānasamāpanam // VAkK_4.70 //",
+        "translations": {
+          "ru-sb": "Убийство, грубые слова\nЗавершаются ненавестью.\nПрелюбодейство, зависть, воровство\nЗавершаются похотью."
+        },
+        "root": true
+      },
+      {
+        "original": "mithyādṛṣṭestu mohena śeṣāṇāṃ tribhiriṣyate / sattvabhogāvadhiṣṭhānaṃ nāmarūpaṃ ca nāma ca // VAkK_4.71 //",
+        "translations": {
+          "ru-sb": "Ложное воззрение – неведением.\nОставщееся завершаются через три.\nОпоры – это живые существа, имущество,\nПять груп и сила. дающая смысл словам."
+        },
+        "root": true
+      },
+      {
+        "original": "samaṃ prāk ca mṛtasyāsti na maulaḥ anyāśrayodayāt / senādiṣvekakāryatvāt sarve karttṛvadanvitāḥ // VAkK_4.72 //",
+        "translations": {
+          "ru-sb": "При смертии ранее или одновременно\nНет сущности, потому что рождается в другом теле.\nВойско и прочее, имея одну цель,\nВместе совершают, то все связаны."
+        },
+        "root": true
+      },
+      {
+        "original": "prāṇātipātaḥ saṃcintya parasyābhrāntimāraṇam / adattādānamanyasvasvīkriyā balacauryataḥ // VAkK_4.73 //",
+        "translations": {
+          "ru-sb": "Убийство, когда обдумав,\nБезошибочно убивают другого.\nВоровство – делать своим имущество другого\nСилой или крадучись."
+        },
+        "root": true
+      },
+      {
+        "original": "agamyagamanaṃ kāmamithyācāraścaturvidhaḥ / anyathāsaṃjñino vākyamarthābhijñe mṛṣāvacaḥ // VAkK_4.74 //",
+        "translations": {
+          "ru-sb": "Желание связи с кем нельзя –\nПрелюбодейство, оно четырёх видов.\nЛожь – слово с изменённым представлением,\nЧем обычное понимание смысла."
+        },
+        "root": true
+      },
+      {
+        "original": "cakṣuḥ śrotamanaścittairanubhūtaṃ tribhiśca yat / taddaṣṭaśrutavijñātaṃ mataṃ coktaṃ yathākramam // VAkK_4.75 //",
+        "translations": {
+          "ru-sb": "Испытываемое тремя:\nСознанием видимого, слышимого и интеллекта –\nЯвляется непосредственным чувственным восприятием\nВидимого, слышимого и сознания."
+        },
+        "root": true
+      },
+      {
+        "original": "paiśunyaṃ kliṣṭacittasya vacanaṃ parabhedane / pārūṣyamapriyaṃ sarva kliṣṭaṃ bhinna pralāpitā // VAkK_4.76 //",
+        "translations": {
+          "ru-sb": "Клевета в целях разделения –\nОмраченное сознание.\nГрубые слова – неприятное на слух.\nПустая болтовня – мрачённое."
+        },
+        "root": true
+      },
+      {
+        "original": "ato 'nyat kliṣṭamityanye lapanāgītanāṭyavat / kuśāstavacca abhidhyā tu parasvaviṣamaspṛhā // VAkK_4.77 //",
+        "translations": {
+          "ru-sb": "Другие: \"От них особое омрачение,\nКак-то: лесть. пение, зрелища.\nПлохие шастры\".\nКорыстолюбие – неправельное желание чужого имущества."
+        },
+        "root": true
+      },
+      {
+        "original": "vyāpādaḥ sattvavidveṣaḥ nāstidṛṣṭiḥ śubhāśubhe / mithyādṛṣṭiḥ trayo hyatra panthānaḥ sapta karma ca // VAkK_4.78 //",
+        "translations": {
+          "ru-sb": "Злоба – ненависть к чужим существам.\nНигилизм – воззрение об отсутствии\nБлагоприятного и инеблагоприятного – ложное воззрение.\nСпеди них три – это путь, семь – также деяния."
+        },
+        "root": true
+      },
+      {
+        "original": "mūlacchedastvasaddṛṣṭayā kāmāptotpattilābhinām / phalahetvapavādinyā sarvathā kramaśaḥ nṛṣu // VAkK_4.79 //",
+        "translations": {
+          "ru-sb": "Нигилизм прерывает корни.\nПолученные при рождении в сфере страстей.\nНигилизм в отношении причин и следствий.\nПолностью. Последовательно. У людей."
+        },
+        "root": true
+      },
+      {
+        "original": "chinatti strī pumān dṛṣṭicaritaḥ so 'samanvayaḥ / saṃdhiḥ kāṅkṣāstidṛṣṭibhyāṃ nehānantaryakāriṇaḥ // VAkK_4.80 //",
+        "translations": {
+          "ru-sb": "Мужчины и женщины прерывают корни благоприятного.\nИспользующий ложное воззрение. Это необладание.\nСвязь через воззрение сомнения.\nИскупление от смертных грехов нет от этого."
+        },
+        "root": true
+      },
+      {
+        "original": "yugapadyāvadaṣṭābhiraśubhaiḥ saha vartate / cetanā daśabhiryāvacchubhaiḥ naikāṣṭapañcabhiḥ // VAkK_4.81 //",
+        "translations": {
+          "ru-sb": "У неблагоприятных до восьми\nУсилий сознания одновременно вместе возникает.\nУ благоприятных – до десяти.\nНе одно, не восемь и не пять."
+        },
+        "root": true
+      },
+      {
+        "original": "bhinnapralāpapārūṣyavyāpādā narake dvidhā / samanvāgamato 'bhidhyāmithyādṛṣṭī kurau trayaḥ // VAkK_4.82 //",
+        "translations": {
+          "ru-sb": "В аду пустая болтовня,\nГрубые слова, злоба двух видов;\nЖадность и ложное воззрение обладаются.\nВ Уттаракуру – три."
+        },
+        "root": true
+      },
+      {
+        "original": "saptamaḥ svayamapyatra kāme 'nyatra daśāśubhāḥ / śubhāstrayastu sarvatra saṃmukhībhāvalābhataḥ // VAkK_4.83 //",
+        "translations": {
+          "ru-sb": "Там фактически также седьмой.\nВ сфере страстей десять неблагоприятных.\nТри благоприятных во всех\nОбнаруживаются и проявляются."
+        },
+        "root": true
+      },
+      {
+        "original": "ārūpyāsaṃjñisattveṣu lābhataḥ sapta śeṣite / saṃmukhībhāvataścāpi hitvā sanarakān kurūn // VAkK_4.84 //",
+        "translations": {
+          "ru-sb": "У существ сферы нечувственного и \"без представлений\"\nОбнаруживается семь.\nУ остальных также проявляется.\nЗа исключением адских существ и обитателей Уттаракуру."
+        },
+        "root": true
+      },
+      {
+        "original": "sarve 'dhipatiniṣyandavipākaphaladā matāḥ / duḥkhanānmāraṇādojonāśanāttrividhaṃ phalam // VAkK_4.85 //",
+        "translations": {
+          "ru-sb": "Все следствия главной причины,\nЕстественной причиной и вызваны кармой.\nВследствие страдания, умерщвления\nИ истощения – плодов три вида."
+        },
+        "root": true
+      },
+      {
+        "original": "lobhajaṃ kāyavākkarma mithyājīvaḥ pṛthak kṛtaḥ / duḥśodhatvāt pariṣkāralobhotthaṃ cet na sūtrataḥ // VAkK_4.86 //",
+        "translations": {
+          "ru-sb": "Телесные и словесные деяния, родившиеся от страстей – это неправильная жизнь.\nИз-за трудности отбрасывания указывается особая сторона.\nЕсли возбуждаются желания в отношении предметов первой необходимости,\nТо вследствии противоречения с сутрой это не так."
+        },
+        "root": true
+      },
+      {
+        "original": "prahāṇamārge samale saphalaṃ karma pañcabhiḥ / caturbhiramale anyacca sāsravaṃ yacchubhāśubham // VAkK_4.87 //",
+        "translations": {
+          "ru-sb": "Нечистый путь отбрасывания\nОбладает пятью плодами.\nЧистый – четырьмя. Другие омраченные,\nБлагоприятные и неблагоприятные также."
+        },
+        "root": true
+      },
+      {
+        "original": "anāsravaṃ punaḥ śeṣaṃ tribhiravyākṛtaṃ ca yat / catvāri dve tathā trīṇi kuśalasya śubhādayaḥ // VAkK_4.88 //",
+        "translations": {
+          "ru-sb": "Оставшиеся неоскверненные\nИ инейтральные – тремя.\nБлагоприятные, неблагоприятные и прочие –\nЧетырьмя, двумя, также тремя."
+        },
+        "root": true
+      },
+      {
+        "original": "aśubhasya śubhādyā dve trīṇi catvāryanukramam / avyākṛtasya dve trīṇi trīṇī caite śubhādayaḥ // VAkK_4.89 //",
+        "translations": {
+          "ru-sb": "Неблагоприятные, благоприятные и прочие – два,\nТри и четыре последовательно.\nНейтральные, благоприятные и прочие –\nОни два, три и три."
+        },
+        "root": true
+      },
+      {
+        "original": "sarve 'tītasya catvāri madhyamasyāpyanāgatāḥ / madhyamā dve ajātasya phalāni trīṇyanāgatāḥ // VAkK_4.90 //",
+        "translations": {
+          "ru-sb": "Все прошедшие – четыре.\nБудущие – срединные также.\nСрединные – два.\nБудущие – три плода."
+        },
+        "root": true
+      },
+      {
+        "original": "svabhūmidharmāścatvāri trīṇi dve vānyabhūmikāḥ / śaikṣasya trīṇi śaikṣādyāḥ aśaikṣasya tu karmaṇaḥ // VAkK_4.91 //",
+        "translations": {
+          "ru-sb": "Своей ступени – четыре.\nЧужой ступени – три и два.\nТренировки и прочего – три тренировки.\nПлод деяний нетренировки."
+        },
+        "root": true
+      },
+      {
+        "original": "dharmāḥ śaikṣādikā ekaṃ phalaṃ trīṇyapi ca dvayam / tābhyāmanyasya śaikṣādyā dve dve pañca phalāni ca // VAkK_4.92 //",
+        "translations": {
+          "ru-sb": "Элементы и прочее тренировки –\nОдин, три и два.\nПлод иной от них –\nТренировки и прочего – два, два и пять."
+        },
+        "root": true
+      },
+      {
+        "original": "trīṇi catvāri caikaṃ ca dṛggheyasya tadādayaḥ / te dve catvāryatha trīṇi bhāvanāheyakarmaṇaḥ // VAkK_4.93 //",
+        "translations": {
+          "ru-sb": "Отбрасываемое прозрением и прочим –\nТри, четыре и один.\nДеяния же, отбрасываемые созерцанием, –\nОни два, четыре и три."
+        },
+        "root": true
+      },
+      {
+        "original": "apraheyasya te tvekaṃ dve catvāri yathākramam / ayogavihitaṃ kliṣṭaṃ vidhibhraṣṭaṃ ca kecana // VAkK_4.94 //",
+        "translations": {
+          "ru-sb": "Не подлежавшие отбрасыванию – один,\nДва, четыре, по порядку.\nВозникшие несоответствующими – омраченные.\nНекоторые: порочного поведения."
+        },
+        "root": true
+      },
+      {
+        "original": "ekaṃ janmākṣipatyekam anekaṃ paripūrakam / nākṣepike samāpattī acitte prāptayo na ca // VAkK_4.95 //",
+        "translations": {
+          "ru-sb": "Одно отражается в одном рождении.\nЗавершаются многими.\nБессознательный транс и мистическое погружение\nНе отражаются; также и \"получение-обладание\"."
+        },
+        "root": true
+      },
+      {
+        "original": "ānantaryāṇi karmāṇi tīvrakleśo 'tha durgatiḥ / kauravāsaṃjñittvāśca matamāvaraṇatrayam // VAkK_4.96 //",
+        "translations": {
+          "ru-sb": "Деяния смертных грехов.\nГлавное омрачение. Плохие судьбы.\nЖивые существа без идей и обитатели Уттаракуру –\nВот три препятствия."
+        },
+        "root": true
+      },
+      {
+        "original": "triṣu dvipeṣvānantarya śaṇḍhā dīnāṃ tu neṣyate / alpopakārālajjitvāt śeṣe gatiṣu pañcasu // VAkK_4.97 //",
+        "translations": {
+          "ru-sb": "Смертные грехи на трех континенрах.\nУ кастратов и прочих невозможны\nПо причине малой благосклонности и стыда перед собой.\nОстальные – в пяти судьбах."
+        },
+        "root": true
+      },
+      {
+        "original": "saṃghabhedastvasāmagrīsvabhāvo viprayuktakaḥ / akliṣṭāvyākṛto dharmaḥ saṃghastena samanvitaḥ // VAkK_4.98 //",
+        "translations": {
+          "ru-sb": "Раскол общины – отклонение\nИ обладание не являющимся учением,\nНеомрачённым, не-нейтральным.\nТем обладает община."
+        },
+        "root": true
+      },
+      {
+        "original": "tadavadya mṛṣāvādastena bhettā samanvitaḥ / avīcau pacyate kalpam adhikairadhikā rujaḥ // VAkK_4.99 //",
+        "translations": {
+          "ru-sb": "Его грех – ложь и\nСовершающий его им обладает.\nОн созревает в течении кальпы в аду Нар-мэд.\nЧерез совершенное страдания увеличиваются."
+        },
+        "root": true
+      },
+      {
+        "original": "bhikṣurdṛk carito vṛttī bhinatti anyatra bāliśān / śāstṛmārgāntarakṣāntau bhinnaḥ na vivasatyasau // VAkK_4.100 //",
+        "translations": {
+          "ru-sb": "Монах-аскет раскалывает.\nВ другом. Глупцы.\nПока терпит другого учителя и другой путь,\nРасколота. Он не пребывает."
+        },
+        "root": true
+      },
+      {
+        "original": "cakrabhedaḥ sa ca mataḥ jambūdvīpe navādibhiḥ / karmabhedastriṣu dvipeṣu aṣṭabhiradhikaiśca saḥ // VAkK_4.101 //",
+        "translations": {
+          "ru-sb": "Понимается как разрыв колеса.\nВ Джамбудвине. Девятью и более.\nРаскол в обрядах на трех континенах.\nПри восьми и более."
+        },
+        "root": true
+      },
+      {
+        "original": "ādāvante 'rbudāt pūrvaṃ yugāccoparate munau / sīmāyāṃ cāpyabaddhāyāṃ cakrabhedo na jāyate // VAkK_4.102 //",
+        "translations": {
+          "ru-sb": "Разрыв колеса не возникает\nВ начале, в конце, перед грехом,\nПеред поарой, когда аскет совершил проступок,\nСоюз не разрезан."
+        },
+        "root": true
+      },
+      {
+        "original": "upakāriguṇakṣetranirākṛtivipādanāt / vyañjanāntarito 'pi syāt mātā yacchoṇitodbhavaḥ // VAkK_4.103 //",
+        "translations": {
+          "ru-sb": "Вследствии отбрасывания и уничтожения\nПолей полбзы и добродетелеи.\nХотя пол изменяется – существует.\nМать, от месячных которой, рождаются."
+        },
+        "root": true
+      },
+      {
+        "original": "buddhe na tāḍanecchasya prahārānnordhvamarhati / nānantaryaprayuktasya vairāgyaphalasaṃbhavaḥ // VAkK_4.104 //",
+        "translations": {
+          "ru-sb": "При мысли ударить Будду нет.\nНет в отношении архата после пронзания.\nУ связанного со смертным грехом\nНе существует плода, отдельного от страстей."
+        },
+        "root": true
+      },
+      {
+        "original": "saṃghabhede mṛṣāvādo mahāvadyatamo mataḥ / bhavāgracetanā loke mahāphalatamā śubhe // VAkK_4.105 //",
+        "translations": {
+          "ru-sb": "Говорение лжи для раскола общины\nзаслуживает наибольшего порицания.\nПри благоприятных мирских наивысший плод –\nУсилие сознания при кульминации бытия."
+        },
+        "root": true
+      },
+      {
+        "original": "dūṣaṇaṃ māturarhantyā niyatisthasya māraṇam / bodhisattvasya śaikṣasya saṃghāyadvārahārikā // VAkK_4.106 //",
+        "translations": {
+          "ru-sb": "\"Оскорбить мать, архата;\nБодхисаттву в его состоянии и\nТренирующегося убить;\nОбщины имущество ограбить."
+        },
+        "root": true
+      },
+      {
+        "original": "ānantaryasabhāgāni pañcamaṃ stūpabhedanam / kṣāntyanāgāmitārhattvaprāptau karmātivighnakṛt // VAkK_4.107 //",
+        "translations": {
+          "ru-sb": "Схоже со смертными грехами.\nПятое – разрушение ступы\".\nОчень сильно препятствуют получению терпения,\n\"Неприходящему более\", и архату."
+        },
+        "root": true
+      },
+      {
+        "original": "bodhisattvaḥ kuto yāvat yato lakṣaṇa karmakṛt / sugatiḥ kulajo 'vyakṣaḥ pumān jātismaro 'nivṛt // VAkK_4.108 //",
+        "translations": {
+          "ru-sb": "С каких пор бодхисаттва,\nС тех пор творит деяния признаков.\nХорошей судьбы, высокого рождения, совершенен органами,\nМужчина, помнит перерождения, не идет назад."
+        },
+        "root": true
+      },
+      {
+        "original": "jambūdvīpe pumāneva saṃmukhaṃ buddhacetanaḥ / cintāmayaṃ kalpaśate śeṣa ākṣipate hi tat // VAkK_4.109 //",
+        "translations": {
+          "ru-sb": "Он в Джамбудвине, будучи мужчиной.\nВ присутствии будд. Усилие сознания.\nВозникшие размышления.\nСотню кальп отражает в деяниях."
+        },
+        "root": true
+      },
+      {
+        "original": "ekaikaṃ puṇyaśatajam asaṃkhyeyatrayāntyajāḥ / vipaśyī dīpakṛdatnaśikhī śākyamuniḥ purā // VAkK_4.110 //",
+        "translations": {
+          "ru-sb": "Каждый рождается от сотни заслуг.\nНам-сиг, Мар-мэ, Рин-чен-цуг\nВозникли в конце третьих неисчислимых,\nПервый – Шакьямуни."
+        },
+        "root": true
+      },
+      {
+        "original": "sarvatra sarva dadataḥ kārūṇyāddānapūraṇam / aṅgacchede 'pyakopāttu rāgiṇaḥ kṣāntiśīlayoḥ // VAkK_4.111 //",
+        "translations": {
+          "ru-sb": "С состраданием по отношению ко всем,\nДелая дар, дар осуществляет.\nОбладая желаниями, даже при сломанных членах,\nБез сметения, – нравственость и терпение."
+        },
+        "root": true
+      },
+      {
+        "original": "tiṣyastotreṇa vīryasya dhīsamādhyoranantaram / puṇyaṃ kriyātha tadvastu trayaṃ karmapathā yathā // VAkK_4.112 //",
+        "translations": {
+          "ru-sb": "Восхвалив энергично Чар-чжала.\nСразу за этим сосредоточением и разум.\nТройка заслуг и их основа,\nНапример, путь деяний."
+        },
+        "root": true
+      },
+      {
+        "original": "dīyate yena taddānaṃ pūjānugrahakāmyayā / kāyavākkarma sotthānaṃ mahābhogyaphalaṃ ca tat // VAkK_4.113 //",
+        "translations": {
+          "ru-sb": "Дающий дар есть дарующий.\nЧерез желание пользы и почитание.\nПобуждаемое телесными и слоесными деяниями\nОбладает богатством плодов."
+        },
+        "root": true
+      },
+      {
+        "original": "svaparārthobhayārthāya nobhayārthāya dīyate / tadviśeṣaḥ punardātṛvastukṣetraviśeṣataḥ // VAkK_4.114 //",
+        "translations": {
+          "ru-sb": "Полезен себе, другим, обоим\nИ ни одному из двух.\nОн хорош через дающего.\nЧерез предмет и поле."
+        },
+        "root": true
+      },
+      {
+        "original": "dātā viśiṣṭaḥ śraddhādyaiḥ satkṛtyādi dadāti ataḥ / satkārodārarucitā kālānācchedyalābhitā // VAkK_4.115 //",
+        "translations": {
+          "ru-sb": "Дающий с собой возвышенность и прочим.\nПри уважении и прочим делает дар.\nПоэтому широкое уважение и\nВовремя и безпрепятственно получает."
+        },
+        "root": true
+      },
+      {
+        "original": "varṇādisampadā vastu surūpatvaṃ yaśasvi vā / priyatā sukumārartusukhasparśāṅgatā tataḥ // VAkK_4.116 //",
+        "translations": {
+          "ru-sb": "Предмет, совершенный в цвете и прочем.\nОтсюда обладание красивым внешним облиуом, славой,\nРадостью, очень молодым телом,\nКонтактом во времени, приятным для тела."
+        },
+        "root": true
+      },
+      {
+        "original": "gatiduḥkhopakāritvaguṇaiḥ kṣetraṃ viśiṣyate / agraṃ muktasya muktāya bodhisattvasya ca aṣṭamam // VAkK_4.117 //",
+        "translations": {
+          "ru-sb": "Через судьбу, страдание, пользу\nПоле добродетели особенно возвышенно.\nНаивысшее – освобожденным освобожбенному.\nБодисатвой. Восьмой."
+        },
+        "root": true
+      },
+      {
+        "original": "mātṛpitṛglānadhārmakathikebhyo 'ntyajanmane / bodhisattvāya cāmeyā anāryebhyo 'pi dakṣiṇā // VAkK_4.118 //",
+        "translations": {
+          "ru-sb": "Не праведнек, но при дарах отцу,\nМатери, больному, учителю,\nБодхисаттве в последнем рождении\nТакже неизмеримы."
+        },
+        "root": true
+      },
+      {
+        "original": "pṛṣṭhaṃ kṣetramadhiṣṭhānaṃ prayogaścetanāśayaḥ / eṣāṃ mṛdvadhimātratvāt karmamṛdvadhimātratā // VAkK_4.119 //",
+        "translations": {
+          "ru-sb": "Последовательность, поле, опора,\nТренитовка-подготовка. усилие сознание, воля –\nОт их малости и велиуости\nДеяния также малые и великие."
+        },
+        "root": true
+      },
+      {
+        "original": "saṃcetanasamāptibhyāṃ niṣkraukṛtya vipakṣataḥ / parivārādvipākācca karmopacittamucyate // VAkK_4.120 //",
+        "translations": {
+          "ru-sb": "От размышления, завершения.\nНераскаяния, отсуттствие духовного помощника.\nКруга бытия последствие кармы –\nТаковы накопленные деяния."
+        },
+        "root": true
+      },
+      {
+        "original": "caitye tyāgānvayaṃ puṇyaṃ maitryādivadagṛṇhati / kukṣetre 'pīṣṭaphalatā phalabījāviparyayāt // VAkK_4.121 //",
+        "translations": {
+          "ru-sb": "При приступе заслуга возникает по причине факта дарения.\nБерущего нет, подобно любви.\nРеезультат от причины неизменен.\nДаже на плохом поле бывает плод."
+        },
+        "root": true
+      },
+      {
+        "original": "dauḥśīlyamaśubhaṃ rūpaṃ śīlaṃ tadviratiḥ dvidhā / pratikṣiptācca buddhena viśuddhaṃ tu caturguṇam // VAkK_4.122 //",
+        "translations": {
+          "ru-sb": "Безнравственность – недлвгоприятное чувственное,\nОтброшенная нравствнность.\nДвух видов, запрещённое Буддой.\nЧистое обладает четырьмя добродеяниями."
+        },
+        "root": true
+      },
+      {
+        "original": "dauḥśīlyataddhetvahataṃ tadvipakṣaśamāśritam / samāhitaṃ tu kuśalaṃ bhāvanā cittavāsanāt // VAkK_4.123 //",
+        "translations": {
+          "ru-sb": "Не откинутое безнравственностью и ее причинами.\nЕе враг – опора на покой.\nБлагоприятная настройка на \"полное погркжение\" – созерцание.\nБудучи дверью для созерцания."
+        },
+        "root": true
+      },
+      {
+        "original": "svargāya śīlaṃ prādhānyāt visaṃyogāya bhāvanā / caturṇāṃ brāhmapuṇyatvaṃ kalpaṃ svargeṣu modanāt // VAkK_4.124 //",
+        "translations": {
+          "ru-sb": "Ради неба – нравственность,\nДля разъединения – созерцание.\nВследствие радостного пребывания в небе в течение\nКальпы – браминская заслуга в четырёх."
+        },
+        "root": true
+      },
+      {
+        "original": "dharmadānaṃ yathābhūta sūtrādyakliṣṭadeśanā / puṇyanirvāṇanirvedhabhāgīyaṃ kuśalaṃ tridhā // VAkK_4.125 //",
+        "translations": {
+          "ru-sb": "\"Дар учением – не обладающие омрачением.\nПравильное трёх видов:\nЗаслуга, нирвана\nИ раскрытое ими схоже\"."
+        },
+        "root": true
+      },
+      {
+        "original": "yogapravartitaṃ karma sasamutthāpakaṃ tridhā / lipimudre sagaṇanaṃ kāvyaṃ saṃkhyā yathākramam // VAkK_4.126 //",
+        "translations": {
+          "ru-sb": "Деяния, приводящие в движение разумное,\nОбладающие побуждением – трёх видов.\nПисаное, гравировка, устный счёт,\nПоэзия, счет – последовательно."
+        },
+        "root": true
+      },
+      {
+        "original": "sāvadyā nivṛtā hīnāḥ kliṣṭāḥ dharmāḥ śubhāmalāḥ / praṇītāḥ saṃskṛtaśubhā sevyāḥ mokṣastvanuttaraḥ // VAkK_4.127 //",
+        "translations": {
+          "ru-sb": "Загрязненные, плохие, заслуживаючие порицания –\nОмрачённые элементы. Чистые, благоприятные, расцветающие.\nОбусловленные приближаются к благоприятным.\nСпасение – это наивысшее."
+        },
+        "root": true
+      },
+      {
+        "original": "abhidharmakośe karmanirddeśo nāma caturtha kośasthānamiti //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      }
+    ]
+  },
+  {
+    "sectionTitle": "pañcamaṃ kośasthānam",
+    "sentences": [
+      {
+        "original": "om namo buddhāya",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "mūlaṃ bhavasyānuśayāḥ ṣaḍrāgaḥ pratighastathā / māno 'vidyā ca dṛṣṭiśca vicikitsā ca te punaḥ // VAkK_5.1 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ṣaḍrāgabhedātsaptoktāḥ bhavarāgo dvidhātujaḥ / antarmukhatvāttanmokṣasaṃjñāvyāvṛttaye kṛtaḥ // VAkK_5.2 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dṛṣṭayaḥ pañca satkāyamithyāntagrahadṛṣṭayaḥ / dṛṣṭiśīlavrataparāmarśāviti punardaśaḥ // VAkK_5.3 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "daśaite saptāsaptāṣṭau tridvidṛṣṭivivarjitāḥ / yathākramaṃ prahīyante kāme duḥkhādidarśanaiḥ // VAkK_5.4 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "catvāro bhāvanāheyāḥ ta evāpratighāḥ punaḥ / rūpadhātau tathārūpye ityaṣṭānavatirmatāḥ // VAkK_5.5 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "bhavāgrajāḥ kṣāntivadhya dṛggheyā eva śeṣajāḥ / dṛgbhāvanābhyām akṣāntivadhyā bhāvanayaiva tu // VAkK_5.6 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ātmātmīyadhruvocchedanāstihīnā gradṝṣṭayaḥ / ahetvamārge taddṛṣṭiretāstāḥ pañca dṛṣṭayaḥ // VAkK_5.7 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "īśvarādiṣu nityātmaviparyāsāt pravartate / kāraṇābhiniveśo 'to dūḥkhadṛggheya eva saḥ // VAkK_5.8 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dṛṣṭitrayādviparyāsacatuṣkaṃ viparītataḥ / nitīraṇāt samāropāt saṃjñācitte tu tadvaśāt // VAkK_5.9 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sapta mānāḥ navavidhāstribhyaḥ dṛgbhāvanākṣayāḥ / vadhādiparyavasthānaṃ heyaṃ bhāvanayā tathā // VAkK_5.10 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vibhavecchā na cāryasya saṃbhavanti vidhādayaḥ / nāsmitā dṛṣṭipuṣṭatvāt kaukṛtyaṃ nāpi cāśubham // VAkK_5.11 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sarvatragā duḥkhahetudṛggheyā dṛṣṭayastathā / vimatiḥ saha tābhiśca yāvidyāveṇikī ca yā // VAkK_5.12 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "navordhvālambanā eṣāṃ dṛṣṭidvayavivarjitāḥ / prāptivarjyāḥ sahabhuvo ye 'pyebhiste 'pi sarvagāḥ // VAkK_5.13 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "mithyādṛgvimatī tābhyāṃ yuktāvidyātha kevalā / nirodhamārgadṛggheyāḥ ṣaḍanāsravagocarāḥ // VAkK_5.14 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "svabhūmyuparamo mārgaḥ ṣaḍbhūminavabhūmikaḥ / tadgocarāṇāṃ viṣayo mārgo hyanyo 'nyahetukaḥ // VAkK_5.15 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "na rāgastasya varjyatvāt na dveṣo 'napakārataḥ / na māno na parāmarśau śāntaśuddhyagrabhāvataḥ // VAkK_5.16 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sarvatragā anuśayāḥ sakalāmanuśerate / svabhūmimālambanataḥ svanikāyamasarvagāḥ // VAkK_5.17 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "nānāsravordhvaviṣayāḥ asvīkārādvipakṣataḥ / yena yaḥ saṃprayuktastu sa tasmin saṃprayogataḥ // VAkK_5.18 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ūrdhvamavyākṛtāḥ sarve kāme satkāyadarśanam / antagrāhaḥ sahābhyāṃ ca mohaḥ śeṣāstvihāśubhāḥ // VAkK_5.19 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāme 'kuśalamūlāni rāgapratighamūḍhayaḥ / trīṇyakuśalamūlāni tṛṣṇāvidyā matiśca sā // VAkK_5.20 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dvidhordhvavṛtternāto 'nyau catvāryeveti bāhyakāḥ / tṛṣṇādṛṅmānamohāste dhyāyitritvādavidyayā // VAkK_5.21 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ekāṃśato vyākaraṇaṃ vibhajya paripṛcchya ca / sthāpyaṃ ca maraṇotpatti viśiṣṭātmānyatādivat // VAkK_5.22 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "rāgapratighamānaiḥ syadatītapratyupasthitaiḥ / yatrotpannāprahīṇāste tasmin vastuni saṃyutaḥ // VAkK_5.23 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sarvatrānāgatairebhirmānasaiḥ svādhvike paraiḥ / ajaiḥ sarvatra śeṣaistu sarvaiḥ sarvatra saṃyutaḥ // VAkK_5.24 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sarvakālāstitā uktatvāt dvayāt sadviṣayāt phalāt / tadastivādāt sarvāstivādā iṣṭāḥ caturvidhāḥ // VAkK_5.25 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "te bhāvalakṣaṇāvasthānyathānyathikasaṃjñitāḥ / tṛtīyaḥ śobhanaḥ adhvānaḥ kāritreṇa vyavasthitāḥ // VAkK_5.26 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kiṃ vighnaṃ tatkathaṃ nānyat adhvāyogaḥ tathā sataḥ / ajātanaṣṭatā kena gambhīrā khalu dharmatā // VAkK_5.27 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "prahīṇe duḥkhadṛggheye saṃyuktaḥ śeṣasarvagaiḥ / prāk prahīṇe prakare ca śeṣaistadviṣayairmalaiḥ // VAkK_5.28 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "duḥkhahetudṛgabhyāsapraheyāḥ kāmadhātujāḥ / svakatrayaikarūpāptāmalavijñānagocarāḥ // VAkK_5.29 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "svakādharatrayordhvaikāmalānāṃ rūpadhātujāḥ / ārūpyajāstridhātvātpatrayānāsravagocarāḥ // VAkK_5.30 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "nirodhamārgadṛggheyāḥ sarve svādhikagocarāḥ / anāsravāstridhātvantyatrayānāsravagocarāḥ // VAkK_5.31 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dvidhā sānuśayaṃ kliṣṭamakliṣṭamanuśāyakaiḥ / mohākāṅkṣā tato mithyādṛṣṭiḥ satkāyadṛktataḥ // VAkK_5.32 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tato 'ntagrahaṇaṃ tasmācchīlāmarśaḥ tato dṛśaḥ / rāgaḥ svadṛṣṭau mānaśca dveṣo 'nyatra ityanukramaḥ // VAkK_5.33 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "aprahīṇādanuśayādviṣayāt pratyupasthitāt / ayoniśo manaskārāt kleśaḥ saṃpūrṇakāraṇaḥ // VAkK_5.34 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāme saparyavasthānāḥ kleśāḥ kāmasravo vinā / mohena anuśayā eva rūpārūpye bhavāsravaḥ // VAkK_5.35 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "avyākṛtāntarmukhā hi te samāhitabhūmikāḥ / ata ekīkṛtāḥ mūlamavidyetyāsravaḥ pṛthak // VAkK_5.36 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tathaughayogā dṛṣṭīnāṃ pṛthagbhāvastu pāṭavāt / nāsraveṣvasahāyānāṃ na kilāsyānukūlatā // VAkK_5.37 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "yathoktā eva sāvidyā dvidhā dṛṣṭivivecanāt / upādānāni avidyā tu grāhikā ne ti miśritā // VAkK_5.38 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "aṇavo 'nugatāścaite dvidhā cāpyanuśerate / anubadhnanti yasmācca tasmādanuśayāḥ smṛtāḥ // VAkK_5.39 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "āsayantyāsravantyete haranti śleṣayantyatha / upagṛhṇanti cetyeṣāmāsravādiniruktayaḥ // VAkK_5.40 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "saṃyojanādibhedena punaste pañcadhoditāḥ / dravyāmarśana sāmānyaddṛṣṭī saṃyojanāntaram // VAkK_5.41 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ekāntākuśalaṃ yasmāt svatantraṃ cobhayaṃ yataḥ / īrṣyāmātsaryameṣūktaṃ pṛthak saṃyojanadvayam // VAkK_5.42 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "pañcadhāvarabhāgīyaṃ dvābhyāṃ kāmānatikramaḥ / tribhistu punarāvṛttiḥ mukhamūlagrahāttrayam // VAkK_5.43 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "agantukāmatāmārgavibhramo mārgasaṃśayaḥ / ityantarāyā mokṣasya gamane 'tastrideśanā // VAkK_5.44 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "pañcadhaivordhvabhāgīyaṃ dvau rāgau rūpyarūpijau / auddhatyamānamohāśca vidvaśād bandhanatrayam // VAkK_5.45 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ye 'pyanye caitasāḥ kliṣṭāḥ saṃskāraskandhasaṃjñitāḥ / kleśebhyaste 'pyupakleśāste tu na kleśasaṃjñitāḥ // VAkK_5.46 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "āhrīkyamanapatrapyamīrṣyāmātsaryamuddhavaḥ / kaukṛtyaṃ styānamiddhaṃ ca paryavasthānamaṣṭadhā // VAkK_5.47 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "krodhamrakṣau ca rāgotthā āhrīkyauddhatyamatsarāḥ / mrakṣe vivādaḥ avidyātaḥ styānamiddhānapatrapāḥ // VAkK_5.48 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kaukṛtyaṃ vicikitsātaḥ kodherṣye pratighānvaye / anye ca ṣaṭkleśamalāḥ māyā śāṭhyaṃ madastathā // VAkK_5.49 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "pradāśa upanāhaśca vihiṃsā ceti rāgajau / māyāmadau pratighaje upanāhavihiṃsane // VAkK_5.50 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dṛṣṭyāmarśāt pradāśastu śāṭhyaṃ dṛṣṭisamutthitam / tatrāhrīkyānapatrāpyastyānāmiddhoddhavā dvidhā // VAkK_5.51 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tadanye bhāvanāheyāḥ svatantrāśca tathā malāḥ / kāme 'śubhāḥ trayo dvidhā pareṇāvyākṛtāstataḥ // VAkK_5.52 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "māyā śāṭhyaṃ ca kāmādyadhyānayoḥ brahmavañcanāt / styānauddhatyamadā dhātutraye anye kāmadhātujāḥ // VAkK_5.53 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "samānasiddhā dṛggheyā manovijñānabhūmikāḥ / upakleśāḥ svatantrāśca ṣaḍ vijñānāśrayāḥ pare // VAkK_5.54 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sukhābhyāṃ saṃprayukto hi rāgaḥ dveṣo viparyayāt / mohaḥ sarvaiḥ asaddṛṣṭirmanoduḥkhasukhena tu // VAkK_5.55 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "daurmanasyena kāṅkṣā anye saumanasyena kāmajāḥ / sarve 'pyupekṣayā svaiḥ svairyathābhūmyūrdhvabhūmikāḥ // VAkK_5.56 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "daurmanasyena kaukṛtyamīrṣyā krodho vihiṃsanam / upanāhaḥ pradāśaśca mātsaryaṃ tu viparyayāt // VAkK_5.57 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "māyā śāṭhyamatho mrakṣo middhaṃ cobhayathā madaḥ / sukhābhyām sarvagopekṣā catvāryanyāni pañcabhiḥ // VAkK_5.58 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāme nivaraṇāni ekavipakṣāhārakṛtyataḥ / dvayaketā pañcatā skandhavighātavicikitsanāt // VAkK_5.59 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ālambanaparijñānāttadālambanasaṃkṣayāt / ālambanaprahāṇācca pratipakṣodayāt kṣayaḥ // VAkK_5.60 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "prahāṇādhārabhūtattva dūṣaṇākhyaścaturvidhaḥ / pratipakṣaḥ prahātavyaḥ kleśa ālambanāt mataḥ // VAkK_5.61 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vailakṣaṇyādvipakṣatvāddeśavicchedakālataḥ / bhūtaśīlapradeśādhvadvayānāmiva dūratā // VAkK_5.62 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sakṛt kṣayaḥ visaṃyogalābhasteṣāṃ punaḥ pūnaḥ / pratipakṣodayaphalaprāptīndriyavivṛddhiṣu // VAkK_5.63 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "parijñā nava kāmādyaprakāradvayasaṃkṣayaḥ / ekā dvayoḥ kṣaye dve te tathordhvaṃ tisra eva tāḥ // VAkK_5.64 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "anyā avarabhāgīyarūpasarvāsravakṣayāḥ / tisraḥ parijñāḥ ṣaṭ kṣāntiphalaṃ jñānasya śeṣitāḥ // VAkK_5.65 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "anāgamyaphalaṃ sarvā dhyānānāṃ pañca vāthavā / aṣṭau sāmantakasyaikā maulārūpyatrayasya ca // VAkK_5.66 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "āryamārgasya sarvāḥ dve laukikasya anvayasya ca / dharmajñānasya tisrastu ṣaṭ tatpakṣasya pañca ca // VAkK_5.67 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "anāsravaviyogāpterbhavāgravikalīkṛteḥ / hetudvayasamudghātāt parijñā dhātvatikramāt // VAkK_5.68 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "naikayā pañcabhiryāvaddarśanasthaḥ samanvitaḥ / bhāvanāsthaḥ punaḥ ṣaḍibharekayā vā dvayena vā // VAkK_5.69 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tāsāṃ saṃkalanaṃ dhātuvairāgyaphalalābhataḥ / ekāṃ dve pañca ṣaṭ kaścijjahātyāpnoti pañca na // VAkK_5.70 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "samāptaḥ parijñāprasaṅgaḥ //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "abhidharmakośe 'nuśayanirddeśo nāma pañcamaṃ kośasthānaṃ samāptamiti //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "śrīlāmāvākasya yadatra puṇyam /",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      }
+    ]
+  },
+  {
+    "sectionTitle": "ṣaṣṭhaṃ kośasthānam",
+    "sentences": [
+      {
+        "original": "om namo buddhāya //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kleśaprahāṇāmākhyātaṃ satyadarśanabhāvanāt / dvividho bhāvanāmārgo darśanākhyastvanāsravaḥ // VAkK_6.1 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "satyānyuktāni catvāri duḥkhaṃ samudayastathā / nirodhamārga iti eṣāṃ yathābhisamayaṃ kramaḥ // VAkK_6.2 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "duḥkhā stridūḥkhatāyogādyathāyogamaśeṣataḥ / manāpā amanāpāśca tadanye caiva sāsravāḥ // VAkK_6.3 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "yatra bhinnena tadbuddhiranyāpohe dhiyā ca tat / ghaṭārthavatsaṃvṛtisat paramārthasadanyathā // VAkK_6.4 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vṛttasthaḥ śrutacintāvānbhāvanāyāṃ prayujyate / nāmobhayārthaviṣayā śrutamayyādikā dhiyaḥ // VAkK_6.5 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vyapakarṣadvayavataḥ nāsaṃtuṣṭamahecchayoḥ / labdhe bhūyaḥspṛhātuṣṭiralabdhecchā mahecchatā // VAkK_6.6 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "viparyāsāttadvipakṣau tridhātvāptāmalau ca tau / alobhaḥ āryavaṃśāśca teṣāṃ tuṣṭayātmakāstrayaḥ // VAkK_6.7 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "karmāntena tribhirvṛttiḥ tṛṣṇotpādavipakṣataḥ / mamāha kāravastvicchātatkālātyantaśāntaye // VAkK_6.8 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tatrāvatāro 'śubhayā cānāpānasmṛtena ca / adhirāgavitarkāṇām śaṃkalā sarvārāgiṇām // VAkK_6.9 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "āsamudrāsthivistārasaṃkṣepādādikarmikaḥ / pādāsthna ākapālārdhatyāgāt kṛtajayaḥ smṛtaḥ // VAkK_6.10 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "atikrāntamanaskāro bhrūmadhye cittadhāraṇāt / alobho daśabhūḥ kāmadṛśyālambā nṛjāśubhā // VAkK_6.11 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ānāpānasmṛtiḥ prajñā pañcabhūrvāyurgīcarā / kāmāśrayā na bāhyānām ṣaḍ vidhā gaṇanādibhiḥ // VAkK_6.12 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ānāpānau yataḥ kāyaḥ sattvākhyau anupāttakau / naiḥṣyandikau nādhareṇa lakṣyete manasā ca tau // VAkK_6.13 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "niṣprannaśamathaḥ kuryāt smṛtyupasthānabhāvanām / kāyaviccittadharmāṇāṃ dvilakṣaṇaparīkṣaṇāt // VAkK_6.14 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "prajñā śrutādimayī anye saṃsargālambanāḥ kramaḥ / yathotpatti catuṣkaṃ tu viparyāsavipakṣataḥ // VAkK_6.15 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sa dharmasmṛtyupasthāne samastālambane sthitaḥ / ānityaduḥkhataḥ śūnyānātmatastānvipaśyati // VAkK_6.16 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tata ūṣmagatotpattiḥ taccatuḥsatyagocaram / ṣoḍaśākāram ūṣmabhyo mūrdhānaḥ te 'pi tādṛśāḥ // VAkK_6.17 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ubhayākaraṇaṃ dharmeṇa anyairapi tu vardhanam / tebhyaḥ kṣāntiḥ dvidhā tadvat kṣāntyā dharmeṇa vardhanam // VAkK_6.18 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāmāptaduḥkhaviṣayā tvadhimātrā kṣaṇaṃ ca sā / tathāgradharmāḥ sarve tu pañcaskandhāḥ vināptibhiḥ // VAkK_6.19 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "iti nirvedhabhāgīyaṃ caturdhā bhāvanāmayam / anāgamyā ntaradhyānabhūmikam dve tvadho 'pi vā // VAkK_6.20 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāmāśrayāṇi agradharmān dvayāśrayān labhate 'ṅganā / bhūmityāgāttyajatyāryastāni anāryastu mṛtyunā // VAkK_6.21 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ādye dve parihāṇyā ca maulestatraiva satyadṛk / apūrvāptirvihīneṣu hānī dve asamanvitiḥ // VAkK_6.22 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "mūrdhalābhī na mūlacchit kṣāntilābhyanapāyagaḥ / śiṣyagotrā nnivartya dve buddhaḥ syāt trīṇyapītaraḥ // VAkK_6.23 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ābodheḥ sarvamekatra dhyānāntye śāstṛkhaḍgayoḥ / prāktebhyo mokṣabhāgīyaṃ kṣipraṃ mokṣastribhirbhavaiḥ // VAkK_6.24 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "śrutacintāmayaṃ trīṇi karmāṇi ākṣipyate nṛṣu / laukikebhyo 'gradharmebhyo dharmakṣāntiranāsravā // VAkK_6.25 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāmaduḥkhe tato 'traiva dharmajñānaṃ tathā punaḥ / śeṣe duḥkhe 'nvayakṣāntijñāne satyatraye tathā // VAkK_6.26 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "iti ṣoḍaśacitto 'yaṃ satyābhisamayaḥ tridhā / darśanālambakāryākhyaḥ so 'gradharmaikabhūmikaḥ // VAkK_6.27 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kṣāntijñānānyanantarya muktimārgā yathākramam / adṛṣṭadṛṣṭerdṛṅgmārgastatra pañcadaśa kṣaṇāḥ // VAkK_6.28 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "mṛdutīkṣṇendriyau teṣu śraddhādharmānusāriṇau / ahīnabhāvanāheyau phalādyuapratipannakau // VAkK_6.29 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "yāvat pañcaprakāraghnau dvītīye 'rvāṅnavakṣayāt / kāmādviraktāvūrdhvaṃ vā tṛtīyapratipannakau // VAkK_6.30 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ṣoḍaśe tu phalasthau tau yatra yaḥ pratipannakaḥ / śraddhādhimuktadṛṣṭyāptau mṛdutīkṣṇendriyau tadā // VAkK_6.31 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "phale phalaviśiṣṭasya lābho mārgasya nāstyataḥ / nāprayukto viśeṣāya phalasthaḥ pratipannakaḥ // VAkK_6.32 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "navaprakārā doṣā hi bhūmau bhūmau tathā guṇāḥ / mṛdumadhyādhimātrāṇāṃ punarmṛdvādibhedataḥ // VAkK_6.33 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "akṣīṇabhāvanāheyaḥ phalasthaḥ saptakṛtparaḥ / tricaturvidhamuktastu dvitrijanmā kulaṃkulaḥ // VAkK_6.34 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "āpañcamaprakāraghno dvitīyapratipannakaḥ / kṣīṇaṣaṣṭhaprakārastu sakṛdāgāmyasau punaḥ // VAkK_6.35 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kṣīṇasaptāṣṭadoṣāṃśa ekajanmaikavīcikaḥ / tṛtīyapratipannaśca so 'nāgāmi navakṣayāt // VAkK_6.36 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "so 'ntarotpannasaṃskārāsaṃskāraparinirvṛtiḥ / ūrdhvastrotāśca sa dhyāne vyavakīrṇo 'kaniṣṭhagaḥ // VAkK_6.37 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sa pluto 'rdhaplutaḥ sarvacyutaśca anyo bhavāgragaḥ / ārūpyagaścaturdhānyaḥ iha nirvāpako 'paraḥ // VAkK_6.38 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "punastrīṃstrividhān kṛtvā nava rūpopagāḥ smṛtāḥ / tadviśeṣaḥ punaḥ karmakleśendriyaviśeṣataḥ // VAkK_6.39 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ūrdhvastroturabhedena sapta sadgatayo matāḥ / sadasadvṛttyavṛttibhyāṃ gatāpratyāgateśca tāḥ // VAkK_6.40 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "na parāvṛttajanmāryaḥ kāme dhātvantaropagaḥ / sa cordhvajaśca naivākṣasaṃcāraparihāṇibhāk // VAkK_6.41 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ākīryate caturtha prāk niṣpatti kṣaṇamiśraṇāt / upapattivihārārtha kleśabhīrutayāpi ca // VAkK_6.42 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tatpāñcavidhyātpañcaiva śuddhāvāsopapattayaḥ / nirodhalābhyanāgāmī kāyasākṣī punarmataḥ // VAkK_6.43 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ābhavāgrāṣṭabhāgakṣidarhattve pratipannakaḥ / navamasyāpyānantaryapathe vajropamaśca saḥ // VAkK_6.44 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tatkṣayāptyā kṣayajñānaṃ āśaikṣo 'rhannasau tadā / lokottareṇa vairāgyaṃ bhavāgrāt anyato dvidhā // VAkK_6.45 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "laukikenāryavairāgye visaṃyogāptayo dvidhā / lokottareṇa cetyeke tyakte kleśāsamanvayāt // VAkK_6.46 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "bhavāgrādhavimuktordhvajātavattvasamanvayaḥ / anāsraveṇa vairāgyamanāgāmyena sarvataḥ // VAkK_6.47 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dhyānātsāmantakādvāntyo mukti mārgastribhūjaye / nordhvaṃ sāmantakāt āryairaṣṭābhiḥ svordhvabhūjayaḥ // VAkK_6.48 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vimuktyānantaryapathā laukikāstu yathākramam / śāntādyudārādyākārāḥ uttarādharagocarāḥ // VAkK_6.49 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "yadyakopyaḥ kṣayajñānādanutpādamatiḥ na cet / kṣayajñānamaśaikṣo vā dṛṣṭiḥ sarvasya sārhataḥ // VAkK_6.50 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "śrāmaṇyamamalo mārgaḥ saṃskṛtāsaṃskṛtaṃ phalam / ekānnavatistāni muktimārgāḥ saha kṣayaiḥ // VAkK_6.51 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "catuṣphalavyavasthā tu pañcakāraṇasaṃbhavāt / pūrvatyāgo 'nyamārgāptiḥ kṣayasaṃkalanaṃ phale // VAkK_6.52 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "jñānāṣṭakasya lābho 'tha ṣoḍaśākārabhāvanā / laukikāptaṃ tu miśratvānāsravāptiḥ dhṛteḥ phalam // VAkK_6.53 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "brāhmaṇyaṃ brahmacakraṃ ca tadeva brahmavartanāt / dharmacakraṃ tu dṛṅmārgaḥ āśugatvādyarādibhiḥ // VAkK_6.54 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāme trayāptiḥ antyasya triṣu nordhva hi dṛkpathaḥ / asaṃvegādiha vidhā tatra niṣṭheti cāgamāt // VAkK_6.55 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ṣaḍarhanto matāḥ teṣāṃ pañca śraddhādhimuktijāḥ / vimuktiḥ sāmayikyeṣām akopyākopyadharmaṇaḥ // VAkK_6.56 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ato 'samayamukto 'sau dṛṣṭiprāptānvayaśca saḥ / tadgotrā āditaḥ kecitkeciduttāpanāgatāḥ // VAkK_6.57 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "gotrāccaturṇāṃ pañcānāṃ phalāddhāniḥ na pūrvakāt / śaikṣānāryāśca ṣaḍgotrāḥ saṃcāro nāsti darśane // VAkK_6.58 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "parihāṇistridhā jñeyā prāptāprāptopabhogataḥ / antyā śāsturakopyasya madhyā cānyasya tu tridhā // VAkK_6.59 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "mriyate na phalabhraṣṭaḥ tadakārya karoti na / vimuktyānantaryapathā navākopye atisevanāt // VAkK_6.60 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dṛṣṭayāptatāyāmekaikaḥ anāsravāḥ nṛṣu vardhanam / aśaikṣo nava niśritya bhūmīḥ śaikṣastu ṣaṭ yataḥ // VAkK_6.61 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "saviśeṣaṃ phalaṃ tyaktvā phalamāpnoti vardhayan / dvau buddhau śrāvakāḥ sapta navaite navadhendriyāḥ // VAkK_6.62 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "prayogākṣasamāpattivimuktyubhayataḥ kṛtāḥ / pudgalāḥ sapta ṣaṭ tvete dvau dvau mārgatraye yataḥ // VAkK_6.63 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "nirodhalābhyubhayatovimuktaḥ prajñayetaraḥ / samāpattīndriyaphalaiḥ pūrṇaḥ śaikṣo 'bhidhīyate // VAkK_6.64 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "aśaikṣaparipūrṇatvaṃ dvābhyām mārgaḥ samāsataḥ / viśeṣamuktyānantaryaprayogākhya ścaturvidhaḥ // VAkK_6.65 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dhyāneṣu mārgaḥ pratipatsukhā duḥkhānyabhūmiṣu / dhanyābhijñā mṛdumateḥ kṣiprābhijñetarasya tu // VAkK_6.66 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "anutpādakṣayajñāne bodhiḥ tādanulomyataḥ / saptatriṃśattu tatpakṣyāḥ nāmato dravyato daśa // VAkK_6.67 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "śraddhā vīryaṃ smṛtiḥ prajñā samādhiḥ prītyupekṣaṇe / praśrabdhiśīlasaṃkalpāḥ prajñā hi smṛtyupasthitiḥ // VAkK_6.68 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vīryaṃ samyakprahāṇākhyamṛddhipādāḥ samādhayaḥ / pradhānagrahaṇaṃ sarve guṇāḥ prāyogikāstu te // VAkK_6.69 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ādikarmikanirvedhabhāgīyeṣu prabhāvitāḥ / bhāvane darśane caiva sapta vargā yathākramam // VAkK_6.70 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "anāsravāṇi bodhyaṅgamārgāṅgāni dvidhetare / sakalāḥ prathame dhyāne anāgamye prītivarjitāḥ // VAkK_6.71 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dvitīye 'nyatra saṃkalpāt dvayostaddvayavarjitāḥ / dhyānāntare ca śīlāṅgaistābhyāṃ ca triṣvarūpiṣu // VAkK_6.72 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāmadhātau bhavāgre ca bodhimārgāṅgavarjitāḥ / trisatyadarśane śīladharmāvetyaprasādayoḥ // VAkK_6.73 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "lābho mārgābhisamaye buddhatatsaṃghayorapi / dharmaḥ satyatrayaṃ bodhisattvapratyekabuddhayoḥ // VAkK_6.74 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "mārgaśca dravyatastu dve śraddhā śīlaṃ ca nirmalāḥ / noktā vimuktiḥ śaikṣāṅgaṃ baddhatvāt sā punardvidhā // VAkK_6.75 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "asaṃskṛtā kleśahānamadhimuktastu saṃskṛtā / sāṅgaḥ saiva vimuktī dve jñānaṃ bodhiryathoditā // VAkK_6.76 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vimucyate jāyamānasaśaikṣaṃ cittamāvṛteḥ / nirudhyamāno mārgastu prajahāti tadāvṛtim // VAkK_6.77 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "asaṃskṛtaiva dhātvākhyā virāgo rāgasaṃkṣayaḥ / prahāṇadhāturanyeṣāṃ nirodhākhyastu vastunaḥ // VAkK_6.78 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "nirvidyate duḥkhahetukṣāntijñānaiḥ virajyate / sarvairjahāti yaiḥ evaṃ catuṣkoṭikasaṃbhavaḥ // VAkK_6.79 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "abhidharmakośe mārgapudgalanirdeśo nāma ṣaṣṭhaṃ kośasthānaṃ samāptamiti //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      }
+    ]
+  },
+  {
+    "sectionTitle": "saptamaṃ kośasthānam",
+    "sentences": [
+      {
+        "original": "namo buddhāya //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "nāmalā kṣāntayo jñānaṃ kṣayānutpādadhīrna dak / tadanyobhayathāryā dhīḥ anyā jñānaṃ dṛśaśca ṣaṭ // VAkK_7.1 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sāsravānāsravaṃ jñānaṃ ādyaṃ saṃvṛtijñāpakam / anāsravaṃ dvidhā dharmajñānamanvayameva ca // VAkK_7.2 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sāṃvṛtaṃ sarvaviṣayaṃ kāmaduḥkhādigocaram / dharmākhyam anvayajñānaṃ tūrdhvaduḥkhādigocaram // VAkK_7.3 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "te eva satyabhedena catvāri ete caturvidhe / anutpādakṣayajñāne te punaḥ prathamodite // VAkK_7.4 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "duḥkhahetvanvayajñāne caturbhyaḥ paracittavit / bhūmyakṣapudgalotkrāntaṃ naṣṭājātaṃ na vetti tat // VAkK_7.5 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ta dharmānvayadhīpakṣyamanyo 'nyaṃ darśanakṣaṇau / śrāvako vetti khaṅgastrīn sarvānbuddho 'prayogataḥ // VAkK_7.6 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kṣayajñānaṃ hi satyeṣu parijñātādiniścayaḥ / na parijñeyamityādiranutpādamatirmatā // VAkK_7.7 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "svabhāvapratipakṣābhyāmākārākāragocarāt / prayogakṛtakṛtyatvahetūpacayato daśa // VAkK_7.8 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dharmajñānanirodhe yanmārge vā bhāvanāpathe / tridhātupratipakṣastat kāmadhāto 'stu nānvayam // VAkK_7.9 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dharmajñānānvayajñānaṃ ṣoḍaśākāram anyathā / tathā ca sāṃvṛtaṃ svaiḥ svaiḥ satyākāraiścatuṣṭayam // VAkK_7.10 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tathā paramanojñānaṃ nirmalaṃ samalaṃ punaḥ / jñeyasvalakṣaṇākāraṃ ekaikadravyagocaram // VAkK_7.11 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "śeṣe caturdaśākāre śūnyānātmavivarjite / nāmalaḥ ṣoḍaśabhyo 'nya ākāraḥ anye 'sti śāstrataḥ // VAkK_7.12 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dravyataḥ ṣoḍaśākārāḥ prajñākāraḥ tayā saha / ākārayanti sālambāḥ sarvamākāryate tu sat // VAkK_7.13 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tridhādyaṃ kuśalānyanyāni ādyaṃ sarvāsu bhūmiṣu / dharmākhyaṃ ṣaṭsu navasu tvanvayākhyaṃ tathaiva ṣaṭ // VAkK_7.14 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dhyāneṣvanyamanojñānaṃ kāmarūpāśrayaṃ ca tat / kāmāśrayaṃ tu dharmākhyam anyattraidhātukāśrayam // VAkK_7.15 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "smṛtyupasthānamekaṃ dhīrnirodhe paracittadhīḥ / trīṇi catvāri śeṣāṇi dharmadhīgocaro nava // VAkK_7.16 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "nava mārgānvayadhiyoḥ duḥkhahetudhiyordvayam / caturṇāṃ daśa naikasya yojyā dharmāḥ punardaśa // VAkK_7.17 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "traidhātukāmalā dharmā akṛtāśca dvidhā dvidhā / sāṃvṛtaṃ svakalāpānyadekaṃ vidyādanātmataḥ // VAkK_7.18 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ekajñānānvito rāgī prathame 'nāsravakṣaṇe / dvitīye tribhiḥ ūrdhvastu caturṣvekaikavṛddhimān // VAkK_7.19 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "yathotpannāni bhāvyante kṣāntijñānāni darśane / anāgatāni tatraiva sāṃvṛtaṃ cānvayatraye // VAkK_7.20 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ato 'bhisamayāntyākhyaṃ tadānutpattidharmakam / svādhobhūmi nirodhe 'ntyaṃ svasatyākāraṃ yātnikam // VAkK_7.21 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ṣoḍaśe ṣaṭ sarāgasya vītarāgasya sapta tu / sarāgabhāvanā mārge tadūrdhvaṃ saptabhāvanā // VAkK_7.22 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "saptabhūmijayābhijñākopyāptyākīrṇabhāvite ānantaryapatheṣūrdhvaṃ muktimārgāṣṭake 'pi ca // VAkK_7.23 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "śaikṣottāpanamuktau vā ṣaṭ saptajñānabhāvanā / ānantaryapathe ṣaṇṇāṃ bhavāgravijaye tathā // VAkK_7.24 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "navānāṃ tu kṣayajñāne akopyasya daśa bhāvanā / tatsaṃcare 'ntyamuktau ca proktaśeṣe 'ṣṭabhāvanā // VAkK_7.25 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "yadvairāgyāya yallābhastatra cādhaśca bhāvyate / sāsravāśca kṣayajñāne labdhapūrvaṃ na bhāvyate // VAkK_7.26 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "pratilambhaniṣevākhye śubhasaṃskṛtabhāvane / pratipakṣavinirdhāvabhāvane sāsravasya tu // VAkK_7.27 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "aṣṭādaśāveṇikāstu buddhadharmā balādayaḥ / sthānāsthāne daśa jñānāni aṣṭau karmaphale nava // VAkK_7.28 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dhyānādyakṣādhimokṣeṣu dhātau ca pratipatsu tu / daśa vā saṃvṛtijñānaṃ dvayoḥ ṣaṭ daśa vā kṣaye // VAkK_7.29 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "prāṅinavisacyutotpādabaladhyāneṣu śeṣitam / sarvabhūmiṣu kenāsya balamavyāhataṃ yataḥ // VAkK_7.30 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "nārāyaṇabalaṃ kāye saṃdhiṣvanye daśādhikam / hastyādisaptakabalam spraṣṭavyāyatanaṃ ca tat // VAkK_7.31 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vaiśāradyaṃ caturdhā tu yathādyadaśame bale / dvitīyasaptame caiva smṛtiprajñātmakaṃ trayam // VAkK_7.32 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "mahākṛpā saṃvṛtidhīḥ saṃbhārākāragocaraiḥ / samatvādādhimātryācca nānākaraṇamaṣṭadhā // VAkK_7.33 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "saṃbhāradharmakāyābhyāṃ jagataścārthacaryayā / samatā sarvabuddhānāṃ nāyurjātipramāṇataḥ // VAkK_7.34 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "śiṣyasādhāraṇā anye dharmāḥ kecit pṛthagjanaiḥ / araṇāpraṇidhijñānapratisaṃvidguṇādayaḥ // VAkK_7.35 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "saṃvṛtijñānamaraṇā dhyāne 'ntye akopyadharmaṇaḥ / nṛjā anutpannakāmāptasavastukleśagocarāḥ // VAkK_7.36 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tathaiva praṇidhijñānaṃ sarvālambaṃ tu tat tathā / dharmārthayorniruktau ca pratibhāne ca saṃvidaḥ // VAkK_7.37 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tisro nāmāthavāgjñānamavivartyaṃ yathākramam / caturthīyuktamuktābhilāpamārgavaśitvayoḥ // VAkK_7.38 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vāṅmārgālambanā cāsau nava jñānāni sarvabhūḥ / daśa ṣaḍvārthasaṃvit sā sarvatra anye tu sāṃvṛtam // VAkK_7.39 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāmadhyāneṣu dharme vit vāci prathamakāmayoḥ / vikalābhirna tallābhī ṣaḍete prāntakoṭikāḥ // VAkK_7.40 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tatṣaḍ vidhaṃ sarvabhūmyanulomitam / vṛddhikāṣṭhāgataṃ tacca buddhānyasya prayogajāḥ // VAkK_7.41 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ṛddhiśrotramanaḥpūrvajanmacyutyudayakṣaye / jñāta sākṣīkriyābhijñā ṣaḍ vidhā muktimārgadhīḥ // VAkK_7.42 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "catasraḥ saṃvṛtijñānaṃ cetasi jñānapañcakam / kṣayābhijñā balaṃ yadvat pañca dhyānacatuṣṭaye // VAkK_7.43 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "svādhobhūviṣayāḥ labhyā ucitāstu virāgataḥ / tṛtīyā trīpyupasthānāni ādyaṃ śrotraddhircakṣuṣi // VAkK_7.44 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "avyākṛte śrotracakṣurabhijñe itarāḥ śubhāḥ / tisro vidyāḥ avidyāyāḥ pūrvāntādau nivarttanāt // VAkK_7.45 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "aśaikṣyantyā tadākhye dve tatsaṃtānamudbhavāt / iṣṭe śaikṣasya nokte tu vidye sāvidyasaṃtateḥ // VAkK_7.46 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ādyā tṛtīyā ṣaṣṭhī ca prātihāryāṇi śāsanam / agyram avyabhicāritvāddhiteṣṭaphalayojanāt // VAkK_7.47 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ṛddhiḥ samādhiḥ gamanaṃ nirmāṇaṃ ca gatistridhā / śāsturmanojavā anyeṣāṃ vāhinyapyādhimokṣikī // VAkK_7.48 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāmāptaṃ nirmitaṃ bāhyaṃ caturāyatanaṃ dvidhā / rūpāptaṃ dve tu nirmāṇacittaistāni caturdaśa // VAkK_7.49 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "yathākramaṃ dhyānaphalaṃ dve yāvat pañca nordhvajam / tallābho dhyānavat śuddhāttatsvataśca tato 'pi te // VAkK_7.50 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "svabhūmikena nirmāṇaṃ bhāṣaṇaṃ tvadhareṇa ca / nirmātraiva sahāśāstuḥ adhiṣṭhāyānyavarttanāt // VAkK_7.51 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "mṛtasyāpyastyadhiṣṭhānaṃ nāsthirasya apare tu na / ādāvekamanekena jitāyāṃ tu viparyayāt // VAkK_7.52 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "avyākṛtaṃ bhāvanājaṃ trividhaṃ tūpapattijam / ṛddhirmantrauṣadhābhyāṃ ca karmajā ceti pañcadhā // VAkK_7.53 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "divyaśrotrākṣiṇī rūpaprasādau dhyānabhūmikau / sabhāgāvikale nityaṃ dūrasūkṣmādigocare // VAkK_7.54 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "durasthamāvṛtaṃ sūkṣmaṃ sarvataśca na paśyati / māṃsacakṣuryato rūpamato divyaṃ dṛgiṣyate //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dvitrisāhasrakāsaṃkhyadṛśo 'rhatkhaḍgadaiśikāḥ / anyadapyupapattyāptaṃ taddṛśyo nāntarībhavaḥ // VAkK_7.55 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "cetojñānaṃ tu tattredhā tarkavidyākṛtaṃ ca yat / jānate nārakā ādau nṛṇāṃ notpattilabhikam // VAkK_7.56 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "abhidharmakośe jñānanirdeśo nāma saptamaṃ kośasthānam //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      }
+    ]
+  },
+  {
+    "sectionTitle": "aṣṭamaṃ kośasthānam",
+    "sentences": [
+      {
+        "original": "oṃ namo buddhāya //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dvidhā dhyānāni catvāri proktāstadupapattayaḥ / samāpattiḥ śubhaikāgyraṃ pañcaskandhāstu sānugam // VAkK_8.1 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vicāraprītisukhavat pūrvapūrvāṅgavarjitam / tathārūpyāḥ catuskandhāḥ adhobhūmivivekajāḥ // VAkK_8.2 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vibhūtarūpasaṃjñākhyāḥ saha sāmantakaistribhiḥ / nārūpye rūpasadbhāvaḥ rūpotpattistu cittataḥ // VAkK_8.3 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ākāśānantyavijñānanatyākiṃcanyasaṃjñakāḥ / tathāprayogāt māndyāttu nasaṃjñānāpyasaṃjñakaḥ // VAkK_8.4 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "iti maulaṃ samāpattidravyamaṣṭavidhaṃ tridhā / sapta āsvādanavacchuddhānāsravāṇi aṣṭamaṃ dvidhā // VAkK_8.5 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "āsvādanāsaṃprayuktaṃ satṛṣṇaṃ laukikaṃ śubham / śuddhakaṃ tattadāsvādyaṃ lokattaramanāsravam // VAkK_8.6 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "pañcādye tarkacārau ca prītisaukhyasamādhayaḥ / prītyādayaḥ prasādaśca dvitīye 'ṅgacatuṣṭayam // VAkK_8.7 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tṛtīye pañca tūpekṣā smṛtiḥ prajñā sukhaṃ sthitiḥ / catvāryante 'sukhāduḥkhopekṣāsmṛtisamādhayaḥ // VAkK_8.8 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dravyato daśa caikaṃ ca prasrabdhi sukhamādyayoḥ / śraddhā prasādaḥ prītistu saumanasyaṃ dvidhāgamāt // VAkK_8.9 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kliṣṭeṣva satprītisukhaṃ prasādaḥ saṃpradhīḥ smṛtiḥ / upekṣāsmṛtiśuddhiśca kecit prasrabdhyupekṣaṇe // VAkK_8.10 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "aṣṭāpakṣālamuktatvādāniñjaṃ tu caturthakam / vitarkacārau śvāsau ca sukhādi ca catuṣṭayam // VAkK_8.11 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "saumanasyasukhopekṣā upekṣāsumanaskate / sukhopekṣe upekṣā pravido dhyānopapattiṣu // VAkK_8.12 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāyākṣiśrotravijñānaṃ vijñaptyutthāpakaṃ ca yat / dvitīyādau tadādyāptaṃ akliṣṭāvyākṛtaṃ ca tat // VAkK_8.13 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "atadvān labhate śuddhaṃ vairāgyeṇopapattitaḥ / anāsravaṃ tu vairāgyāt kliṣṭaṃ hānyupapattitaḥ // VAkK_8.14 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tṛtīyādyāvadūrdhvādho 'nāsravānantaraṃ śubham / utpadyate tathā śuddhāt kliṭaṃ cāpi svabhūmikam // VAkK_8.15 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kliṣṭāt svaṃ śuddakaṃ kliṣṭaṃ evaṃ cādharaśuddhakam / cyutau tu śuddhakāt kliṣṭaṃ sarvaṃ kliṣṭāttu nottaram // VAkK_8.16 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "caturdhā śuddhakaṃ hānabhāgīyādi yathākramam / kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ hi tat // VAkK_8.17 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dve trīṇi trīṇi caikaṃ ca hāna bhāgādyanantaram / gatvāgamya dvidhā bhūmīraṣṭau śliṣṭai kalaṅghitāḥ // VAkK_8.18 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "vyutkrāntakasamāpattirvisabhāgatṛtīyagā / svādhobhūmyāśrayā eva dhyānārūpyāḥ vṛthādharam // VAkK_8.19 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "āryākiṃcanyasāṃmukhyāt bhavāgre tvāsravakṣayaḥ / satṛṣṇāḥ svabhavālambāḥ dhyānaṃ sadviṣayaṃ śubham // VAkK_8.20 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "na maulāḥ kuśalārūpyāḥ sāsravādharagocarāḥ / anāsraveṇa hīyante kleśāḥ sāmantakena ca // VAkK_8.21 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "aṣṭau sāmantakānyeṣāṃ śuddhāduḥkhāsukhāni hi / ārya cādyaṃ tridhā kecit atarka dhyānamantaram // VAkK_8.22 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "tridhā aduḥkhāsukhaṃtacca mahābrahmaphalaṃ ca tat / savitarkavicāro 'dhaḥsamādhiḥ parato 'dvayaḥ // VAkK_8.23 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ānimittaḥ samākāraiḥ śūnyatānātmaśūnyataḥ / pravartate apraṇihitaḥ satyākārairataḥ paraiḥ // VAkK_8.24 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "śuddhāmalāḥ nirmalāstu te vimokṣamukhatrayam / śūnyatāśunyatādyākhyāstrayo 'parasamādhayaḥ // VAkK_8.25 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "ālambete aśaikṣaṃ dvau śūnyataścāpyanityataḥ / ānimittānimittastu śāntato 'saṃkhyayā kṣayam // VAkK_8.26 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "sāsravāḥ nṛṣu akopyasya saptasāmantavarjitāḥ / samādhibhāvanā dhyānaṃ subhamādyaṃ sukhāya hi // VAkK_8.27 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "darśanāyākṣyabhijñeṣṭā dhībhedāya prayogajāḥ / vajropamo 'ntye yo dhyāne sāsravakṣayabhāvanā // VAkK_8.28 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "apramāṇāni catvāri vyāpādādivipakṣataḥ / maitryadveṣaḥ api karuṇā muditā sumanaskatā // VAkK_8.29 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "upekṣālobhaḥ ākāraḥ sukhitā duḥkhitā vata / modantāmiti sattvācca kāmasattvāstu gocaraḥ // VAkK_8.30 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "dhyānayormuditā anyāni ṣaṭ su kecittu pañcasu / na taiḥ prahāṇaṃ nṛṣveva janyante tryanvito dhruvam // VAkK_8.31 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "aṣṭau vimokṣāḥ prathamāvaśubhā dhyānayordvayoḥ / tṛtīyo 'ntye sa cālobhaḥ śubhārūpyāḥ samāhitāḥ // VAkK_8.32 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "nirodhastu samāpattiḥ sūkṣmasūkṣmādanantaram / svaśuddhakādharāryeṇa vyutthānaṃ cetasā tataḥ // VAkK_8.33 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāmāptadṛśyaviṣayāḥ prathamāḥ ye tvarūpiṇaḥ / te 'nvayajñānapakṣordhvasvabhūduḥkhādigocarāḥ // VAkK_8.34 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "abhibhvāyatanānyaṣṭau dvayamādyavimokṣavat / dve dvitīyavat anyāni punaḥ śubhavimokṣavat // VAkK_8.35 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "daśa kṛtsnāni alobhāṣṭau dhyāne 'ntye gocaraḥ punaḥ / kāmāḥ dve śuddhākārūpye svacatuḥskandhagocare // VAkK_8.36 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "nirodha uktaḥ vairāgyaprayogāptaṃ tu śeṣitam / tridhātvāśrayamārūpyasaṃjñaṃ śeṣaṃ manuṣyajam // VAkK_8.37 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "hetukarmabālāddhātvorārupyotpādanaṃ dvayoḥ / dhyānānāṃ rūpadhātau tu tābhyāṃ dharmatayāpi ca // VAkK_8.38 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "saddharmo dvividhaḥ śāsturāgamādhigamātmakaḥ / dhātārastasya vaktāraḥ pratipattāra eva ca // VAkK_8.39 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "kāśmīravaibhāṣikanītisiddhaḥ prāyo mayāyaṃ kathito 'bhidharmaḥ / yaddurguhītaṃ tadihāsmadāgaḥ saddharmanītau munayaḥ pramāṇam // VAkK_8.40 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "nimīlite śāstari lokacakṣuṣi kṣayaṃ gate sākṣijane ca bhūyasā / adṛṣṭatattvairniravagrahaiḥ kṛtaṃ kutārkikaiḥ śāsanametadākulam // VAkK_8.41 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "gate 'tha śāntiṃ paramāṃ svayaṃbhuvi svayaṃbhuvaḥ śāsanadhūrdhareṣu ca / jagatyanāthe gaṇaghātibhirmataiḥ niraṅkuśaiḥ svairamihādya caryate // VAkK_8.42 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "iti kaṇṭhagataprāṇaṃ viditvā śāsanaṃ muneḥ / balakālaṃ malānāṃ ca na pramādyaṃ mumukṣubhiḥ // VAkK_8.43 //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      },
+      {
+        "original": "abhidharmakośe samāpattinirdeśo nāmāṣṭamakośasthānamiti //",
+        "translations": {
+          "ru-sb": ""
+        },
+        "root": true
+      }
+    ]
+  }
+]
