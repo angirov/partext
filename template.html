@@ -74,6 +74,10 @@
     const header = document.createElement("div");
     header.className = "header";
 
+    const toggleIcon = document.createElement("span");
+    toggleIcon.className = "toggle-icon";
+    toggleIcon.textContent = "+";
+
     const numberDiv = document.createElement("span");
     numberDiv.className = "sentence-number";
     numberDiv.textContent = `${number}.`;
@@ -85,13 +89,9 @@
       originalDiv.classList.add("root-text");
     }
 
-    const toggleIcon = document.createElement("span");
-    toggleIcon.className = "toggle-icon";
-    toggleIcon.textContent = "+";
-
+    header.appendChild(toggleIcon);
     header.appendChild(numberDiv);
     header.appendChild(originalDiv);
-    header.appendChild(toggleIcon);
 
     const content = document.createElement("div");
     content.className = "content";

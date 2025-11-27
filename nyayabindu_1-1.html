@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Foldable Multi-Level Parallel Text</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="controls">
+      <label><input type="checkbox" id="toggleNumbers"> Show sentence numbers</label>
+      <strong>Show translations:</strong>
+      <div id="langControls"></div>
+    </div>
+  </aside>
+
+  <div class="container">
+    <div id="textContainer"></div>
+  </div>
+</div>
+
+<script>
+  const data = [
+  {
+    "sectionTitle": "nyayabindu_1-1",
+    "sentences": [
+      {
+        "original": "jayanti jātivyasanaprabandhaprasūtihetorjagato vijetuḥ |\nrāgādayarateḥ sugatasya vāco manastamastānavamādadhānāḥ ||",
+        "translations": {
+          "padaccheda": "jayanti jāti-vyasana-prabandha-prasūti-hetoḥ jagataḥ vijetuḥ rāgādayaḥ rateḥ sugatasya vācaḥ manaḥ-tamas-tānavam ādadhānāḥ",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "1 samyagjñānapūrvikā sarvapuruṣārthasiddhiriti tad vyutpādayate ||1||",
+        "translations": {
+          "padaccheda": "samyag-jñāna-pūrvikā sarva-puruṣa-artha-siddhiḥ iti tat vyutpādayate",
+          "ru-stcherbatsky": "Всякому достижению человеком цели предшествует правильное познание — поэтому-то оно исследуется (в настоящем сочинении)."
+        },
+        "root": true
+      },
+      {
+        "original": "samyagjñānapūrviketyādinā asya prakaraṇasyābhidheya- prayojanamucyate | dvividhaṃ hi prakaraṇaśarīram- śabdaḥ arthaśca |",
+        "translations": {
+          "padaccheda": "samyag-jñāna-pūrviketi-ādinā asya prakaraṇasya abhidheya-prayojanam ucyate | dvividhaṃ hi prakaraṇa-śarīram śabdaḥ arthaś ca",
+          "ru-stcherbatsky": "В состав каждого сочинения, конечно, входят две стороны: слова и их смысл."
+        },
+        "root": false
+      },
+      {
+        "original": "tatra śabdasya svābhidheyapratipādanam eva prayojanam, nānyat | atas tan na nirūpyate |",
+        "translations": {
+          "padaccheda": "tatra śabdasya sva-abhidheya-pratipādanam eva prayojanam na anyat | ataḥ tat na nirūpyate",
+          "ru-stcherbatsky": "Значение словесной стороны не будет здесь особо рассматриваться, потому что слова не имеют другой цели, как только передать свой смысл."
+        },
+        "root": false
+      },
+      {
+        "original": "abhidheyaṃ tu yadi niṣprayojanaṃ syāt, tadā tatpratipattaye śabdasandarbho 'pi nārambhaṇīyaḥ syāt |",
+        "translations": {
+          "padaccheda": "abhidheyaṃ tu yadi niṣprayojanaṃ syāt tadā tat-pratipattaye śabda-sandarbhaḥ api na ārambhaṇīyaḥ syāt",
+          "ru-stcherbatsky": "Но если бы содержание не имело значения, то незачем было бы предпринимать литературного труда для его разработки."
+        },
+        "root": false
+      },
+      {
+        "original": "yathā kākadantaprayojanābhāvāt na tatparīkṣā ārambhaṇīyā prekṣāvatā |",
+        "translations": {
+          "padaccheda": "yathā kāka-danta-prayojana-abhāvāt na tat-parīkṣā ārambhaṇīyā prekṣāvatā",
+          "ru-stcherbatsky": "Ведь, например, ни один разумный человек не предпримет исследования о зубах вороны, потому что они не имеют никакого значения."
+        },
+        "root": false
+      },
+      {
+        "original": "tasmād asya prakaraṇasy ārambhaṇīyatvaṃ darśayatā abhidheyaprayojanam aneno cyate |",
+        "translations": {
+          "padaccheda": "tasmāt asya prakaraṇasya ārambhaṇīyatvaṃ darśayatā abhidheya-prayojanam anena ucyate",
+          "ru-stcherbatsky": "Поэтому, желая показать, что настоящее сочинение заслуживает\nбыть написанным, автор указывает на цель его содержания:"
+        },
+        "root": false
+      },
+      {
+        "original": "yasmāt sa[sch2]myagjñānapūrvikā sarvapuruṣārthasiddhiḥ, tasmāt \ntatpratipattaye idam ārabhayate- ity ayam atra vākyārthaḥ |",
+        "translations": {
+          "padaccheda": "yasmāt samyag-jñāna-pūrvikā sarva-puruṣa-artha-siddhiḥ tasmāt tat-pratipattaye idam ārabhayate iti ayam atra vākya-arthaḥ",
+          "ru-stcherbatsky": "потому что (говорит он) всякому достижению человеком цели предшествует правильное познание, поэтому для изуче-\nния такового (познания) и предпринимается настоящий\n(труд) — вот смысл вышеприведенного предложения."
+        },
+        "root": false
+      },
+      {
+        "original": "atra ca prakaraṇābhidheyasya samaygjñānasya sarvapuruṣārthasiddhihetutvaṃ prayojanam uktam |",
+        "translations": {
+          "padaccheda": "atra ca prakaraṇa-abhidheya-sya samyag-jñānasya sarva-puruṣa-artha-siddhi-hetutvaṃ prayojanam uktam",
+          "ru-stcherbatsky": "Тут, с одной стороны, сказано, что достоверное знание,\nсоставляющее предмет настоящего сочинения, есть причина\nвсякого целесообразного человеческого действия."
+        },
+        "root": false
+      },
+      {
+        "original": "asmiṃś cārtha ucyamāne sambandhaprayojanābhidheyāni uktāni bhavanti |",
+        "translations": {
+          "padaccheda": "asmin ca arthe ucyamāne sambandha-prayojana-abhidheya-āni uktāni bhavanti",
+          "ru-stcherbatsky": "Но, кроме того, одновременно с выражением такой мысли указывается\n(на все три вопроса, которые должны быть затронуты в нача-\nле всякого научного сочинения) именно на содержание, его\nцель и на связь (существующую между ними, т. е. на то, что\nименно предлагаемое сочинение есть самый подходящий\nспособ для достижения данной цели)."
+        },
+        "root": false
+      },
+      {
+        "original": "tathā hi 'puruṣārthopayogi samyagjñānaṃ vyutpādayitavyam anena prakaraṇena' iti bruvatā samyagjñānam asya śabdasaṃdarbhasya abhidheyam, tadvayutpādanaṃ prayojanam, prakaraṇaṃ cedam upāyo vyutpādanasya- ityukta bhavati |",
+        "translations": {
+          "padaccheda": "tathā hi puruṣa-artha-upayogī samyag-jñānaṃ vyutpādayitavyam anena prakaraṇena iti bruvatā samyag-jñānam asya śabda-saṃdarbhasya abhidheyam tad vyutpādanam prayojanam prakaraṇaṃ ca idam upāyaḥ vyutpādanasya iti uktaṃ bhavati",
+          "ru-stcherbatsky": "В самом деле, когда автор говорит, что в настоящем сочинении должна быть исследована (теория) правильного познания, которое обусловливает целесообразную деятельность человека, то он (этим самым) высказывает, что правильное познание составляет содержание настоящего произведения, цель его есть исследование (по теорий познания), а само оно является (самым подходящим) средством для такого исследования."
+        },
+        "root": false
+      },
+      {
+        "original": "tasmād abhidheyabhāgaprayojanābhidhānasāmarthyāt sambandhādīni uktāni bhavanti | na tv idam ekaṃ vākayaṃ sambandham, abhidheyaṃ, prayojanaṃ ca vaktuṃ sākṣāt samartham | ekaṃ tu vadat trayaṃ sākṣāt sāmarthyād darśayati |",
+        "translations": {
+          "padaccheda": "tasmāt abhidheya-bhāga-prayojana-abhidhāna-sāmarthyāt sambandha-ādīni uktāni bhavanti | na tu idam ekaṃ vākyaṃ sambandham abhidheyam prayojanam ca vaktuṃ sākṣāt samartham | ekaṃ tu vadat trayaṃ sākṣāt sāmarthyāt darśayati",
+          "ru-stcherbatsky": "Таким образом, помянутые предварительные указания выражены кос-\nвенно, тогда как прямо сказано только о значении одного из\nэлементов литературного труда, именно о значении его со-\nдержания.4* Вышеупомянутое предложение не в состоянии\nсамо по себе непосредственно указать и на содержание со-\nчинения, и на его цель, и на связь (соединяющую их). Выра-\nжая прямо только один из этих элементов, оно косвенно ука-\nзывает на все три."
+        },
+        "root": false
+      },
+      {
+        "original": "tatra tad ity ābhidheyam, vyutpādyate iti prayojanapadam |",
+        "translations": {
+          "padaccheda": "tatra tat iti ābhidheyaṃ vyutpādyate iti prayojana-padam",
+          "ru-stcherbatsky": "Именно, слово 'оно' (познание) указывает\nна содержание, а слово 'исследуется' — на цель."
+        },
+        "root": false
+      },
+      {
+        "original": "prayojane cātra vaktuḥ prakaraṇakaraṇavyāpārasya cintyate, śrotuśca śravaṇavyāpārasya |",
+        "translations": {
+          "padaccheda": "prayojane ca atra vaktuḥ prakaraṇa-karaṇa-vyāpārasya cintyate śrotuḥ ca śravaṇa-vyāpārasya",
+          "ru-stcherbatsky": "Цель же здесь разумеется двоякая: для учителя — это труд составле-\nния настоящего сочинения, для ученика — труд его изуче-\nния."
+        },
+        "root": false
+      },
+      {
+        "original": "tathā hi- sarve prekṣāvantaḥ pravṛttiprayojanam anviṣya pravartante |",
+        "translations": {
+          "padaccheda": "tathā hi sarve prekṣāvantaḥ pravṛtti-prayojanam anviṣya pravartante",
+          "ru-stcherbatsky": "Действительно, всякий разумный человек, принимаясь\nза какое-нибудь дело, имеет в виду полезную цель."
+        },
+        "root": false
+      },
+      {
+        "original": "tataś cācāryeṇa prakaraṇaṃ kim arthaṃ kṛtam, śrotṛbhiś ca kim arthaṃ śrūyate? iti saṃśaye vyutpādanaṃ prayojanam abhidhīyate |",
+        "translations": {
+          "padaccheda": "tataḥ ca ācāryeṇa prakaraṇaṃ kim-arthaṃ kṛtam śrotṛbhiḥ ca kim-arthaṃ śrūyate iti saṃśaye vyutpādanam prayojanam abhidhīyate",
+          "ru-stcherbatsky": "Поэтому, если возникает вопрос, зачем писал учитель это сочинение,\nзачем изучают его ученики,— то в ответ указывают на цель,\nзаключающуюся в изучении (теории познания)."
+        },
+        "root": false
+      },
+      {
+        "original": "samyagjñānaṃ vyutpadyamānānām ātmānaṃ vyutpādakaṃ kartuṃ prakaraṇam idaṃ kṛtam | śiṣyaiś cācāryaprayuktām ātmano vyutpattim iccadbhiḥ prakaraṇam idaṃ śrūyata iti prakaraṇakaraṇaśravaṇayoḥ prayojanaṃ vyutpādanam |",
+        "translations": {
+          "padaccheda": "samyag-jñānaṃ vyutpadyamānānām ātmānam vyutpādakaṃ kartuṃ prakaraṇam idam kṛtam | śiṣyaiḥ ca ācārya-prayuktām ātmanaḥ vyutpattim icchad-bhiḥ prakaraṇam idam śrūyate iti prakaraṇa-karaṇa-śravaṇayoḥ prayojanaṃ vyutpādanam",
+          "ru-stcherbatsky": "Сочинение это написано учителем для того,5 чтобы научить изучающих\n(теорию) правильного познания; * и оно же изучается учени-\nками, которые желают усвоить себе учение, преподаваемое\nучителем. Таким образом, изучение (теории познания) есть\nцель как написания, так и усвоения настоящего сочинения."
+        },
+        "root": false
+      },
+      {
+        "original": "sambandhapradarśanapadaṃ tu na vidyate | sāmarthyād eva tu sa pratipattavyaḥ |",
+        "translations": {
+          "padaccheda": "sambandha-pradarśana-padam tu na vidyate | sāmarthyāt eva tu sa pratipattavyaḥ",
+          "ru-stcherbatsky": "Но особого слова, указывающего на связь между содержани-\nем и целью, нет (в нашем предложении). Оно должно быть\nподразумеваемо прямо по смыслу."
+        },
+        "root": false
+      },
+      {
+        "original": "prekṣāvatā hi samyagjñānavyutpādanāya prakaraṇam idam ārabdhavatā ayam evopāyo nānya iti darśita evopāyopeyabhāvaḥ prakaraṇaprayojanayoḥ sambandha iti |",
+        "translations": {
+          "padaccheda": "prekṣāvatā hi samyag-jñāna-vyutpādanāya prakaraṇam idam ārabdhavatā ayam eva upāyaḥ na anya iti darśita eva upāya-upeya-bhāvaḥ prakaraṇa-prayojanayoḥ sambandhaḥ iti",
+          "ru-stcherbatsky": "В самом деле, если разум-\nный человек приступит к настоящему сочинению с целью\nизучения (теории) правильного познания, то не что иное,\nкак само это сочинение, является средством для такой цели.\nТаким образом, в действительности указано и на связь, суще-\nствующую между сочинением и его целью, состоящую в том,\nчто первое относится к последней, как средство к цели."
+        },
+        "root": false
+      },
+      {
+        "original": "nanu ca prakaraṇaśravaṇāt prāguktānyapi abhidheyādīni pramāṇābhāvāt prekṣāvadbhirna gṛhyante, tat kimetairārambhapradeśa uktaiḥ?",
+        "translations": {
+          "padaccheda": "nanu ca prakaraṇa-śravaṇāt prāk uktāni api abhidheya-ādīni pramāṇa-abhāvāt prekṣāvadbhiḥ na gṛhyante tat kim etaiḥ ārambha-pradeśāḥ uktaiḥ",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "satyam aśrute prakaraṇe kathitānyapi na niścauyante | ukteṣu tvapramāṇakeṣvapi abhidheyādiṣu saṃśaya utpadyate, saṃśayācca pravartante | arthasaṃśayo 'pi hi pravṛtyaṅga prekṣāvatām | anarthasaṃśayo 'pi nivṛttyaṅgam | ataeva śāstrakāreṇava sambandhādīni yujyante vaktum |",
+        "translations": {
+          "padaccheda": "satyam aśrute prakaraṇe kathitāni api na niścīyante | ukteṣu tu apramāṇakeṣu api abhidheya-ādiṣu saṃśayaḥ utpadyate saṃśayāt ca pravartante | artha-saṃśayaḥ api hi pravṛtti-aṅgaṃ prekṣāvatām | anartha-saṃśayaḥ api nivṛtti-aṅgam | ataeva śāstra-kāreṇa eva sambandha-ādīni yujyante vaktum",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "vyākhyātaṇāṃ hi vacana krīḍādyarthamanyathāpi sambhāvyate | śastrakṛtāṃ tu prakaraṇaprārambhe na viparītabhidheyādyabhidhāne prayojanamutpaśyāmaḥ, nāpi pravṛttim | atasteṣu saṃśayo yuktaḥ | anukteṣu tu pratipattṛbhirniṣprayojanamabhidheyaṃ sambhāvyetāsya prakaraṇasya, kākadantaparīkṣāyā iva | aśakyānuṣṭhānaṃ vā, jvaraharatakṣakacūḍāratnālaṅkāropadeśavat | anabhimataṃ vā prayojanamḥ mātṛvivāhakramopadeśavat, ato vā prakaraṇāllaghutara upāyaḥ prayojanasya, anupāya eva vā prakaraṇaṃ sambhāvyeta |",
+        "translations": {
+          "padaccheda": "vyākhyātṛṇāṃ hi vacanaṃ krīḍā-ādi-artham anyathā api sambhāvyate | śāstra-kṛtām tu prakaraṇa-prārambhe na viparīta-abhidheya-ādi-abhidhāne prayojanam utpaśyāmaḥ na api pravṛttim | ataḥ teṣu saṃśayaḥ yuktaḥ | anukteṣu tu pratipattṛbhiḥ niṣprayojanam abhidheyam sambhāvyeta asya prakaraṇasya kākadanta-parīkṣāyā iva | aśakya-anuṣṭhānaṃ vā jvara-hara-takṣaka-cūḍā-ratna-ālaṅkāra-upadeśavat | anabhimataṃ vā prayojanam mātṛ-vivāha-krama-upadeśavat | ato vā prakaraṇāt laghutaraḥ upāyaḥ prayojanasya anupāya eva vā prakaraṇaṃ sambhāvyeta",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "etāsu cānarthasambhāvanāsu ekasyāmapyanarthasambhavanāyām na prekṣāvantaḥ pravartante | abhidheyādiṣu tūkteṣvathasambhāvanā anarthasambhāvanāviruddhā utpadyate, tathā prekṣāvantaḥ pravartante | iti prekṣāvatāṃ pravṛttyaṅgamarthasambhāvanāṃ kartu sambandhādīnyabhidhīyanta iti sthitam |",
+        "translations": {
+          "padaccheda": "etāsu ca anartha-sambhāvanāsu ekasyām api anartha-sambhavanāyām na prekṣāvantaḥ pravartante | abhidheya-ādiṣu tu ukteṣu artha-sambhāvanā anartha-sambhāvanā-viruddhā utpadyate tathā prekṣāvantaḥ pravartante | iti prekṣāvatām pravṛtti-aṅgam artha-sambhāvanāṃ kartuṃ sambandha-ādīni abhidhīyante iti sthitam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "avisaṃvādakaṃ jñānaṃ samyagjñānam |",
+        "translations": {
+          "padaccheda": "avisaṃvādakaṃ jñānam samyag-jñānam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "loke ca pūrvamupadarśitamartha prāpayat saṃvādakamucyate | pradarśite cārthe pravartakatvameva prāpakam, nānyat | tathā hi- na jñānaṃ janayad artha prāpayati, api tvarthe puruṣaṃ pravartayat prāpayatyartham | pravartakatvamapi pravṛttiviṣayapradarśakatvameva | na hi puruṣaṃ haṭhāt pravartayituṃ śaknoti vijñānam |",
+        "translations": {
+          "padaccheda": "loke ca pūrvam upadarśitam arthaṃ prāpayat saṃvādakam ucyate | pradarśite ca arthe pravartakatvam eva prāpakam na anyat | tathā hi na jñānaṃ janayat arthaṃ prāpayati api tu arthe puruṣaṃ pravartayat prāpayati artham | pravartakatvam api pravṛtti-viṣaya-pradarśakatvam eva | na hi puruṣaṃ haṭhāt pravartayituṃ śaknoti vijñānam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "ata eva cārthādhigatireva pramāṇaphalam | adhigate cārthe pravartitaḥ puruṣaḥ, prāpitaścarthaḥ | tathā ca sati arthādhigamāt samāptaḥ pramāṇavyāpāraḥ | ata eva ca anadhigataviṣayaṃ pramāṇam | yenaiva hi jñānena prathamamadhigato 'rthaḥ, tenaiva pravartita pruruṣaḥ, prāpitaścārthaḥ | tatreva ca arthe kimanyena jñānenādhikaṃ kāryam | ato 'dhigataviṣayamapramāṇam |",
+        "translations": {
+          "padaccheda": "ata eva ca artha-adhigatiḥ eva pramāṇa-phalam | adhigate ca arthe pravartitaḥ puruṣaḥ prāpitaś ca arthaḥ | tathā ca sati artha-adhigamāt samāptaḥ pramāṇa-vyāpāraḥ | ata eva ca anadhigata-viṣayaṃ pramāṇam | yena eva hi jñānena prathamam adhigataḥ arthaḥ tena eva pravartitaḥ puruṣaḥ prāpitaś ca arthaḥ | tatra eva ca arthe kim anyena jñānena adhikaṃ kāryam | ataḥ adhigata-viṣayam apramāṇam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tatra yo 'rtho dṛṣṭatvena jñāttaḥ sa pratyakṣeṇa pravṛttiviṣayīkṛtaḥ | yasmād yasminnarthe pratyakṣasya sākṣātkāritvavyāpāro vikalpenānugamyate, tasya",
+        "translations": {
+          "padaccheda": "tatra yaḥ arthaḥ dṛṣṭatvena jñātaḥ sa pratyakṣeṇa pravṛtti-viṣayīkṛtaḥ | yasmāt yasmin arthe pratyakṣasya sākṣāt-kāritva-vyāpāraḥ vikalpena anugamyate tasya",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "pradarśakaṃ pratyakṣaḥ tasmād dṛṣṭatayā jñātaḥ pratyakṣadarśitaḥ | anumānaṃ tu liṅgadarśanānniścinvat pravṛttidiṣayaṃ darśayati |",
+        "translations": {
+          "padaccheda": "pradarśakaṃ pratyakṣaḥ tasmāt dṛṣṭatayā jñātaḥ pratyakṣa-darśitaḥ | anumānaṃ tu liṅga-darśanāt niścinvat pravṛtti-viṣayaṃ darśayati",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tathā ca pratyakṣaṃ partibhāsamānaṃ niyatamarthadarśayati | anumānaṃ ca liṅgasambaddhaṃ niyatamartha darśayati | ata ete niyatasyārthasya pradarśake | tena te pramāe, nānyad vijñānam |",
+        "translations": {
+          "padaccheda": "tathā ca pratyakṣaṃ pratibhāsamānaṃ niyataṃ arthaṃ darśayati | anumānaṃ ca liṅga-sambaddhaṃ niyataṃ artha darśayati | ataḥ ete niyatasya arthasya pradarśake | tena te pramāṇe na anyat vijñānam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "prāptuṃ śakyamarthamādarśayat prāpakam | prāpakatvācca pramāṇam |",
+        "translations": {
+          "padaccheda": "prāptuṃ śakyam arthaṃ ādarśayat prāpakam | prāpakatvāt ca pramāṇam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "ābhyāṃ pramāṇābhyāmanyena ca jñānena darśito 'rthaḥ kaścid atyanta vipartyastaḥ, yathā- marīcikāsu jalamḥ sa cāsatvāt prāptumaśakyaḥ | kaścidaniyato bhāvābhāvayoḥ, yathā- saṃśayārthaḥ | na ca bhāvābhāvābhyāṃ yukto 'rtho jagatyastiḥ tataḥ prāptumaśakyastādṛśaḥ |",
+        "translations": {
+          "padaccheda": "ābhyāṃ pramāṇābhyām anyena ca jñānena darśitaḥ arthaḥ kaścid atyanta-viparyastaḥ yathā marīcikāsu jalam sa ca asatvāt prāptum aśakyaḥ | kaścid aniyataḥ bhāva-abhāvayoḥ yathā saṃśaya-arthaḥ | na ca bhāva-abhāvābhyāṃ yuktaḥ arthaḥ jagati asti tataḥ prāptum aśakyaḥ tādṛśaḥ",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "sarveṇa cāliṅgajena vikalpena vinyāmakamadṛṣṭvā pravṛttena bhavābhāvayo raniyata evārtho darśayitavyaḥ | sa ca prāptumaśakyaḥ |",
+        "translations": {
+          "padaccheda": "sarveṇa ca aliṅga-jena vikalpena vinyāmakaṃ adṛṣṭvā pravṛttena bhāva-abhāvayoḥ aniyataḥ eva arthaḥ darśayitavyaḥ | sa ca prāptum aśakyaḥ",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tasmādaśakyaprāpaṇam- atyantaviparītam, bhāvābhāvāniyataṃ cārtha darśa yat apramāṇam anyad vijñānam |",
+        "translations": {
+          "padaccheda": "tasmāt aśakya-prāpaṇam atyanta-viparītam bhāva-abhāva-aniyataṃ ca artha-darśayat apramāṇam anyat vijñānam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "arthakriyārthibhiśca arthakriyāsamarthavastuprāptinimittaṃ jñānaṃ mṛgyate | yacca tairmṛgyate tadeva śāstre vicāryate | tato 'rthakriyāvastupradarśakaṃ samyagjñānam |",
+        "translations": {
+          "padaccheda": "artha-kriyā-arthibhiḥ ca artha-kriyā-samartha-vastu-prāpti-nimittaṃ jñānam mṛgyate | yat ca taiḥ mṛgyate tat eva śāstre vicāryate | tataḥ artha-kriyā-vastu-pradarśakaṃ samyag-jñānam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "yacca tena pradarśitaṃ yadeva prāpaṇīyam | arthādhigamātmakaṃ hi prāpakam- ityuktam | tatra pradarśitādanyad vastu bhinnākāram, bhinnakālam, bhinnadeśaṃ ca | viruddhadharmasaṃsargāddhi anyad vastu | deśakālākārabhedasca viruddhadharmasaṃsargaḥ |",
+        "translations": {
+          "padaccheda": "yat ca tena pradarśitaṃ yat eva prāpaṇīyam | artha-adhigama-ātmakaṃ hi prāpakam iti uktam | tatra pradarśitāt anyat vastu bhinna-ākāram bhinna-kālam bhinna-deśaṃ ca | viruddha-dharma-saṃsargāt hi anyat vastu | deśa-kāla-ākāra-bhedaś ca viruddha-dharma-saṃsargaḥ",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "yasmādanyākāravadvastugrāhi nākārāntaravati vastuni pramāṇam yathā prītaśaṅkhagrāhi śukle śaṅkha | deśāntarasthagrāhi ca na deśāntarasthe pramāṇam yathā- kuñcikāvivaradiśasthāyāṃ maṇiprabhāyāṃ maṇigrāhi jñānaṃ nāpavarakasye maṇau | kālāntarayyuktagrāhi ca na kālāntaravarti vastuni pramāṇam yathā ardharātre madhyāhnakālavastugrāhi svapnajñānaṃ ardharātrakāle vastuni pramāṇam |",
+        "translations": {
+          "padaccheda": "yasmāt anya-ākāra-vat-vastu-grāhi na ākāra-antara-vati vastuni pramāṇam yathā pīta-śaṅkha-grāhi śukle śaṅkhe | deśāntara-stha-grāhi ca na deśāntara-sthe pramāṇam yathā kuñcikā-vivara-diśa-sthāyāṃ maṇi-prabhāyāṃ maṇi-grāhi jñānaṃ na apavarakasya maṇau | kālāntara-yukta-grāhi ca na kālāntara-varti vastuni pramāṇam yathā ardha-rātre madhyāhna-kāla-vastu-grāhi svapna-jñānaṃ ardha-rātra-kāle vastuni pramāṇam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "nanu ca deśaniyatam, ākāraniyataṃ ca prāpayitu śakyam yatkālaṃ tu pariccinnaṃ tatkālaṃ na śakyaṃ prāpayitum? nocyate- yasminneva kāle pariccidayate tasminneva kāle prāpayitavyamiti, ayo hi darśanakālaḥ, anyaśca prāptikālaḥ, kintu yatkālaṃ pariccinnaṃ tadeva tena prāpaṇīyam | abhedādhyavasayācca santānagatamekatvaṃ draṣṭavyamiti |",
+        "translations": {
+          "padaccheda": "nanu ca deśa-niyataṃ ākāra-niyataṃ ca prāpayituṃ śakyam yat-kālaṃ tu paricchinnaṃ tat-kālaṃ na śakyam prāpayitum | nocyate yasmin eva kāle paricchidyate tasmin eva kāle prāpayitavyam iti | ayaṃ hi darśana-kālaḥ anyaḥ ca prāpti-kālaḥ | kintu yat kālaṃ paricchinnaṃ tat eva tena prāpaṇīyam | abheda-adhyavasayāt ca santāna-gatam ekatvaṃ draṣṭavyam iti",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "samayagjñānaṃ pūrva kāraṇaṃ yasyāḥsā yathoktā | kāryāt pūrva bhavat kāraṇaṃ pūrvamuktam | kāraṇaśabdopādāne tu pruṣārthasiddhaḥ sākṣāt kāraṇaṃ gamyeta | pūrvaśabde pūrvamātram |",
+        "translations": {
+          "padaccheda": "samyag-jñānaṃ pūrva-kāraṇam yasyāḥ sā yathoktā | kāryāt pūrvaṃ bhavat kāraṇaṃ pūrvam uktam | kāraṇa-śabda-upādāne tu puruṣa-artha-siddhaḥ sākṣāt kāraṇaṃ gamyeta | pūrva-śabde pūrvam ātram",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "dvividhaṃ ca samyagjñānam, arthakriyānirbhāsam, arthakriyāasmarthe ca pravartakam | tayormadhye yat pravartakaṃ tadiha parikṣayate | tacca pūrvamātram, na tu sākṣāt kāraṇam | samyagjñāne hi sati pūrvadṛṣṭasmaraṇam, smaraṇādabhilāṣaḥ abhilāṣāt pravṛttiḥ, pravatteśca prāptiḥ | tato na sākṣād hetuḥ |",
+        "translations": {
+          "padaccheda": "dvividhaṃ ca samyag-jñānam arthakriyā-nirbhāsam arthakriyā-samarthe ca pravartakam | tayoḥ madhye yat pravartakaṃ tat iha parīkṣyate | tat ca pūrvam ātram na tu sākṣāt kāraṇam | samyag-jñāne hi sati pūrva-dṛṣṭa-smaraṇam smaraṇāt abhilāṣaḥ abhilāṣāt pravṛttiḥ pravṛtteḥ ca prāptiḥ | tataḥ na sākṣāt hetuḥ",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "arthakriyānirbhāsaṃ tu yadyapi sākṣātprāptiḥ tathāpi tanna parīkṣyam | yatraiva hi prekṣāvanto 'rthinaḥ sāśaṅkāḥ, yat parīkṣyate | arthakriyānirbhāse ca jñāte sati siddhaḥ puruṣārthaḥ, tena tatra na sāśaṅkā arthinaḥ | atastanna parīkṣaṇīyam | tasmāt parīkṣārhamasākṣāt kāraṇaṃ samyagjñānamādarśayituṃ kāraṇaśabdaṃ parityajya pūrvagrahaṇaṃ kṛtam |",
+        "translations": {
+          "padaccheda": "arthakriyā-nirbhāsaṃ tu yadyapi sākṣāt prāptiḥ tathā api tat na parīkṣyam | yatra eva hi prekṣāvantaḥ arthinaḥ sāśaṅkāḥ yat parīkṣyate | arthakriyā-nirbhāse ca jñāte sati siddhaḥ puruṣārthaḥ tena tatra na sāśaṅkāḥ arthinaḥ | ataḥ tat na parīkṣaṇīyam | tasmāt parīkṣā-arham asākṣāt kāraṇaṃ samyag-jñānam ādarśayituṃ kāraṇa-śabdaṃ parityajya pūrva-grahaṇaṃ kṛtam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "puruṣasyārthaḥ puruṣārthaḥ | arthyate iti arthaḥ, kāmyate iti yāvat | heyo 'rthaḥ, upādeyo vā | heyo hyartho hātumiṣyate, upādeyo 'pi upādātum | na ca heyopādeyābhyāmanyo rāśirasti | upekṣaṇīyo hyanupādeyatvād heya eva | tasya siddhiḥ- hānam, upādānaṃ ca | hetunibandhanā hi siddhiutpattirucyate | jñānanibandhanā tu siddhiranuṣthānam | heyasya ca hānamanuṣṭhānam, upādeyasya [sch4] copādānam | tato heyopādeyayorhānopādānalakṣaṇānuṣṭhitiḥ siddhirucyate |",
+        "translations": {
+          "padaccheda": "puruṣasya arthaḥ puruṣārthaḥ | arthyate iti arthaḥ kāmyate iti yāvat | heyaḥ arthaḥ upādeyaḥ vā | heyaḥ hi arthaḥ hātum iṣyate upādeyaḥ api upādātum | na ca heya-upādeyābhyām anyaḥ rāśiḥ asti | upekṣaṇīyaḥ hi anupādeyatvāt heya eva | tasya siddhiḥ hānam upādānam ca | hetu-nibandhanā hi siddhi-utpattiḥ ucyate | jñāna-nibandhanā tu siddhiḥ anuṣṭhānam | heyasya ca hānam anuṣṭhānam upādeyasya ca upādānam | tato heya-upādeyayoḥ hāna-upādāna-lakṣaṇa-anuṣṭhitiḥ siddhiḥ ucyate",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "sarvā cāsau puruṣārthasiddhiśceti | sarvaśabda iha dravyakārtsnye vṛttaḥ, na tu prakārakātsnrye | tato nāyamarthaḥ- dviprakārāpi siddhiḥ samyagjñānanibandhanaiveti | api tvayamarthaḥ- yā kācit siddhiḥ sā sarvā kṛtsnaivāsau samyagjñānanibandhaneti | mithyājñānāddhi kākatālīyāpi nārstyarthasiddhiḥ | tathā hi yadi pradarśitamartha prāpayati, evaṃ tato bhavatyarthasiddhiḥ | pradarśitaṃ ca prāpayat samyagjñānameva | pradarśitaṃ cāprāpayat miethyajñānam aprāpakaṃ ca kathamarthasiddhinibandhanaṃ syāt tasmād yanmithyājñānaṃ na tato 'rthasiddhiḥ | yatasccārthasiddhistat samyagjñānameva | ata eva samyagjñānaṃ yatnato vyutpādanīyam yatastadeva puruṣārthasiddhinibandhanam |",
+        "translations": {
+          "padaccheda": "sarvā ca asau puruṣārtha-siddhiḥ ca iti | sarva-śabdaḥ iha dravya-kārtsnye vṛttaḥ na tu prakāra-kārtsnye | tataḥ na ayam arthaḥ dviprakārā api siddhiḥ samyag-jñāna-nibandhana eva iti | api tu ayam arthaḥ yā kācit siddhiḥ sā sarvā kṛtsnā eva asau samyag-jñāna-nibandhanā iti | mithyā-jñānāt hi kākatālīyā api nāsti artha-siddhiḥ | tathā hi yadi pradarśitam arthaṃ prāpayati evaṃ tataḥ bhavati artha-siddhiḥ | pradarśitaṃ ca prāpayat samyag-jñānam eva | pradarśitaṃ ca aprāpayat mithyā-jñānam aprāpakaṃ ca katham artha-siddhi-nibandhanaṃ syāt | tasmāt yat mithyā-jñānam na tataḥ artha-siddhiḥ | yatas ca artha-siddhiḥ tat samyag-jñānam eva | ata eva samyag-jñānaṃ yatnataḥ vyutpādanīyam yataḥ tat eva puruṣārtha-siddhi-nibandhanam",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tato yāvadū brūyāta-yā kācit puruṣārthasiddhiḥ sā samyagjñānanibandhanaiveti, tāvaduktam- sarvā sā samyagjñānapūrviketi | itiśabdaḥ tasmādityasminnartha yattadośca nityamabhisambandhaḥ | tadayamarthaḥ- yasmāt samyagjñānapūrvikā sarvapuruṣārthasiddhiḥ tasmāt tat samyagjñānaṃ vyupādayate |",
+        "translations": {
+          "padaccheda": "tataḥ yāvad u brūyātā yā kācit puruṣārtha-siddhiḥ sā samyag-jñāna-nibandhanā eva iti tāvat uktam sarvā sā samyag-jñāna-pūrvikā iti | iti-śabdaḥ tasmāt iti asmin artha yat tadāḥ ca nityam abhisambandhaḥ | tad ayam arthaḥ yasmāt samyag-jñāna-pūrvikā sarva-puruṣa-artha-siddhiḥ tasmāt tat samyag-jñānaṃ vyutpādayate",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "yadayapi ca samāse guṇībhūtaṃ samyagjñānam, tathāpīha prakaraṇe vyutpādayitavyatvāt pradhānam, tatastasyaiva taccabdena sambandhaḥ |",
+        "translations": {
+          "padaccheda": "yadyapi ca samāse guṇībhūtaṃ samyag-jñānam tathā api iha prakaraṇe vyutpādayitavyatvāt pradhānam tataḥ tasya eva tat-śabdena sambandhaḥ",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      },
+      {
+        "original": "vyutpādayate iti | vipratipattinirākaraṇena pratipādayate || 1 ||",
+        "translations": {
+          "padaccheda": "vyutpādayate iti | vipratipatti-nirākaraṇena pratipādayate",
+          "ru-stcherbatsky": ""
+        },
+        "root": false
+      }
+    ]
+  }
+];
+
+  const container = document.getElementById("textContainer");
+  const langControls = document.getElementById("langControls");
+  const toggleNumbersCheckbox = document.getElementById("toggleNumbers");
+  let globalSentenceCount = 1;
+
+  function collectLanguages(sections) {
+    const langs = new Set();
+    sections.forEach(section => {
+      (section.sentences || []).forEach(sentence => {
+        Object.keys(sentence.translations || {}).forEach(lang => langs.add(lang));
+      });
+    });
+    return Array.from(langs);
+  }
+
+  function toggleLanguage(lang, show) {
+    document.querySelectorAll(`.translation[data-lang="${lang}"]`).forEach(el => {
+      el.style.display = show ? "block" : "none";
+    });
+  }
+
+  function buildLanguageControls(languages) {
+    langControls.innerHTML = "";
+    if (!languages.length) {
+      const placeholder = document.createElement("span");
+      placeholder.textContent = "No translations found.";
+      langControls.appendChild(placeholder);
+      return;
+    }
+
+    languages.forEach(lang => {
+      const label = document.createElement("label");
+      const checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.checked = true;
+      checkbox.dataset.lang = lang;
+      checkbox.addEventListener("change", () => toggleLanguage(lang, checkbox.checked));
+      label.appendChild(checkbox);
+      label.appendChild(document.createTextNode(" " + lang.toUpperCase()));
+      langControls.appendChild(label);
+    });
+  }
+
+  function createSentenceBlock(sentence, number) {
+    const pair = document.createElement("div");
+    pair.className = "sentence-pair";
+
+    const header = document.createElement("div");
+    header.className = "header";
+
+    const toggleIcon = document.createElement("span");
+    toggleIcon.className = "toggle-icon";
+    toggleIcon.textContent = "+";
+
+    const numberDiv = document.createElement("span");
+    numberDiv.className = "sentence-number";
+    numberDiv.textContent = `${number}.`;
+
+    const originalDiv = document.createElement("div");
+    originalDiv.className = "original";
+    originalDiv.textContent = sentence.original || "";
+    if (sentence.root) {
+      originalDiv.classList.add("root-text");
+    }
+
+    header.appendChild(toggleIcon);
+    header.appendChild(numberDiv);
+    header.appendChild(originalDiv);
+
+    const content = document.createElement("div");
+    content.className = "content";
+
+    Object.entries(sentence.translations || {}).forEach(([lang, text]) => {
+      const transDiv = document.createElement("div");
+      transDiv.className = "translation";
+      transDiv.dataset.lang = lang;
+      transDiv.textContent = text;
+      content.appendChild(transDiv);
+    });
+
+    header.addEventListener("click", () => {
+      const isVisible = content.style.display === "block";
+      content.style.display = isVisible ? "none" : "block";
+      toggleIcon.textContent = isVisible ? "+" : "−";
+    });
+
+    pair.appendChild(header);
+    pair.appendChild(content);
+    return pair;
+  }
+
+  function createSection(sectionData) {
+    const section = document.createElement("div");
+    section.className = "section";
+
+    const header = document.createElement("div");
+    header.className = "section-header";
+    header.innerHTML = `
+      <span>${sectionData.sectionTitle || "Section"}</span>
+      <span class="toggle-icon">−</span>
+    `;
+
+    const content = document.createElement("div");
+    content.className = "section-content";
+
+    (sectionData.sentences || []).forEach(sentence => {
+      const block = createSentenceBlock(sentence, globalSentenceCount++);
+      content.appendChild(block);
+    });
+
+    header.addEventListener("click", () => {
+      const isVisible = content.style.display !== "none";
+      content.style.display = isVisible ? "none" : "block";
+      header.querySelector(".toggle-icon").textContent = isVisible ? "+" : "−";
+    });
+
+    section.appendChild(header);
+    section.appendChild(content);
+    return section;
+  }
+
+  const languages = collectLanguages(data);
+  buildLanguageControls(languages);
+  data.forEach(sectionData => {
+    const section = createSection(sectionData);
+    container.appendChild(section);
+  });
+
+  function toggleNumbers(show) {
+    document.querySelectorAll(".sentence-number").forEach(el => {
+      el.style.display = show ? "inline" : "none";
+    });
+  }
+
+  toggleNumbers(toggleNumbersCheckbox.checked);
+  toggleNumbersCheckbox.addEventListener("change", () => {
+    toggleNumbers(toggleNumbersCheckbox.checked);
+  });
+</script>
+
+</body>
+</html>
