@@ -187,18 +187,18 @@
     function reindexPairs() {
       const pairDivs = [...pairsContainer.querySelectorAll(".pair")];
       pairCount = pairDivs.length;
-      pairDivs.forEach((pair, idx) => {
-        const newIndex = idx + 1;
-        const oldIndex = pair.dataset.index || newIndex;
-        pair.dataset.index = newIndex;
-        // Update labels/text
-        const headerSpan = pair.querySelector(".pair-header span");
-        if (headerSpan) headerSpan.textContent = `Sentence ${newIndex}`;
-        // Update IDs for originals and roots
-        const orig = pair.querySelector(`#original-${oldIndex}`) || pair.querySelector("textarea[id^='original-']");
-        if (orig) {
-          orig.id = `original-${newIndex}`;
-          orig.previousElementSibling?.setAttribute("for", `original-${newIndex}`);
+    pairDivs.forEach((pair, idx) => {
+      const newIndex = idx + 1;
+      const oldIndex = pair.dataset.index || newIndex;
+      pair.dataset.index = newIndex;
+      // Update the visible index while keeping the header layout intact
+      const indexLabel = pair.querySelector(".pair-index");
+      if (indexLabel) indexLabel.textContent = `[${newIndex}]`;
+      // Update IDs for originals and roots
+      const orig = pair.querySelector(`#original-${oldIndex}`) || pair.querySelector("textarea[id^='original-']");
+      if (orig) {
+        orig.id = `original-${newIndex}`;
+        orig.previousElementSibling?.setAttribute("for", `original-${newIndex}`);
         }
         const root = pair.querySelector(`#root-${oldIndex}`) || pair.querySelector("input[id^='root-']");
         if (root) {
