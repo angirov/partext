@@ -457,3 +457,11 @@ button:hover {
     align-items: flex-start;
   }
 }
+
+.page.full-width {
+  max-width: 98%;
+}
+
+#uploadJsonInput {
+  background-color: white;
+}

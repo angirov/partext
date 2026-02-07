@@ -24,6 +24,9 @@
       </div>
       <div class="top-right">
         <div class="inline-buttons">
+          <label><input type="checkbox" id="fullWidthToggle"> Full width</label>
+        </div>
+        <div class="inline-buttons">
           <span>Add sentences:</span>
           <button id="add5Btn" type="button">+5</button>
           <button id="add10Btn" type="button">+10</button>
@@ -50,7 +53,7 @@
       <button id="downloadJsonBtn" type="button">Download JSON</button>
 
       <label>HTML file name:
-        <input id="filenameHtml" type="text" value="parallel.html" />
+        <input id="filenameHtml" type="text" value="parallel-texts.html" />
       </label>
       <label class="inline-label"><input type="checkbox" id="inlineCssToggle" checked> Inline CSS</label>
       <button id="downloadHtmlBtn" type="button">Download HTML</button>
@@ -66,6 +69,7 @@
     const add10Btn = document.getElementById("add10Btn");
     const add50Btn = document.getElementById("add50Btn");
     const toggleAllBtn = document.getElementById("toggleAllBtn");
+    const fullWidthToggle = document.getElementById("fullWidthToggle");
     const addLangBtn = document.getElementById("addLangBtn");
     const uploadJsonBtn = document.getElementById("uploadJsonBtn");
     const uploadJsonInput = document.getElementById("uploadJsonInput");
@@ -240,6 +244,10 @@ function autoResize(textarea) {
         (pair) => pair.dataset.collapsed !== "true"
       );
       toggleAllPairs(anyExpanded);
+    });
+
+    fullWidthToggle.addEventListener("change", () => {
+      document.querySelector(".page").classList.toggle("full-width", fullWidthToggle.checked);
     });
 
     function reindexPairs() {
@@ -592,7 +600,7 @@ function autoResize(textarea) {
             `<style>\n${css}\n</style>`
           );
         }
-        const filename = (document.getElementById("filenameHtml").value.trim() || "parallel.html");
+        const filename = (document.getElementById("filenameHtml").value.trim() || "parallel-texts.html");
         downloadFile(filled, filename, "text/html");
         showMessage(`Downloaded HTML with ${data[0].sentences.length} sentence(s) to ${filename}.`);
       } catch (err) {

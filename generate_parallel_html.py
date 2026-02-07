@@ -3,7 +3,7 @@
 Generate a foldable parallel-text HTML page from a JSON source.
 
 Usage:
-  python generate_parallel_html.py parallel-texts.json template.html parallel.html
+  python generate_parallel_html.py parallel-texts.json template.html parallel-texts.html
 """
 from __future__ import annotations
 
