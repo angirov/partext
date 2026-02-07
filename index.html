@@ -78,9 +78,16 @@
     const sectionTitleInput = document.getElementById("sectionTitleInput");
     const langCodeInput = document.getElementById("langCodeInput");
 
+    const autoResizeRafIds = new WeakMap();
     function autoResize(textarea) {
       textarea.style.height = "auto";
-      textarea.style.height = `${textarea.scrollHeight}px`;
+      const pending = autoResizeRafIds.get(textarea);
+      if (pending != null) cancelAnimationFrame(pending);
+      const id = requestAnimationFrame(() => {
+        autoResizeRafIds.delete(textarea);
+        textarea.style.height = `${textarea.scrollHeight}px`;
+      });
+      autoResizeRafIds.set(textarea, id);
     }
 
     function createPairElement(index) {
