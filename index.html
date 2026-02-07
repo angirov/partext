@@ -78,17 +78,45 @@
     const sectionTitleInput = document.getElementById("sectionTitleInput");
     const langCodeInput = document.getElementById("langCodeInput");
 
-    const autoResizeRafIds = new WeakMap();
-    function autoResize(textarea) {
-      textarea.style.height = "auto";
-      const pending = autoResizeRafIds.get(textarea);
-      if (pending != null) cancelAnimationFrame(pending);
-      const id = requestAnimationFrame(() => {
-        autoResizeRafIds.delete(textarea);
-        textarea.style.height = `${textarea.scrollHeight}px`;
-      });
-      autoResizeRafIds.set(textarea, id);
+// Singleton manager for batched resizing
+const resizeManager = {
+  queue: new Set(),
+  rafId: null,
+
+  // The public function to call
+  add(textarea) {
+    this.queue.add(textarea);
+    if (!this.rafId) {
+      this.rafId = requestAnimationFrame(() => this.flush());
     }
+  },
+
+  flush() {
+    this.rafId = null; 
+    const validElements = Array.from(this.queue).filter(ta => ta.isConnected);
+    this.queue.clear();
+
+    if (validElements.length === 0) return;
+
+    for (const ta of validElements) {
+      ta.style.height = 'auto';
+    }
+
+    const measurements = validElements.map(ta => ({
+      element: ta,
+      height: ta.scrollHeight
+    }));
+
+    for (const m of measurements) {
+      m.element.style.height = `${m.height}px`;
+    }
+  }
+};
+
+// Update your helper function to use the manager
+function autoResize(textarea) {
+  resizeManager.add(textarea);
+}
 
     function createPairElement(index) {
       const pairDiv = document.createElement("div");
@@ -169,9 +197,27 @@
     }
 
     function addMultiple(count) {
+      // 1. Create a lightweight container (not in the visible DOM yet)
+      const fragment = document.createDocumentFragment();
+      
       for (let i = 0; i < count; i++) {
-        addPair();
+        const newIndex = pairCount + 1;
+        pairCount = newIndex;
+        
+        const newPair = createPairElement(newIndex);
+        
+        // We attach logic, but "autoResize" will just queue it up
+        attachTextareas(newPair); 
+        addLanguagesToPair(newPair, newIndex);
+        setPairCollapsed(newPair, false);
+        
+        fragment.appendChild(newPair);
       }
+      
+      // 2. The "Boom" - Insert 50 elements in ONE operation
+      pairsContainer.appendChild(fragment);
+      
+      // 3. The resize manager will handle the heights in the next frame automatically
     }
 
     function toggleAllPairs(collapse) {

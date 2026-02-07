@@ -314,6 +314,7 @@ label {
 textarea {
   width: 100%;
   min-height: 70px;
+  max-height: 50vh;  /* Cap height at 50% of the screen */
   height: auto;
   padding: 8px;
   resize: vertical;
@@ -322,7 +323,7 @@ textarea {
   border: 1px solid #ccc;
   border-radius: 4px;
   background: #fff;
-  overflow-y: hidden;
+  overflow-y: auto;  /* Show scrollbar ONLY when content exceeds the cap */
 }
 
 .meta-row {
