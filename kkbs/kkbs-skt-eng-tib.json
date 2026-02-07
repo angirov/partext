@@ -1,0 +1,853 @@
+[
+  {
+    "sectionTitle": "kkbs-skt",
+    "sentences": [
+      {
+        "original": "<thed page=\"317\" line=\"2\"/>\n|| kāryakāraṇabhāvasiddhiḥ ||",
+        "translations": {
+          "eng": "Establishment of a Causal Relation",
+          "tib": "rgya gar skad du/\nkA t+ya ka ra Na b+hA ba sid+d+hi/\nbod skad du/\nrgyu dang 'bras bu'i ngo bo grub pa zhes bya ba/\n\n'jam dpal gzhon nur gyur pa la phyag 'tshal lo/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "pratyakṣānupalambhena trividhenāpi sidhyati |\nkāryakāraṇayor ātmā pañcakeneti kecana ||1||",
+        "translations": {
+          "eng": "The nature of an effect and a cause is established even by threefold cognition consisting of perception and non-perception; some others, however, demand five.",
+          "tib": "/mngon sum dang ni mi dmigs pa'i/\n/dbye ba gsum gyis yang dag 'grub/\n/rgyu dang 'bras bu'i bdag nyid ni/\n/kha cig rnam pa lnga yis smra/\n/zhes bya ba smos te/",
+          "ANG": ""
+        },
+        "root": true
+      },
+      {
+        "original": "pratyakṣānupalambhasādhanaḥ kāryakāraṇabhāva iti nyāyaḥ |",
+        "translations": {
+          "eng": "It is a rule that a causal relation is proved by perception and non-perception.",
+          "tib": "mngon sum dang mi dmigs pa dag gis grub pa ni rgyu dang 'bras bu'o zhes bya bar rigs so/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tatra sāmānyena prākpravṛttānupalambhasahāyam ubhayaviṣayaṃ krami pratyakṣadvayam |",
+        "translations": {
+          "eng": "Concerning this rule, some say that what proves it is threefold cognition, i.e. either two successive perceptions (Nos. 2 & 3) which respectively have (a cause and an effect) as their object and which are accompanied by a prior non-perception (No. 1) grasping both (of the objects) jointly,",
+          "tib": "/de la spyi la mngon du zhugs pa mi dmigs pa'i grogs dang ldan pa yul gnyis pa rim pas byung ba'i mngon sum gnyis sam/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "yadi vā sāmānyenobhayagrāhipratyakṣasahāyaṃ kramikam anupalambhadvayam iti trividham eva tatsādhanam ity eke |",
+        "translations": {
+          "eng": "or two successive non-perceptions (Nos. 4 & 5) accompanied by a (prior) perception grasping both (of the objects) jointly (No. 2-3).",
+          "tib": "yang na gnyi ga'i spyi 'dzin pa mngon sum gyi grogs dang ldan pa rim pas byung ba'i mi dmigs pa gnyis zhes bya ste/\ndbye ba rnam pa gsum gyis grub pa yin no zhes kha cig zer ro/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "anye tu tat trayam antyadvayasahāyam eveti pañcavidhaṃ niyatānupūrvīkam ity āhuḥ |",
+        "translations": {
+          "eng": "The others, however, demand five cognitions which occur in a definite order of succession, i.e. the three (of the first group) together with the last two (non-perceptions).",
+          "tib": "/yang gzhan dag ni de gsum dang tha ma gnyis kyi grogs dang ldan pa nyid de dbye ba rnam pa lnga'i rim pas nges pa yin no zhes smra ste/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "ādyatrayasaṃbhave 'pi hi pratipattur nāsandigdhā buddhir upajāyate, antyadvaye tu labdhe sidhyati |",
+        "translations": {
+          "eng": "(They argue:) Because even if the first three are available, the cognizer does not acquire doubtless knowledge, while he obtains it when he has experienced the last two as well,",
+          "tib": "dang po gsum yod du zin kyang rtogs par byed pa po'i blo the tshom nye bar skye bas tha ma gnyis yod na rjes su 'gro ba dang ldog pa'i mtshan nyid la sogs pa dang /",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "anvayavyatirekalakṣaṇo hi hetuphalabhāvaḥ, tatra trayeṇānvayaḥ pratīyate, dvayena vyatireka iti pañcakena sādhvī siddhiḥ |",
+        "translations": {
+          "eng": "for a causal relation is characterized by (two aspects, viz.,) the concomitance in agreement (<i>anvaya<\\i>) and the concomitance in difference (<i>vyatireka<\\i>). Of these, the <i>anvaya<\\i> is known by the (first) three cognitions and the <i>vyatireka<\\i> by the (last) two. Thus we establish (a causal relation) successfully by means of fivefold cognition.",
+          "tib": "gyu dang 'bras bu'i ngo bo grub par 'gyur ro/\n/de la mngon sum gyis ni rjes su 'gro ba rtogs la/\ngnyis kyis ni ldog pa zhes bya ste/\nlngas nges par grub pa yin no/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tayor ekaikāniścaye tu sandeho durnivāra iti bhāvaḥ |",
+        "translations": {
+          "eng": "???",
+          "tib": "/de dag las gcig las gcig gis ma nges na the tshom spong bar dka'o zhes bsams pa yin no/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "atra ucyate,",
+        "translations": {
+          "eng": "It is examined in the following:",
+          "tib": "/'di spyad par bya ste/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "prācīnānupalambhaś ced anyataḥ saṅgamādikam |\nna niṣedhati, kiṃ tena niṣedhe paścimena kim ||2||",
+        "translations": {
+          "eng": "If the prior non-perception does not negate (the three modes of presence) such as 'coming from another place', what is its use? If it negates, what is the use of the last? (v. 2.)",
+          "tib": "/gal te snga ma'i mi dmigs pas/\n/gzhan dang 'brel pa la sogs pa/\n/gcod pa med na de ci zhig\n/gcod na phyi mas ci zhig bya//",
+          "ANG": ""
+        },
+        "root": true
+      },
+      {
+        "original": "anupalambhadvayena",
+        "translations": {
+          "eng": "(The last means the last) twofold non-perception.",
+          "tib": "mi dmigs pa gnyis po gang",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "vyatirekasādhanārtham eva hy anupalambhaḥ prārthyate |",
+        "translations": {
+          "eng": "Non-perception is requested in order to prove a <i>vyatireka<\\i>,",
+          "tib": "yin pas ldog pa bsgrub par bya ba'i phyir mi dmigs pa 'di nyid don du gnyer ba yin na de la yang rgyur mngon par 'dod pa med na/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "sa cānena hetvabhimatābhāve kāryābhimatasya bhāvaṃ bādhamānena sādhanīyaḥ |",
+        "translations": {
+          "eng": "and this can be proved by the (non-perception) sublating the presence of a supposed effect when the supposed cause is absent.",
+          "tib": "'bras bu gnyis mngon par 'dod pa yod pa gnod pa 'dis bsgrub par bya'i/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "sa ca bhāvas tridhā saṃbhāvyate |",
+        "translations": {
+          "eng": "And presence is possibly of three kinds:",
+          "tib": "de yang rnam pa gsum ste/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tatraiva deśe sthitiḥ, anyata āgamanaṃ, tadviviktakalāpād evotpattir iti |",
+        "translations": {
+          "eng": "continued presence on a spot, coming from another place, and birth from a separated aggregate.<footnote>For the theory of the three kinds of presence see also Hetubinduṭīkā (GOS ed.) 45, 18-21; Śākyamati (A. 5.)</footnote>",
+          "tib": "yul de nyid na gnas pa'am/\nyul gzhan nas 'ongs pa'am/\ntshogs pas dben pa can de dag la sogs pa las byung ba'o/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "evaṃvidhabādhāvaidhurye kim atra kāraṇam ayam apekṣate?",
+        "translations": {
+          "eng": "If the sublation of these kinds is not made, why is that (non-perception) expected?<footnote>Read \"<i>ayam apekṣyate<\\i>\".</footnote>",
+          "tib": "/de lta bu'i bye brag gi gnod pa dang bral ba'i rgyu mtshan ma yin na 'di la ci zhig ltos/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "na vyatireke 'syopayogaḥ | kiṃ tv anvayagrāhiṇi pratyakṣe sāhāyakam āvahatīty upadarśitam eveti cet?",
+        "translations": {
+          "eng": "(The <i>pañcakavādin<\\i>:) \"It (i.e. the first non-perception) is of no use for (the determination) of a <i>vyatireka<\\i>,<footnote>Bring \"na vyatireke' syôpayogaḥ\" to the top of the next line.</footnote> but we see that it renders some assistance to the perception which grasps an <i>anvaya<\\i>.\"",
+          "tib": "ldog pa la 'di dgos pa ma yin gyi 'on kyang rjes su 'gro ba 'dzin pa'i \n<derge page=\"607\" />\nmngon sum la grogs byed pa nye bar bstan pa yin no zhes zer na/",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "asmin satīdaṃ bhavatīty akṣajena gataṃ na kim |",
+        "translations": {
+          "eng": "When this is, that occurs: Is this not understood by sense perception? (v. 3a-b.)",
+          "tib": "'di yod pas na 'di byung ba/\n/mngon sum gyis rtogs min nam ci/\n/zhes bya ba smos te/",
+          "ANG": ""
+        },
+        "root": true
+      },
+      {
+        "original": "<thed page=\"318\" line=\"1\"/> na hi bhāve bhāvād anyo nāmānvayaḥ |",
+        "translations": {
+          "eng": "For anvaya means no other than the presence (of a thing) due to the presence (of another).",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "sa ca siddho 'dhyakṣeṇeti kim atrānupalambhasāhāyyena?",
+        "translations": {
+          "eng": "This is established by perception. What is then the use of the assistance of non-perception?",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "nanv evam anyo yadṛcchopanatasyāpi syāt pratyakṣamātrasaṃbhavāt |",
+        "translations": {
+          "eng": "(The pañcakavādin:) “If so, even a thing which by accident approaches (an effect) may be admitted to be necessarily concomitant, for, even then, the mere perception (of the two) is possible.”",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "prāgabhāvagrahaṇaviśeṣaṇaṃ tu pratyakṣaṃ tadgrāhīti nātiprasaṅgaḥ",
+        "translations": {
+          "eng": "(The author:) Such an over-reasoning (atiprasaṅga) is out of question because we say that the perception which grasps it (anvaya) is qualified by (a non-perception) grasping the prior absence.",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "<msj folio=\"55\" side=\"a\"/> sa tarhi trividhabhedabhinnabhāvaviparyayasvabhāvaḥ prāgabhāvo 'nupalabdheḥ siddhaḥ, abhāvamātraṃ vā?",
+        "translations": {
+          "eng": "Again, this prior absence, which is by nature contrary to the presence divided into the (above-said) three kinds, is either established by non-perception or is merely a constant absence (abhāvamātra).<footnote>Omit two commas in 318, 4.</footnote>",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "ādye pakṣe etad āyātam, asmin satīdaṃ bhavati,",
+        "translations": {
+          "eng": "If the first alternative is maintained, it follows: \nWhen this is present, that occurs,",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "anyathā 'saṃbhavād iti vyatireko 'yam eva saḥ ||3||",
+        "translations": {
+          "eng": "Since it is not born otherwise; this means none other than the vyatireka (v. 3 c-d.)",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": true
+      },
+      {
+        "original": "na sthitaṃ tatra nānyasmāj jātaṃ nāyātam anyataḥ | \nyasya bhāve bhavet kāryaṃ na cet tasya na kasyacit ||4||",
+        "translations": {
+          "eng": "It has not been present there, nor born from another thing, nor has come from another place; if this is present the effect is produced, if this is not, no effect is produced. (v. 4.)",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": true
+      },
+      {
+        "original": "etac cānupalabdhipūrveṇa siddham adhyakṣeṇeti na kiñcit paścimadvayena |",
+        "translations": {
+          "eng": "And this much is proved by the perception preceded by non-perception, and accordingly there is no use of the last two.",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tad api hi hetvabhāve phalasya tatra sthitim anyata utpattim anyayatnenānyatra gamanam bādhamānam eva vyatirekasādhanam, na pāścāttyadvayam ity eva, tadvyāpārābhāve śatenāpy abhāvāt |",
+        "translations": {
+          "eng": "What proves the vyatireka is (a non-perception which) sublates the continuous presence on the spot (of an effect), its birth from another thing and its arrival from another place<footnote>Tibetan version (Peking ed., Ze, 400, a 1: <i>gźan nas 'oṅs pa<\\i>) supports the reading \"<i>anyata āgamanam<\\i>\".</footnote> due to the effort of others, but truly not the last two, because even a hundred of non-perceptions are inefficient if they do not have the (sublating) function<footnote>Read \"<i>vyāpāra<\\i>\".</footnote>:",
+          "tib": "",
+          "ANG": "ms: nyatrâgamanam, pāścātya"
+        },
+        "root": false
+      },
+      {
+        "original": "tac cādimena ekena kṛtam iti nāparasyopayogaḥ |",
+        "translations": {
+          "eng": "Since this proof (of a vyatireka) is given by the first one (non-perception), the others are useless.",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "atha punar abhāvamātram ādimo 'nupalambhaḥ pratyetīti matiḥ,",
+        "translations": {
+          "eng": "However (the <i>pañcakavādin</i>, resorting to the second alternative) may think that the prior non-perception is a cognition of a mere constant absence.",
+          "tib": "",
+          "ANG": "ms: 'nupala(mbh)aḥ"
+        },
+        "root": false
+      },
+      {
+        "original": "abhāvamātrabādhe 'pi prācyasyānupayogitā | \nasyaitad vyā<msj folio=\"55\" side=\"a\" line=\"3\"/>pṛteḥ prāg ity evaṃ kim avaśiṣyate ||5||",
+        "translations": {
+          "eng": "(But this is untenable.) If the prior non-perception is a cognition of a constant absence, it is still of no use. If it is known that the (effect) is (absent) before the function (of its cause), then what is left? (v. 5.)",
+          "tib": "",
+          "ANG": "If the prior non-perception is a SUBLATION of a constant absence {had in mind abhāvamātrapratītau from the next sentence}"
+        },
+        "root": true
+      },
+      {
+        "original": "abhāvamātrapratītau tāvat kasya kenānvayaḥ? asya bhāve 'sya bhāva ity apy anvayapratītir yadṛcchopanatenātiprasajyamānopayogaparipanthiny eva |",
+        "translations": {
+          "eng": "First, when a constant absence is known, the question remains: what is con-\n<page>Page 7</page>\ncomitant with what? Besides, even the knowledge of an anvaya that when C is, E occurs cannot<footnote>I propose to read \"<i>apari-panthini<\\i>\" instead of \"<i>paripanthini<\\i>\".</footnote> prevent the application of an over-reasoning of an (unrelated) object which has by accident come near.",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "etad vyāpārāt pūrvam abhāvaḥ asyeti tu pratītau saiva trayī gatir āyāteti kiṃ pariśiṣyate, yato 'ntimam advayaṃ na vaiphalyam āvahet?",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "anvaye vyabhicārāc ced vyatireko 'nugamyate | pratyakṣamātravyāpāre 'py evaṃ kiṃ nābhidhīyate ||6||",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "yad artham arthyeta prāktanaḥ anvayavyatirekau hi pratyekaṃ vyabhicārād eva sahitau hetuphalabhāva ucyate |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tata ekaikasyātadbhāviny apy saṃbhavo 'bādhaka eveti samānam āvayoḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "samarthitaḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "<thed page=\"319\" line=\"1\"/> tato nāntyayor ādimasyopayogaḥ, ādye vāntimayor iti siddham |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "na siddham |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "ādimena hi prāg asya vyāpārād etan nāsīd iti pratiyann api etadvyāpāraprayukto 'syābhāvaiti nāvadhāritam, carameṇa tv avadhāryata ity ayuktam, ādimasya punar anupayogasya tādavasthyāt |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "api ca, tanmātrābhāvato 'bhāvāt paścimena viniścayaḥ || tannyāyasya samānatvāt prācyenāpi na kiṃ mataḥ ||7||",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "etadvyāpārāt prāg nāsīd ity api hi tanmātrābhāvād evābhāvaṃ khyāpayati, yathoktasattātraividhyavidhūter ākṣepāt |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tatas tenāniścaye paścimenāpi mā bhūt |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tatra pūrvena dvayoḥ abhāvasya sannidhimātram, naikasyānena prayuktir iti paśyataḥ paścime 'pi ka āśvāsaḥ? tadanāyattau tadabhāve 'pi utpattiprasaṅge dvitīyābhāvasyāyogaḥ samānaḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "atha vahnirāsabhayor āgamanānantarajanmano 'pi dhūmasya gardabhābhāve 'py abhāvaḥ prācyenānubhūyata ity ucyate |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "ubhayāpagame 'pagacchataḥ paścāttanenāpi, ity aparāparopāyaparamparānusāreṇa pañcakavyavasthāhāniḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tathā sati trayaṃ, na dvayaṃ iti cet? paścimenāpi na śakyate ity etāvad ucyate |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "sa tu dvayos trayor veti <msj folio=\"55\" side=\"b\"/> kim anena? asty upayogo dvayasyānyasya apy abhāve niścayāyogād iti cet? yadaiva tarhi kevale hetvabhāve 'nupalambhas tadaiva prācyaḥ api samartha iti kiṃ neṣyate? no cet? sarvathānupayogād ity uktam, anyathā pratyakṣam api trayaṃ, na dvayam iti vaktuṃ śakyatvāt |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "ki(kiṃ) ca pañcavādinaḥ samānasamayatayaivāvibhāgāt prācyo 'nupalambha eka iṣṭaḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "sa cāgnigardabhāpagame 'stīty anantaradhūmānupalambhāpekṣayādyāpi dvaitam eva |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "api ca, prāg adṛṣṭau kramāt paśyan veti hetuphalasthitim || dṛṣṭau vā kramaśo 'paśyann anyathā tv anavasthitiḥ ||8||",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "<thed page=\"320\" line=\"1\"/> tattadāśaṅkānirākaraṇārtham uttarottarapūrvapūrvopalambhānupalambhaparyeṣaṇāprasakteḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tatra yatheṣṭaṃ trayādivyavasthā kriyatām |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "na tu pratyakṣaṃ madhyam adhivāsyānupalambhayoḥ kaścid upayogaḥ anyaśaṅkane dvayor apy anāśvāt, tadvivecane caikenaiva siddheḥ |  tasmāt,",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "pratyakṣānupalambhābhyām anvayavyatirekayoḥ | niścaye saṃśayo nāma kīdṛk hetuphalasthitau ||9||",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "arthāntaratve tayor eva tadbhāvarūpatvāt |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tayoś ca na pratītiniyamaḥ kaścit, dvidhāpi siddheḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "syād etat, vyatirekadārṭhyād evaṃ vyavasthā |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "atas tadgrahiṇo 'nupalambhasya anvayaviṣayapratyakṣātivṛttir ucitaiva |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "na nāntarīyakatvam eva hi pramāṇasya prameye draṭhimānam āropayati |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "na bāhulyam pramāṇābhāseṣv api darśanāt |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "eka eva ca dṛśyānupalambhas tadabhāve 'tyantam abhāvasādhanasādhur iti kim adhikadhāvanena? na hi tadā gandho 'pidhūmasya saṃbhāvanīyaḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "nanu bhūyasām abhāvāt kasyābhāve na bhūto dhūma iti niścetavyam iti cetata evānvayagrāhipratyakṣam apekṣyate anyābhāvaprayuktatve hy etadabhāvasya, nāsya saṃbhavam ayam ādriyeta |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "evam anvayagrahaṇapūrvake 'pi niścaye bhūyasāṃ saṃbhavāt kasya bhāvaprayukto 'sya bhāva iti jijñāsāyām anupalabdher yadabhāvaprayukto 'syābhāvaṛ saṃprati tadbhāvaprayuktaḥ prāg apy asya bhāva iti sidhyati |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tatra vaikaikasyopanaye 'panaye vā tathā pratipattuṃ śakyam |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tathā ca sati prācyasya paścimasya vā vyatirekasiddhau śaktiḥ, anekopanayādau tu dvitayasyāpy aśaktir iti sthitam || avyāpinī ceyaṃ pañcakavyavasthā |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "bhasmānalakalasakumbhakārādiṣu paścimābhāvāt, nīrādhārādiṣu ca prācyābhāve 'pi siddhaḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tathā hi sati setau payaṛpūrasthemānam upalabdhavatas tadbhāve tadbhāvadarśitas tayor hetuphalabhāvaniścayaḥ prācyānapekṣa eva |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tadvad anyatrāpi trikāpekṣa eveti veditavyam |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "atha prāg adṛṣṭvā vahnisannidhau dhūmadarśane vahnim apekṣyānya eva janayatīti ki(kiṃ) na kalpyate? evam api vahneḥ kāraṇatvam evendhanasyeva |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "evaṃ tarhy anyasyāpi yadṛcchāsannihitasya <thed page=\"321\" line=\"1\"/> gardabhādeḥ kāraṇatvam astu, tataś ca tasyāpi dhūmād anumānaprasaṅga iti cet? tat kiṃ vahneḥ kāraṇatvaniścaya <msj folio=\"56\" side=\"a\"/> ity evaṃ gardabhasyāpi? atha pratyakṣānupalambhayos tatrāpi vṛtteḥ ubhayasyāpy ayogāt |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "na cānyasya tathā niṣedhāya trayāśrayaṇam, api tu vahner vidhaye |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "sa ca siddha ity anyasyāniṣedho 'bādhaka eva |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "ananumānaṃ tu kāraṇatvāniścayād eva |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "na kadācid agnim apekṣya gardabhaḥ karotīti śaṅkaiva niścayo virodhāt, tasyāḥ saṃśayarūpatvāt |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tanniṣedho 'pi tasyaiva parīkṣayā nānyasyety asthānam evaṃvidhapralāpasya |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "nanu tathāpi vahniḥ kāraṇam ity avadhāraṇānupapatter dusthaiva sthitiḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "na hi vahnir eva kāraṇam, anyasyāpy anirākaraṇāt, indhanasyāpi paramārthataḥ kāraṇatvāc ca |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "na ca kāraṇam eva, anārabdhadhūmasyāpi saṃbhavād iti na codyam, dvividhasyāpi vyavacchedasya siddheḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tathā hi, sāmagryapekṣayānyasya cchede dravyavyapekṣayā | yogyatāyām ayogasya siddho 'tyantaṃ ca karmaṇi ||10||",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "yadā hi dahanaśabdena tadupalakṣitā sāmagrī samāsenābhidhīyate, tadā sa eveti anya yogavyavacchedaḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "yadā tu dahanadravyam eva tadāpi kāraṇatvam nāma yadi yogyatā, tadā kāraṇam evety ayogavyavacchedaḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "atha kriyaiva, tadāpi bhavaty evety atyantāyogavyavacchedaś ca siddhaḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "sa cāyam iyān vyāpāras trividhasyaiva pratyakṣānupalambhasya śakya iti yuktam atra bhāge bhaṭṭārcaṭapādavyākhyānam eva |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "bhagavato vārttikakārasyāpi svayam eva,",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "kumbhasya kumbhakāreṇa karaṇaṃ bhasmano 'gninā | śāstrādinā vraṇādeś ca bruvato matam eva tat ||1(11)||",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "kathaṃ punaḥ kāryatvāviśeṣād iva bhasmano 'pi nāgner anumānam? na, deśakālādyapekṣayā abhimatatvāt |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "tathā hi; kim apy udayamātrāya kāryaṃ hetum apekṣate | prabandhasthitaye 'py anyat kālavit tadapekṣayā ||12||",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "<thed page=\"322\" line=\"1\"/> tatra kalasabhasmādibhyo janmany evāpekṣitaparebhyaḥ, ata evārthāntarāpekṣaprabandhavaidhuryebhyaḥ, atīta eva hitusannidheḥ kālaḥ śakyaniścayo, na tu vatramāna iti na pravṛttyādisaṃkaraḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "uttarebhyaś ca dhūmālokādibhyo daśāviśeṣāpekṣānapekṣaprabandhavaidhuryebhya upādānavikalatarā pravāhavicchittaye 'napekṣitaparebhyo vartamāna eveti na doṣaḥ |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "etadapekṣayā tv ācāryadharmottarasya paścimadvayasya śrayaṇayatnaḥ phaled api |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "na tu pañcakaniyamaḥ tadāpi parabhāgabhāk |",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      },
+      {
+        "original": "pratyakṣapūrvake 'nupalambhe 'nyāpekṣā 'bhāvād iti prathamam eva śreyaḥ || || ekādaśaślokīsaṃgṛhītā trividhapratyakṣānupalambhapūrvikās kāryakāraṇabhāvasiddhiḥ mahāpaṇḍitajñānaśrīmitrapādasya kṛtiḥ samāptā ||",
+        "translations": {
+          "eng": "",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": false
+      }
+    ]
+  }
+]
