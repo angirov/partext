@@ -154,12 +154,17 @@ function autoResize(textarea) {
       const pairFields = pair.querySelector(".pair-fields");
       const field = document.createElement("div");
       field.className = "field";
-      field.innerHTML = `
-          <label for="translation-${slug}-${index}">Translation (${lang.toUpperCase()})</label>
-          <textarea id="translation-${slug}-${index}"></textarea>
-        `;
+
+      const label = document.createElement("label");
+      label.htmlFor = `translation-${slug}-${index}`;
+      label.textContent = `Translation (${lang.toUpperCase()})`;
+
+      const ta = document.createElement("textarea");
+      ta.id = `translation-${slug}-${index}`;
+
+      field.appendChild(label);
+      field.appendChild(ta);
       pairFields.appendChild(field);
-      const ta = field.querySelector("textarea");
       autoResize(ta);
       ta.addEventListener("input", () => autoResize(ta));
     }
@@ -240,18 +245,18 @@ function autoResize(textarea) {
     function reindexPairs() {
       const pairDivs = [...pairsContainer.querySelectorAll(".pair")];
       pairCount = pairDivs.length;
-    pairDivs.forEach((pair, idx) => {
-      const newIndex = idx + 1;
-      const oldIndex = pair.dataset.index || newIndex;
-      pair.dataset.index = newIndex;
-      // Update the visible index while keeping the header layout intact
-      const indexLabel = pair.querySelector(".pair-index");
-      if (indexLabel) indexLabel.textContent = `[${newIndex}]`;
-      // Update IDs for originals and roots
-      const orig = pair.querySelector(`#original-${oldIndex}`) || pair.querySelector("textarea[id^='original-']");
-      if (orig) {
-        orig.id = `original-${newIndex}`;
-        orig.previousElementSibling?.setAttribute("for", `original-${newIndex}`);
+      pairDivs.forEach((pair, idx) => {
+        const newIndex = idx + 1;
+        const oldIndex = pair.dataset.index || newIndex;
+        pair.dataset.index = newIndex;
+        // Update the visible index while keeping the header layout intact
+        const indexLabel = pair.querySelector(".pair-index");
+        if (indexLabel) indexLabel.textContent = `[${newIndex}]`;
+        // Update IDs for originals and roots
+        const orig = pair.querySelector(`#original-${oldIndex}`) || pair.querySelector("textarea[id^='original-']");
+        if (orig) {
+          orig.id = `original-${newIndex}`;
+          orig.previousElementSibling?.setAttribute("for", `original-${newIndex}`);
         }
         const root = pair.querySelector(`#root-${oldIndex}`) || pair.querySelector("input[id^='root-']");
         if (root) {
@@ -411,8 +416,8 @@ function autoResize(textarea) {
     }
 
     function populateFromData(raw) {
-      resetEditor();
       const sections = normalizeData(raw);
+      resetEditor();
       const section = sections[0] || { sectionTitle: "Text", sentences: [] };
       sectionTitleInput.value = section.sectionTitle || "Text";
       const sentences = section.sentences || [];
