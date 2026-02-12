@@ -214,7 +214,7 @@
         "translations": {
           "eng": "Again, this prior absence, which is by nature contrary to the presence divided into the (above-said) three kinds, is either established by non-perception or is merely a constant absence (abhāvamātra).<footnote>Omit two commas in 318, 4.</footnote>",
           "tib": "",
-          "ANG": ""
+          "ANG": "TODO: Thakur's note on Tibetan"
         },
         "root": false
       },
@@ -293,16 +293,16 @@
       {
         "original": "abhāvamātrapratītau tāvat kasya kenānvayaḥ? asya bhāve 'sya bhāva ity apy anvayapratītir yadṛcchopanatenātiprasajyamānopayogaparipanthiny eva |",
         "translations": {
-          "eng": "First, when a constant absence is known, the question remains: what is con-\n<page>Page 7</page>\ncomitant with what? Besides, even the knowledge of an anvaya that when C is, E occurs cannot<footnote>I propose to read \"<i>apari-panthini<\\i>\" instead of \"<i>paripanthini<\\i>\".</footnote> prevent the application of an over-reasoning of an (unrelated) object which has by accident come near.",
+          "eng": "First, when a constant absence is known, the question remains: what is con<page>Page 7</page>comitant with what? Besides, even the knowledge of an anvaya that when C is, E occurs cannot<footnote>I propose to read \"<i>apari-panthini<\\i>\" instead of \"<i>paripanthini<\\i>\".</footnote> prevent the application of an over-reasoning of an (unrelated) object which has by accident come near.",
           "tib": "",
           "ANG": ""
         },
         "root": false
       },
       {
-        "original": "etad vyāpārāt pūrvam abhāvaḥ asyeti tu pratītau saiva trayī gatir āyāteti kiṃ pariśiṣyate, yato 'ntimam advayaṃ na vaiphalyam āvahet?",
+        "original": "etadvyāpārāt pūrvam abhāvaḥ asyeti tu pratītau saiva trayī-gatir āyāteti kiṃ pariśiṣyate, yato 'ntimamadvayaṃ na vaiphalyam āvahet?",
         "translations": {
-          "eng": "",
+          "eng": "And if (on the contrary) it is known that E is absent before the operation of C, then it is tantamount to the knowledge understood by threefold cognition. What then is left for which the last two could be considered useful?",
           "tib": "",
           "ANG": ""
         },
@@ -311,16 +311,25 @@
       {
         "original": "anvaye vyabhicārāc ced vyatireko 'nugamyate | pratyakṣamātravyāpāre 'py evaṃ kiṃ nābhidhīyate ||6||",
         "translations": {
-          "eng": "",
+          "eng": "If (you want to say that) since there is a possibility of deviation even when an anvaya alone is perceived the vyatireka is sought after, why do you not say it when perceptions alone are operating? (v. 6.)",
+          "tib": "",
+          "ANG": ""
+        },
+        "root": true
+      },
+      {
+        "original": "yadartham arthyeta prāktanaḥ",
+        "translations": {
+          "eng": "(This is the very reason) why we seek for the prior (non-perception).",
           "tib": "",
           "ANG": ""
         },
         "root": false
       },
       {
-        "original": "yad artham arthyeta prāktanaḥ anvayavyatirekau hi pratyekaṃ vyabhicārād eva sahitau hetuphalabhāva ucyate |",
+        "original": "anvayavyatirekau hi pratyekaṃ vyabhicārād eva sahitau hetuphalabhāva ucyate |",
         "translations": {
-          "eng": "",
+          "eng": "The anvaya and the vyatireka combined together mean causal relation, though they, if taken severally, may deviate from it.",
           "tib": "",
           "ANG": ""
         },
@@ -329,56 +338,56 @@
       {
         "original": "tata ekaikasyātadbhāviny apy saṃbhavo 'bādhaka eveti samānam āvayoḥ |",
         "translations": {
-          "eng": "",
+          "eng": "The rule that though one of them alone is not of the nature (of causality), they, if co-present, are not sublated holds good for us too.",
           "tib": "",
           "ANG": ""
         },
         "root": false
       },
       {
-        "original": "samarthitaḥ |",
+        "original": "??? samarthitaḥ | ???",
         "translations": {
           "eng": "",
           "tib": "",
-          "ANG": ""
+          "ANG": "In etext. ???Where is it from???"
         },
         "root": false
       },
       {
         "original": "<thed page=\"319\" line=\"1\"/> tato nāntyayor ādimasyopayogaḥ, ādye vāntimayor iti siddham |",
         "translations": {
-          "eng": "",
+          "eng": "Thus, it has been established that the first is of no use for the last two and these are of no use for the first.",
           "tib": "",
           "ANG": ""
         },
         "root": false
       },
       {
-        "original": "na siddham |",
+        "original": "na siddham | ādimena hi prāg asya vyāpārād etan nāsīd iti pratiyann api etadvyāpāraprayukto 'syābhāva iti nāvadhāritam, carameṇa tv avadhāryata",
         "translations": {
-          "eng": "",
+          "eng": "(The <i>pañcakavādin</i>:) “It has not been established, for even if we know by the first cognition that E was not present before the operation of C, it is not yet ascertained that the absence of E is necessarily connected with the absence of the operation of C. And this is indeed ascertained by the last two.”",
           "tib": "",
           "ANG": ""
         },
         "root": false
       },
       {
-        "original": "ādimena hi prāg asya vyāpārād etan nāsīd iti pratiyann api etadvyāpāraprayukto 'syābhāvaiti nāvadhāritam, carameṇa tv avadhāryata ity ayuktam, ādimasya punar anupayogasya tādavasthyāt |",
+        "original": "ity ayuktam, ādimasya punar anupayogasya tādavasthyāt | api ca,",
         "translations": {
-          "eng": "",
+          "eng": "(The author:) This is not correct, because the uselessness of the first cognition remains as before. Again:",
           "tib": "",
           "ANG": ""
         },
         "root": false
       },
       {
-        "original": "api ca, tanmātrābhāvato 'bhāvāt paścimena viniścayaḥ || tannyāyasya samānatvāt prācyenāpi na kiṃ mataḥ ||7||",
+        "original": "tanmātrābhāvato 'bhāvāt paścimena viniścayaḥ || tannyāyasya samānatvāt prācyenāpi na kiṃ mataḥ ||7||",
         "translations": {
-          "eng": "",
+          "eng": "We determine (a vyatireka) by the last (two non-perceptions) because the absence (of an effect is derived) from the absence of its (cause) alone. Why is it not understood by the prior (non-perception), when the same logic can be applied to it. (v. 7.)",
           "tib": "",
           "ANG": ""
         },
-        "root": false
+        "root": true
       },
       {
         "original": "etadvyāpārāt prāg nāsīd ity api hi tanmātrābhāvād evābhāvaṃ khyāpayati, yathoktasattātraividhyavidhūter ākṣepāt |",
